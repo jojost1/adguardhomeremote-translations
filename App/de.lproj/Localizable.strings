@@ -9,7 +9,7 @@
 // MARK: - Dashboard
 "dashboard_tabbar" = "Übersicht";
 "dashboard_rule-filtering" = "Filter";
-"dashboard_parental-filtering" = "Kinderschutz";
+"dashboard_parental-filtering" = "Kinder-\nschutz";
 "dashboard_safe-browsing" = "Sicheres\nBrowsen";
 "dashboard_safe-search" = "Sichere\nSuche";
 "dashboard_queries" = "DNS-Anfragen";
@@ -24,7 +24,7 @@
 
 // MARK: - Query Log
 "querylog_tabbar" = "Anfragenprotokoll";
-"querylog_query" = "Anfragen";
+"querylog_query" = "Anfrage";
 "querylog_no-queries" = "Nichts gefunden.";
 "querylog_cannot-find-queries" = "Konnte keine Anfragen finden.";
 "querylog_pro" = "Remote Pro ist erforderlich, um weitere Anfragen anzuzeigen.";
@@ -61,106 +61,106 @@
 "query_copy-client-id" = "Client-ID kopieren";
 
 // MARK: Query Detail
-"querydetail_filter_rule" = "Filter Rule";
+"querydetail_filter_rule" = "Filterregel";
 "querydetail_client" = "Client";
-"querydetail_new_client" = "New Client";
-"querydetail_edit_client" = "Edit Client";
-"querydetail_request_details" = "Request Details";
-"querydetail_type" = "Type";
-"querydetail_class" = "Class";
-"querydetail_plaindns" = "Plain DNS";
-"querydetail_protocol" = "Protocol";
-"querydetail_response_details" = "Response Details";
-"querydetail_validated_with_dnssec" = "Validated with DNSSEC";
-"querydetail_response_code" = "Response Code";
-"querydetail_response_time" = "Response Time";
+"querydetail_new_client" = "Neuer Client";
+"querydetail_edit_client" = "Client bearbeiten";
+"querydetail_request_details" = "Anfragedetails";
+"querydetail_type" = "Typ";
+"querydetail_class" = "Klasse";
+"querydetail_plaindns" = "Einfaches DNS";
+"querydetail_protocol" = "Protokoll";
+"querydetail_response_details" = "Antwortdetails";
+"querydetail_validated_with_dnssec" = "Validiert mit DNSSEC";
+"querydetail_response_code" = "Antwortcode";
+"querydetail_response_time" = "Antwortzeit";
 "querydetail_upstream" = "Upstream";
-"querydetail_copy_upstream" = "Copy Upstream";
-"querydetail_block_domain" = "Block Domain";
-"querydetail_unblock_domain" = "Unblock Domain";
-"querydetail_answer" = "Answer";
+"querydetail_copy_upstream" = "Upstream kopieren";
+"querydetail_block_domain" = "Domain blockieren";
+"querydetail_unblock_domain" = "Domain entsperren";
+"querydetail_answer" = "Antwort";
 "querydetail_ttl_%lld" = "TTL %lld";
 
 // MARK: - Settings
-"settings_tabbar" = "Settings";
+"settings_tabbar" = "Einstellungen";
 
 // MARK: Add/Edit Instance
-"instance_add" = "Add Instance";
-"instance_new" = "New Instance";
-"settings_edit_instance" = "Edit Instance";
-"instance_display_name" = "Display Name";
+"instance_add" = "Instanz hinzufügen";
+"instance_new" = "Neue Instanz";
+"settings_edit_instance" = "Instanz bearbeiten";
+"instance_display_name" = "Anzeigename";
 "instance_display_name_placeholder" = "AdGuard Home";
-"instance_ip_hostname" = "IP or Hostname";
-"instance_ssl_label" = "Use http (default) or https?";
+"instance_ip_hostname" = "IP oder Hostname";
+"instance_ssl_label" = "http (Standard) oder https verwenden?";
 "instance_ssl_http" = "http";
 "instance_ssl_https" = "https";
-"instance_authentication" = "Authentication";
-"instance_authentication_username_placeholder" = "Username";
-"instance_authentication_password_placeholder" = "Password";
-"instance_other" = "Other";
-"instance_hide" = "Hide Instance";
-"instance_test_connection" = "Test Connection";
-"instance_remove" = "Remove Instance";
-"instance_remove_alert_title" = "Remove AdGuard Home Instance";
-"instance_remove_alert_body" = "Are you sure you want to remove this instance?";
-"settings_validation_port" = "Please enter a valid port number.";
+"instance_authentication" = "Authentifikation";
+"instance_authentication_username_placeholder" = "Benutzername";
+"instance_authentication_password_placeholder" = "Passwort";
+"instance_other" = "Sonstiges";
+"instance_hide" = "Instanz verstecken";
+"instance_test_connection" = "Verbindung testen";
+"instance_remove" = "Instanz entfernen";
+"instance_remove_alert_title" = "AdGuard Home Instanz entfernen";
+"instance_remove_alert_body" = "Sind Sie sicher, dass Sie diese Instanz entfernen möchten?";
+"settings_validation_port" = "Bitte geben Sie eine gültige Portnummer ein.";
 
 // MARK: Instance Settings
-"settings_add-instance" = "Add Instance";
-"settings_edit-instance" = "Edit";
+"settings_add-instance" = "Instanz hinzufügen";
+"settings_edit-instance" = "Bearbeiten";
 "settings_clients" = "Clients";
-"settings_filtering" = "Filtering";
+"settings_filtering" = "Filter";
 "settings_dhcp" = "DHCP";
 "settings_dns" = "DNS";
-"settings_dns_rewrites" = "DNS Rewrites";
-"settings_query-log" = "Query Log";
-"settings_more" = "More";
+"settings_dns_rewrites" = " DNS-Umschreibungen";
+"settings_query-log" = "Anfragenprotokoll";
+"settings_more" = "Mehr";
 
 // MARK: Clients
-"client_settings" = "Client Settings";
-"client_new" = "New Client";
-"client_edit" = "Edit Client";
-"client_remove" = "Remove Client";
-"client_remove_alert_body" = "Are you sure you want to remove this client?";
+"client_settings" = "Client-Einstellungen";
+"client_new" = "Neuer Client";
+"client_edit" = "Client bearbeiten";
+"client_remove" = "Client entfernen";
+"client_remove_alert_body" = "Sind Sie sicher, dass Sie diese Instanz entfernen möchten?";
 "clients" = "Clients";
-"clients_settings_label" = "Settings: ";
-"clients_services_label" = "Blocked services: ";
-"clients_no_clients_found" = "No clients found.";
+"clients_settings_label" = "Einstellungen: ";
+"clients_services_label" = "Gesperrte Dienste: ";
+"clients_no_clients_found" = "Keine Clients gefunden.";
 "clients_runtime" = "Clients (Runtime)";
-"clients_runtime_footer" = "These clients use AdGuard Home, but do not have a specific configuration.";
-"clients_disallowed" = "Disallowed Clients";
-"clients_disallowed_footer" = "AdGuard Home is dropping all DNS queries from these clients.";
-"clients_name" = "Client Name";
-"clients_identifiers" = "Identifiers";
-"clients_identifiers_copy" = "Copy";
+"clients_runtime_footer" = "Diese Clients verwenden AdGuard Home ohne spezielle Konfiguration.";
+"clients_disallowed" = "Verbotene Clients";
+"clients_disallowed_footer" = "AdGuard Home verwirft alle DNS-Anfragen von diesen Clients.";
+"clients_name" = "Client-Name";
+"clients_identifiers" = "Identifikator";
+"clients_identifiers_copy" = "Kopieren";
 "clients_identifiers_placeholder" = "IP, CIDR, MAC, ClientID";
-"clients_identifiers_explainer" = "Clients can be identified by the IP address, CIDR, MAC address, or a special client ID (can be used for DoT/DoH/DoQ). Using MAC as identifier is possible only if AdGuard Home is also a DHCP server.";
+"clients_identifiers_explainer" = "Clients können über die IP-Adresse, CIDR, MAC-Adresse oder eine spezielle Client-ID (kann für DoT/DoH/DoQ verwendet werden) identifiziert werden. Die Verwendung der MAC als Identifikator ist nur möglich, wenn AdGuard Home auch ein DHCP-Server ist.";
 "clients_upstreams" = "Upstreams";
-"clients_view_queries_from_%@" = "View Queries from %@";
-"clients_edit_use_filter_blocking" = "Use Filter Blocking";
-"clients_edit_use_safe_browsing" = "Use Safe Browsing";
-"clients_edit_use_parental_filtering" = "Use Parental Filtering";
-"clients_edit_use_safe_search" = "Use Safe Search";
-"clients_pro_required" = "Remote Pro is required to manage clients.";
-"services" = "Services";
-"blocked_services" = "Blocked Services";
+"clients_view_queries_from_%@" = "Anfragen von %@ anzeigen";
+"clients_edit_use_filter_blocking" = "Filtersperre verwenden";
+"clients_edit_use_safe_browsing" = "Sicheres Browsen verwenden";
+"clients_edit_use_parental_filtering" = "Kinderschutz verwenden";
+"clients_edit_use_safe_search" = "Sichere Suche verwenden";
+"clients_pro_required" = "Remote Pro ist für die Verwaltung von Clients erforderlich.";
+"services" = "Dienste";
+"blocked_services" = "Gesperrte Dienste";
 "tags" = "Tags";
 
 // MARK: Filtering
-"filtering_settings" = "Filtering Settings";
+"filtering_settings" = "Filtereinstellungen";
 "filtering_status" = "Status";
-"filtering_disabled" = "Disabled";
-"filtering_disable_filter" = "Disable Filter";
-"filtering_enable_filter" = "Enable Filter";
-"filtering_enable_filtering" = "Enable Filtering";
-"filtering_update_interval" = "Update Interval";
-"filtering_dns_blocklists" = "DNS Blocklists";
-"filtering_update_blocklists" = "Update Blocklists";
-"filtering_dns_allowlists" = "DNS Allowlists";
-"filtering_update_allowlists" = "Update Allowlists";
-"filtering_updated_count_%@" = "%@ updated";
+"filtering_disabled" = "Deaktiviert";
+"filtering_disable_filter" = "Filter deaktivieren";
+"filtering_enable_filter" = "Filter aktivieren";
+"filtering_enable_filtering" = "Filtern aktivieren";
+"filtering_update_interval" = "Update-Intervall";
+"filtering_dns_blocklists" = "DNS-Sperrlisten";
+"filtering_update_blocklists" = "Sperrlisten aktualisieren";
+"filtering_dns_allowlists" = "DNS-Freigabeliste";
+"filtering_update_allowlists" = "Freigabeliste aktualisieren";
+"filtering_updated_count_%@" = "%@ aktualisiert";
 "filtering_rules_%@" = "Rules: %@";
-"filtering_last_updated_%@" = "Last Updated: %@";
+"filtering_last_updated_%@" = "Zuletzt aktualisiert: %@";
 "filtering_global_blocked_services" = "Global Blocked Services";
 "filtering_custom_filtering_rules" = "Custom Filtering Rules";
 "filtering_rule_count_%@" = "%@ rules";
@@ -336,7 +336,7 @@
 "settings_other" = "Sonstige";
 "settings_pro" = "Pro";
 "settings_twitter" = "Auf Twitter folgen";
-"settings_changelog" = "Was ist neu";
+"settings_changelog" = "Was ist neu?";
 "settings_adguard-website" = "AdGuard Webseite";
 
 // MARK: Design
@@ -344,26 +344,26 @@
 "design_color_scheme" = "Farbschema";
 "design_color_scheme_default" = "Standard";
 "design_color_scheme_adguard" = "AdGuard";
-"design_app_tint" = "App Farbe";
+"design_app_tint" = "App-Farbe";
 "design_app_tint_green" = "Grün";
 "design_app_tint_blue" = "Blau";
 "design_app_tint_orange" = "Orange";
 "design_app_tint_purple" = "Lila";
 "design_app_tint_yellow" = "Gelb";
-"design_app_icon" = "App Icon";
+"design_app_icon" = "App-Icon";
 "design_app_icon_original" = "Original";
-"design_app_icon_inverse" = "Invers";
+"design_app_icon_inverse" = "Umgekehrt";
 "design_app_icon_dark" = "Dunkel";
 "design_theme" = "Thema";
 "design_system_setting" = "Systemeinstellungen verwenden";
-"design_always_lightmode" = "Immer Lightmode";
-"design_always_darkmode" = "Immer Darkmode";
+"design_always_lightmode" = "Immer Hell";
+"design_always_darkmode" = "Immer Dunkel";
 "design_restart_required" = "Das Ändern dieser Einstellung erfordert einen App-Neustart.";
 
 // MARK: Changelog
 "changelog_just_updated" = "Gerade aktualisiert!";
 "changelog_current_version" = "Aktuell";
-"changelog_whats_new" = "Was ist neu";
+"changelog_whats_new" = "Änderungen";
 "changelog_continue" = "Fortfahren";
 "changelog_show_on_app_update" = "Bei App-Update anzeigen";
 "changelog_show_on_app_update_footer" = "Der Changelog wird nur für Feature-Updates angezeigt und nicht für Updates, die nur Bugfixes enthalten.";
@@ -387,11 +387,11 @@
 "pro_restore_nothing" = "Nichts zum Wiederherstellen";
 "pro_testflight" = "TestFlight";
 "pro_beta_access_button" = "Beta-Zugang anfragen";
-"pro_testflight_alert" = "Wie ich sehe, haben Sie keinen aktiven Mail-Client auf Ihrem Gerät. Bitte senden Sie mir eine E-Mail mit der Bitte, am TestFlight-Programm teilzunehmen und fügen Sie einen Screenshot von diesem Pro-Bildschirm bei, damit ich sehen kann, dass Sie Pro bereits erworben haben.\n\nBitte mailen Sie mir unter developer@rocketscience-it.nl!";
-"pro_testflight_explainer" = "Hinweis: Sie benutzen den TestFlight-Build, daher laufen die Zahlungen im Sandbox-Modus und werden nicht tatsächlich verarbeitet.\n\nWenn Sie Trinkgeld geben möchten, laden Sie bitte die App aus dem App Store herunter! Danach können Sie die Beta erneut herunterladen. Danke!";
+"pro_testflight_alert" = "Wie ich sehe, haben Sie keinen aktiven Mail-Client auf Ihrem Gerät. Bitte senden Sie mir eine E-Mail mit der Bitte, am TestFlight-Programm teilzunehmen und fügen Sie einen Screenshot von diesem Pro-Bildschirm bei, damit ich sehen kann, dass Sie Pro erworben haben.\n\nBitte kontaktieren Sie mich unter developer@rocketscience-it.nl!";
+"pro_testflight_explainer" = "Hinweis: Sie verwenden den TestFlight-Build, daher laufen die Zahlungen im Sandbox-Modus und werden nicht tatsächlich verarbeitet.\n\nEine Pro-"Lizenz" wird alle paar Tage ungültig, während ein TestFlight-Build läuft. Wenn Sie Pro kaufen und die App ohne dieses Problem nutzen möchten, laden Sie die App bitte aus dem App-Store herunter. Danke!";
 
 // MARK: Pro Features
-"pro_view_queries" = "Sehe +25 Anfragen & setze Filter";
+"pro_view_queries" = "Sehe 25+ Anfragen & setze Filter";
 "pro_manage_clients" = "Verwalte Clients";
 "pro_manage_filters" = "Verwalte Filter";
 "pro_manage_custom_filter_rules" = "Verwalte eigene Filterregeln";
@@ -404,18 +404,18 @@
 
 // MARK: Purchase Flow
 "purchase_unknown_error" = "Unbekannter Fehler. Bitte kontaktieren Sie mich unter developer@rocketscience-it.nl.";
-"purchase_not_allowed" = "Sie dürfen keine Zahlung tätigen.";
+"purchase_not_allowed" = "Sie dürfen keine Zahlungen tätigen.";
 "purchase_invalid_id" = "Die Kaufkennung war ungültig.";
 "purchase_not_allowed" = "Dieses Gerät darf keine Zahlungen tätigen.";
 "purchase_not_available" = "Dieses Produkt ist im aktuellen Store nicht verfügbar.";
-"purchase_cloud_permission_denied" = "Der Zugriff auf die Informationen des Cloud-Dienstes ist nicht erlaubt.";
+"purchase_cloud_permission_denied" = "Der Zugriff auf den Cloud-Dienst ist nicht erlaubt.";
 "purchase_connection_error" = "Es konnte keine Verbindung zum Netzwerk hergestellt werden.";
 "purchase_cloud_permission_revoked" = "Ein Benutzer hat die Erlaubnis zur Nutzung dieses Cloud-Dienstes widerrufen.";
 
 // MARK: RocketScience
 "settings_rocketscience" = "Entwickelt von RocketScience";
 "rocketscience_hi_title" = "Hi, ich bin Joost!";
-"rocketscience_hi_subtitle" = "Im Juni 2020 habe ich begonnen, meine eigenen Apps als unabhängiger Entwickler unter dem Namen 'RocketScience IT' zu entwickeln.\n\nMein Hauptziel ist es, Design, Entwicklung, Testen, Support und Promotion zu lernen - vielleicht sogar noch mehr! Im Moment habe ich zwei Apps im AppStore, die ich ständig verbessere. Außerdem habe ich viele Ideen für weitere Apps, die ich in Zukunft entwickeln möchte.";
+"rocketscience_hi_subtitle" = "Im Juni 2020 habe ich begonnen, meine eigenen Apps als unabhängiger Entwickler unter dem Namen 'RocketScience IT' zu entwickeln.\n\nMein Hauptziel ist es, Design, Entwicklung, Testen, Support & Promotion zu lernen - vielleicht sogar mehr! Im Moment habe ich zwei Apps im AppStore, die ich ständig verbessere. Außerdem habe ich bereits viele Ideen für weitere Apps, die ich in Zukunft entwickeln möchte.";
 "rocketscience_website" = "Webseite";
 "rocketscience_twitter" = "Twitter";
 "rocketscience_tipjar" = "Trinkgeld";
@@ -426,20 +426,20 @@
 
 // MARK: Tip Jar
 "tipjar_navbar" = "Trinkgeld";
-"tipjar_title" = "Trinkgeld hilft, AdGuard Home Remote am Laufen zu halten und unterstützt gleichzeitig die Entwicklung großartiger Funktionen und Verbesserungen.";
-"tipjar_description" = "Wenn Sie diese App gerne verwenden und den Indie-Entwickler ( hi! 👋) unterstützen wollen, ziehen Sie es bitte in Betracht, eine Trinkgeld zu hinterlassen. Ich würde es sehr zu schätzen wissen!";
-"tipjar_coffee_tip" = "Kaffe-Trinkgeld";
-"tipjar_whiskey_tip" = "Whiskey-Trinkgeld";
-"tipjar_ramen_tip" = "Ramen-Trinkgeld";
-"tipjar_sushi_tip" = "Sushi-Trinkgeld";
-"tipjar_description_thankyou" = "Vielen Dank für Ihre Unterstützung.\n- Joost";
-"tipjar_thankyou_tip" = "Vielen Dank für Ihr großzügiges Trinkgeld!";
-"tipjar_thankyou_tips" = "Vielen Dank für Ihr großzügiges Trinkgeld!";
+"tipjar_title" = "Spenden helfen, AdGuard Home Remote am Laufen zu halten und unterstützt gleichzeitig  die Entwicklung großartiger Funktionen und Verbesserungen.";
+"tipjar_description" = "Wenn Sie diese App gerne benutzen und einen Indie-Entwickler (hi! 👋) unterstützen wollen, ziehen Sie es bitte in Betracht, mir eine Spende zu hinterlassen. Ich würde es sehr zu schätzen wissen!";
+"tipjar_coffee_tip" = "Kaffee kaufen";
+"tipjar_whiskey_tip" = "Whiskey kaufen";
+"tipjar_ramen_tip" = "Ramen kaufen";
+"tipjar_sushi_tip" = "Sushi kaufen";
+"tipjar_description_thankyou" = "Vielen Dank für Ihre Spende.\n- Joost";
+"tipjar_thankyou_tip" = "Vielen Dank für Ihre großzügige Spende!";
+"tipjar_thankyou_tips" = "Vielen Dank für Ihre großzügigen Spenden!";
 "tipjar_love" = "Ich liebe Sie! ❤️";
-"tipjar_love_alert" = "Vielen Dank, ich weiß es wirklich zu schätzen, dass Sie die App so sehr lieben, dass Sie bereit sind, mir ein Trinkgeld zu geben. Dies ist auch sehr motivierend. Ich liebe Sie!\n\nJoost";
+"tipjar_love_alert" = "Vielen Dank, ich weiß es wirklich zu schätzen, dass Sie die App so sehr lieben, dass Sie bereit sind, mir eine Spende zu hinterlassen. Dies ist auch äußerst motivierend Ich liebe Sie!\n\nJoost";
 "tipjar_blush" = "*errötet*";
 "tipjar_payment_success" = "Zahlung erfolgreich";
-"tipjar_testflight_explainer" = "Hinweis: Sie benutzen den TestFlight-Build, daher laufen die Zahlungen im Sandbox-Modus und werden nicht tatsächlich verarbeitet.\n\nWenn Sie Trinkgeld geben möchten, laden Sie bitte die App aus dem App Store herunter! Danach können Sie die Beta erneut herunterladen. Danke!";
+"tipjar_testflight_explainer" = "Hinweis: Sie verwenden den TestFlight-Build, daher laufen die Zahlungen im Sandbox-Modus und werden nicht tatsächlich verarbeitet.\n\nWenn Sie spenden möchten, laden Sie bitte die App aus dem App-Store herunter! Danach können Sie die Beta erneut herunterladen. Vielen Dank!";
 
 // MARK: - Other
 "loading" = "Lädt";
@@ -470,7 +470,7 @@
 "global" = "Global";
 "use_global_settings" = "Globale Einstellungen verwenden";
 "custom" = "Benutzerdefiniert";
-"other" = "Sonstige";
+"other" = "Sonstiges";
 "name" = "Name";
 "none_dot" = "Nichts.";
 "manage" = "Bearbeiten";
