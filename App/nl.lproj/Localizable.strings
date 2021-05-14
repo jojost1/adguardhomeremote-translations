@@ -1,0 +1,487 @@
+/* 
+  Localizable.strings
+  AdGuardHome
+
+  Created by Joost van den Akker on 11/02/2021.
+  
+*/
+
+// MARK: - Dashboard
+"dashboard_tabbar" = "Dashboard";
+"dashboard_rule-filtering" = "Filters";
+"dashboard_parental-filtering" = "Ouderlijk\nToezicht";
+"dashboard_safe-browsing" = "Veilig\nBrowsen";
+"dashboard_safe-search" = "Veilig\nZoeken";
+"dashboard_queries" = "DNS-queries";
+"dashboard_blocked-filters" = "Geblokkeerd door filters";
+"dashboard_blocked-malware" = "Geblokkeerde malware/phishing";
+"dashboard_blocked-adult" = "Geblokeerd door ouderlijk toezicht";
+"dashboard_top-clients" = "Top Cliënten";
+"dashboard_top-queried" = "Top Bezochte Domeinen";
+"dashboard_top-blocked" = "Top Geblokkeerde Domeinen";
+"dashboard_avg_ms_%@" = "gem %@ms";
+"dashboard_jump_to_instance" = "Instantie";
+
+// MARK: - Query Log
+"querylog_tabbar" = "Query Log";
+"querylog_query" = "Query";
+"querylog_no-queries" = "Geen queries gevonden.";
+"querylog_cannot-find-queries" = "Kon geen queries vinden..";
+"querylog_pro" = "Remote Pro is vereist om meer queries te zien.";
+"querylog_sidebar_explainer" = "Selecteer een query links om meer details te zien.";
+
+// MARK: Filter
+"querylog_filter" = "Filter";
+"querylog_filtered" = "Gefilterd";
+"querylog_number-of-queries" = "Aantal Queries";
+"querylog_status" = "Status";
+"querylog_status-all" = "Alles";
+"querylog_status-processed" = "Verwerkt";
+"querylog_status-filtered" = "Gefilterd";
+"querylog_clear-filters" = "Verwijder filters";
+"querylog_show_queries_status" = "Laat queries zien met status";
+
+// MARK: Queries
+"query_status_NotFilteredNotFound" = "Verwerkt";
+"query_status_NotFilteredWhiteList" = "Verwerkt | Toestemmingslijst";
+"query_status_NotFilteredError" = "Verwerkt | Error";
+"query_status_FilteredBlackList" = "Geblokkeerd | Filter";
+"query_status_FilteredSafeBrowsing" = "Geblokkeerd | Veilig Browsen";
+"query_status_FilteredParental" = "Geblokkeerd | Ouderlijk Toezicht";
+"query_status_FilteredInvalid" = "Geblokkeerd | Ongeldig Verzoek";
+"query_status_FilteredSafeSearch" = "Geblokkeerd | Veilig Zoeken";
+"query_status_FilteredBlockedService_%@" = "Geblokkeerde Service%@";
+"query_status_Rewrite" = "Herschreven";
+"query_status_RewriteEtcHosts" = "Herschreven | Hosts Bestand";
+"query_status_RewriteRule" = "Herschreven | Regel";
+"query_status_Unknown" = "Onbekend";
+"query_copy-domain" = "Kopieer domein";
+"query_copy-client-name" = "Kopieer cliënt naam";
+"query_copy-client-ip" = "Kopieer cliënt IP";
+"query_copy-client-id" = "Kopieer cliënt ID";
+
+// MARK: Query Detail
+"querydetail_filter_rule" = "Filter Regel";
+"querydetail_client" = "Cliënt";
+"querydetail_new_client" = "Nieuwe cliënt";
+"querydetail_edit_client" = "Bewerk cliënt";
+"querydetail_request_details" = "Request";
+"querydetail_type" = "Type";
+"querydetail_class" = "Protocol";
+"querydetail_plaindns" = "Plain DNS";
+"querydetail_protocol" = "Protocol";
+"querydetail_response_details" = "Response";
+"querydetail_validated_with_dnssec" = "Gevalideerd met DNSSEC";
+"querydetail_response_code" = "Reactiecode";
+"querydetail_response_time" = "Reactietijd";
+"querydetail_upstream" = "Upstream";
+"querydetail_copy_upstream" = "Kopieer upstream";
+"querydetail_block_domain" = "Blokkeer domein";
+"querydetail_unblock_domain" = "Deblokeer domain";
+"querydetail_answer" = "Antwoord";
+"querydetail_ttl_%lld" = "TTL %lld";
+
+// MARK: - Settings
+"settings_tabbar" = "Instellingen";
+
+// MARK: Add/Edit Instance
+"instance_add" = "Voeg instantie toe";
+"instance_new" = "Nieuwe instantie";
+"settings_edit_instance" = "Bewerk instantie";
+"instance_display_name" = "Weergave-naam";
+"instance_display_name_placeholder" = "AdGuard Home";
+"instance_ip_hostname" = "IP of Hostnaam";
+"instance_ssl_label" = "Gebruik http (standaard) of https?";
+"instance_ssl_http" = "http";
+"instance_ssl_https" = "https";
+"instance_authentication" = "Authenticatie";
+"instance_authentication_username_placeholder" = "Gebruikersnaam";
+"instance_authentication_password_placeholder" = "Wachtwoord";
+"instance_other" = "Overig";
+"instance_hide" = "Verberg instantie";
+"instance_test_connection" = "Test verbinding";
+"instance_remove" = "Verwijder Instantie";
+"instance_remove_alert_title" = "Verwijder AdGuard Home Instantie";
+"instance_remove_alert_body" = "Weet je zeker dat je deze instantie wil verwijderen?";
+"settings_validation_port" = "Vul een geldig poort-nummer in.";
+
+// MARK: Instance Settings
+"settings_add-instance" = "Voeg Instantie Toe";
+"settings_edit-instance" = "Bewerk";
+"settings_clients" = "Cliënten";
+"settings_filtering" = "Filters";
+"settings_dhcp" = "DHCP";
+"settings_dns" = "DNS";
+"settings_dns_rewrites" = "DNS Herschrijvingen";
+"settings_query-log" = "Query Log";
+"settings_more" = "Meer";
+
+// MARK: Clients
+"client_settings" = "Cliënt Instellingen";
+"client_new" = "Nieuwe cliënt";
+"client_edit" = "Bewerk cliënt";
+"client_remove" = "Verwijder cliënt";
+"client_remove_alert_body" = "Weet je zeker dat je deze cliënt wil verwijderen?";
+"clients" = "Cliënten";
+"clients_settings_label" = "Instellingen: ";
+"clients_services_label" = "Geblokkeerde services: ";
+"clients_no_clients_found" = "Geen cliënten gevonden.";
+"clients_runtime" = "Cliënten (Runtime)";
+"clients_runtime_footer" = "Data over gebruikers die AdGuard Home gebruiken, maar niet geconfigureerd zijn.";
+"clients_disallowed" = "Geblokeerde Clients";
+"clients_disallowed_footer" = "AdGuard Home blokkeert alle DNS verzoeken van deze cliënten.";
+"clients_name" = "Cliënt Naam";
+"clients_identifiers" = "Identificeer via";
+"clients_identifiers_copy" = "Kopieer";
+"clients_identifiers_placeholder" = "IP, CIDR, MAC, ClientID";
+"clients_identifiers_explainer" = "Apparaten kunnen worden geïdentificeerd door hun IP-adres, CIDR, MAC-adres of een speciaal apparaat-ID (kan gebruikt worden voor DoT/DoH/DoQ). Het MAC-adres gebruiken kan alleen als AdGuard Home ook DHCP server is.";
+"clients_upstreams" = "Upstreams";
+"clients_view_queries_from_%@" = "Laat queries zien van %@";
+"clients_edit_use_filter_blocking" = "Filters";
+"clients_edit_use_safe_browsing" = "Veilig Browsen";
+"clients_edit_use_parental_filtering" = "Ouderlijk Toezicht";
+"clients_edit_use_safe_search" = "Veilig Zoeken";
+"clients_pro_required" = "Remote Pro is vereist om cliënten te beheren.";
+"services" = "Services";
+"blocked_services" = "Geblokkeerde Services";
+"tags" = "Tags";
+
+// MARK: Filtering
+"filtering_settings" = "Filter Instellingen";
+"filtering_status" = "Status";
+"filtering_disabled" = "Uitgeschakeld";
+"filtering_disable_filter" = "Schakel filter uit";
+"filtering_enable_filter" = "Schakel filter in";
+"filtering_enable_filtering" = "Schakel filtering in";
+"filtering_update_interval" = "Update frequentie";
+"filtering_dns_blocklists" = "DNS Blokkeerlijsten";
+"filtering_update_blocklists" = "Update blokkeerlijsten";
+"filtering_dns_allowlists" = "DNS Toestemmingslijsten";
+"filtering_update_allowlists" = "Update toestemmingslijsten";
+"filtering_updated_count_%@" = "%@ geüpdatet";
+"filtering_rules_%@" = "Regels: %@";
+"filtering_last_updated_%@" = "Laatst geüpdatet: %@";
+"filtering_global_blocked_services" = "Globaal Geblokkeerde Services";
+"filtering_custom_filtering_rules" = "Aangepaste Filter Regels";
+"filtering_rule_count_%lld" = "%lld regels";
+"filtering_check_filtered" = "Controleer hostnaam filtering";
+"filtering_pro_required" = "Remote Pro is vereist om filters te beheren.";
+// Add Filter
+"filtering_addfilter_list" = "Lijst";
+"filtering_addfilter_blocklist" = "Blokkeerlijsten";
+"filtering_addfilter_blocklist_new" = "Nieuwe Lijst";
+"filtering_addfilter_allowlist" = "Toestemmingslijsten";
+"filtering_addfilter_allowlist_new" = "Nieuwe Lijst";
+"filtering_addfilter_name" = "Naam";
+"filtering_addfilter_url" = "URL";
+"filtering_addfilter_url_placeholder" = "URL of absoluut pad";
+// Custom Rules
+"filtering_rules_custom" = "Aangepaste Regels";
+"filtering_rules_custom_new" = "Nieuwe Regel";
+"filtering_rules_add" = "Voeg Regel Toe";
+"filtering_rules_no_rules_found" = "Geen regels gevonden.";
+"filtering_rules_delete_and_edit" = "Verwijder regel & bewerk";
+"filtering_rules_rule" = "Regel";
+"filtering_rules_settings" = "Instellingen";
+"filtering_rules_blocking_mode" = "Blokkeer Modus";
+"filtering_rules_blocking_mode_block" = "Blokkeren";
+"filtering_rules_blocking_mode_unblock" = "Toestaan";
+"filtering_rules_blocking_mode_custom" = "Anders";
+"filtering_rules_final_rule" = "Regel";
+"filtering_rules_rule_placeholder" = "Typ een domein...";
+"filtering_rules_examples" = "Voorbeelden";
+"filtering_rules_examples_block_title" = "||example.org^";
+"filtering_rules_examples_block_subtitle" = "block example.org and all its subdomains";
+"filtering_rules_examples_unblock_title" = "@@||example.org^";
+"filtering_rules_examples_unblock_subtitle" = "unblock example.org and all its subdomains";
+"filtering_rules_examples_rewrite_title" = "127.0.0.1 example.org";
+"filtering_rules_examples_rewrite_subtitle" = "return 127.0.0.1 for example.org (but not its subdomains)";
+"filtering_rules_examples_comment_title1" = "! Here goes a comment";
+"filtering_rules_examples_comment_title2" = "# Also a comment";
+"filtering_rules_examples_comment_subtitle" = "just a comment";
+"filtering_rules_examples_regex_title" = "/REGEX/";
+"filtering_rules_examples_regex_subtitle" = "block domains matching the specified regular expression";
+// Check Hostname
+"filtering_check_hostname" = "Controleer Hostnaam";
+"filtering_check_hostname_placeholder" = "Hostnaam...";
+"filtering_check_hostname_check" = "Controleer";
+"filtering_check_hostname_result" = "Resultaat";
+"filtering_check_hostname_cname" = "CNAME";
+"filtering_check_hostname_IP" = "IP";
+
+// MARK: DHCP
+"dhcp_settings" = "DHCP Instellingen";
+"dhcp_status" = "Status";
+"dhcp_enable" = "DHCP server inschakelen";
+"dhcp_interface" = "Interface";
+"dhcp_ipv4_settings" = "IPv4 Instellingen";
+"dhcp_gateway_ip" = "Gateway IP";
+"dhcp_subnet_mask" = "Subnet Mask";
+"dhcp_ip_range" = "Bereik van IP adressen";
+"dhcp_lease_time" = "Lease Tijd (Seconden)";
+"dhcp_ipv6_settings" = "IPv6 Instellingen";
+"dhcp_range_start" = "Range Start";
+"dhcp_static_leases" = "Statische Leases";
+"dhcp_remove_lease" = "Verwijder lease";
+"dhcp_leases" = "Leases";
+"dhcp_lease_create" = "Nieuwe Lease";
+"dhcp_pro_required" = "Remote Pro is vereist om DHCP instellingen te beheren.";
+// New Static Lease
+"dhcp_staticlease_new" = "Nieuwe Statische Lease";
+"dhcp_staticlease_mac" = "MAC-adres";
+"dhcp_staticlease_mac_placeholder" = "aa:0b:cd:e1:f2:34";
+"dhcp_staticlease_ip" = "IP-adres";
+"dhcp_staticlease_ip_placeholder" = "192.168.1.10";
+"dhcp_staticlease_hostname" = "Hostnaam";
+"dhcp_staticlease_hostname_placeholder" = "raspberrypi.local";
+
+// MARK: DNS
+"dns_settings" = "DNS Instellingen";
+"dns_upstream_dns_servers" = "Upstream DNS-servers";
+"dns_ip" = "IP";
+"dns_reverse_resolve" = "Reverse Resolve Cliënt IPs";
+"dns_upstream_mode" = "Upstream modus";
+"dns_upstream_mode_loadbalancing" = "Volume balanceren";
+"dns_upstream_mode_parralel" = "Parallelle verzoeken";
+"dns_upstream_mode_fastest" = "Snelste IP adres";
+"dns_bootstrap_dns_servers" = "Bootstrap DNS-servers";
+"dns_bootstrap_dns_servers_footer" = "Bootstrap DNS-servers worden gebruikt om IP-adressen op te lossen van de DoH / DoT-resolvers die u opgeeft als upstreams.";
+"dns_server_configuration" = "DNS-server Configuratie";
+"dns_rate_limit" = "Ratio limiet";
+"dns_edns_client_subnet" = "EDNS Cliënt Subnet";
+"dns_dnssec" = "DNSSEC";
+"dns_disable_ipv6" = "Zet IPv6 uit";
+"dns_blocking_mode" = "Blocking Modus";
+"dns_blocking_mode_default" = "Standaard";
+"dns_blocking_mode_refused" = "REFUSED";
+"dns_blocking_mode_nxdomain" = "NXDOMAIN";
+"dns_blocking_mode_nullip" = "Nul IP";
+"dns_blocking_mode_customip" = "Aangepast IP";
+"dns_cache_configuration" = "DNS Cache Configuratie";
+"dns_cache_size" = "Cache Grootte";
+"dns_override_minimum_ttl" = "Minimale TTL overschrijven";
+"dns_override_maximum_ttl" = "Maximale TTL overschrijven";
+"dns_pro_required" = "Remote Pro is vereist om DNS instellingen te beheren.";
+
+// MARK: DNS Rewrites
+"dnsrewrites_entries" = "Herschrijvingen";
+"dnsrewrites_no_entries" = "Geen herschrijvingen gevonden.";
+"dnsrewrites_new" = "Nieuwe DNS Herschrijving";
+"dnsrewrites_domain" = "Domein";
+"dnsrewrites_domain_placeholder" = "Domein of Wildcard";
+"dnsrewrites_answer" = "Antwoord";
+"dnsrewrites_answer_placeholder" = "IP of Domeinnaam";
+"dnsrewrites_pro_required" = "Remote Pro is vereist om DNS herschrijvingen te beheren.";
+
+// MARK: Query Log
+"querylog_settings_status" = "Status";
+"querylog_settings_enable" = "Query Log inschakelen";
+"querylog_settings_options" = "Opties";
+"querylog_settings_options_footer" = "Het aanzetten van 'Cliënt IP anonimiseren' schakelt het loggen van volledige IP adressen uit logs and statistieken.";
+"querylog_settings_anonymize" = "Cliënt IP anonimiseren";
+"querylog_settings_log_retention" = "Bewaartermijn";
+"querylog_settings_clear" = "Wis Query Logs";
+"querylog_settings_clear_alert" = "Weet je zeker dat je het hele query log wil wissen?";
+"querylog_settings_cleared" = "Logs gewist.";
+
+// MARK: More
+"more_statistics" = "Statistieken";
+"more_statistics_footer" = "Het aanpassen van de Retentie instelling vereist een restart van de app.";
+"more_statistics_retention" = "Retentie";
+"more_statistics_clear" = "Wis statistieken";
+"more_statistics_clear_alert" = "Weet je het zeker dat je de statistieken wil wissen? Dit reset alle statistieken in het Dashboard naar nul.";
+"more_statistics_cleared" = "Gewist.";
+"more_version" = "Versie";
+"more_version_current_%@" = "Huidige Versie: %@";
+"more_update_started" = "Update gestart!";
+"more_update_to_%@" = "Update naar v%@";
+"more_checking_version" = "Versie checken...";
+"more_up_to_date" = "Je bent up-to-date";
+
+// MARK: Preferences
+"settings_preferences" = "Voorkeuren";
+"settings_dashboard" = "Dashboard";
+"preferences_dashboard_statusbuttons" = "Status Knoppen";
+"preferences_dashboard_rulefiltering" = "Filters";
+"preferences_dashboard_parentalfiltering" = "Ouderlijk Toezicht";
+"preferences_dashboard_safebrowsing" = "Veilig Browsen";
+"preferences_dashboard_safesearch" = "Veilig Zoeken";
+"preferences_dashboard_graphs" = "Grafieken";
+"preferences_dashboard_graph_type" = "Type";
+"preferences_dashboard_graph_line" = "Lijn";
+"preferences_dashboard_graph_bar" = "Staaf";
+"preferences_dashboard_graph_dnsqueries" = "DNS queries";
+"preferences_dashboard_graph_blockedbyfilters" = "Geblokkeerd door filters";
+"preferences_dashboard_graph_blockedmalware" = "Geblokkeerde malware/phishing";
+"preferences_dashboard_graph_blockedadultwebsites" = "Geblokeerd door ouderlijk toezicht";
+"preferences_dashboard_show_section" = "Toon onderdeel";
+"preferences_dashboard_number_of_clients" = "Aantal cliënten";
+"preferences_dashboard_number_of_domains" = "Aantal domeinen";
+"preferences_other" = "Overig";
+"preferences_language" = "Taal";
+
+// MARK: Help
+"settings_help" = "Help & Feedback";
+"settings_help_navbar" = "Support";
+"settings_help_contact" = "Mail me";
+"settings_help_actions" = "Acties";
+"settings_help_logs" = "Logs";
+"settings_help_logs_footer" = "Logs worden lokaal weggeschreven en verlaten nooit je device. Swipe naar beneden om de log-viewer te sluiten.";
+"settings_help_logs_button" = "Open logs";
+"settings_give_feedback_alert_title" = "Geef Feedback";
+"settings_give_feedback_alert_body" = "Mail me met bugs of verzoekjes naar developer@rocketscience-it.nl!";
+"settings_copy_email" = "Kopieer e-mailadres";
+
+// MARK: Other Settings
+"settings_other" = "Overig";
+"settings_pro" = "Pro";
+"settings_twitter" = "Volg op Twitter";
+"settings_changelog" = "Wat is er nieuw?";
+"settings_adguard-website" = "AdGuard Website";
+
+// MARK: Design
+"settings_design" = "Design";
+"design_color_scheme" = "Kleurenschema";
+"design_color_scheme_default" = "Standaard";
+"design_color_scheme_adguard" = "AdGuard";
+"design_app_tint" = "App Tint";
+"design_app_tint_green" = "Groen";
+"design_app_tint_blue" = "Blauw";
+"design_app_tint_orange" = "Oranje";
+"design_app_tint_purple" = "Paars";
+"design_app_tint_yellow" = "Geel";
+"design_app_icon" = "App Icoon";
+"design_app_icon_original" = "Origineel";
+"design_app_icon_inverse" = "Inverse";
+"design_app_icon_dark" = "Donker";
+"design_theme" = "Thema";
+"design_system_setting" = "Systeem";
+"design_always_lightmode" = "Licht";
+"design_always_darkmode" = "Donker";
+"design_restart_required" = "Het aanpassen van deze instelling vereist een restart van de app.";
+
+// MARK: Changelog
+"changelog_just_updated" = "Net geüpdatet!";
+"changelog_current_version" = "Huidige versie";
+"changelog_whats_new" = "Wat is er nieuw?";
+"changelog_continue" = "Ga door";
+"changelog_show_on_app_update" = "Laat zien bij app update";
+"changelog_show_on_app_update_footer" = "De Changelog zal alleen getoond worden na een update met nieuwe features, niet voor updates met alleen bugfixes.";
+"changelog_settings" = "Changelog";
+
+// MARK: - Pro
+"pro" = "Pro";
+"pro_navtitle" = "Remote Pro";
+"pro_purchase" = "Koop Pro";
+"pro_thankyou" = "Bedankt!";
+"pro_thankyou_heart" = "Bedankt! ❤️";
+"pro_learn-more" = "Lees meer...";
+"pro_title" = "AdGuard Home\nRemote Pro";
+"pro_description" = "Ontgrendel extra functies & support ontwikkeling van de app met een eenmalige aankoop.";
+"pro_purchased_date_%@" = "Aangeschaft op %@.";
+"pro_features" = "Pro Functies";
+"pro_family_sharing" = "Ondersteunt Family Sharing";
+"pro_restore_purchase" = "Herstel aankoop";
+"pro_restored" = "Pro hersteld!";
+"pro_restore_failed" = "Herstellen gefaald";
+"pro_restore_nothing" = "Niets om te herstellen";
+"pro_testflight" = "TestFlight";
+"pro_beta_access_button" = "Verzoek beta toegang";
+"pro_testflight_alert" = "Ik zie dat je geen actieve mail-client op je apparaat hebt, mail me met het verzoek om je toe te voegen aan de TestFlight met een screenshot van dit Pro-scherm zodat ik kan zien dat je Pro hebt aangeschaft.\n\nJe kan mailen naar developer@rocketscience-it.nl!";
+"pro_testflight_explainer" = "Note: you're running a TestFlight build of the app, therefore payments run in Sandbox mode and do not actually process.\n\nA Pro 'license' will invalidate every few days while on a TestFlight build. If you want to purchase Pro and use the app without this annoyance, please download the app from the App Store. Thanks!";
+
+// MARK: Pro Features
+"pro_view_queries" = "Bekijk +25 queries & stel filters in";
+"pro_manage_clients" = "Beheer cliënten";
+"pro_manage_filters" = "Beheer filters";
+"pro_manage_custom_filter_rules" = "Beheer aangepaste filterregels";
+"pro_manage_dhcp" = "Beheer DHCP instellingen";
+"pro_manage_dns" = "Beheer DNS instellingen";
+"pro_manage_rewrites" = "Beheer DNS herschrijvingen";
+"pro_support_multiple_instances" = "Support 2+ instanties";
+"pro_alternative_icons" = "Alternatieve app iconen";
+"pro_beta_access" = "TestFlight beta toegang";
+
+// MARK: Purchase Flow
+"purchase_unknown_error" = "Onbekende fout. Neem contact op via developer@rocketscience-it.nl.";
+"purchase_not_allowed" = "Niet toegestaan de betaling te doen.";
+"purchase_invalid_id" = "De 'purchase identifier' was niet geldig.";
+"purchase_not_allowed" = "Dit apparaat mag de betaling niet doen.";
+"purchase_not_available" = "Dit product is niet beschikbaar op dit moment.";
+"purchase_cloud_permission_denied" = "Access to cloud service information is not allowed.";
+"purchase_connection_error" = "Kon geen verbinding maken met het internet.";
+"purchase_cloud_permission_revoked" = "User has revoked permission to use this cloud service.";
+
+// MARK: RocketScience
+"settings_rocketscience" = "Gemaakt door RocketScience";
+"rocketscience_hi_title" = "Hi, ik ben Joost!";
+"rocketscience_hi_subtitle" = "In juni 2020 ben ik begonnen met het maken van m'n eigen apps als indie ontwikkelaar, onder de naam 'RocketScience IT'.\n\nMijn doel is om te leren: onwerpen, ontwikkelen, testen, support, marketing - misschien nog wel meer! Op dit moment heb ik twee apps in de App Store die ik continue verbeter. Daarnaast heb ik nog veel ideeën voor andere apps die ik wil maken in de toekomst!.";
+"rocketscience_website" = "Website";
+"rocketscience_twitter" = "Twitter";
+"rocketscience_tipjar" = "Fooienpot";
+"rocketscience_tipjar_thankyou" = "Bedankt!";
+"rocketscience_my_other_apps" = "Mijn Andere Apps";
+"rocketscience_piholeremote_subtitle" = "Alles voor Pi-hole op één plek.";
+"rocketscience_acknoledgements" = "Met dank aan";
+
+// MARK: Tip Jar
+"tipjar_navbar" = "Fooienpot";
+"tipjar_title" = "De fooienpot support me direct om AdGuard Home Remote te blijven onderhouden en nieuwe features te ontwikkelen.";
+"tipjar_description" = "Als je de app tof vindt en deze indie developer (hoi! 👋) wil steunen, kan je een donatie geven. Ik waardeer het enorm!";
+"tipjar_coffee_tip" = "Koffie fooi";
+"tipjar_whiskey_tip" = "Whiskey fooi";
+"tipjar_ramen_tip" = "Ramen fooi";
+"tipjar_sushi_tip" = "Sushi fooi";
+"tipjar_description_thankyou" = "Bedankt voor je steun.\n- Joost";
+"tipjar_thankyou_tip" = "Bedankt voor je genereuze fooi!";
+"tipjar_thankyou_tips" = "Bedankt voor je genereuze fooien!";
+"tipjar_love" = "I love you! ❤️";
+"tipjar_love_alert" = "Super erg bedankt, ik waardeer het echt enorm dat je de app zo goed vindt dat je er zelfs nog een donatie voor wil geven. Super motiverend, bedankt!\n\nJoost";
+"tipjar_blush" = "*bloos*";
+"tipjar_payment_success" = "Aankoop Geslaagd!";
+"tipjar_testflight_explainer" = "Note: you're running a TestFlight Build, therefore payments run in Sandbox mode and do not actually process.\n\nIf you want to tip, please download the app from the App Store! After that you can download the beta again. Thanks!";
+
+// MARK: - Other
+"loading" = "Laden";
+"loading_dots" = "Laden...";
+"search" = "Zoeken";
+"new" = "Nieuw";
+"add" = "Voeg toe";
+"edit" = "Bewerken";
+"done" = "Klaar";
+"save" = "Opslaan";
+"remove" = "Verwijder";
+"ok" = "OK";
+"cancel" = "Annuleren";
+"settings" = "Instellingen";
+"cannot_reach_instance" = "Kan instantie niet bereiken.";
+"not_responding" = "Geen Reactie";
+"something_went_wrong" = "Iets is fout gegaan.";
+"something_went_wrong_alert" = "Iets is fout gegaan";
+"error" = "Error";
+"unknown_error" = "Onbekende Error";
+"unknown" = "Onbekend";
+"instance" = "Instantie";
+"ms" = "ms";
+"select_all" = "Selecteer alles";
+"deselect_all" = "Deselecteer alles";
+"all" = "Alles";
+"search" = "Zoeken";
+"global" = "Globaal";
+"use_global_settings" = "Gebruik globale instellingen";
+"custom" = "Aangepast";
+"other" = "Andere";
+"name" = "Naam";
+"none_dot" = "Geen.";
+"manage" = "Beheer";
+"tap_to_learn_more" = "Tik voor meer info.";
+
+// Durations
+"disabled" = "Uitgeschakeld";
+"1h" = "1 uur";
+"12h" = "12 uur";
+"24h" = "24 uur";
+"3d" = "3 dagen";
+"7d" = "7 dagen";
+"30d" = "30 dagen";
+"90d" = "90 dagen";

@@ -1,0 +1,487 @@
+/*
+  Localizable.strings
+  AdGuardHome
+
+  Created by Joost van den Akker on 02/05/2021.
+  
+*/
+
+// MARK: - Dashboard
+"dashboard_tabbar" = "仪表盘";
+"dashboard_rule-filtering" = "规则\n过滤";
+"dashboard_parental-filtering" = "家长\n控制";
+"dashboard_safe-browsing" = "浏览\n安全";
+"dashboard_safe-search" = "安全\n搜索";
+"dashboard_queries" = "DNS查询";
+"dashboard_blocked-filters" = "已被过滤器拦截";
+"dashboard_blocked-malware" = "被拦截的恶意/钓鱼网站";
+"dashboard_blocked-adult" = "被拦截的成人网站";
+"dashboard_top-clients" = "客户端排行";
+"dashboard_top-queried" = "请求域名排行";
+"dashboard_top-blocked" = "被拦截域名排行";
+"dashboard_avg_ms_%@" = "平均耗时 %@ 毫秒";
+"dashboard_jump_to_instance" = "实例";
+
+// MARK: - Query Log
+"querylog_tabbar" = "查询日志";
+"querylog_query" = "请求";
+"querylog_no-queries" = "未找到";
+"querylog_cannot-find-queries" = "未找到";
+"querylog_pro" = "需要 Remote Pro 来查看更多请求";
+"querylog_sidebar_explainer" = "选择左侧请求条目来查看详情";
+
+// MARK: Filter
+"querylog_filter" = "筛选";
+"querylog_filtered" = "已筛选";
+"querylog_number-of-queries" = "显示请求数";
+"querylog_status" = "响应状态";
+"querylog_status-all" = "全部";
+"querylog_status-processed" = "已处理";
+"querylog_status-filtered" = "已过滤";
+"querylog_clear-filters" = "清除筛选";
+"querylog_show_queries_status" = "基于响应状态显示请求";
+
+// MARK: Queries
+"query_status_NotFilteredNotFound" = "已处理";
+"query_status_NotFilteredWhiteList" = "已处理 | 允许清单";
+"query_status_NotFilteredError" = "已处理 | 错误";
+"query_status_FilteredBlackList" = "已拦截 | 过滤器";
+"query_status_FilteredSafeBrowsing" = "已拦截 | 浏览安全";
+"query_status_FilteredParental" = "已拦截 | 家长控制";
+"query_status_FilteredInvalid" = "已拦截 | 无效请求";
+"query_status_FilteredSafeSearch" = "已拦截 | 安全搜索";
+"query_status_FilteredBlockedService_%@" = "已阻止的服务%@";
+"query_status_Rewrite" = "重写项";
+"query_status_RewriteEtcHosts" = "重写项 | Hosts 文件";
+"query_status_RewriteRule" = "重写项 | 重写规则";
+"query_status_Unknown" = "未知";
+"query_copy-domain" = "复制域名";
+"query_copy-client-name" = "复制客户端名称";
+"query_copy-client-ip" = "复制客户端 IP 地址";
+"query_copy-client-id" = "复制客户端 ID";
+
+// MARK: Query Detail
+"querydetail_filter_rule" = "过滤器规则";
+"querydetail_client" = "客户端";
+"querydetail_new_client" = "新建客户端";
+"querydetail_edit_client" = "编辑客户端";
+"querydetail_request_details" = "请求详情";
+"querydetail_type" = "类型";
+"querydetail_class" = "协议";
+"querydetail_plaindns" = "无加密DNS";
+"querydetail_protocol" = "协议";
+"querydetail_response_details" = "响应详情";
+"querydetail_validated_with_dnssec" = "通过DNSSEC验证";
+"querydetail_response_code" = "响应代码";
+"querydetail_response_time" = "耗时";
+"querydetail_upstream" = "上游服务器";
+"querydetail_copy_upstream" = "复制上游服务器";
+"querydetail_block_domain" = "拦截域名";
+"querydetail_unblock_domain" = "放行域名";
+"querydetail_answer" = "响应";
+"querydetail_ttl_%lld" = "TTL %lld";
+
+// MARK: - Settings
+"settings_tabbar" = "设置";
+
+// MARK: Add/Edit Instance
+"instance_add" = "添加实例";
+"instance_new" = "新建实例";
+"settings_edit_instance" = "编辑实例";
+"instance_display_name" = "显示名称";
+"instance_display_name_placeholder" = "AdGuard Home";
+"instance_ip_hostname" = "IP 地址或 主机名";
+"instance_ssl_label" = "使用 http (默认) 还是 https?";
+"instance_ssl_http" = "http";
+"instance_ssl_https" = "https";
+"instance_authentication" = "身份验证";
+"instance_authentication_username_placeholder" = "用户名";
+"instance_authentication_password_placeholder" = "密码";
+"instance_other" = "其他";
+"instance_hide" = "隐藏实例";
+"instance_test_connection" = "测试连接";
+"instance_remove" = "删除实例";
+"instance_remove_alert_title" = "删除 AdGuard Home 实例";
+"instance_remove_alert_body" = "您确定要删除该实例?";
+"settings_validation_port" = "请输入有效的端口号";
+
+// MARK: Instance Settings
+"settings_add-instance" = "添加实例";
+"settings_edit-instance" = "编辑";
+"settings_clients" = "客户端";
+"settings_filtering" = "过滤器";
+"settings_dhcp" = "DHCP";
+"settings_dns" = "DNS";
+"settings_dns_rewrites" = "DNS 重写";
+"settings_query-log" = "查询日志";
+"settings_more" = "更多";
+
+// MARK: Clients
+"client_settings" = "客户端设置";
+"client_new" = "新建客户端";
+"client_edit" = "编辑客户端";
+"client_remove" = "删除客户端";
+"client_remove_alert_body" = "您确定要删除该客户端?";
+"clients" = "客户端";
+"clients_settings_label" = "设置: ";
+"clients_services_label" = "已阻止的服务: ";
+"clients_no_clients_found" = "未找到";
+"clients_runtime" = "客户端 (运行时间)";
+"clients_runtime_footer" = "使用 Adguard Home 但未存储在配置中的客户端。";
+"clients_disallowed" = "已阻止的客户端";
+"clients_disallowed_footer" = "AdGuard Home 会终止所有来自此客户端的DNS查询。";
+"clients_name" = "客户端名称";
+"clients_identifiers" = "标识符";
+"clients_identifiers_copy" = "复制";
+"clients_identifiers_placeholder" = "IP 地址, CIDR, MAC 地址, 客户端 ID";
+"clients_identifiers_explainer" = "客户端可通过 IP 地址、MAC 地址、CIDR 或特殊 ID（可用于 DoT/DoH/DoQ）被识别。使用 MAC 地址作为标识符需要 AdGuard Home 同时作为 DHCP 服务器。";
+"clients_upstreams" = "上游服务器";
+"clients_view_queries_from_%@" = "查看来自 %@ 的请求";
+"clients_edit_use_filter_blocking" = "使用规则过滤";
+"clients_edit_use_safe_browsing" = "使用浏览安全";
+"clients_edit_use_parental_filtering" = "使用家长控制";
+"clients_edit_use_safe_search" = "使用安全搜索";
+"clients_pro_required" = "需要 Remote Pro 来管理客户端";
+"services" = "服务";
+"blocked_services" = "已阻止的服务";
+"tags" = "标签";
+
+// MARK: Filtering
+"filtering_settings" = "过滤器设置";
+"filtering_status" = "状态";
+"filtering_disabled" = "已禁用";
+"filtering_disable_filter" = "禁用过滤器";
+"filtering_enable_filter" = "启用过滤器";
+"filtering_enable_filtering" = "启用过滤器";
+"filtering_update_interval" = "更新间隔";
+"filtering_dns_blocklists" = "DNS 封锁清单";
+"filtering_update_blocklists" = "更新封锁清单";
+"filtering_dns_allowlists" = "DNS 允许清单";
+"filtering_update_allowlists" = "更新允许清单";
+"filtering_updated_count_%@" = "%@ 已更新";
+"filtering_rules_%@" = "规则数: %@";
+"filtering_last_updated_%@" = "上次更新时间: %@";
+"filtering_global_blocked_services" = "全局已阻止的服务";
+"filtering_custom_filtering_rules" = "自定义过滤规则";
+"filtering_rule_count_%@" = "%@ 条规则";
+"filtering_check_filtered" = "检查主机名是否被过滤";
+"filtering_pro_required" = "需要 Remote Pro 来管理过滤器";
+// Add Filter
+"filtering_addfilter_list" = "列表";
+"filtering_addfilter_blocklist" = "封锁清单";
+"filtering_addfilter_blocklist_new" = "新建封锁清单";
+"filtering_addfilter_allowlist" = "允许清单";
+"filtering_addfilter_allowlist_new" = "新建允许清单";
+"filtering_addfilter_name" = "名称";
+"filtering_addfilter_url" = "清单网址";
+"filtering_addfilter_url_placeholder" = "URL 或绝对路径";
+// Custom Rules
+"filtering_rules_custom" = "自定义过滤规则";
+"filtering_rules_custom_new" = "新建自定义过滤规则";
+"filtering_rules_add" = "添加过滤规则";
+"filtering_rules_no_rules_found" = "未找到";
+"filtering_rules_delete_and_edit" = "删除并编辑过滤规则";
+"filtering_rules_rule" = "规则";
+"filtering_rules_settings" = "设置";
+"filtering_rules_blocking_mode" = "拦截模式";
+"filtering_rules_blocking_mode_block" = "拦截";
+"filtering_rules_blocking_mode_unblock" = "放行";
+"filtering_rules_blocking_mode_custom" = "自定义";
+"filtering_rules_final_rule" = "生成过滤规则";
+"filtering_rules_rule_placeholder" = "请在此输入域名...";
+"filtering_rules_examples" = "范例";
+"filtering_rules_examples_block_title" = "||example.org^";
+"filtering_rules_examples_block_subtitle" = "block example.org and all its subdomains";
+"filtering_rules_examples_unblock_title" = "@@||example.org^";
+"filtering_rules_examples_unblock_subtitle" = "unblock example.org and all its subdomains";
+"filtering_rules_examples_rewrite_title" = "127.0.0.1 example.org";
+"filtering_rules_examples_rewrite_subtitle" = "return 127.0.0.1 for example.org (but not its subdomains)";
+"filtering_rules_examples_comment_title1" = "! Here goes a comment";
+"filtering_rules_examples_comment_title2" = "# Also a comment";
+"filtering_rules_examples_comment_subtitle" = "just a comment";
+"filtering_rules_examples_regex_title" = "/REGEX/";
+"filtering_rules_examples_regex_subtitle" = "block domains matching the specified regular expression";
+// Check Hostname
+"filtering_check_hostname" = "检查过滤";
+"filtering_check_hostname_placeholder" = "请输入主机名…";
+"filtering_check_hostname_check" = "检查";
+"filtering_check_hostname_result" = "结果";
+"filtering_check_hostname_cname" = "CNAME";
+"filtering_check_hostname_IP" = "IP 地址";
+
+// MARK: DHCP
+"dhcp_settings" = "DHCP 设置";
+"dhcp_status" = "状态";
+"dhcp_enable" = "启用 DHCP 服务器";
+"dhcp_interface" = "接口";
+"dhcp_ipv4_settings" = "IPv4 设置";
+"dhcp_gateway_ip" = "网关 IP";
+"dhcp_subnet_mask" = "子网掩码";
+"dhcp_ip_range" = "IP 地址范围";
+"dhcp_lease_time" = "租约时间 (秒)";
+"dhcp_ipv6_settings" = "IPv6 设置";
+"dhcp_range_start" = "起始 IP 地址";
+"dhcp_static_leases" = "静态租约";
+"dhcp_remove_lease" = "删除租约";
+"dhcp_leases" = "租约";
+"dhcp_lease_create" = "添加静态租约";
+"dhcp_pro_required" = "需要 Remote Pro 来管理 DHCP 设置";
+// New Static Lease
+"dhcp_staticlease_new" = "新建静态租约";
+"dhcp_staticlease_mac" = "MAC 地址";
+"dhcp_staticlease_mac_placeholder" = "aa:0b:cd:e1:f2:34";
+"dhcp_staticlease_ip" = "IP 地址";
+"dhcp_staticlease_ip_placeholder" = "192.168.1.10";
+"dhcp_staticlease_hostname" = "主机名";
+"dhcp_staticlease_hostname_placeholder" = "raspberrypi.local";
+
+// MARK: DNS
+"dns_settings" = "DNS 设置";
+"dns_upstream_dns_servers" = "上游 DNS 服务器";
+"dns_ip" = "IP 地址";
+"dns_reverse_resolve" = "反向解析客户端的 IP 地址";
+"dns_upstream_mode" = "上游服务器模式";
+"dns_upstream_mode_loadbalancing" = "负载均衡";
+"dns_upstream_mode_parralel" = "并行请求";
+"dns_upstream_mode_fastest" = "最快的 IP 地址";
+"dns_bootstrap_dns_servers" = "Bootstrap DNS 服务器";
+"dns_bootstrap_dns_servers_footer" = "Bootstrap DNS 服务器用于解析您指定为上游的 DoH / DoT 解析器的 IP 地址。";
+"dns_server_configuration" = "DNS 服务设定";
+"dns_rate_limit" = "速度限制";
+"dns_edns_client_subnet" = "使用客户端的子网地址 (EDNS)";
+"dns_dnssec" = "启用 DNSSEC";
+"dns_disable_ipv6" = "禁用 IPv6";
+"dns_blocking_mode" = "拦截模式";
+"dns_blocking_mode_default" = "默认";
+"dns_blocking_mode_refused" = "REFUSED";
+"dns_blocking_mode_nxdomain" = "无效域名";
+"dns_blocking_mode_nullip" = "无效 IP";
+"dns_blocking_mode_customip" = "自定义 IP";
+"dns_cache_configuration" = "DNS 缓存配置";
+"dns_cache_size" = "缓存大小";
+"dns_override_minimum_ttl" = "覆盖最小 TTL 值";
+"dns_override_maximum_ttl" = "覆盖最大 TTL 值";
+"dns_pro_required" = "需要 Remote Pro 来管理 DNS 设置";
+
+// MARK: DNS Rewrites
+"dnsrewrites_entries" = "条目";
+"dnsrewrites_no_entries" = "未找到";
+"dnsrewrites_new" = "新建 DNS 重写";
+"dnsrewrites_domain" = "域名";
+"dnsrewrites_domain_placeholder" = "域名或通配符";
+"dnsrewrites_answer" = "应答";
+"dnsrewrites_answer_placeholder" = "IP 地址或域名";
+"dnsrewrites_pro_required" = "需要 Remote Pro 来管理 DNS 重写";
+
+// MARK: Query Log
+"querylog_settings_status" = "状态";
+"querylog_settings_enable" = "启用日志";
+"querylog_settings_options" = "选项";
+"querylog_settings_options_footer" = "开启 '匿名化客户端 IP' 将禁用在日志和统计信息中保存客户端的完整 IP 地址。";
+"querylog_settings_anonymize" = "匿名化客户端 IP";
+"querylog_settings_log_retention" = "日志保留时间";
+"querylog_settings_clear" = "清除查询日志";
+"querylog_settings_clear_alert" = "您确定要清除查询日志?";
+"querylog_settings_cleared" = "已清除";
+
+// MARK: More
+"more_statistics" = "统计数据";
+"more_statistics_footer" = "更改统计数据保留时间设置需要重启 App 来查看效果。";
+"more_statistics_retention" = "统计数据保留时间";
+"more_statistics_clear" = "清除统计数据";
+"more_statistics_clear_alert" = "您确定要清除统计数据? 这将会使仪表盘内所有统计数据重置为零。";
+"more_statistics_cleared" = "已清除";
+"more_version" = "版本";
+"more_version_current_%@" = "当前版本: %@";
+"more_update_started" = "开始更新!";
+"more_update_to_%@" = "更新至 v%@";
+"more_checking_version" = "检查版本...";
+"more_up_to_date" = "AdGuard Home已经是最新版本";
+
+// MARK: Preferences
+"settings_preferences" = "首选项";
+"settings_dashboard" = "仪表盘";
+"preferences_dashboard_statusbuttons" = "状态按钮";
+"preferences_dashboard_rulefiltering" = "规则过滤";
+"preferences_dashboard_parentalfiltering" = "家长控制";
+"preferences_dashboard_safebrowsing" = "浏览安全";
+"preferences_dashboard_safesearch" = "安全搜索";
+"preferences_dashboard_graphs" = "图表";
+"preferences_dashboard_graph_type" = "图标类型";
+"preferences_dashboard_graph_line" = "现形图";
+"preferences_dashboard_graph_bar" = "条状图";
+"preferences_dashboard_graph_dnsqueries" = "DNS 查询";
+"preferences_dashboard_graph_blockedbyfilters" = "已被过滤器拦截";
+"preferences_dashboard_graph_blockedmalware" = "被拦截的恶意/钓鱼网站";
+"preferences_dashboard_graph_blockedadultwebsites" = "被拦截的成人网站";
+"preferences_dashboard_show_section" = "是否显示";
+"preferences_dashboard_number_of_clients" = "客户端数量";
+"preferences_dashboard_number_of_domains" = "域名数量";
+"preferences_other" = "其他";
+"preferences_language" = "语言";
+
+// MARK: Help
+"settings_help" = "帮助与反馈";
+"settings_help_navbar" = "支持服务";
+"settings_help_contact" = "联系作者";
+"settings_help_actions" = "操作";
+"settings_help_logs" = "软件日志";
+"settings_help_logs_footer" = "软件日志在本地储存，并且绝不会被远程获取。要退出日志查看器请下滑窗口。";
+"settings_help_logs_button" = "显示软件日志";
+"settings_give_feedback_alert_title" = "发送反馈";
+"settings_give_feedback_alert_body" = "请通过电子邮件将任何关于软件 bug 或改进的建议发送至 developer@rocketscience-it.nl!";
+"settings_copy_email" = "复制电子邮件地址";
+
+// MARK: Other Settings
+"settings_other" = "其他";
+"settings_pro" = "Pro";
+"settings_twitter" = "在 Twitter 上关注";
+"settings_changelog" = "新增功能";
+"settings_adguard-website" = "AdGuard 主页";
+
+// MARK: Design
+"settings_design" = "界面设计";
+"design_color_scheme" = "色彩方案";
+"design_color_scheme_default" = "默认";
+"design_color_scheme_adguard" = "AdGuard";
+"design_app_tint" = "App 控件颜色";
+"design_app_tint_green" = "绿色";
+"design_app_tint_blue" = "蓝色";
+"design_app_tint_orange" = "橙色";
+"design_app_tint_purple" = "紫色";
+"design_app_tint_yellow" = "黄色";
+"design_app_icon" = "App 图标";
+"design_app_icon_original" = "原版";
+"design_app_icon_inverse" = "反色";
+"design_app_icon_dark" = "深色";
+"design_theme" = "主题外观";
+"design_system_setting" = "使用系统设置";
+"design_always_lightmode" = "总是使用浅色外观";
+"design_always_darkmode" = "总是使用深色外观";
+"design_restart_required" = "更改此设置需要重启 App 来查看效果。";
+
+// MARK: Changelog
+"changelog_just_updated" = "软件已更新!";
+"changelog_current_version" = "当前";
+"changelog_whats_new" = "新增功能";
+"changelog_continue" = "继续";
+"changelog_show_on_app_update" = "App 更新后启动显示";
+"changelog_show_on_app_update_footer" = "更新日志只在功能更新时会显示，仅有错误修正的更新将不显示更新日志。";
+"changelog_settings" = "更新日志设置";
+
+// MARK: - Pro
+"pro" = "Pro";
+"pro_navtitle" = "Remote Pro";
+"pro_purchase" = "购买 Pro";
+"pro_thankyou" = "万分感谢!";
+"pro_thankyou_heart" = "万分感谢! ❤️";
+"pro_learn-more" = "了解更多...";
+"pro_title" = "AdGuard Home\nRemote Pro";
+"pro_description" = "一次购买既可解锁强大功能，还能支持后续开发。";
+"pro_purchased_date_%@" = "于 %@ 购买";
+"pro_features" = "Pro 功能";
+"pro_family_sharing" = "支持家人共享";
+"pro_restore_purchase" = "恢复购买";
+"pro_restored" = "Pro 已恢复!";
+"pro_restore_failed" = "恢复失败";
+"pro_restore_nothing" = "没有购买记录被恢复";
+"pro_testflight" = "TestFlight";
+"pro_beta_access_button" = "申请使用 Beta 版";
+"pro_testflight_alert" = "未在您的设备中找到可用的邮件客户端，请将已购买 Pro 的本页面截屏，并附于加入 TestFlight 的申请邮件之内。\n\n请将邮件发至 developer@rocketscience-it.nl!";
+"pro_testflight_explainer" = "注意: 您正在使用 TestFlight 版软件, 因此支付将以沙盒模式运行且不会被真正处理。\n\n每隔数日 TestFlight 版上的 Pro '许可' 将会失效。若您想要购买 Pro 并且在使用过程中不受此影响，请在 App Store 上下载本软件，多谢!";
+
+// MARK: Pro Features
+"pro_view_queries" = "查看 25 条以上的请求并可设置筛选";
+"pro_manage_clients" = "管理客户端";
+"pro_manage_filters" = "管理过滤器";
+"pro_manage_custom_filter_rules" = "管理自定义过滤规则";
+"pro_manage_dhcp" = "管理 DHCP 设置";
+"pro_manage_dns" = "管理 DNS 设置";
+"pro_manage_rewrites" = "管理 DNS 重写";
+"pro_support_multiple_instances" = "支持 2 组以上的实例";
+"pro_alternative_icons" = "可选 App 图标";
+"pro_beta_access" = "使用 TestFlight Beta 版本";
+
+// MARK: Purchase Flow
+"purchase_unknown_error" = "未知错误。请发邮件至 developer@rocketscience-it.nl。";
+"purchase_not_allowed" = "支付不被允许";
+"purchase_invalid_id" = "购买标识符无效";
+"purchase_not_allowed" = "此设备无法发起支付";
+"purchase_not_available" = "该商品在当前国家/地区不可用";
+"purchase_cloud_permission_denied" = "无法访问云服务信息";
+"purchase_connection_error" = "无法连接到网络";
+"purchase_cloud_permission_revoked" = "用户使用此云服务的权限已被撤销";
+
+// MARK: RocketScience
+"settings_rocketscience" = "由 RocketScience 制造";
+"rocketscience_hi_title" = "您好，我是 Joost!";
+"rocketscience_hi_subtitle" = "2020年7月起，我开始以 'RocketScience IT' 的名义，作为独立开发者编写我的 App。\n\n我的主要目的是为了学习：设计、开发、测试、支持、营销，可能甚至比这些还要多! 眼下在 App Store 上我有两个持续更新的 App，并且我还有很多其他关于 App 的想法在未来可能会着手制作出来。";
+"rocketscience_website" = "网站";
+"rocketscience_twitter" = "Twitter";
+"rocketscience_tipjar" = "小费罐";
+"rocketscience_tipjar_thankyou" = "万分感谢!";
+"rocketscience_my_other_apps" = "我的其他 App";
+"rocketscience_piholeremote_subtitle" = "关于 Pi-hole 的一切用一个 App 搞定。";
+"rocketscience_acknoledgements" = "特别感谢";
+
+// MARK: Tip Jar
+"tipjar_navbar" = "小费罐";
+"tipjar_title" = "小费罐是为了帮助 AdGuard Home Remote 保持运作，并对那些超赞的功能与更新的开发给予直接的支持。";
+"tipjar_description" = "如果您乐于使用本 App 并想要支持独立开发者 (hi! 👋)，请考虑打赏一点小费。我将对此感激不尽!";
+"tipjar_coffee_tip" = "一杯咖啡";
+"tipjar_whiskey_tip" = "一杯威士忌";
+"tipjar_ramen_tip" = "一碗拉面";
+"tipjar_sushi_tip" = "一顿寿司";
+"tipjar_description_thankyou" = "感谢您的大力支持\n- Joost";
+"tipjar_thankyou_tip" = "感谢您的慷慨解囊!";
+"tipjar_thankyou_tips" = "再次感谢您的慷慨解囊!";
+"tipjar_love" = "我爱你! ❤️";
+"tipjar_love_alert" = "万分感谢，您若因对本软件的喜爱使您愿意打赏小费，对此我真的感激不尽。您的认可是我最大的动力。我爱你!\n\nJoost";
+"tipjar_blush" = "*blush*";
+"tipjar_payment_success" = "支付完成";
+"tipjar_testflight_explainer" = "注意: 您正在使用 TestFlight 版软件, 因此支付将以沙盒模式运行且不会被真正处理。\n\n若您想要打赏，请在 App Store 上下载本软件! 打赏后您可以重新下载 Beta 版。多谢!";
+
+// MARK: - Other
+"loading" = "读取中";
+"loading_dots" = "读取中...";
+"search" = "搜索";
+"new" = "新建";
+"add" = "添加";
+"edit" = "编辑";
+"done" = "完成";
+"save" = "保存";
+"remove" = "删除";
+"ok" = "确定";
+"cancel" = "取消";
+"settings" = "设置";
+"cannot_reach_instance" = "无法连接实例";
+"not_responding" = "无响应";
+"something_went_wrong" = "发生故障";
+"something_went_wrong_alert" = "发生故障";
+"error" = "错误";
+"unknown_error" = "未知错误";
+"unknown" = "未知";
+"instance" = "实例";
+"ms" = "毫秒";
+"select_all" = "全选";
+"deselect_all" = "取消全选";
+"all" = "全部";
+"search" = "搜索";
+"global" = "全局";
+"use_global_settings" = "使用全局设置";
+"custom" = "自定义";
+"other" = "其他";
+"name" = "名称";
+"none_dot" = "无";
+"manage" = "管理";
+"tap_to_learn_more" = "点击了解更多";
+
+// Durations
+"disabled" = "已禁用";
+"1h" = "1 小时";
+"12h" = "12 小时";
+"24h" = "24 小时";
+"3d" = "3 天";
+"7d" = "7 天";
+"30d" = "30 天";
+"90d" = "90 天";
