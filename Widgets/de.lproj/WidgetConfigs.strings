@@ -1,48 +1,48 @@
-"0foAlr-1ekF7R" = "Just to confirm, you wanted ‘Dark (Pure Black)’?";
+"0foAlr-1ekF7R" = "Nur zur Bestätigung, Sie wollten 'Dunkel (Reines Schwarz)'?"
 
-"0foAlr-JOGSFQ" = "Just to confirm, you wanted ‘Light’?";
+"0foAlr-JOGSFQ" = "Nur zur Bestätigung, Sie wollten 'Hell'?"
 
-"0foAlr-W38Flm" = "Just to confirm, you wanted ‘Dark’?";
+"0foAlr-W38Flm" = "Nur zur Bestätigung, Sie wollten 'Dunkel'?"
 
-"0foAlr-ZyGBsF" = "Just to confirm, you wanted ‘System’?";
+"0foAlr-ZyGBsF" = "Nur zur Bestätigung, Sie wollten 'System'?";
 
 "0foAlr-g0CJBh" = "Just to confirm, you wanted ‘System (Pure Black)’?";
 
-"1ekF7R" = "Dark (Pure Black)";
+"1ekF7R" = "Dunkel (Reines Schwarz)";
 
-"9m7HE0" = "Appearance";
+"9m7HE0" = "Erscheinungsbild";
 
-"JOGSFQ" = "Light";
+"JOGSFQ" = "Hell";
 
-"MtnrjZ" = "What instance to display?";
+"MtnrjZ" = "Welche Instanz anzeigen?";
 
-"VA4ap6" = "Instance";
+"VA4ap6" = "Instanz";
 
-"W38Flm" = "Dark";
+"W38Flm" = "Dunkel";
 
 "ZyGBsF" = "System";
 
-"bfm6TG" = "Just to confirm, you wanted ‘${instance}’?";
+"bfm6TG" = "Nur zur Bestätigung, Sie wollten '${instance}'?";
 
-"g0CJBh" = "System (Pure Black)";
+"g0CJBh" = "System (Reines Schwarz)";
 
 "gpCwrM" = "Dashboard Widget";
 
-"l8C2oo" = "There are ${count} options matching ‘${instance}’.";
+"l8C2oo" = "Es gibt ${count} Optionen, die zu '${instance}' passen."
 
 "tVvJ9c" = "Dashboard Widget";
 
-"v1RflJ" = "Instance";
+"v1RflJ" = "Instanz";
 
-"veGZYz-1ekF7R" = "There are ${count} options matching ‘Dark (Pure Black)’.";
+"veGZYz-1ekF7R" = "Es gibt ${count} Optionen, die zu 'Dunkel (Reines Schwarz)' passen.";
 
-"veGZYz-JOGSFQ" = "There are ${count} options matching ‘Light’.";
+"veGZYz-JOGSFQ" = ""Es gibt ${count} Optionen, die zu 'Hell' passen.";
 
-"veGZYz-W38Flm" = "There are ${count} options matching ‘Dark’.";
+"veGZYz-W38Flm" = "Es gibt ${count} Optionen, die zu 'Dunkel' passen.";
 
-"veGZYz-ZyGBsF" = "There are ${count} options matching ‘System’.";
+"veGZYz-ZyGBsF" ="Es gibt ${count} Optionen, die zu 'System' passen.";
 
-"veGZYz-g0CJBh" = "There are ${count} options matching ‘System (Pure Black)’.";
+"veGZYz-g0CJBh" = "Es gibt ${count} Optionen, die zu 'System (Reines Schwarz)' passen.";
 
-"xq4Ojz" = "Appearance";
+"xq4Ojz" = "Erscheinungsbild";
 
