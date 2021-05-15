@@ -123,8 +123,8 @@
 "client_remove" = "Client entfernen";
 "client_remove_alert_body" = "Sind Sie sicher, dass Sie diese Instanz entfernen möchten?";
 "clients" = "Clients";
-"clients_settings_label" = "Einstellungen: ";
-"clients_services_label" = "Gesperrte Dienste: ";
+"clients_settings_label" = "Einstellungen:";
+"clients_services_label" = "Gesperrte Dienste:";
 "clients_no_clients_found" = "Keine Clients gefunden.";
 "clients_runtime" = "Clients (Runtime)";
 "clients_runtime_footer" = "Diese Clients verwenden AdGuard Home ohne spezielle Konfiguration.";
@@ -161,42 +161,42 @@
 "filtering_updated_count_%@" = "%@ aktualisiert";
 "filtering_rules_%@" = "Rules: %@";
 "filtering_last_updated_%@" = "Zuletzt aktualisiert: %@";
-"filtering_global_blocked_services" = "Global Blocked Services";
-"filtering_custom_filtering_rules" = "Custom Filtering Rules";
-"filtering_rule_count_%@" = "%@ rules";
-"filtering_check_filtered" = "Check If Hostname Is Filtered";
-"filtering_pro_required" = "Remote Pro is required to manage filters.";
+"filtering_global_blocked_services" = "Global gesperrte Dienste";
+"filtering_custom_filtering_rules" = "Benutzerdefinierte Filterregeln";
+"filtering_rule_count_%@" = "%@ Regeln";
+"filtering_check_filtered" = "Prüfen, ob Hostname gefiltert wird";
+"filtering_pro_required" = "Remote Pro ist erforderlich, um Filter zu verwalten.";
 // Add Filter
-"filtering_addfilter_list" = "List";
-"filtering_addfilter_blocklist" = "Blocklist";
-"filtering_addfilter_blocklist_new" = "New Blocklist";
-"filtering_addfilter_allowlist" = "Allowlist";
-"filtering_addfilter_allowlist_new" = "New Allowlist";
+"filtering_addfilter_list" = "Liste";
+"filtering_addfilter_blocklist" = "Sperrliste";
+"filtering_addfilter_blocklist_new" = "Neue Sperrliste";
+"filtering_addfilter_allowlist" = "Freigabeliste";
+"filtering_addfilter_allowlist_new" = "Neue Freigabeliste";
 "filtering_addfilter_name" = "Name";
 "filtering_addfilter_url" = "URL";
-"filtering_addfilter_url_placeholder" = "URL or Absolute Path";
+"filtering_addfilter_url_placeholder" = "URL oder absoluter Pfad";
 // Custom Rules
-"filtering_rules_custom" = "Custom Rules";
-"filtering_rules_custom_new" = "New Custom Rule";
-"filtering_rules_add" = "Add Rule";
-"filtering_rules_no_rules_found" = "No rules found.";
-"filtering_rules_delete_and_edit" = "Delete Rule & Edit";
-"filtering_rules_rule" = "Rule";
-"filtering_rules_settings" = "Settings";
-"filtering_rules_blocking_mode" = "Blocking Mode";
-"filtering_rules_blocking_mode_block" = "Block";
-"filtering_rules_blocking_mode_unblock" = "Unblock";
-"filtering_rules_blocking_mode_custom" = "Custom";
-"filtering_rules_final_rule" = "Final Rule";
-"filtering_rules_rule_placeholder" = "Type a domain here...";
-"filtering_rules_examples" = "Examples";
+"filtering_rules_custom" = "Benutzerdefinierte Regeln";
+"filtering_rules_custom_new" = "Neue benutzerdefinierte Regel";
+"filtering_rules_add" = "Regel hinzufügen";
+"filtering_rules_no_rules_found" = "Keine Regeln gefunden.";
+"filtering_rules_delete_and_edit" = "Regel löschen & bearbeiten";
+"filtering_rules_rule" = "Regel";
+"filtering_rules_settings" = "Einstellungen";
+"filtering_rules_blocking_mode" = "Blockiermodus";
+"filtering_rules_blocking_mode_block" = "Blockieren";
+"filtering_rules_blocking_mode_unblock" = "Entsperren";
+"filtering_rules_blocking_mode_custom" = "Benutzerdefiniert";
+"filtering_rules_final_rule" = "Endgültige Regel";
+"filtering_rules_rule_placeholder" = "Geben Sie hier eine Domain ein...";
+"filtering_rules_examples" = "Beispiele";
 "filtering_rules_examples_block_title" = "||example.org^";
-"filtering_rules_examples_block_subtitle" = "block example.org and all its subdomains";
+"filtering_rules_examples_block_subtitle" = "example.org und alle dessen Subdomains blockieren";
 "filtering_rules_examples_unblock_title" = "@@||example.org^";
-"filtering_rules_examples_unblock_subtitle" = "unblock example.org and all its subdomains";
+"filtering_rules_examples_unblock_subtitle" = "example.org und alle dessen Subdomains entsperren";
 "filtering_rules_examples_rewrite_title" = "127.0.0.1 example.org";
-"filtering_rules_examples_rewrite_subtitle" = "return 127.0.0.1 for example.org (but not its subdomains)";
-"filtering_rules_examples_comment_title1" = "! Here goes a comment";
+"filtering_rules_examples_rewrite_subtitle" = "127.0.0.1 für example.org zurückgeben (aber nicht für dessen Subdomains)";
+"filtering_rules_examples_comment_title1" = "! Hier folgt ein Kommentar";
 "filtering_rules_examples_comment_title2" = "# Also a comment";
 "filtering_rules_examples_comment_subtitle" = "just a comment";
 "filtering_rules_examples_regex_title" = "/REGEX/";
@@ -299,7 +299,7 @@
 "more_up_to_date" = "You're up-to-date";
 
 // MARK: Preferences
-"settings_preferences" = "Preferences";
+"settings_preferences" = "Präferenzen";
 "settings_dashboard" = "Dashboard";
 "preferences_dashboard_statusbuttons" = "Status Buttons";
 "preferences_dashboard_rulefiltering" = "Rule Filtering";
@@ -317,7 +317,7 @@
 "preferences_dashboard_show_section" = "Bereich anzeigen";
 "preferences_dashboard_number_of_clients" = "Anzahl an Clients";
 "preferences_dashboard_number_of_domains" = "Anzahl an Domains";
-"preferences_other" = "Sonstige";
+"preferences_other" = "Sonstiges";
 "preferences_language" = "Sprache";
 
 // MARK: Help
@@ -333,7 +333,7 @@
 "settings_copy_email" = "E-Mail Adresse kopieren";
 
 // MARK: Other Settings
-"settings_other" = "Sonstige";
+"settings_other" = "Sonstiges";
 "settings_pro" = "Pro";
 "settings_twitter" = "Auf Twitter folgen";
 "settings_changelog" = "Was ist neu?";
@@ -363,7 +363,7 @@
 // MARK: Changelog
 "changelog_just_updated" = "Gerade aktualisiert!";
 "changelog_current_version" = "Aktuell";
-"changelog_whats_new" = "Änderungen";
+"changelog_whats_new" = "Was ist neu?";
 "changelog_continue" = "Fortfahren";
 "changelog_show_on_app_update" = "Bei App-Update anzeigen";
 "changelog_show_on_app_update_footer" = "Der Changelog wird nur für Feature-Updates angezeigt und nicht für Updates, die nur Bugfixes enthalten.";
