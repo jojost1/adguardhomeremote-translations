@@ -1,8 +1,8 @@
-"0foAlr-1ekF7R" = "Nur zur Bestätigung, Sie wollten 'Dunkel (Reines Schwarz)'?"
+"0foAlr-1ekF7R" = "Nur zur Bestätigung, Sie wollten 'Dunkel (Reines Schwarz)'?";
 
-"0foAlr-JOGSFQ" = "Nur zur Bestätigung, Sie wollten 'Hell'?"
+"0foAlr-JOGSFQ" = "Nur zur Bestätigung, Sie wollten 'Hell'?";
 
-"0foAlr-W38Flm" = "Nur zur Bestätigung, Sie wollten 'Dunkel'?"
+"0foAlr-W38Flm" = "Nur zur Bestätigung, Sie wollten 'Dunkel'?";
 
 "0foAlr-ZyGBsF" = "Nur zur Bestätigung, Sie wollten 'System'?";
 
@@ -28,7 +28,7 @@
 
 "gpCwrM" = "Dashboard Widget";
 
-"l8C2oo" = "Es gibt ${count} Optionen, die zu '${instance}' passen."
+"l8C2oo" = "Es gibt ${count} Optionen, die zu '${instance}' passen.";
 
 "tVvJ9c" = "Dashboard Widget";
 
