@@ -388,7 +388,7 @@
 "pro_testflight" = "TestFlight";
 "pro_beta_access_button" = "Beta-Zugang anfragen";
 "pro_testflight_alert" = "Wie ich sehe, haben Sie keinen aktiven Mail-Client auf Ihrem Gerät. Bitte senden Sie mir eine E-Mail mit der Bitte, am TestFlight-Programm teilzunehmen und fügen Sie einen Screenshot von diesem Pro-Bildschirm bei, damit ich sehen kann, dass Sie Pro erworben haben.\n\nBitte kontaktieren Sie mich unter developer@rocketscience-it.nl!";
-"pro_testflight_explainer" = "Hinweis: Sie verwenden den TestFlight-Build, daher laufen die Zahlungen im Sandbox-Modus und werden nicht tatsächlich verarbeitet.\n\nEine Pro-"Lizenz" wird alle paar Tage ungültig, während ein TestFlight-Build läuft. Wenn Sie Pro kaufen und die App ohne dieses Problem nutzen möchten, laden Sie die App bitte aus dem App-Store herunter. Danke!";
+"pro_testflight_explainer" = "Hinweis: Sie verwenden den TestFlight-Build, daher laufen die Zahlungen im Sandbox-Modus und werden nicht tatsächlich verarbeitet.\n\nEine Pro-'Lizenz' wird alle paar Tage ungültig, während ein TestFlight-Build läuft. Wenn Sie Pro kaufen und die App ohne dieses Problem nutzen möchten, laden Sie die App bitte aus dem App-Store herunter. Danke!";
 
 // MARK: Pro Features
 "pro_view_queries" = "Sehe 25+ Anfragen & setze Filter";
