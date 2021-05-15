@@ -1,4 +1,4 @@
-"0foAlr-1ekF7R" = "Nur zur Bestätigung, Sie wollten 'Dunkel (Reines Schwarz)'?";
+"0foAlr-1ekF7R" = "Nur zur Bestätigung, Sie wollten 'Dunkel (Pures Schwarz)'?";
 
 "0foAlr-JOGSFQ" = "Nur zur Bestätigung, Sie wollten 'Hell'?";
 
@@ -6,11 +6,11 @@
 
 "0foAlr-ZyGBsF" = "Nur zur Bestätigung, Sie wollten 'System'?";
 
-"0foAlr-g0CJBh" = "Nur zur Bestätigung, Sie wollten 'System (Reines Schwarz)'?";
+"0foAlr-g0CJBh" = "Nur zur Bestätigung, Sie wollten 'System (Pures Schwarz)'?";
 
-"1ekF7R" = "Dunkel (Reines Schwarz)";
+"1ekF7R" = "Dunkel (Pures Schwarz)";
 
-"9m7HE0" = "Erscheinungsbild";
+"9m7HE0" = "Design";
 
 "JOGSFQ" = "Hell";
 
@@ -24,7 +24,7 @@
 
 "bfm6TG" = "Nur zur Bestätigung, Sie wollten '${instance}'?";
 
-"g0CJBh" = "System (Reines Schwarz)";
+"g0CJBh" = "System (Pures Schwarz)";
 
 "gpCwrM" = "Dashboard Widget";
 
@@ -34,7 +34,7 @@
 
 "v1RflJ" = "Instanz";
 
-"veGZYz-1ekF7R" = "Es gibt ${count} Optionen, die zu 'Dunkel (Reines Schwarz)' passen.";
+"veGZYz-1ekF7R" = "Es gibt ${count} Optionen, die zu 'Dunkel (Pures Schwarz)' passen.";
 
 "veGZYz-JOGSFQ" = "Es gibt ${count} Optionen, die zu 'Hell' passen.";
 
@@ -42,6 +42,6 @@
 
 "veGZYz-ZyGBsF" = "Es gibt ${count} Optionen, die zu 'System' passen.";
 
-"veGZYz-g0CJBh" = "Es gibt ${count} Optionen, die zu 'System (Reines Schwarz)' passen.";
+"veGZYz-g0CJBh" = "Es gibt ${count} Optionen, die zu 'System (Pures Schwarz)' passen.";
 
-"xq4Ojz" = "Erscheinungsbild";
+"xq4Ojz" = "Design";
