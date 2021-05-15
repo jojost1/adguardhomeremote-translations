@@ -123,8 +123,8 @@
 "client_remove" = "Client entfernen";
 "client_remove_alert_body" = "Sind Sie sicher, dass Sie diese Instanz entfernen möchten?";
 "clients" = "Clients";
-"clients_settings_label" = "Einstellungen:";
-"clients_services_label" = "Gesperrte Dienste:";
+"clients_settings_label" = "Einstellungen: ";
+"clients_services_label" = "Gesperrte Dienste: ";
 "clients_no_clients_found" = "Keine Clients gefunden.";
 "clients_runtime" = "Clients (Runtime)";
 "clients_runtime_footer" = "Diese Clients verwenden AdGuard Home ohne spezielle Konfiguration.";
@@ -277,7 +277,7 @@
 "querylog_settings_status" = "Status";
 "querylog_settings_enable" = "Anfrageprotokoll einschalten";
 "querylog_settings_options" = "Optionen";
-"querylog_settings_options_footer" = "Wenn Sie "Client-IP anonymisieren" aktivieren, wird die Speicherung der vollständigen IP-Adresse von Clients in Protokollen und Statistiken deaktiviert.";
+"querylog_settings_options_footer" = "Wenn Sie 'Client-IP anonymisieren' aktivieren, wird die Speicherung der vollständigen IP-Adresse von Clients in Protokollen und Statistiken deaktiviert.";
 "querylog_settings_anonymize" = "Client-IP anonymisieren";
 "querylog_settings_log_retention" = "Protokollspeicherung";
 "querylog_settings_clear" = "Anfrageprotokoll löschen";
