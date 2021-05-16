@@ -26,7 +26,7 @@
 "querylog_tabbar" = "Anfragenprotokoll";
 "querylog_query" = "Anfrage";
 "querylog_no-queries" = "Nichts gefunden.";
-"querylog_cannot-find-queries" = "Konnte keine Anfragen finden.";
+"querylog_cannot-find-queries" = "Es wurden keine Anfragen gefunden.";
 "querylog_pro" = "Remote Pro ist erforderlich, um weitere Anfragen anzuzeigen.";
 "querylog_sidebar_explainer" = "Wählen Sie eine Anfrage auf der linken Seite, um Details zu sehen.";
 
@@ -177,7 +177,7 @@
 "filtering_addfilter_url_placeholder" = "URL oder absoluter Pfad";
 // Custom Rules
 "filtering_rules_custom" = "Benutzerdefinierte Regeln";
-"filtering_rules_custom_new" = "Neue benutzerdefinierte Regel";
+"filtering_rules_custom_new" = "Neue Regel";
 "filtering_rules_add" = "Regel hinzufügen";
 "filtering_rules_no_rules_found" = "Keine Regeln gefunden.";
 "filtering_rules_delete_and_edit" = "Regel löschen & bearbeiten";
@@ -186,7 +186,7 @@
 "filtering_rules_blocking_mode" = "Blockiermodus";
 "filtering_rules_blocking_mode_block" = "Blockieren";
 "filtering_rules_blocking_mode_unblock" = "Entsperren";
-"filtering_rules_blocking_mode_custom" = "Benutzerdefiniert";
+"filtering_rules_blocking_mode_custom" = "Benutzerdef.";
 "filtering_rules_final_rule" = "Endgültige Regel";
 "filtering_rules_rule_placeholder" = "Geben Sie hier eine Domain ein...";
 "filtering_rules_examples" = "Beispiele";
@@ -198,7 +198,7 @@
 "filtering_rules_examples_rewrite_subtitle" = "127.0.0.1 für example.org zurückgeben (aber nicht für dessen Subdomains)";
 "filtering_rules_examples_comment_title1" = "! Hier folgt ein Kommentar";
 "filtering_rules_examples_comment_title2" = "# Auch ein Kommentar";
-"filtering_rules_examples_comment_subtitle" = "nur ein Kommentar";
+"filtering_rules_examples_comment_subtitle" = "Diese sind nur Kommentare";
 "filtering_rules_examples_regex_title" = "/REGEX/";
 "filtering_rules_examples_regex_subtitle" = "Domains blockieren, die dem angegebenen regulären Ausdruck entsprechen";
 // Check Hostname
@@ -266,7 +266,7 @@
 // MARK: DNS Rewrites
 "dnsrewrites_entries" = "Einträge";
 "dnsrewrites_no_entries" = "Keine Einträge gefunden.";
-"dnsrewrites_new" = "Neue DNS-Umschreibung";
+"dnsrewrites_new" = "Neue Umschreibung";
 "dnsrewrites_domain" = "Domain";
 "dnsrewrites_domain_placeholder" = "Domain oder Wildcard";
 "dnsrewrites_answer" = "Antwort";
@@ -275,19 +275,19 @@
 
 // MARK: Query Log
 "querylog_settings_status" = "Status";
-"querylog_settings_enable" = "Anfrageprotokoll einschalten";
+"querylog_settings_enable" = "Anfragenprotokoll einschalten";
 "querylog_settings_options" = "Optionen";
 "querylog_settings_options_footer" = "Wenn Sie 'Client-IP anonymisieren' aktivieren, wird die Speicherung der vollständigen IP-Adresse von Clients in Protokollen und Statistiken deaktiviert.";
 "querylog_settings_anonymize" = "Client-IP anonymisieren";
 "querylog_settings_log_retention" = "Protokollspeicherung";
-"querylog_settings_clear" = "Anfrageprotokoll löschen";
-"querylog_settings_clear_alert" = "Sind Sie sicher, dass Sie das gesamte Anfrageprotokoll löschen wollen?";
+"querylog_settings_clear" = "Anfragenprotokoll löschen";
+"querylog_settings_clear_alert" = "Sind Sie sicher, dass Sie das gesamte Anfragenprotokoll löschen wollen?";
 "querylog_settings_cleared" = "Gelöscht.";
 
 // MARK: More
 "more_statistics" = "Statistik";
-"more_statistics_footer" = "Das Ändern dieser Einstellung erfordert einen App-Neustart..";
-"more_statistics_retention" = "Aufbewahrung von Statistiken";
+"more_statistics_footer" = "Das Ändern dieser Einstellung erfordert einen App-Neustart.";
+"more_statistics_retention" = "Aufbewahrungsdauer";
 "more_statistics_clear" = "Statistik löschen";
 "more_statistics_clear_alert" = "Sind Sie sicher, dass Sie die Statistik löschen möchten? Dadurch werden alle Statistiken im Dashboard auf Nullen zurückgesetzt.";
 "more_statistics_cleared" = "Gelöscht.";
@@ -418,14 +418,14 @@
 "rocketscience_hi_subtitle" = "Im Juni 2020 habe ich begonnen, meine eigenen Apps als unabhängiger Entwickler unter dem Namen 'RocketScience IT' zu entwickeln.\n\nMein Hauptziel ist es, Design, Entwicklung, Testen, Support & Promotion zu lernen - vielleicht sogar mehr! Im Moment habe ich zwei Apps im AppStore, die ich ständig verbessere. Außerdem habe ich bereits viele Ideen für weitere Apps, die ich in Zukunft entwickeln möchte.";
 "rocketscience_website" = "Webseite";
 "rocketscience_twitter" = "Twitter";
-"rocketscience_tipjar" = "Trinkgeld";
+"rocketscience_tipjar" = "Spenden";
 "rocketscience_tipjar_thankyou" = "Vielen Dank!";
 "rocketscience_my_other_apps" = "Meine anderen Apps";
 "rocketscience_piholeremote_subtitle" = "Alles über Pi-hole an einem Ort.";
 "rocketscience_acknoledgements" = "Besonderen Dank geht an";
 
 // MARK: Tip Jar
-"tipjar_navbar" = "Trinkgeld";
+"tipjar_navbar" = "Spenden";
 "tipjar_title" = "Spenden helfen, AdGuard Home Remote am Laufen zu halten und unterstützt gleichzeitig  die Entwicklung großartiger Funktionen und Verbesserungen.";
 "tipjar_description" = "Wenn Sie diese App gerne benutzen und einen Indie-Entwickler (hi! 👋) unterstützen wollen, ziehen Sie es bitte in Betracht, mir eine Spende zu hinterlassen. Ich würde es sehr zu schätzen wissen!";
 "tipjar_coffee_tip" = "Kaffee kaufen";
