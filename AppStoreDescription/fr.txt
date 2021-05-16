@@ -1,0 +1,35 @@
+AdGuard Home Remote rend la gestion de votre AdGuard Home rapide et facile. Activez/désactivez rapidement les fonctions de blocage, et consultez les statistiques telles que les principaux clients et domaines. Gérez vos clients, vos filtres, vos réécritures DNS, etc...
+
+*Contrôlez le filtrage*
+Vous pouvez rapidement activer ou désactiver le filtrage et la navigation/recherche sécurisée. Vous pouvez même gérer des paramètres spécifiques pour vos appareil !
+
+*Statistiques*
+Visualisez les graphiques de vos requêtes ainsi que les principaux clients et domaines. Recherchez dans le journal des requêtes avec des informations détaillées sur les demandes et les réponses.
+
+*Gérer les paramètres*
+Ajoutez ou modifiez vos appareils, ajoutez de nouveaux filtres ou désactivez-les pour temporairement, mettez à jour vos filtres, modifiez les services bloqués, gérez les paramètres DHCP et DNS, créez de nouvelles règles DNS ou modifiez les paramètres du journal des requêtes.
+
+==
+
+Caractéristiques :
+- Contrôlez le filtrage et la sécurité de navigation et de recherche.
+- Affichage des statistiques de base et avancées
+- Journal des requêtes avec recherche et filtres
+- Gérer les clients, y compris les paramètres de filtrage, les services bloqués et les tags (nécessite la version Pro)
+- Gestion des filtres, y compris les listes de blocage et d'autorisations et les règles de filtrage personnalisées (nécessite la version Pro)
+- Gestion des paramètres DHCP, y compris les baux statiques (nécessite la version Pro)
+- Gestion des paramètres DNS (nécessite la version Pro)
+- Gestion des réécritures DNS (nécessite la version Pro)
+- Prise en charge de plusieurs instances (nécessite la version Pro)
+- Widgets
+- Jeux de couleurs et icônes d'applications personnalisables
+- Prise en charge d'iOS, iPadOS et macOS
+- Design propre et moderne 100% SwiftUI
+
+* AdGuard Home Remote Pro :
+Des fonctionnalités supplémentaires sont débloquées avec un achat unique qui permettra également de soutenir le développement futur.
+
+==
+
+Note :
+AdGuard Home Remote est une application tierce et n'est pas directement affiliée à AdGuard. Pour plus d'informations sur AdGuard Home, visitez https://adguard.com/adguard-home/overview.html.

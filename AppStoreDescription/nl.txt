@@ -1,0 +1,35 @@
+Met AdGuard Home Remote beheer je je AdGuard Home snel en makkelijk. Zet blokkeren en filteren snel aan/uit en bekijk statistieken zoals Top Cliënten en Top Domeinen. Beheer je cliënten, filters, DNS herschrijvingen en meer.
+
+*Filteren & Blokkeren*
+Zet snel filters aan of uit en beheer instellingen voor veilig browsen/zoeken. Je kan ook specifieke instellingen voor cliënten beheren!
+
+*Statistieken*
+Bekijk grafieken van je queries en top-lijsten voor cliënten en domeinen. Zoek door de queries in de Query Log met gedetailleerde request/response informatie.
+
+*Beheer Instellingen*
+Voeg nieuwe cliënten toe, update filters, bewerk je geblokkeerde diensten, of voeg wat statische leases toe. Bijna alle instellingen van je AdGuard Home zijn te beheren.
+
+==
+
+Functies:
+- Stel Filtering, Veilig Browsen, Veilig Zoeken en Ouderlijk Toezicht in
+- Bekijk basis & geavanceerde statistieken
+- Query Log met zoeken en filters
+- Beheer cliënten, inclusief filtering/diensten/tag instellingen (Pro vereist)
+- Beheer filters, inclusief blokkeer- & toestemmingslijsten en aangepaste filter regels (Pro vereist)
+- Beheer DHCP instellingen, inclusief statische leases (Pro vereist)
+- Beheer DNS instellingen (Pro vereist)
+- Beheer DNS herschrijvingen (Pro vereist)
+- Ondersteuning voor meerdere instanties (Pro vereist)
+- Widgets
+- Aanpasbaar kleurenschema en app icoon
+- Ondersteuning voor iOS, iPadOS, macOS
+- Modern 100% SwiftUI ontwerp
+
+* AdGuard Home Remote Pro:
+Extra functionaliteiten worden ontgrendeld met een eenmalige aankoop, waarmee je ook toekomstige ontwikkelingen ondersteunt.
+
+==
+
+Opmerking: 
+AdGuard Home Remote is een third-party applicatie en is niet direct verwant aan AdGuard. Voor meer informatie over AdGuard Home, ga naar https://adguard.com/adguard-home/overview.html.
