@@ -378,7 +378,7 @@
 "pro_learn-more" = "了解更多…";
 "pro_title" = "AdGuard Home\nRemote Pro";
 "pro_description" = "以一次性購買解除封鎖強大的功能 & 支援未來的開發。";
-"pro_purchased_date_%@" = "已購買有關 %@。";
+"pro_purchased_date_%@" = "已於 %@ 購買。";
 "pro_features" = "Pro 功能";
 "pro_family_sharing" = "支援家庭共享";
 "pro_restore_purchase" = "回復購買";
