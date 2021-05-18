@@ -1,47 +1,47 @@
-"0foAlr-1ekF7R" = "Just to confirm, you wanted ‘Dark (Pure Black)’?";
+"0foAlr-1ekF7R" = "¿Deseas la apariencia ‘Oscuro (Negro Puro)’?";
 
-"0foAlr-JOGSFQ" = "Just to confirm, you wanted ‘Light’?";
+"0foAlr-JOGSFQ" = "¿Deseas la apariencia ‘Claro’?";
 
-"0foAlr-W38Flm" = "Just to confirm, you wanted ‘Dark’?";
+"0foAlr-W38Flm" = "¿Deseas la apariencia ‘Oscuro’?";
 
-"0foAlr-ZyGBsF" = "Just to confirm, you wanted ‘System’?";
+"0foAlr-ZyGBsF" = "¿Deseas la apariencia ‘Sistema’?";
 
-"0foAlr-g0CJBh" = "Just to confirm, you wanted ‘System (Pure Black)’?";
+"0foAlr-g0CJBh" = "¿Deseas la apariencia Sistema (Negro Puro)’?";
 
-"1ekF7R" = "Dark (Pure Black)";
+"1ekF7R" = "Oscuro (Negro Puro)";
 
-"9m7HE0" = "Appearance";
+"9m7HE0" = "Apariencia";
 
-"JOGSFQ" = "Light";
+"JOGSFQ" = "Claro";
 
-"MtnrjZ" = "What instance to display?";
+"MtnrjZ" = "¿Que instancia quieres mostrar?";
 
-"VA4ap6" = "Instance";
+"VA4ap6" = "Instancia";
 
-"W38Flm" = "Dark";
+"W38Flm" = "Oscuro";
 
-"ZyGBsF" = "System";
+"ZyGBsF" = "Sistema";
 
-"bfm6TG" = "Just to confirm, you wanted ‘${instance}’?";
+"bfm6TG" = ¿Deseas visualizar la instancia ‘${instance}’?";
 
-"g0CJBh" = "System (Pure Black)";
+"g0CJBh" = "Sistema (Negro Puro)";
 
-"gpCwrM" = "Dashboard Widget";
+"gpCwrM" = "Estadísticas";
 
-"l8C2oo" = "There are ${count} options matching ‘${instance}’.";
+"l8C2oo" = "Hay ${count} registros que coinciden con ‘${instance}’.";
 
-"tVvJ9c" = "Dashboard Widget";
+"tVvJ9c" = "Estadísticas";
 
-"v1RflJ" = "Instance";
+"v1RflJ" = "Instancia";
 
-"veGZYz-1ekF7R" = "There are ${count} options matching ‘Dark (Pure Black)’.";
+"veGZYz-1ekF7R" = "Hay ${count} registros que coinciden con 'Oscuro (Negro Puro)’.";
 
-"veGZYz-JOGSFQ" = "There are ${count} options matching ‘Light’.";
+"veGZYz-JOGSFQ" = "Hay ${count} registros que coinciden con ‘Claro’.";
 
-"veGZYz-W38Flm" = "There are ${count} options matching ‘Dark’.";
+"veGZYz-W38Flm" = "Hay ${count} registros que coinciden con ‘Oscuro’.";
 
-"veGZYz-ZyGBsF" = "There are ${count} options matching ‘System’.";
+"veGZYz-ZyGBsF" = "Hay ${count} registros que coinciden con ‘Sistema’.";
 
-"veGZYz-g0CJBh" = "There are ${count} options matching ‘System (Pure Black)’.";
+"veGZYz-g0CJBh" = "Hay ${count} registros que coinciden con ‘Sistema (Negro Puro)’.";
 
-"xq4Ojz" = "Appearance";
+"xq4Ojz" = "Apariencia";

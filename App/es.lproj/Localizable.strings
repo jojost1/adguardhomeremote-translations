@@ -477,11 +477,11 @@
 "tap_to_learn_more" = "Tap to learn more.";
 
 // Durations
-"disabled" = "Disabled";
-"1h" = "1 hour";
-"12h" = "12 hours";
-"24h" = "24 hours";
-"3d" = "3 days";
-"7d" = "7 days";
-"30d" = "30 days";
-"90d" = "90 days";
+"disabled" = "Desactivado";
+"1h" = "1 hora";
+"12h" = "12 horas";
+"24h" = "24 horas";
+"3d" = "3 días";
+"7d" = "7 días";
+"30d" = "30 días";
+"90d" = "90 días";
