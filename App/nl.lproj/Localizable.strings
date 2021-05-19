@@ -391,7 +391,7 @@
 "pro_testflight_explainer" = "Note: you're running a TestFlight build of the app, therefore payments run in Sandbox mode and do not actually process.\n\nA Pro 'license' will invalidate every few days while on a TestFlight build. If you want to purchase Pro and use the app without this annoyance, please download the app from the App Store. Thanks!";
 
 // MARK: Pro Features
-"pro_view_queries" = "Bekijk +25 queries & stel filters in";
+"pro_view_queries" = "Bekijk 25+ queries & stel filters in";
 "pro_manage_clients" = "Beheer cliënten";
 "pro_manage_filters" = "Beheer filters";
 "pro_manage_custom_filter_rules" = "Beheer aangepaste filterregels";
