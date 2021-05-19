@@ -391,7 +391,7 @@
 "pro_testflight_explainer" = "注意：您正在執行該應用程式的 TestFlight 建置，因此付款在沙盒模式下運行且實際上不處理。\n\n當於 TestFlight 建置上，Pro '授權'將每幾天便失效。如果您想要購買 Pro 並無此煩惱地使用該應用程式，請從 App Store 下載該應用程式。謝謝！";
 
 // MARK: Pro Features
-"pro_view_queries" = "檢視 +25 查詢 & 設定過濾器";
+"pro_view_queries" = "檢視 25+ 查詢 & 設定過濾器";
 "pro_manage_clients" = "管理用戶端";
 "pro_manage_filters" = "管理過濾器";
 "pro_manage_custom_filter_rules" = "管理自訂的過濾器規則";
