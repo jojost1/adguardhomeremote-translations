@@ -1,10 +1,10 @@
-AdGuard Home Remote te permite controlar tu AdGuard Home de forma rápida y fácil. Habilita o deshabilita con un solo clic las funcionalidades de filtrado y visualiza rápidamente las estádisticas de navegación. Gestiona tus clientes, filtros, reescrituras DNS y mucho más.
+AdGuard Home Remote te permite controlar tu instancia de AdGuard Home de forma fácil y rápida. Habilita o deshabilita con un solo clic las funcionalidades de filtrado y visualiza rápidamente las estádisticas de navegación. Gestiona tus clientes, filtros, reescrituras DNS y mucho más.
 
-*Controla el bloqueo*
-Puedes habilitar o deshabilitar el filtrado así como la Navegación y/o Búsqueda Segura. Tambien puedes gestionar la configuración individual de cada uno de tus clientes!
+*Controla el Filtrado*
+Puedes habilitar o deshabilitar el filtrado así como la Navegación/Búsqueda Segura. ¡Tambien puedes gestionar la configuración individual de cada uno de tus clientes!
 
 *Estadísticas*
-Visualiza gráficos del numero de peticiones así como los clientes más activos y los dominios más consultados y bloqueados. Busca entre todas las peticiones para ver todo el detalle de cada una de ellas.
+Visualiza el numero de peticiones en los gráficos disponibles así como los clientes más activos y los dominios más consultados y bloqueados. Busca entre todas las peticiones para ver todo el detalle de cada una de ellas.
 
 *Gestiona la configuración*
 
@@ -13,7 +13,7 @@ Añade o edita tus clientes, crea nuevos filtros o deshabilitalos temporalmente,
 ==
 
 Funcionalidades:
-- Controla el filtrado y la Navegación y/o Búsqueda Segura
+- Controla el filtrado y la Navegación/Búsqueda Segura
 - Revisa todas las estadísticas del sistema de un vistado o de forma detallada
 - Registro de peticiones con funcionalidad de búsqueda y filtrado
 - Gestión de los clientes: configuración de filtrado, servicios bloqueados y etiquetas (PRO)
@@ -25,7 +25,7 @@ Funcionalidades:
 - Widgets
 - Esquema de colores e icono personalizable
 - Soporta iOS, iPadOS y macOS
-- Diseño limpio y moderno 100% SwiftUI
+- Diseño moderno 100% SwiftUI
 
 * AdGuard Home Remote Pro:
 Algunas de las funcionalidades se desbloquean al realizar una compra única que servirá para financiar desarrollos futuros.
@@ -33,4 +33,4 @@ Algunas de las funcionalidades se desbloquean al realizar una compra única que 
 ==
 
 Nota:
-Adguard Home Remote es una aplicación no oficial y no tenemos ninguna relación con AdGuard. Para más información acerca de AdGuard Home, visita https://adguard.com/es/adguard-home/overview.html.
+AdGuard Home Remote es una aplicación no oficial y sin relación legal con AdGuard. Para más información acerca de AdGuard Home, visita https://adguard.com/es/adguard-home/overview.html.
