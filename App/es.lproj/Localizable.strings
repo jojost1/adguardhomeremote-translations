@@ -327,7 +327,7 @@
 "settings_help_actions" = "Acciones";
 "settings_help_logs" = "Registros";
 "settings_help_logs_footer" = "Los registros de sistema se almacenan localmente y nunca salen de tu dispositvo. Arrastra hacia abajo para cerrar el visor de registros.";
-"settings_help_logs_button" = "Mostrar Registros";
+"settings_help_logs_button" = "Mostrar registros de sistema";
 "settings_give_feedback_alert_title" = "Enviar comentarios";
 "settings_give_feedback_alert_body" = "Puedes enviarme un correo electrónico a developer@rocketscience-it.nl con cualquier comentario, fallo o sugerencia acerca de la aplicación.";
 "settings_copy_email" = "Copiar dirección de correo";
@@ -388,7 +388,7 @@
 "pro_testflight" = "TestFlight";
 "pro_beta_access_button" = "Solicitar acceso a la Beta";
 "pro_testflight_alert" = "Veo que no tienes un cliente de correo instalado en tu dispositivo, por favor, envíame un correo a developer@rocketscience-it.nl solicitando el acceso a la Beta y adjuntando una captura de esta pantalla.";
-"pro_testflight_explainer" = "Estás ejecutando la versión Beta de esta aplicación. En esta versión los pagos no son procesados.\n\nLa 'licencia' Pro se desactará pasados unos días en esta versión. Si deseas comprar Pro y utilizar la aplicación sin esta molestia, por favor, descarga la aplicación desde la App Store. ¡Gracias!";
+"pro_testflight_explainer" = "Estás ejecutando la versión Beta de esta aplicación. En esta versión los pagos no son procesados.\n\nLa 'licencia' Pro se desactivará pasados unos días en esta versión. Si deseas comprar Pro y utilizar la aplicación sin esta molestia, por favor, descarga la aplicación desde la App Store. ¡Gracias!";
 
 // MARK: Pro Features
 "pro_view_queries" = "Ampliar el listado de consultas DNS y habilitar las opciones de filtrado";
@@ -445,7 +445,7 @@
 "loading" = "Cargando";
 "loading_dots" = "Cargando...";
 "search" = "Buscar";
-"new" = "Nuevo";
+"new" = "Añadir";
 "add" = "Añadir";
 "edit" = "Editar";
 "done" = "Listo";
