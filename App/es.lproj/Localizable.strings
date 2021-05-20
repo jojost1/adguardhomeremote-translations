@@ -38,46 +38,46 @@
 "querylog_status-all" = "Todas";
 "querylog_status-processed" = "Procesadas";
 "querylog_status-filtered" = "Bloqueadas";
-"querylog_clear-filters" = "Limpiar Filtros";
+"querylog_clear-filters" = "Limpiar filtros";
 "querylog_show_queries_status" = "Mostrar consultas con estado";
 
 // MARK: Queries
 "query_status_NotFilteredNotFound" = "Procesada";
-"query_status_NotFilteredWhiteList" = "Procesada | Lista Blanca";
+"query_status_NotFilteredWhiteList" = "Procesada | Lista blanca";
 "query_status_NotFilteredError" = "Procesada | Error";
 "query_status_FilteredBlackList" = "Bloqueada | Filtro";
-"query_status_FilteredSafeBrowsing" = "Bloqueada | Navegación Segura";
-"query_status_FilteredParental" = "Bloqueada | Control Parental";
-"query_status_FilteredInvalid" = "Bloqueada | Petición Inválida";
-"query_status_FilteredSafeSearch" = "Bloqueada | Búsqueda Segura";
-"query_status_FilteredBlockedService_%@" = "Servicio Bloqueado%@";
+"query_status_FilteredSafeBrowsing" = "Bloqueada | Navegación segura";
+"query_status_FilteredParental" = "Bloqueada | Control parental";
+"query_status_FilteredInvalid" = "Bloqueada | Petición inválida";
+"query_status_FilteredSafeSearch" = "Bloqueada | Búsqueda segura";
+"query_status_FilteredBlockedService_%@" = "Servicio bloqueado%@";
 "query_status_Rewrite" = "Reescritura";
-"query_status_RewriteEtcHosts" = "Reescritura | Fichero Hosts";
+"query_status_RewriteEtcHosts" = "Reescritura | Fichero hosts";
 "query_status_RewriteRule" = "Reescritura | Regla";
 "query_status_Unknown" = "Desconocido";
-"query_copy-domain" = "Copiar Dominio";
-"query_copy-client-name" = "Copiar Nombre del Cliente";
-"query_copy-client-ip" = "Copiar IP del Cliente";
-"query_copy-client-id" = "Copiar ID del Cliente";
+"query_copy-domain" = "Copiar dominio";
+"query_copy-client-name" = "Copiar nombre del cliente";
+"query_copy-client-ip" = "Copiar IP del cliente";
+"query_copy-client-id" = "Copiar ID del cliente";
 
 // MARK: Query Detail
-"querydetail_filter_rule" = "Regla de Filtrado";
+"querydetail_filter_rule" = "Regla de filtrado";
 "querydetail_client" = "Cliente";
-"querydetail_new_client" = "Nuevo Cliente";
-"querydetail_edit_client" = "Editar Cliente";
-"querydetail_request_details" = "Detalles de la Consulta";
+"querydetail_new_client" = "Nuevo cliente";
+"querydetail_edit_client" = "Editar cliente";
+"querydetail_request_details" = "Detalles de la consulta";
 "querydetail_type" = "Tipo";
 "querydetail_class" = "Clase";
 "querydetail_plaindns" = "DNS Estándar";
 "querydetail_protocol" = "Protocolo";
-"querydetail_response_details" = "Detalle de la Respuesta";
+"querydetail_response_details" = "Detalles de la respuesta";
 "querydetail_validated_with_dnssec" = "Validado con DNSSEC";
-"querydetail_response_code" = "Código de Respuesta";
-"querydetail_response_time" = "Tiempo Transcurrido";
+"querydetail_response_code" = "Código de respuesta";
+"querydetail_response_time" = "Tiempo transcurrido";
 "querydetail_upstream" = "Servidor DNS";
-"querydetail_copy_upstream" = "Copiar Servidor DNS";
-"querydetail_block_domain" = "Bloquear Dominio";
-"querydetail_unblock_domain" = "Desbloquear Dominio";
+"querydetail_copy_upstream" = "Copiar servidor DNS";
+"querydetail_block_domain" = "Bloquear dominio";
+"querydetail_unblock_domain" = "Desbloquear dominio";
 "querydetail_answer" = "Respuesta";
 "querydetail_ttl_%lld" = "TTL %lld";
 
@@ -85,9 +85,9 @@
 "settings_tabbar" = "Configuración";
 
 // MARK: Add/Edit Instance
-"instance_add" = "Añadir Instancia";
-"instance_new" = "Nueva Instancia";
-"settings_edit_instance" = "Editar Instancia";
+"instance_add" = "Añadir instancia";
+"instance_new" = "Nueva instancia";
+"settings_edit_instance" = "Editar instancia";
 "instance_display_name" = "Nombre";
 "instance_display_name_placeholder" = "AdGuard Home";
 "instance_ip_hostname" = "Dirección IP o nombre de host";
@@ -98,10 +98,10 @@
 "instance_authentication_username_placeholder" = "Usuario";
 "instance_authentication_password_placeholder" = "Contraseña";
 "instance_other" = "Otros";
-"instance_hide" = "Ocultar Instancia";
-"instance_test_connection" = "Probar Conexión";
-"instance_remove" = "Eliminar Instancia";
-"instance_remove_alert_title" = "Eliminar Instancia";
+"instance_hide" = "Ocultar instancia";
+"instance_test_connection" = "Probar conexión";
+"instance_remove" = "Eliminar instancia";
+"instance_remove_alert_title" = "Eliminar instancia";
 "instance_remove_alert_body" = "¿Estás seguro de que deseas eliminar esta instancia?";
 "settings_validation_port" = "Por favor introduce un numero de puerto válido.";
 
@@ -113,65 +113,65 @@
 "settings_dhcp" = "DHCP";
 "settings_dns" = "DNS";
 "settings_dns_rewrites" = "Reescrituras DNS";
-"settings_query-log" = "Query Log";
+"settings_query-log" = "Consultas DNS";
 "settings_more" = "Más";
 
 // MARK: Clients
 "client_settings" = "Configuración de clientes";
-"client_new" = "Añadir Cliente";
-"client_edit" = "Editar Cliente";
-"client_remove" = "Eliminar Cliente";
+"client_new" = "Añadir cliente";
+"client_edit" = "Editar cliente";
+"client_remove" = "Eliminar cliente";
 "client_remove_alert_body" = "¿Estás seguro de que deseas eliminar este cliente?";
 "clients" = "Clientes";
 "clients_settings_label" = "Ajustes: ";
-"clients_services_label" = "Servicios Bloqueados: ";
+"clients_services_label" = "Servicios bloqueados: ";
 "clients_no_clients_found" = "No se han encontrado clientes.";
 "clients_runtime" = "Clientes (activos)";
 "clients_runtime_footer" = "Estos clientes utilizan AdGuard Home pero no tienen una configuración especifica.";
-"clients_disallowed" = "Clientes Bloqueados";
+"clients_disallowed" = "Clientes bloqueados";
 "clients_disallowed_footer" = "AdGuard Home está rechazando todas las consultas DNS de estos clientes.";
-"clients_name" = "Nombre del Cliente";
+"clients_name" = "Nombre del cliente";
 "clients_identifiers" = "Identificadores";
 "clients_identifiers_copy" = "Copiar";
 "clients_identifiers_placeholder" = "IP, CIDR, MAC, ClientID";
-"clients_identifiers_explainer" = "Los clientes se pueden identificar mediante la dirección IP, el CIDR, la dirección MAC o una ID especial de cliente (para DoT/DOH/DoQ). Solo es posible utilizar direcciones MAC si se utiliza la funcionalidad de servidor DHCP de AdGuard Home.";
+"clients_identifiers_explainer" = "Los clientes se pueden identificar mediante la dirección IP, el CIDR, la dirección MAC o una ID especial de cliente (para DoT/DoH/DoQ). Solo es posible utilizar direcciones MAC si se utiliza la funcionalidad de servidor DHCP de AdGuard Home.";
 "clients_upstreams" = "Servidores DNS";
 "clients_view_queries_from_%@" = "Ver consultas DNS de %@";
-"clients_edit_use_filter_blocking" = "Habilitar Filtrado";
-"clients_edit_use_safe_browsing" = "Habilitar Navegación Segura";
-"clients_edit_use_parental_filtering" = "Habilitar Control Parental";
-"clients_edit_use_safe_search" = "Habilitar Búsqueda Segura";
+"clients_edit_use_filter_blocking" = "Habilitar filtrado";
+"clients_edit_use_safe_browsing" = "Habilitar navegación segura";
+"clients_edit_use_parental_filtering" = "Habilitar control parental";
+"clients_edit_use_safe_search" = "Habilitar búsqueda segura";
 "clients_pro_required" = "Remote Pro es necesario para gestionar los clientes.";
 "services" = "Servicios";
-"blocked_services" = "Servicios Bloqueados";
+"blocked_services" = "Servicios bloqueados";
 "tags" = "Etiquetas";
 
 // MARK: Filtering
 "filtering_settings" = "Filtros";
 "filtering_status" = "Estado";
 "filtering_disabled" = "Desactivado";
-"filtering_disable_filter" = "Deshabilitar Filtro";
-"filtering_enable_filter" = "Habilitar Filtro";
-"filtering_enable_filtering" = "Habilitar Filtrado";
-"filtering_update_interval" = "Frecuencia de Actualización";
-"filtering_dns_blocklists" = "Listas Negras";
+"filtering_disable_filter" = "Deshabilitar filtro";
+"filtering_enable_filter" = "Habilitar filtro";
+"filtering_enable_filtering" = "Habilitar filtrado";
+"filtering_update_interval" = "Frecuencia de actualización";
+"filtering_dns_blocklists" = "Listas negras";
 "filtering_update_blocklists" = "Buscar actualizaciones";
-"filtering_dns_allowlists" = "Listas Blancas";
+"filtering_dns_allowlists" = "Listas blancas";
 "filtering_update_allowlists" = "Buscar actualizaciones";
-"filtering_updated_count_%@" = "%@ actualizado";
+"filtering_updated_count_%@" = "Listas actualizadas: %@";
 "filtering_rules_%@" = "Reglas: %@";
 "filtering_last_updated_%@" = "Última actualización: %@";
-"filtering_global_blocked_services" = "Servicios Bloqueados";
+"filtering_global_blocked_services" = "Servicios bloqueados";
 "filtering_custom_filtering_rules" = "Reglas de filtrado personalizadas";
 "filtering_rule_count_%@" = "%@ reglas";
 "filtering_check_filtered" = "Comprobar si un nombre de host está siendo filtrado";
 "filtering_pro_required" = "Remote Pro es necesario para gestionar los filtros.";
 // Add Filter
 "filtering_addfilter_list" = "Lista";
-"filtering_addfilter_blocklist" = "Lista Negra";
-"filtering_addfilter_blocklist_new" = "Nueva Lista Negra";
-"filtering_addfilter_allowlist" = "Lista Blanca";
-"filtering_addfilter_allowlist_new" = "Nueva Lista Blanca";
+"filtering_addfilter_blocklist" = "Lista negra";
+"filtering_addfilter_blocklist_new" = "Nueva lista negra";
+"filtering_addfilter_allowlist" = "Lista blanca";
+"filtering_addfilter_allowlist_new" = "Nueva lista blanca";
 "filtering_addfilter_name" = "Nombre";
 "filtering_addfilter_url" = "URL";
 "filtering_addfilter_url_placeholder" = "URL o ruta absoluta";
@@ -183,7 +183,7 @@
 "filtering_rules_delete_and_edit" = "Borrar regla y editar";
 "filtering_rules_rule" = "Regla";
 "filtering_rules_settings" = "Ajustes";
-"filtering_rules_blocking_mode" = "Modo de Bloqueo";
+"filtering_rules_blocking_mode" = "Modo de bloqueo";
 "filtering_rules_blocking_mode_block" = "Bloquear";
 "filtering_rules_blocking_mode_unblock" = "Desbloquear";
 "filtering_rules_blocking_mode_custom" = "Personalizado";
@@ -191,16 +191,16 @@
 "filtering_rules_rule_placeholder" = "Escribe un dominio...";
 "filtering_rules_examples" = "Ejemplos";
 "filtering_rules_examples_block_title" = "||example.org^";
-"filtering_rules_examples_block_subtitle" = "bloquear example.org y todos sus subdominios";
+"filtering_rules_examples_block_subtitle" = "Bloquear example.org y todos sus subdominios";
 "filtering_rules_examples_unblock_title" = "@@||example.org^";
-"filtering_rules_examples_unblock_subtitle" = "desbloquea example.org y todos sus subdominios";
+"filtering_rules_examples_unblock_subtitle" = "Desbloquea example.org y todos sus subdominios";
 "filtering_rules_examples_rewrite_title" = "127.0.0.1 example.org";
-"filtering_rules_examples_rewrite_subtitle" = "devuelve 127.0.0.1 para example.org (pero no para sus subdominios)";
+"filtering_rules_examples_rewrite_subtitle" = "Devuelve 127.0.0.1 para example.org (pero no para sus subdominios)";
 "filtering_rules_examples_comment_title1" = "! Aquí va un comentario";
 "filtering_rules_examples_comment_title2" = "# Otro comentario";
-"filtering_rules_examples_comment_subtitle" = "solo un comentario";
+"filtering_rules_examples_comment_subtitle" = "Permite añadir comentarios";
 "filtering_rules_examples_regex_title" = "/REGEX/";
-"filtering_rules_examples_regex_subtitle" = "bloquea el acceso a los dominios que coincidan con la expresión regular especificada";
+"filtering_rules_examples_regex_subtitle" = "Bloquea el acceso a los dominios que coincidan con la expresión regular especificada";
 // Check Hostname
 "filtering_check_hostname" = "Comprobar filtrado";
 "filtering_check_hostname_placeholder" = "Introduce un nombre de host...";
@@ -212,13 +212,13 @@
 // MARK: DHCP
 "dhcp_settings" = "Configuración DHCP";
 "dhcp_status" = "Estado";
-"dhcp_enable" = "Habilitar DHCP Server";
+"dhcp_enable" = "Habilitar servidor DHCP";
 "dhcp_interface" = "Interfaz";
 "dhcp_ipv4_settings" = "Ajustes IPv4";
-"dhcp_gateway_ip" = "Puerta de Enlace";
+"dhcp_gateway_ip" = "Puerta de enlace";
 "dhcp_subnet_mask" = "Máscara de subred";
 "dhcp_ip_range" = "Rango de direcciones IP";
-"dhcp_lease_time" = "Tiempo de asignación (Segundos)";
+"dhcp_lease_time" = "Tiempo de asignación (segundos)";
 "dhcp_ipv6_settings" = "Ajustes IPv6";
 "dhcp_range_start" = "Inicio del rango";
 "dhcp_static_leases" = "Asignaciones estáticas";
@@ -232,7 +232,7 @@
 "dhcp_staticlease_mac_placeholder" = "aa:0b:cd:e1:f2:34";
 "dhcp_staticlease_ip" = "Dirección IP";
 "dhcp_staticlease_ip_placeholder" = "192.168.1.10";
-"dhcp_staticlease_hostname" = "Nombre de Host";
+"dhcp_staticlease_hostname" = "Nombre de host";
 "dhcp_staticlease_hostname_placeholder" = "raspberrypi.local";
 
 // MARK: DNS
@@ -277,9 +277,9 @@
 "querylog_settings_status" = "Estado";
 "querylog_settings_enable" = "Habilitar el registro de consultas";
 "querylog_settings_options" = "Opciones";
-"querylog_settings_options_footer" = "Si se habilita la opción 'Anonimizar la IP de los clientes' evitará almacenar la IP de los clientes en los registros y estadísticas.";
+"querylog_settings_options_footer" = "Si se habilita la opción 'Anonimizar la IP de los clientes' se evitará almacenar la IP de los clientes en los registros y estadísticas.";
 "querylog_settings_anonymize" = "Anonimizar la IP de los clientes";
-"querylog_settings_log_retention" = "Retención de registros de consultas";
+"querylog_settings_log_retention" = "Tiempo de retención";
 "querylog_settings_clear" = "Borrar el registro de consultas";
 "querylog_settings_clear_alert" = "¿Estás seguro de que deseas borrar el registro de consultas?";
 "querylog_settings_cleared" = "Borrado.";
@@ -292,27 +292,27 @@
 "more_statistics_clear_alert" = "¿Estás seguro de que deseas borrar las estadísticas?";
 "more_statistics_cleared" = "Borradas.";
 "more_version" = "Versión";
-"more_version_current_%@" = "Versión Actual: %@";
+"more_version_current_%@" = "Versión actual: %@";
 "more_update_started" = "¡Se ha iniciado la actualización!";
 "more_update_to_%@" = "Actualizar a la versión %@";
 "more_checking_version" = "Comprobando actualizaciones...";
-"more_up_to_date" = "Versión más reciente instalada";
+"more_up_to_date" = "Tienes la versión más reciente instalada";
 
 // MARK: Preferences
 "settings_preferences" = "Preferencias";
 "settings_dashboard" = "Panel de control";
 "preferences_dashboard_statusbuttons" = "Botones de estado";
 "preferences_dashboard_rulefiltering" = "Bloqueo por filtros";
-"preferences_dashboard_parentalfiltering" = "Control Parental";
-"preferences_dashboard_safebrowsing" = "Navegación Segura";
-"preferences_dashboard_safesearch" = "Búsqueda Segura";
+"preferences_dashboard_parentalfiltering" = "Control parental";
+"preferences_dashboard_safebrowsing" = "Navegación segura";
+"preferences_dashboard_safesearch" = "Búsqueda segura";
 "preferences_dashboard_graphs" = "Gráficos";
 "preferences_dashboard_graph_type" = "Tipo de gráficos";
-"preferences_dashboard_graph_line" = "Línea 2D";
+"preferences_dashboard_graph_line" = "Línea";
 "preferences_dashboard_graph_bar" = "Histograma";
 "preferences_dashboard_graph_dnsqueries" = "Consultas DNS";
 "preferences_dashboard_graph_blockedbyfilters" = "Bloqueado por filtros";
-"preferences_dashboard_graph_blockedmalware" = "Bloqueado por Malware/phishing";
+"preferences_dashboard_graph_blockedmalware" = "Bloqueado por malware/phishing";
 "preferences_dashboard_graph_blockedadultwebsites" = "Sitios web para adultos bloqueados";
 "preferences_dashboard_show_section" = "Mostrar sección";
 "preferences_dashboard_number_of_clients" = "Numero de clientes";
@@ -321,7 +321,7 @@
 "preferences_language" = "Idioma";
 
 // MARK: Help
-"settings_help" = "Ayuda y Comentarios";
+"settings_help" = "Ayuda y comentarios";
 "settings_help_navbar" = "Soporte";
 "settings_help_contact" = "Contacta conmigo";
 "settings_help_actions" = "Acciones";
@@ -350,7 +350,7 @@
 "design_app_tint_orange" = "Naranja";
 "design_app_tint_purple" = "Morado";
 "design_app_tint_yellow" = "Amarillo";
-"design_app_icon" = "Icono de la Aplicación";
+"design_app_icon" = "Icono de la aplicación";
 "design_app_icon_original" = "Original";
 "design_app_icon_inverse" = "Invertido";
 "design_app_icon_dark" = "Oscuro";
@@ -358,7 +358,7 @@
 "design_system_setting" = "Utilizar la configuración del sistema";
 "design_always_lightmode" = "Siempre en modo claro";
 "design_always_darkmode" = "Siempre en modo oscuro";
-"design_restart_required" = "Cambiar el color de realce requiere reiniciar la aplicación.";
+"design_restart_required" = "Cambiar esta opción requiere reiniciar la aplicación.";
 
 // MARK: Changelog
 "changelog_just_updated" = "¡Recién actualizado!";
@@ -388,17 +388,17 @@
 "pro_testflight" = "TestFlight";
 "pro_beta_access_button" = "Solicitar acceso a la Beta";
 "pro_testflight_alert" = "Veo que no tienes un cliente de correo instalado en tu dispositivo, por favor, envíame un correo a developer@rocketscience-it.nl solicitando el acceso a la Beta y adjuntando una captura de esta pantalla.";
-"pro_testflight_explainer" = "Nota: estás ejecutando la versión Beta de esta aplicación, por este motivo los pagos no se procesan.\n\nLa 'licencia' Pro se inhabilitará pasados unos días en la versión Beta. Si deseas comprar Pro y utilizar la aplicación sin esta molestia, por favor, descarga la aplicación desde la App Store. ¡Gracias!";
+"pro_testflight_explainer" = "Estás ejecutando la versión Beta de esta aplicación. En esta versión los pagos no son procesados.\n\nLa 'licencia' Pro se desactará pasados unos días en esta versión. Si deseas comprar Pro y utilizar la aplicación sin esta molestia, por favor, descarga la aplicación desde la App Store. ¡Gracias!";
 
 // MARK: Pro Features
-"pro_view_queries" = "Ver más de 25 consultas DNS y definir filtros";
-"pro_manage_clients" = "Gestionar Clientes";
-"pro_manage_filters" = "Gestionar Filtros";
+"pro_view_queries" = "Ampliar el listado de consultas DNS y habilitar las opciones de filtrado";
+"pro_manage_clients" = "Gestionar clientes";
+"pro_manage_filters" = "Gestionar filtros";
 "pro_manage_custom_filter_rules" = "Gestionar las reglas de filtrado personalizadas";
 "pro_manage_dhcp" = "Gestionar los ajustes DHCP";
 "pro_manage_dns" = "Gestionar los ajustes DNS";
 "pro_manage_rewrites" = "Gestionar las reescrituras DNS";
-"pro_support_multiple_instances" = "Gestionar múltiples instancias de AdGuard";
+"pro_support_multiple_instances" = "Gestionar múltiples instancias de AdGuard Home";
 "pro_alternative_icons" = "Iconos alternativos";
 "pro_beta_access" = "Acceso a la versión Beta en TestFlight";
 
@@ -415,13 +415,13 @@
 // MARK: RocketScience
 "settings_rocketscience" = "Creado por RocketScience";
 "rocketscience_hi_title" = "¡Hola, soy Joost!";
-"rocketscience_hi_subtitle" = "En Junio de 2020 empecé a desarrollar aplicaciones como un desarrollador autónomo bajo el nombre 'RocketScience IT'.\n\nMi principal objetivo es aprender: diseño, desarrollo, pruebas, soporte, promoción y mucho más. Ahora mismo tengo dos aplicaciones en la App Store que voy mejorando regularmente. También tengos muchas ideas para aplicaciones que quizás acabe creando en un futuro.";
+"rocketscience_hi_subtitle" = "En Junio de 2020 empecé a desarrollar aplicaciones como desarrollador autónomo bajo el nombre 'RocketScience IT'.\n\nMi principal objetivo es aprender diseño, desarrollo, pruebas, soporte, promoción y mucho más. Ahora mismo tengo dos aplicaciones en la App Store que voy mejorando regularmente. También tengo muchas ideas para nuevas aplicaciones que quizás acabe creando en un futuro.";
 "rocketscience_website" = "Página Web";
 "rocketscience_twitter" = "Twitter";
 "rocketscience_tipjar" = "Propinas";
 "rocketscience_tipjar_thankyou" = "¡Gracias!";
 "rocketscience_my_other_apps" = "Mis otras aplicaciones";
-"rocketscience_piholeremote_subtitle" = "Pi-hole bajo control.";
+"rocketscience_piholeremote_subtitle" = "Tu Pi-hole bajo control.";
 "rocketscience_acknoledgements" = "Agradecimientos especiales a";
 
 // MARK: Tip Jar
@@ -439,7 +439,7 @@
 "tipjar_love_alert" = "Muchas gracias, aprecio de todo corazón que te guste tanto la aplicación que hayas decidido dejar una propina. Esto me motiva mucho. ¡Te quiero!\n\nJoost";
 "tipjar_blush" = "*blush*";
 "tipjar_payment_success" = "Pago procesado";
-"tipjar_testflight_explainer" = "Nota: estás ejecutando la versión Beta de esta aplicacion, por este motivo los pagos no se procesan.\n\nLa 'licencia' Pro se inhabilitará pasados unos días en la versión Beta. Si deseas dejar una propina, por favor, descarga la aplicación desde la App Store. ¡Gracias!";
+"tipjar_testflight_explainer" = "Estás ejecutando la versión Beta de esta aplicación. En esta versión los pagos no son procesados.\n\nSi deseas dejar una propina, por favor, descarga la aplicación desde la App Store. ¡Gracias!";
 
 // MARK: - Other
 "loading" = "Cargando";
@@ -468,11 +468,11 @@
 "all" = "Todo";
 "search" = "Buscar";
 "global" = "Global";
-"use_global_settings" = "Usar ajustes Globales";
+"use_global_settings" = "Usar ajustes globales";
 "custom" = "Personalizar";
 "other" = "Otro";
 "name" = "Nombre";
-"none_dot" = "Ninguno.";
+"none_dot" = "Sin definir.";
 "manage" = "Gestionar";
 "tap_to_learn_more" = "Pulsa para ver más detalles.";
 
