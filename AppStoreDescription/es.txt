@@ -1,24 +1,23 @@
-AdGuard Home Remote te permite controlar tu instancia de AdGuard Home de forma fácil y rápida. Habilita o deshabilita con un solo clic las funcionalidades de filtrado y visualiza rápidamente las estádisticas de navegación. Gestiona tus clientes, filtros, reescrituras DNS y mucho más.
+AdGuard Home Remote te permite controlar tu instancia de AdGuard Home de forma fácil y rápida. Habilita o deshabilita con un solo clic las funcionalidades de filtrado y visualiza rápidamente las estadísticas de navegación. Gestiona tus clientes, filtros, reescrituras DNS y mucho más.
 
 *Controla el Filtrado*
-Puedes habilitar o deshabilitar el filtrado así como la Navegación/Búsqueda Segura. ¡Tambien puedes gestionar la configuración individual de cada uno de tus clientes!
+Puedes habilitar o deshabilitar el filtrado, así como la Navegación/Búsqueda Segura. ¡También puedes gestionar la configuración individual de cada uno de tus clientes!
 
 *Estadísticas*
-Visualiza el numero de peticiones en los gráficos disponibles así como los clientes más activos y los dominios más consultados y bloqueados. Busca entre todas las peticiones para ver todo el detalle de cada una de ellas.
+Visualiza el numero de consultas DNS en los gráficos disponibles, así como los clientes más activos y los dominios más consultados y bloqueados. Busca entre todas las consultas DNS y visualiza todos sus detalles.
 
 *Gestiona la configuración*
-
-Añade o edita tus clientes, crea nuevos filtros o deshabilitalos temporalmente, actualiza las listas de dominios, edita los servicios restringidos, gestiona la configuración DHCP o DNS, crea nuevas entradas DNS o edita las opciones del registro de peticiones.
+Añade o edita tus clientes, crea nuevos filtros o deshabilítalos temporalmente, actualiza las listas de dominios, edita los servicios restringidos, gestiona la configuración DHCP o DNS, crea nuevas entradas DNS o edita las opciones del registro de consultas.
 
 ==
 
 Funcionalidades:
-- Controla el filtrado y la Navegación/Búsqueda Segura
-- Revisa todas las estadísticas del sistema de un vistado o de forma detallada
-- Registro de peticiones con funcionalidad de búsqueda y filtrado
+- Habilita o deshabilita con un clic el filtrado y la navegación/búsqueda Segura
+- Revisa todas las estadísticas del sistema de forma rápida y consulta también el detalle al completo
+- Registro de consultas DNS con funcionalidad de búsqueda y filtrado
 - Gestión de los clientes: configuración de filtrado, servicios bloqueados y etiquetas (PRO)
-- Gestión de los Filtros: gestión de la lista blanca/negra y las reglas de filtrado personalizdas (PRO)
-- Gestión de la configuración DHCP incluyendo asignaciones estáticas (PRO)
+- Gestión de los Filtros: gestión de las listas blanca y negra, así como de las reglas de filtrado personalizadas (PRO)
+- Gestión de la configuración DHCP incluyendo las asignaciones estáticas (PRO)
 - Gestión de la configuración DNS (PRO)
 - Gestión de las reescrituras DNS (PRO)
 - Soporte para múltiples instancias (PRO)
@@ -28,7 +27,7 @@ Funcionalidades:
 - Diseño moderno 100% SwiftUI
 
 * AdGuard Home Remote Pro:
-Algunas de las funcionalidades se desbloquean al realizar una compra única que servirá para financiar desarrollos futuros.
+Algunas de las funcionalidades se desbloquean al realizar una compra única que servirá para financiar el desarrollo futuro de esta aplicación.
 
 ==
 
