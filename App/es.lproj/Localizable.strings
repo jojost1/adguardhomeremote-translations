@@ -25,10 +25,10 @@
 // MARK: - Query Log
 "querylog_tabbar" = "Consultas DNS";
 "querylog_query" = "Consulta";
-"querylog_no-queries" = "No se han encontrado resultados.";
-"querylog_cannot-find-queries" = "No se han podido encontrar consultas DNS.";
-"querylog_pro" = "Es necesaria actualizar a Remote Pro para ver más consultas DNS.";
-"querylog_sidebar_explainer" = "Selecciona una consulta DNS del listado para ver más detalles.";
+"querylog_no-queries" = "No se han encontrado resultados";
+"querylog_cannot-find-queries" = "No se han podido encontrar consultas DNS";
+"querylog_pro" = "Es necesario actualizar a Remote Pro para ver más consultas DNS";
+"querylog_sidebar_explainer" = "Selecciona una consulta DNS del listado para ver más detalles";
 
 // MARK: Filter
 "querylog_filter" = "Filtro";
@@ -103,7 +103,7 @@
 "instance_remove" = "Eliminar instancia";
 "instance_remove_alert_title" = "Eliminar instancia";
 "instance_remove_alert_body" = "¿Estás seguro de que deseas eliminar esta instancia?";
-"settings_validation_port" = "Por favor introduce un número de puerto válido.";
+"settings_validation_port" = "Por favor introduce un número de puerto válido";
 
 // MARK: Instance Settings
 "settings_add-instance" = "Añadir Instancia";
@@ -141,7 +141,7 @@
 "clients_edit_use_safe_browsing" = "Habilitar navegación segura";
 "clients_edit_use_parental_filtering" = "Habilitar control parental";
 "clients_edit_use_safe_search" = "Habilitar búsqueda segura";
-"clients_pro_required" = "Remote Pro es necesario para gestionar los clientes.";
+"clients_pro_required" = "Es necesario actualizar a Remote Pro para gestionar los clientes";
 "services" = "Servicios";
 "blocked_services" = "Servicios bloqueados";
 "tags" = "Etiquetas";
@@ -165,14 +165,14 @@
 "filtering_custom_filtering_rules" = "Reglas de filtrado personalizadas";
 "filtering_rule_count_%@" = "%@ reglas";
 "filtering_check_filtered" = "Comprobar si un nombre de host está siendo filtrado";
-"filtering_pro_required" = "Remote Pro es necesario para gestionar los filtros.";
+"filtering_pro_required" = "Es necesario actualizar a Remote Pro para gestionar los filtros";
 // Add Filter
-"filtering_addfilter_list" = "Lista";
+"filtering_addfilter_list" = "Tipo de lista";
 "filtering_addfilter_blocklist" = "Lista negra";
-"filtering_addfilter_blocklist_new" = "Nueva lista negra";
+"filtering_addfilter_blocklist_new" = "Añadir lista negra";
 "filtering_addfilter_allowlist" = "Lista blanca";
-"filtering_addfilter_allowlist_new" = "Nueva lista blanca";
-"filtering_addfilter_name" = "Nombre";
+"filtering_addfilter_allowlist_new" = "Añadir lista blanca";
+"filtering_addfilter_name" = "Nombre descriptivo";
 "filtering_addfilter_url" = "URL";
 "filtering_addfilter_url_placeholder" = "URL o ruta absoluta";
 // Custom Rules
@@ -225,7 +225,7 @@
 "dhcp_remove_lease" = "Eliminar";
 "dhcp_leases" = "Asignaciones";
 "dhcp_lease_create" = "Añadir asignación estática";
-"dhcp_pro_required" = "Remote Pro es necesario para gestionar los ajustes DHCP.";
+"dhcp_pro_required" = "Es necesario actualizar a Remote Pro para gestionar los ajustes DHCP";
 // New Static Lease
 "dhcp_staticlease_new" = "Nueva asignación estática";
 "dhcp_staticlease_mac" = "Dirección MAC";
@@ -261,7 +261,7 @@
 "dns_cache_size" = "Tamaño";
 "dns_override_minimum_ttl" = "TTL mínimo";
 "dns_override_maximum_ttl" = "TTL máximo";
-"dns_pro_required" = "Remote Pro es necesario para gestionar la configuración DNS.";
+"dns_pro_required" = "Es necesario actualizar a Remote Pro para gestionar la configuración DNS";
 
 // MARK: DNS Rewrites
 "dnsrewrites_entries" = "Reescrituras DNS";
@@ -271,7 +271,7 @@
 "dnsrewrites_domain_placeholder" = "Dominio o comodín";
 "dnsrewrites_answer" = "Respuesta";
 "dnsrewrites_answer_placeholder" = "IP o nombre de dominio";
-"dnsrewrites_pro_required" = "Remote Pro es necesario para gestionar las reescrituras DNS.";
+"dnsrewrites_pro_required" = "Es necesario actualizar a Remote Pro para gestionar las reescrituras DNS";
 
 // MARK: Query Log
 "querylog_settings_status" = "Estado";
@@ -282,7 +282,7 @@
 "querylog_settings_log_retention" = "Tiempo de retención";
 "querylog_settings_clear" = "Borrar el registro de consultas";
 "querylog_settings_clear_alert" = "¿Estás seguro de que deseas borrar el registro de consultas?";
-"querylog_settings_cleared" = "Borrado.";
+"querylog_settings_cleared" = "Borrado";
 
 // MARK: More
 "more_statistics" = "Estadísticas";
@@ -290,7 +290,7 @@
 "more_statistics_retention" = "Retención de estadísticas";
 "more_statistics_clear" = "Borrar estadísticas";
 "more_statistics_clear_alert" = "¿Estás seguro de que deseas borrar las estadísticas?";
-"more_statistics_cleared" = "Borradas.";
+"more_statistics_cleared" = "Borradas";
 "more_version" = "Versión";
 "more_version_current_%@" = "Versión actual: %@";
 "more_update_started" = "¡Se ha iniciado la actualización!";
@@ -459,9 +459,9 @@
 "ok" = "Aceptar";
 "cancel" = "Cancelar";
 "settings" = "Ajustes";
-"cannot_reach_instance" = "No se puede contactar con la instancia.";
+"cannot_reach_instance" = "No se puede contactar con la instancia";
 "not_responding" = "Sin respuesta";
-"something_went_wrong" = "Ha ocurrido un error.";
+"something_went_wrong" = "Ha ocurrido un error";
 "something_went_wrong_alert" = "Ha ocurrido un error";
 "error" = "Error";
 "unknown_error" = "Error desconocido";
@@ -479,7 +479,7 @@
 "name" = "Nombre";
 "none_dot" = "Sin definir";
 "manage" = "Gestionar";
-"tap_to_learn_more" = "Pulsa para ver más detalles.";
+"tap_to_learn_more" = "Pulsa para ver más detalles";
 
 // Durations
 "disabled" = "Desactivado";
