@@ -25,10 +25,10 @@
 // MARK: - Query Log
 "querylog_tabbar" = "Consultas DNS";
 "querylog_query" = "Consulta";
-"querylog_no-queries" = "No se han encontrado resultados.";
-"querylog_cannot-find-queries" = "No se han podido encontrar consultas DNS.";
-"querylog_pro" = "Es necesaria actualizar a Remote Pro para ver más consultas DNS.";
-"querylog_sidebar_explainer" = "Selecciona una consulta DNS del listado para ver más detalles.";
+"querylog_no-queries" = "No se han encontrado resultados";
+"querylog_cannot-find-queries" = "No se han podido encontrar consultas DNS";
+"querylog_pro" = "Es necesario actualizar a Remote Pro para ver más consultas DNS";
+"querylog_sidebar_explainer" = "Selecciona una consulta DNS del listado para ver más detalles";
 
 // MARK: Filter
 "querylog_filter" = "Filtro";
@@ -103,7 +103,7 @@
 "instance_remove" = "Eliminar instancia";
 "instance_remove_alert_title" = "Eliminar instancia";
 "instance_remove_alert_body" = "¿Estás seguro de que deseas eliminar esta instancia?";
-"settings_validation_port" = "Por favor introduce un numero de puerto válido.";
+"settings_validation_port" = "Por favor introduce un número de puerto válido";
 
 // MARK: Instance Settings
 "settings_add-instance" = "Añadir Instancia";
@@ -141,7 +141,7 @@
 "clients_edit_use_safe_browsing" = "Habilitar navegación segura";
 "clients_edit_use_parental_filtering" = "Habilitar control parental";
 "clients_edit_use_safe_search" = "Habilitar búsqueda segura";
-"clients_pro_required" = "Remote Pro es necesario para gestionar los clientes.";
+"clients_pro_required" = "Es necesario actualizar a Remote Pro para gestionar los clientes";
 "services" = "Servicios";
 "blocked_services" = "Servicios bloqueados";
 "tags" = "Etiquetas";
@@ -165,14 +165,14 @@
 "filtering_custom_filtering_rules" = "Reglas de filtrado personalizadas";
 "filtering_rule_count_%@" = "%@ reglas";
 "filtering_check_filtered" = "Comprobar si un nombre de host está siendo filtrado";
-"filtering_pro_required" = "Remote Pro es necesario para gestionar los filtros.";
+"filtering_pro_required" = "Es necesario actualizar a Remote Pro para gestionar los filtros";
 // Add Filter
-"filtering_addfilter_list" = "Lista";
+"filtering_addfilter_list" = "Tipo de lista";
 "filtering_addfilter_blocklist" = "Lista negra";
-"filtering_addfilter_blocklist_new" = "Nueva lista negra";
+"filtering_addfilter_blocklist_new" = "Añadir lista negra";
 "filtering_addfilter_allowlist" = "Lista blanca";
-"filtering_addfilter_allowlist_new" = "Nueva lista blanca";
-"filtering_addfilter_name" = "Nombre";
+"filtering_addfilter_allowlist_new" = "Añadir lista blanca";
+"filtering_addfilter_name" = "Nombre descriptivo";
 "filtering_addfilter_url" = "URL";
 "filtering_addfilter_url_placeholder" = "URL o ruta absoluta";
 // Custom Rules
@@ -225,7 +225,7 @@
 "dhcp_remove_lease" = "Eliminar";
 "dhcp_leases" = "Asignaciones";
 "dhcp_lease_create" = "Añadir asignación estática";
-"dhcp_pro_required" = "Remote Pro es necesario para gestionar los ajustes DHCP.";
+"dhcp_pro_required" = "Es necesario actualizar a Remote Pro para gestionar los ajustes DHCP";
 // New Static Lease
 "dhcp_staticlease_new" = "Nueva asignación estática";
 "dhcp_staticlease_mac" = "Dirección MAC";
@@ -261,7 +261,7 @@
 "dns_cache_size" = "Tamaño";
 "dns_override_minimum_ttl" = "TTL mínimo";
 "dns_override_maximum_ttl" = "TTL máximo";
-"dns_pro_required" = "Remote Pro es necesario para gestionar la configuración DNS.";
+"dns_pro_required" = "Es necesario actualizar a Remote Pro para gestionar la configuración DNS";
 
 // MARK: DNS Rewrites
 "dnsrewrites_entries" = "Reescrituras DNS";
@@ -271,7 +271,7 @@
 "dnsrewrites_domain_placeholder" = "Dominio o comodín";
 "dnsrewrites_answer" = "Respuesta";
 "dnsrewrites_answer_placeholder" = "IP o nombre de dominio";
-"dnsrewrites_pro_required" = "Remote Pro es necesario para gestionar las reescrituras DNS.";
+"dnsrewrites_pro_required" = "Es necesario actualizar a Remote Pro para gestionar las reescrituras DNS";
 
 // MARK: Query Log
 "querylog_settings_status" = "Estado";
@@ -282,7 +282,7 @@
 "querylog_settings_log_retention" = "Tiempo de retención";
 "querylog_settings_clear" = "Borrar el registro de consultas";
 "querylog_settings_clear_alert" = "¿Estás seguro de que deseas borrar el registro de consultas?";
-"querylog_settings_cleared" = "Borrado.";
+"querylog_settings_cleared" = "Borrado";
 
 // MARK: More
 "more_statistics" = "Estadísticas";
@@ -290,7 +290,7 @@
 "more_statistics_retention" = "Retención de estadísticas";
 "more_statistics_clear" = "Borrar estadísticas";
 "more_statistics_clear_alert" = "¿Estás seguro de que deseas borrar las estadísticas?";
-"more_statistics_cleared" = "Borradas.";
+"more_statistics_cleared" = "Borradas";
 "more_version" = "Versión";
 "more_version_current_%@" = "Versión actual: %@";
 "more_update_started" = "¡Se ha iniciado la actualización!";
@@ -315,8 +315,8 @@
 "preferences_dashboard_graph_blockedmalware" = "Bloqueado por malware/phishing";
 "preferences_dashboard_graph_blockedadultwebsites" = "Sitios web para adultos bloqueados";
 "preferences_dashboard_show_section" = "Mostrar sección";
-"preferences_dashboard_number_of_clients" = "Numero de clientes";
-"preferences_dashboard_number_of_domains" = "Numero de dominios";
+"preferences_dashboard_number_of_clients" = "Número de clientes";
+"preferences_dashboard_number_of_domains" = "Número de dominios";
 "preferences_other" = "Otros";
 "preferences_language" = "Idioma";
 
@@ -366,12 +366,12 @@
 "design_restart_required" = "Cambiar esta opción requiere reiniciar la aplicación.";
 
 // MARK: Changelog
-"changelog_just_updated" = "¡Recién actualizado!";
+"changelog_just_updated" = "¡Novedades!";
 "changelog_current_version" = "Versión más reciente";
 "changelog_whats_new" = "Novedades";
 "changelog_continue" = "Continuar";
-"changelog_show_on_app_update" = "Mostrar novedades al actualizar la aplicación";
-"changelog_show_on_app_update_footer" = "El listado de novedades solo se mostrará cuando se incorporen nuevas funcionalidades.";
+"changelog_show_on_app_update" = "Mostrar lista de cambios al actualizar la aplicación";
+"changelog_show_on_app_update_footer" = "El listado de cambios solo se mostrará cuando se incorporen nuevas funcionalidades.";
 "changelog_settings" = "Ajustes";
 
 // MARK: - Pro
@@ -389,7 +389,7 @@
 "pro_restore_purchase" = "Restaurar Compra";
 "pro_restored" = "¡Pro activado!";
 "pro_restore_failed" = "La activación de Pro ha fallado";
-"pro_restore_nothing" = "Nada a activar";
+"pro_restore_nothing" = "Nada a restaurar";
 "pro_testflight" = "TestFlight";
 "pro_beta_access_button" = "Solicitar acceso a la Beta";
 "pro_testflight_alert" = "Veo que no tienes un cliente de correo instalado en tu dispositivo, por favor, envíame un correo a developer@rocketscience-it.nl solicitando el acceso a la Beta y adjuntando una captura de esta pantalla.";
@@ -397,8 +397,8 @@
 
 // MARK: Pro Features
 "pro_view_queries" = "Ampliar el listado de consultas DNS y habilitar las opciones de filtrado";
-"pro_manage_clients" = "Gestionar clientes";
-"pro_manage_filters" = "Gestionar filtros";
+"pro_manage_clients" = "Gestionar los clientes";
+"pro_manage_filters" = "Gestionar los filtros";
 "pro_manage_custom_filter_rules" = "Gestionar las reglas de filtrado personalizadas";
 "pro_manage_dhcp" = "Gestionar los ajustes DHCP";
 "pro_manage_dns" = "Gestionar los ajustes DNS";
@@ -459,9 +459,9 @@
 "ok" = "Aceptar";
 "cancel" = "Cancelar";
 "settings" = "Ajustes";
-"cannot_reach_instance" = "No se puede contactar con la instancia.";
+"cannot_reach_instance" = "No se puede contactar con la instancia";
 "not_responding" = "Sin respuesta";
-"something_went_wrong" = "Ha ocurrido un error.";
+"something_went_wrong" = "Ha ocurrido un error";
 "something_went_wrong_alert" = "Ha ocurrido un error";
 "error" = "Error";
 "unknown_error" = "Error desconocido";
@@ -475,11 +475,11 @@
 "global" = "Global";
 "use_global_settings" = "Usar ajustes globales";
 "custom" = "Personalizar";
-"other" = "Otro";
+"other" = "Otros";
 "name" = "Nombre";
-"none_dot" = "Sin definir.";
+"none_dot" = "Sin definir";
 "manage" = "Gestionar";
-"tap_to_learn_more" = "Pulsa para ver más detalles.";
+"tap_to_learn_more" = "Pulsa para ver más detalles";
 
 // Durations
 "disabled" = "Desactivado";
