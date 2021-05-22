@@ -347,9 +347,13 @@
 "design_app_tint" = "App-Farbe";
 "design_app_tint_green" = "Grün";
 "design_app_tint_blue" = "Blau";
-"design_app_tint_orange" = "Orange";
+"design_app_tint_indigo" = "Indigo";
 "design_app_tint_purple" = "Lila";
+"design_app_tint_teal" = "Blaugrün";
 "design_app_tint_yellow" = "Gelb";
+"design_app_tint_orange" = "Orange";
+"design_app_tint_pink" = "Rosa";
+"design_app_tint_red" = "Rot";
 "design_app_icon" = "App-Icon";
 "design_app_icon_original" = "Original";
 "design_app_icon_inverse" = "Umgekehrt";
