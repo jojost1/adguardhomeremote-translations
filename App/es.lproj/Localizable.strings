@@ -103,7 +103,7 @@
 "instance_remove" = "Eliminar instancia";
 "instance_remove_alert_title" = "Eliminar instancia";
 "instance_remove_alert_body" = "¿Estás seguro de que deseas eliminar esta instancia?";
-"settings_validation_port" = "Por favor introduce un numero de puerto válido.";
+"settings_validation_port" = "Por favor introduce un número de puerto válido.";
 
 // MARK: Instance Settings
 "settings_add-instance" = "Añadir Instancia";
@@ -315,8 +315,8 @@
 "preferences_dashboard_graph_blockedmalware" = "Bloqueado por malware/phishing";
 "preferences_dashboard_graph_blockedadultwebsites" = "Sitios web para adultos bloqueados";
 "preferences_dashboard_show_section" = "Mostrar sección";
-"preferences_dashboard_number_of_clients" = "Numero de clientes";
-"preferences_dashboard_number_of_domains" = "Numero de dominios";
+"preferences_dashboard_number_of_clients" = "Número de clientes";
+"preferences_dashboard_number_of_domains" = "Número de dominios";
 "preferences_other" = "Otros";
 "preferences_language" = "Idioma";
 
