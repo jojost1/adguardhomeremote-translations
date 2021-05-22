@@ -344,6 +344,7 @@
 "design_color_scheme" = "顏色配置";
 "design_color_scheme_default" = "預設";
 "design_color_scheme_adguard" = "AdGuard";
+"design_color_scheme_pastel" = "Pastel";
 "design_app_tint" = "應用程式色調";
 "design_app_tint_green" = "綠色";
 "design_app_tint_blue" = "藍色";

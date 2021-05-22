@@ -344,6 +344,7 @@
 "design_color_scheme" = "色彩方案";
 "design_color_scheme_default" = "默认";
 "design_color_scheme_adguard" = "AdGuard";
+"design_color_scheme_pastel" = "Pastel";
 "design_app_tint" = "App 控件颜色";
 "design_app_tint_green" = "绿色";
 "design_app_tint_blue" = "蓝色";

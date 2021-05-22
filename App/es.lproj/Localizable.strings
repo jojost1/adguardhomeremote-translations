@@ -344,6 +344,7 @@
 "design_color_scheme" = "Esquema de colores";
 "design_color_scheme_default" = "Predeterminado";
 "design_color_scheme_adguard" = "AdGuard";
+"design_color_scheme_pastel" = "Pastel";
 "design_app_tint" = "Color de realce";
 "design_app_tint_green" = "Verde";
 "design_app_tint_blue" = "Azul";

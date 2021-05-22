@@ -344,6 +344,7 @@
 "design_color_scheme" = "Farbschema";
 "design_color_scheme_default" = "Standard";
 "design_color_scheme_adguard" = "AdGuard";
+"design_color_scheme_pastel" = "Pastel";
 "design_app_tint" = "App-Farbe";
 "design_app_tint_green" = "Grün";
 "design_app_tint_blue" = "Blau";
