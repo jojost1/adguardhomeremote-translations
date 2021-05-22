@@ -361,12 +361,12 @@
 "design_restart_required" = "Cambiar esta opción requiere reiniciar la aplicación.";
 
 // MARK: Changelog
-"changelog_just_updated" = "¡Recién actualizado!";
+"changelog_just_updated" = "¡Novedades!";
 "changelog_current_version" = "Versión más reciente";
 "changelog_whats_new" = "Novedades";
 "changelog_continue" = "Continuar";
-"changelog_show_on_app_update" = "Mostrar novedades al actualizar la aplicación";
-"changelog_show_on_app_update_footer" = "El listado de novedades solo se mostrará cuando se incorporen nuevas funcionalidades.";
+"changelog_show_on_app_update" = "Mostrar lista de cambios al actualizar la aplicación";
+"changelog_show_on_app_update_footer" = "El listado de cambios solo se mostrará cuando se incorporen nuevas funcionalidades.";
 "changelog_settings" = "Ajustes";
 
 // MARK: - Pro
@@ -384,7 +384,7 @@
 "pro_restore_purchase" = "Restaurar Compra";
 "pro_restored" = "¡Pro activado!";
 "pro_restore_failed" = "La activación de Pro ha fallado";
-"pro_restore_nothing" = "Nada a activar";
+"pro_restore_nothing" = "Nada a restaurar";
 "pro_testflight" = "TestFlight";
 "pro_beta_access_button" = "Solicitar acceso a la Beta";
 "pro_testflight_alert" = "Veo que no tienes un cliente de correo instalado en tu dispositivo, por favor, envíame un correo a developer@rocketscience-it.nl solicitando el acceso a la Beta y adjuntando una captura de esta pantalla.";
@@ -392,8 +392,8 @@
 
 // MARK: Pro Features
 "pro_view_queries" = "Ampliar el listado de consultas DNS y habilitar las opciones de filtrado";
-"pro_manage_clients" = "Gestionar clientes";
-"pro_manage_filters" = "Gestionar filtros";
+"pro_manage_clients" = "Gestionar los clientes";
+"pro_manage_filters" = "Gestionar los filtros";
 "pro_manage_custom_filter_rules" = "Gestionar las reglas de filtrado personalizadas";
 "pro_manage_dhcp" = "Gestionar los ajustes DHCP";
 "pro_manage_dns" = "Gestionar los ajustes DNS";
@@ -470,9 +470,9 @@
 "global" = "Global";
 "use_global_settings" = "Usar ajustes globales";
 "custom" = "Personalizar";
-"other" = "Otro";
+"other" = "Otros";
 "name" = "Nombre";
-"none_dot" = "Sin definir.";
+"none_dot" = "Sin definir";
 "manage" = "Gestionar";
 "tap_to_learn_more" = "Pulsa para ver más detalles.";
 
