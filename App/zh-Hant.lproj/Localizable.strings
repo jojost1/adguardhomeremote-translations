@@ -152,6 +152,9 @@
 "filtering_disabled" = "已禁用";
 "filtering_disable_filter" = "禁用過濾器";
 "filtering_enable_filter" = "啟用過濾器";
+"filtering_edit_filter" = "Edit Filter";
+"filtering_edit_filter_name" = "名稱";
+"filtering_edit_filter_url" = "網址";
 "filtering_enable_filtering" = "啟用過濾";
 "filtering_update_interval" = "更新間隔";
 "filtering_dns_blocklists" = "DNS 封鎖清單";

@@ -152,6 +152,9 @@
 "filtering_disabled" = "Desactivado";
 "filtering_disable_filter" = "Deshabilitar filtro";
 "filtering_enable_filter" = "Habilitar filtro";
+"filtering_edit_filter" = "Edit Filter";
+"filtering_edit_filter_name" = "Nombre descriptivo";
+"filtering_edit_filter_url" = "URL";
 "filtering_enable_filtering" = "Habilitar filtrado";
 "filtering_update_interval" = "Frecuencia de actualización";
 "filtering_dns_blocklists" = "Listas negras";

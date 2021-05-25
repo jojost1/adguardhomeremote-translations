@@ -153,6 +153,9 @@
 "filtering_disable_filter" = "Schakel filter uit";
 "filtering_enable_filter" = "Schakel filter in";
 "filtering_enable_filtering" = "Schakel filtering in";
+"filtering_edit_filter" = "Bewerk filter";
+"filtering_edit_filter_name" = "Naam";
+"filtering_edit_filter_url" = "URL";
 "filtering_update_interval" = "Update frequentie";
 "filtering_dns_blocklists" = "DNS Blokkeerlijsten";
 "filtering_update_blocklists" = "Update blokkeerlijsten";
