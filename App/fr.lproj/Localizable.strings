@@ -38,7 +38,7 @@
 "querylog_status-all" = "Tous";
 "querylog_status-processed" = "Traité";
 "querylog_status-filtered" = "Bloqué";
-"querylog_clear-filters" = "Supprimer les filtres";
+"querylog_clear-filtered" = "Supprimer les filtres";
 "querylog_show_queries_status" = "Afficher les requêtes avec le statut";
 
 // MARK: Queries

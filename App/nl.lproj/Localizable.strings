@@ -38,7 +38,7 @@
 "querylog_status-all" = "Alles";
 "querylog_status-processed" = "Verwerkt";
 "querylog_status-filtered" = "Gefilterd";
-"querylog_clear-filters" = "Verwijder filters";
+"querylog_clear-filtered" = "Verwijder filters";
 "querylog_show_queries_status" = "Laat queries zien met status";
 
 // MARK: Queries

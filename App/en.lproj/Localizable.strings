@@ -38,7 +38,7 @@
 "querylog_status-all" = "All";
 "querylog_status-processed" = "Processed";
 "querylog_status-filtered" = "Filtered";
-"querylog_clear-filters" = "Clear Filters";
+"querylog_clear-filtered" = "Clear Filtered";
 "querylog_show_queries_status" = "Show queries with status";
 
 // MARK: Queries
@@ -299,7 +299,7 @@
 "more_update_started" = "Update Started!";
 "more_update_to_%@" = "Update to v%@";
 "more_checking_version" = "Checking Version...";
-"more_up_to_date" = "You're up-to-date";
+"more_up_to_date" = "AdGuard Home is up-to-date";
 
 // MARK: Preferences
 "settings_preferences" = "Preferences";

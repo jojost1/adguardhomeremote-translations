@@ -38,7 +38,7 @@
 "querylog_status-all" = "Alle";
 "querylog_status-processed" = "Verarbeitet";
 "querylog_status-filtered" = "Gefiltert";
-"querylog_clear-filters" = "Filter leeren";
+"querylog_clear-filtered" = "Filter leeren";
 "querylog_show_queries_status" = "Anfragen mit Status anzeigen";
 
 // MARK: Queries
