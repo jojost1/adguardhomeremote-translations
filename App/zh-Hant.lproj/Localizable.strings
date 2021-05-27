@@ -31,14 +31,14 @@
 "querylog_sidebar_explainer" = "向左側選擇一個查詢以查看細節。";
 
 // MARK: Filter
-"querylog_filter" = "過濾器";
-"querylog_filtered" = "受過濾的";
+"querylog_filter" = "篩選";
+"querylog_filtered" = "已篩選的";
 "querylog_number-of-queries" = "查詢之數量";
 "querylog_status" = "狀態";
-"querylog_status-all" = "全部";
+"querylog_status-all" = "所有的";
 "querylog_status-processed" = "已處理的";
 "querylog_status-filtered" = "受過濾的";
-"querylog_clear-filters" = "清除過濾器";
+"querylog_clear-filtered" = "清除已篩選的";
 "querylog_show_queries_status" = "顯示含狀態的查詢";
 
 // MARK: Queries
@@ -152,7 +152,7 @@
 "filtering_disabled" = "已禁用";
 "filtering_disable_filter" = "禁用過濾器";
 "filtering_enable_filter" = "啟用過濾器";
-"filtering_edit_filter" = "Edit Filter";
+"filtering_edit_filter" = "編輯過濾器";
 "filtering_edit_filter_name" = "名稱";
 "filtering_edit_filter_url" = "網址";
 "filtering_enable_filtering" = "啟用過濾";
