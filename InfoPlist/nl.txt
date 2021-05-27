@@ -1,0 +1,1 @@
+"NSLocalNetworkUsageDescription" = "AdGuard Home Remote gebruikt je lokale netwerk om te verbinden met je AdGuard Home instantie(s).";
