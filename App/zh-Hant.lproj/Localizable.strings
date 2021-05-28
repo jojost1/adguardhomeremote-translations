@@ -110,7 +110,7 @@
 "settings_edit-instance" = "編輯";
 "settings_clients" = "用戶端";
 "settings_filtering" = "過濾";
-"settings_dhcp" = "動態主機設定協定（DHCP）";
+"settings_dhcp" = "DHCP";
 "settings_dns" = "DNS";
 "settings_dns_rewrites" = "DNS 改寫";
 "settings_query-log" = "查詢記錄";
@@ -239,7 +239,7 @@
 "dhcp_staticlease_hostname_placeholder" = "raspberrypi.local";
 
 // MARK: DNS
-"dns_settings" = "DNS 設定";
+"dns_settings" = "網域名稱系統（DNS）設定";
 "dns_upstream_dns_servers" = "上游的 DNS 伺服器";
 "dns_ip" = "IP";
 "dns_reverse_resolve" = "反向地解析用戶端 IPs";
@@ -351,7 +351,7 @@
 "design_app_tint" = "應用程式色調";
 "design_app_tint_green" = "綠色";
 "design_app_tint_blue" = "藍色";
-"design_app_tint_indigo" = "靛青";
+"design_app_tint_indigo" = "靛藍色";
 "design_app_tint_purple" = "紫色";
 "design_app_tint_teal" = "藍綠色";
 "design_app_tint_yellow" = "黃色";
