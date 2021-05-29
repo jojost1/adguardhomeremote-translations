@@ -152,7 +152,7 @@
 "filtering_disabled" = "Deaktiviert";
 "filtering_disable_filter" = "Filter deaktivieren";
 "filtering_enable_filter" = "Filter aktivieren";
-"filtering_edit_filter" = "Edit Filter";
+"filtering_edit_filter" = "Filter bearbeiten";
 "filtering_edit_filter_name" = "Name";
 "filtering_edit_filter_url" = "URL";
 "filtering_enable_filtering" = "Filtern aktivieren";
@@ -199,8 +199,8 @@
 "filtering_rules_examples_unblock_subtitle" = "example.org und alle dessen Subdomains entsperren";
 "filtering_rules_examples_rewrite_title" = "127.0.0.1 example.org";
 "filtering_rules_examples_rewrite_subtitle" = "127.0.0.1 für example.org zurückgeben (aber nicht für dessen Subdomains)";
-"filtering_rules_examples_comment_title1" = "! Hier folgt ein Kommentar";
-"filtering_rules_examples_comment_title2" = "# Auch ein Kommentar";
+"filtering_rules_examples_comment_title1" = "! Dies ist ein Kommentar";
+"filtering_rules_examples_comment_title2" = "# Dies ist auch ein Kommentar";
 "filtering_rules_examples_comment_subtitle" = "Diese sind nur Kommentare";
 "filtering_rules_examples_regex_title" = "/REGEX/";
 "filtering_rules_examples_regex_subtitle" = "Domains blockieren, die dem angegebenen regulären Ausdruck entsprechen";
@@ -326,7 +326,7 @@
 // MARK: Help
 "settings_help" = "Hilfe & Feedback";
 "settings_help_navbar" = "Support";
-"settings_help_contact" = "Kontaktiere Mich";
+"settings_help_contact" = "Mich kontaktieren";
 "settings_help_actions" = "Aktionen";
 "settings_help_logs" = "Protokolle";
 "settings_help_logs_footer" = "Protokolle werden lokal aufgezeichnet und verlassen nicht Ihr Gerät. Wischen Sie nach unten, um die Protokollanzeige zu verlassen.";
@@ -374,8 +374,8 @@
 "changelog_whats_new" = "Was ist neu?";
 "changelog_continue" = "Fortfahren";
 "changelog_show_on_app_update" = "Bei App-Update anzeigen";
-"changelog_show_on_app_update_footer" = "Der Changelog wird nur für Feature-Updates angezeigt und nicht für Updates, die nur Bugfixes enthalten.";
-"changelog_settings" = "Changelog-Einstellungen";
+"changelog_show_on_app_update_footer" = "Der Changelog wird nur für Feature-Updates angezeigt und nicht ausschließlich bei Bugfixes";
+"changelog_settings" = "Neuerungseinstellungen";
 
 // MARK: - Pro
 "pro" = "Pro";
