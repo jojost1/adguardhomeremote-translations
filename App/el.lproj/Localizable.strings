@@ -1,0 +1,495 @@
+/* 
+  Localizable.strings
+  AdGuardHome
+
+  Created by Joost van den Akker on 11/02/2021.
+  
+*/
+
+// MARK: - Dashboard
+"dashboard_tabbar" = "Πίνακας Ελέγχου";
+"dashboard_rule-filtering" = "Φιλτράρισμα\nκανόνων";
+"dashboard_parental-filtering" = "Γονικό\nφιλτράρισμα";
+"dashboard_safe-browsing" = "Ασφαλής\nπεριήγηση";
+"dashboard_safe-search" = "Ασφαλής\nαναζήτηση";
+"dashboard_queries" = "Ερωτήματα DNS";
+"dashboard_blocked-filters" = "Αποκλεισμένα από φίλτρα";
+"dashboard_blocked-malware" = "Αποκλεισμένα malware/phishing";
+"dashboard_blocked-adult" = "Αποκλεισμένες ιστοσελίδες ενηλίκων";
+"dashboard_top-clients" = "Κορυφαίοι πελάτες";
+"dashboard_top-queried" = "Κορυφαία ζητούμενα domain";
+"dashboard_top-blocked" = "Κορυφαία αποκλεισμένα domain";
+"dashboard_avg_ms_%@" = "μέσος όρος %@ms";
+"dashboard_jump_to_instance" = "Εκδοχή";
+
+// MARK: - Query Log
+"querylog_tabbar" = "Αρχείο ερωτημάτων";
+"querylog_query" = "Ερώτημα";
+"querylog_no-queries" = "Δεν βρέθηκαν ερωτήματα.";
+"querylog_cannot-find-queries" = "Αδυναμία εύρεσης ερωτημάτων.";
+"querylog_pro" = "Το Remote Pro απαιτείται για να δείτε περισσότερα ερωτήματα.";
+"querylog_sidebar_explainer" = "Διαλέξτε ένα ερώτημα στα αριστερά για να δείτε λεπτομέρειες.";
+
+// MARK: Filter
+"querylog_filter" = "Φίλτρο";
+"querylog_filtered" = "Φιλτραρισμένα";
+"querylog_number-of-queries" = "Αριθμός ερωτημάτων";
+"querylog_status" = "Κατάσταση";
+"querylog_status-all" = "Όλα";
+"querylog_status-processed" = "Επεξεργασμένα";
+"querylog_status-filtered" = "Φιλτραρισμένα";
+"querylog_clear-filtered" = "Καθαρισμός φιλτραρισμένων";
+"querylog_show_queries_status" = "Εμφάνιση ερωτημάτων με κατάσταση";
+
+// MARK: Queries
+"query_status_NotFilteredNotFound" = "Επεξεργασμένα";
+"query_status_NotFilteredWhiteList" = "Επεξεργασμένα | Λίστα επιτρεπόμενων";
+"query_status_NotFilteredError" = "Επεξεργασμένα | Σφάλμα";
+"query_status_FilteredBlackList" = "Αποκλεισμένα | Φίλτρο";
+"query_status_FilteredSafeBrowsing" = "Αποκλεισμένα | Ασφαλής περιήγηση";
+"query_status_FilteredParental" = "Αποκλεισμένα | Γονικός έλεγχος";
+"query_status_FilteredInvalid" = "Αποκλεισμένα | Άκυρο αίτημα";
+"query_status_FilteredSafeSearch" = "Αποκλεισμένα | Ασφαλής αναζήτηση";
+"query_status_FilteredBlockedService_%@" = "Αποκλεισμένη υπηρεσία%@";
+"query_status_Rewrite" = "Επανεγγραφή";
+"query_status_RewriteEtcHosts" = "Επανεγγραφή | Αρχείο hosts";
+"query_status_RewriteRule" = "Επανεγγραφή | Κανόνας";
+"query_status_Unknown" = "Άγνωστο";
+"query_copy-domain" = "Αντιγραφή domain";
+"query_copy-client-name" = "Αντιγραφή Ονόματος Πελάτη";
+"query_copy-client-ip" = "Αντιγραφή IP Πελάτη";
+"query_copy-client-id" = "Αντιγραφή ID Πελάτη";
+
+// MARK: Query Detail
+"querydetail_filter_rule" = "Κανόνας φιλτραρίσματος";
+"querydetail_client" = "Πελάτης";
+"querydetail_new_client" = "Νέος πελάτης";
+"querydetail_edit_client" = "Επεξεργασία πελάτη";
+"querydetail_request_details" = "Λεπτομέρειες αιτήματος";
+"querydetail_type" = "Τύπος";
+"querydetail_class" = "Κλάση";
+"querydetail_plaindns" = "Απλό DNS";
+"querydetail_protocol" = "Πρωτόκολλο";
+"querydetail_response_details" = "Λεπτομέρειες απάντησης";
+"querydetail_validated_with_dnssec" = "Επικυρωμένο με DNSSEC";
+"querydetail_response_code" = "Κωδικός απάντησης";
+"querydetail_response_time" = "Χρόνος απάντησης";
+"querydetail_upstream" = "Upstream";
+"querydetail_copy_upstream" = "Αντιγραφή upstream";
+"querydetail_block_domain" = "Αποκλεισμός domain";
+"querydetail_unblock_domain" = "Άρση αποκλεισμού domain";
+"querydetail_answer" = "Απάντηση";
+"querydetail_ttl_%lld" = "TTL %lld";
+
+// MARK: - Settings
+"settings_tabbar" = "Ρυθμίσεις";
+
+// MARK: Add/Edit Instance
+"instance_add" = "Προσθήκη εκδοχής";
+"instance_new" = "Νέα εκδοχή";
+"settings_edit_instance" = "Επεξεργασία εκδοχής";
+"instance_display_name" = "Όνομα προβολής";
+"instance_display_name_placeholder" = "AdGuard Home";
+"instance_ip_hostname" = "IP ή hostname";
+"instance_ssl_label" = "Χρήση http (προεπιλογή) ή https?";
+"instance_ssl_http" = "http";
+"instance_ssl_https" = "https";
+"instance_authentication" = "Έλεγχος ταυτότητας";
+"instance_authentication_username_placeholder" = "Όνομα χρήστη";
+"instance_authentication_password_placeholder" = "Κωδικός πρόσβασης";
+"instance_other" = "Άλλα";
+"instance_hide" = "Απόκρυψη εκδοχής";
+"instance_test_connection" = "Δοκιμή σύνδεσης";
+"instance_remove" = "Αφαίρεση εκδοχής";
+"instance_remove_alert_title" = "Αφαίρεση εκδοχής AdGuard Home";
+"instance_remove_alert_body" = "Θέλετε σίγουρα να αφαιρέσετε αυτήν την εκδοχή;";
+"settings_validation_port" = "Παρακαλούμε εισάγετε έναν έγκυρο αριθμό θύρας.";
+
+// MARK: Instance Settings
+"settings_add-instance" = "Προσθήκη εκδοχής";
+"settings_edit-instance" = "Επεξεργασία";
+"settings_clients" = "Πελάτες";
+"settings_filtering" = "Φιλτράρισμα";
+"settings_dhcp" = "DHCP";
+"settings_dns" = "DNS";
+"settings_dns_rewrites" = "Επανεγγραφές DNS";
+"settings_query-log" = "Αρχείο ερωτημάτων";
+"settings_more" = "Περισσότερα";
+
+// MARK: Clients
+"client_settings" = "Ρυθμίσεις πελάτη";
+"client_new" = "Νέος πελάτης";
+"client_edit" = "Επεξεργασία πελάτη";
+"client_remove" = "Αφαίρεση πελάτη";
+"client_remove_alert_body" = "Θέλετε σίγουρα να αφαιρέσετε αυτόν τον πελάτη;";
+"clients" = "Πελάτες";
+"clients_settings_label" = "Ρυθμίσεις: ";
+"clients_services_label" = "Αποκλεισμένες υπηρεσίες%@: ";
+"clients_no_clients_found" = "Δεν βρέθηκαν πελάτες.";
+"clients_runtime" = "Πελάτες (Runtime)";
+"clients_runtime_footer" = "Αυτοί οι πελάτες χρησιμοποιούν το AdGuard Home, αλλά δεν έχουν συγκεκριμένη ρύθμιση.";
+"clients_disallowed" = "Μη επιτρεπόμενοι πελάτες";
+"clients_disallowed_footer" = "Το AdGuard Home απορρίπτει όλα τα ερωτήματα DNS από αυτούς τους πελάτες.";
+"clients_name" = "Όνομα πελάτη";
+"clients_identifiers" = "Αναγνωριστικά";
+"clients_identifiers_copy" = "Αντιγραφή";
+"clients_identifiers_placeholder" = "IP, CIDR, MAC, ClientID";
+"clients_identifiers_explainer" = "Οι πελάτες μπορούν να ταυτοποιηθούν μέσω διεύθυνσης IP, CIDR, διεύθυνσης MAC ή ενός ειδικού ID πελάτη (μπορεί να χρησιμοποιηθεί για DoT/DoH/DoQ). Η χρήση της MAC σαν αναγνωριστικό είναι δυνατή μόνο αν το AdGuard Home είναι επίσης διακομιστής DHCP.";
+"clients_upstreams" = "Upstream";
+"clients_view_queries_from_%@" = "Εμφάνιση ερωτημάτων από %@";
+"clients_edit_use_filter_blocking" = "Χρήση φίλτρου αποκλεισμού";
+"clients_edit_use_safe_browsing" = "Χρήση ασφαλούς περιήγησης";
+"clients_edit_use_parental_filtering" = "Χρήση γονικού φίλτρου";
+"clients_edit_use_safe_search" = "Χρήση ασφαλούς αναζήτησης";
+"clients_pro_required" = "Το Remote Pro απαιτείται για τη διαχείριση των πελατών.";
+"services" = "Υπηρεσίες";
+"blocked_services" = "Αποκλεισμένες υπηρεσίες";
+"tags" = "Ετικέτες";
+
+// MARK: Filtering
+"filtering_settings" = "Ρυθμίσεις φιλτραρίσματος";
+"filtering_status" = "Κατάσταση";
+"filtering_disabled" = "Απενεργοποιημένα";
+"filtering_disable_filter" = "Απενεργοποίηση φίλτρου";
+"filtering_enable_filter" = "Ενεργοποίηση φίλτρου";
+"filtering_edit_filter" = "Επεξεργασία φίλτρου";
+"filtering_edit_filter_name" = "Όνομα";
+"filtering_edit_filter_url" = "URL";
+"filtering_enable_filtering" = "Ενεργοποίηση φίλτρου";
+"filtering_update_interval" = "Διάστημα μεταξύ ενημερώσεων";
+"filtering_dns_blocklists" = "Λίστες αποκλεισμού DNS";
+"filtering_update_blocklists" = "Ενημέρωση λιστών αποκλεισμού";
+"filtering_dns_allowlists" = "Λίστες επιτρεπόμενων DNS";
+"filtering_update_allowlists" = "Ενημέρωση λιστών επιτρεπόμενων";
+"filtering_updated_count_%@" = "%@ ενημερώθηκαν";
+"filtering_rules_%@" = "Κανόνες: %@";
+"filtering_last_updated_%@" = "Τελευταία ενημέρωση: %@";
+"filtering_global_blocked_services" = "Γενικά αποκλεισμένες υπηρεσίες";
+"filtering_custom_filtering_rules" = "Κανόνες προσαρμοσμένου φιλτραρίσματος";
+"filtering_rule_count_%@" = "%@ κανόνες";
+"filtering_check_filtered" = "Έλεγχος αν το hostname φιλτράρεται";
+"filtering_pro_required" = "Το Remote Pro απαιτείται για τη διαχείριση των φίλτρων.";
+// Add Filter
+"filtering_addfilter_list" = "Λίστα";
+"filtering_addfilter_blocklist" = "Λίστα αποκλεισμένων";
+"filtering_addfilter_blocklist_new" = "Νέα λίστα αποκλεισμένων";
+"filtering_addfilter_allowlist" = "Λίστα επιτρεπόμενων";
+"filtering_addfilter_allowlist_new" = "Νέα λίστα επιτρεπόμενων";
+"filtering_addfilter_name" = "Όνομα";
+"filtering_addfilter_url" = "URL";
+"filtering_addfilter_url_placeholder" = "URL ή απόλυτη διαδρομή";
+// Custom Rules
+"filtering_rules_custom" = "Προσαρμοσμένοι κανόνες";
+"filtering_rules_custom_new" = "Νέος προσαρμοσμένος κανόνας";
+"filtering_rules_add" = "Προσθήκη κανόνα";
+"filtering_rules_no_rules_found" = "Δεν βρέθηκαν κανόνες.";
+"filtering_rules_delete_and_edit" = "Διαγραφή κανόνα & επεξεργασία";
+"filtering_rules_rule" = "Κανόνας";
+"filtering_rules_settings" = "Ρυθμίσεις";
+"filtering_rules_blocking_mode" = "Λειτουργία αποκλεισμού";
+"filtering_rules_blocking_mode_block" = "Αποκλεισμός";
+"filtering_rules_blocking_mode_unblock" = "Άρση αποκλεισμού";
+"filtering_rules_blocking_mode_custom" = "Προσαρμογή";
+"filtering_rules_final_rule" = "Τελικός κανόνας";
+"filtering_rules_rule_placeholder" = "Πληκτρολογήστε εδώ ένα domain...";
+"filtering_rules_examples" = "Παραδείγματα";
+"filtering_rules_examples_block_title" = "||example.org^";
+"filtering_rules_examples_block_subtitle" = "αποκλεισμός του example.org και όλων των subdomain του";
+"filtering_rules_examples_unblock_title" = "@@||example.org^";
+"filtering_rules_examples_unblock_subtitle" = "άρση αποκλεισμού του example.org και όλων των subdomain του";
+"filtering_rules_examples_rewrite_title" = "127.0.0.1 example.org";
+"filtering_rules_examples_rewrite_subtitle" = "επιστροφή 127.0.0.1 για το example.org (αλλά όχι για τα subdomain του)";
+"filtering_rules_examples_comment_title1" = "! Εδώ βρίσκεται ένα σχόλιο";
+"filtering_rules_examples_comment_title2" = "# Επίσης σχόλιο";
+"filtering_rules_examples_comment_subtitle" = "απλά ένα σχόλιο";
+"filtering_rules_examples_regex_title" = "/REGEX/";
+"filtering_rules_examples_regex_subtitle" = "αποκλεισμός domain που ταιριάζουν στο συγκεκριμένο regular expression";
+// Check Hostname
+"filtering_check_hostname" = "Έλεγχος hostname";
+"filtering_check_hostname_placeholder" = "Εισάγετε ένα hostname...";
+"filtering_check_hostname_check" = "Έλεγχος";
+"filtering_check_hostname_result" = "Αποτέλεσμα";
+"filtering_check_hostname_cname" = "CNAME";
+"filtering_check_hostname_IP" = "IP";
+
+// MARK: DHCP
+"dhcp_settings" = "Ρυθμίσεις DHCP";
+"dhcp_status" = "Κατάσταση";
+"dhcp_enable" = "Ενεργοποίηση διακομιστή DHCP";
+"dhcp_interface" = "Διεπαφή";
+"dhcp_ipv4_settings" = "Ρυθμίσεις IPv4";
+"dhcp_gateway_ip" = "Πύλη IP";
+"dhcp_subnet_mask" = "Μάσκα υποδικτύου";
+"dhcp_ip_range" = "Εύρος IP";
+"dhcp_lease_time" = "Χρόνος Μίσθωσης (Δευτερόλεπτα)";
+"dhcp_ipv6_settings" = "Ρυθμίσεις IPv6";
+"dhcp_range_start" = "Έναρξη εύρους";
+"dhcp_static_leases" = "Στατικές μισθώσεις";
+"dhcp_remove_lease" = "Αφαίρεση μίσθωσης";
+"dhcp_leases" = "Μισθώσεις";
+"dhcp_lease_create" = "Δημιουργία στατικής μίσθωσης";
+"dhcp_pro_required" = "Το Remote Pro απαιτείται για τη διαχείριση των ρυθμίσεων DHCP.";
+// New Static Lease
+"dhcp_staticlease_new" = "Νέα στατική μίσθωση";
+"dhcp_staticlease_mac" = "Διεύθυνση MAC";
+"dhcp_staticlease_mac_placeholder" = "aa:0b:cd:e1:f2:34";
+"dhcp_staticlease_ip" = "Διεύθυνση IP";
+"dhcp_staticlease_ip_placeholder" = "192.168.1.10";
+"dhcp_staticlease_hostname" = "Hostname";
+"dhcp_staticlease_hostname_placeholder" = "raspberrypi.local";
+
+// MARK: DNS
+"dns_settings" = "Ρυθμίσεις DNS";
+"dns_upstream_dns_servers" = "Διακομιστές upstream DNS";
+"dns_ip" = "IP";
+"dns_reverse_resolve" = "Αντίστροφη επίλυση IP πελάτη";
+"dns_upstream_mode" = "Λειτουργία upstream";
+"dns_upstream_mode_loadbalancing" = "Εξισορρόπηση φόρτου";
+"dns_upstream_mode_parralel" = "Παράλληλα αιτήματα";
+"dns_upstream_mode_fastest" = "Ταχύτερη διεύθυνση IP";
+"dns_bootstrap_dns_servers" = "Διακομιστές bootstrap DNS";
+"dns_bootstrap_dns_servers_footer" = "Οι διακομιστές bootstrap DNS χρησιμοποιούνται για την επίλυση των διευθύνσεων IP των αναλυτών DoH/DoT που ορίζετε ως upstream.";
+"dns_server_configuration" = "Ρύθμιση διακομιστή DNS";
+"dns_rate_limit" = "Όριο ρυθμού";
+"dns_edns_client_subnet" = "Υποδίκτυο πελάτη EDNS";
+"dns_dnssec" = "DNSSEC";
+"dns_disable_ipv6" = "Απενεργοποίηση IPv6";
+"dns_blocking_mode" = "Λειτουργία αποκλεισμού";
+"dns_blocking_mode_default" = "Προεπιλογή";
+"dns_blocking_mode_refused" = "REFUSED";
+"dns_blocking_mode_nxdomain" = "NXDOMAIN";
+"dns_blocking_mode_nullip" = "Null IP";
+"dns_blocking_mode_customip" = "Προσαρμοσμένη IP";
+"dns_cache_configuration" = "Ρύθμιση κρυφής μνήμης DNS";
+"dns_cache_size" = "Μέγεθος κρυφής μνήμης";
+"dns_override_minimum_ttl" = "Παράκαμψη ελάχιστου TTL";
+"dns_override_maximum_ttl" = "Παράκαμψη μέγιστου TTL";
+"dns_pro_required" = "Το Remote Pro απαιτείται για τη διαχείριση των ρυθμίσεων DNS.";
+
+// MARK: DNS Rewrites
+"dnsrewrites_entries" = "Καταχωρήσεις";
+"dnsrewrites_no_entries" = "Δεν βρέθηκαν καταχωρήσεις.";
+"dnsrewrites_new" = "Νέα επανεγγραφή DNS";
+"dnsrewrites_domain" = "Domain";
+"dnsrewrites_domain_placeholder" = "Domain ή μπαλαντέρ";
+"dnsrewrites_answer" = "Απάντηση";
+"dnsrewrites_answer_placeholder" = "IP ή όνομα domain";
+"dnsrewrites_pro_required" = "Το Remote Pro απαιτείται για τη διαχείριση των επανεγγραφών DNS.";
+
+// MARK: Query Log
+"querylog_settings_status" = "Κατάσταση";
+"querylog_settings_enable" = "Ενεργοποίηση αρχείου ερωτημάτων";
+"querylog_settings_options" = "Επιλογές";
+"querylog_settings_options_footer" = "Ενεργοποιώντας το «Ανώνυμη IP πελάτη» θα απενεργοποιηθεί η αποθήκευση της πλήρους διεύθυνσης IP των πελατών στα αρχεία και στα στατιστικά.";
+"querylog_settings_anonymize" = "Ανώνυμη IP πελάτη";
+"querylog_settings_log_retention" = "Διατήρηση αρχείου";
+"querylog_settings_clear" = "Εκκαθάριση αρχείου ερωτημάτων";
+"querylog_settings_clear_alert" = "Θέλετε σίγουρα να καθαρίσετε ολόκληρο το αρχείο ερωτημάτων;";
+"querylog_settings_cleared" = "Καθαρίστηκε.";
+
+// MARK: More
+"more_statistics" = "Στατιστικά";
+"more_statistics_footer" = "Η αλλαγή της ρύθμισης διατήρησης στατιστικών απαιτεί επανεκκίνηση της εφαρμογής.";
+"more_statistics_retention" = "Διατήρηση στατιστικών";
+"more_statistics_clear" = "Εκκαθάριση στατιστικών";
+"more_statistics_clear_alert" = "Θέλετε σίγουρα να καθαρίσετε τα στατιστικά; Αυτό θα επαναφέρει όλα τα στατιστικά στον πίνακα ελέγχου σε μηδενικά.";
+"more_statistics_cleared" = "Καθαρίστηκε.";
+"more_version" = "Έκδοση";
+"more_version_current_%@" = "Τρέχουσα έκδοση: %@";
+"more_update_started" = "Η ενημέρωση ξεκίνησε!";
+"more_update_to_%@" = "Ενημέρωση σε v%@";
+"more_checking_version" = "Έλεγχος έκδοσης...";
+"more_up_to_date" = "Το AdGuard Home είναι ενημερωμένο";
+
+// MARK: Preferences
+"settings_preferences" = "Προτιμήσεις";
+"settings_dashboard" = "Πίνακας ελέγχου";
+"preferences_dashboard_statusbuttons" = "Πλήκτρα κατάστασης";
+"preferences_dashboard_rulefiltering" = "Φιλτράρισμα κανόνων";
+"preferences_dashboard_parentalfiltering" = "Γονικό φιλτράρισμα";
+"preferences_dashboard_safebrowsing" = "Ασφαλής περιήγηση";
+"preferences_dashboard_safesearch" = "Ασφαλής αναζήτηση";
+"preferences_dashboard_graphs" = "Γραφήματα";
+"preferences_dashboard_graph_type" = "Τύπος γραφήματος";
+"preferences_dashboard_graph_line" = "Γράφημα γραμμών";
+"preferences_dashboard_graph_bar" = "Γράφημα ράβδων";
+"preferences_dashboard_graph_dnsqueries" = "Ερωτήματα DNS";
+"preferences_dashboard_graph_blockedbyfilters" = "Αποκλεισμένα από φίλτρα";
+"preferences_dashboard_graph_blockedmalware" = "Αποκλεισμένα malware/phishing";
+"preferences_dashboard_graph_blockedadultwebsites" = "Αποκλεισμένες ιστοσελίδες ενηλίκων";
+"preferences_dashboard_show_section" = "Εμφάνιση ενότητας";
+"preferences_dashboard_number_of_clients" = "Αριθμός πελατών";
+"preferences_dashboard_number_of_domains" = "Αριθμός domain";
+"preferences_other" = "Άλλα";
+"preferences_language" = "Γλώσσα";
+
+// MARK: Help
+"settings_help" = "Βοήθεια & σχόλια";
+"settings_help_navbar" = "Υποστήριξη";
+"settings_help_contact" = "Επικοινωνία";
+"settings_help_actions" = "Ενέργειες";
+"settings_help_logs" = "Αρχεία";
+"settings_help_logs_footer" = "Τα αρχεία καταγραφής καταγράφονται τοπικά και δεν φεύγουν ποτέ από τη συσκευή σας. Σύρετε προς τα κάτω για να βγείτε από την προβολή αρχείων καταγραφής.";
+"settings_help_logs_button" = "Εμφάνιση αρχείων";
+"settings_give_feedback_alert_title" = "Υποβάλετε σχόλια";
+"settings_give_feedback_alert_body" = "Παρακαλώ στείλτε μου email με οποιαδήποτε σχόλια σχετικά με σφάλματα ή βελτιώσεις στο developer@rocketscience-it.nl!";
+"settings_copy_email" = "Αντιγραφή διεύθυνσης email";
+
+// MARK: Other Settings
+"settings_other" = "Άλλα";
+"settings_pro" = "Pro";
+"settings_twitter" = "Ακολουθήστε στο Twitter";
+"settings_changelog" = "Τι νέο υπάρχει";
+"settings_adguard-website" = "Ιστοσελίδα AdGuard";
+
+// MARK: Design
+"settings_design" = "Σχεδιασμός";
+"design_color_scheme" = "Χρωματικό σχέδιο";
+"design_color_scheme_default" = "Προεπιλογή";
+"design_color_scheme_adguard" = "AdGuard";
+"design_color_scheme_pastel" = "Παστέλ";
+"design_app_tint" = "Απόχρωση εφαρμογής";
+"design_app_tint_green" = "Πράσινο";
+"design_app_tint_blue" = "Μπλε";
+"design_app_tint_indigo" = "Λουλάκι";
+"design_app_tint_purple" = "Μοβ";
+"design_app_tint_teal" = "Βεραμάν";
+"design_app_tint_yellow" = "Κίτρινο";
+"design_app_tint_orange" = "Πορτοκαλί";
+"design_app_tint_pink" = "Ροζ";
+"design_app_tint_red" = "Κόκκινο";
+"design_app_icon" = "Εικονίδιο εφαρμογής";
+"design_app_icon_original" = "Πρωτότυπo";
+"design_app_icon_inverse" = "Αντίστροφο";
+"design_app_icon_dark" = "Σκούρο";
+"design_theme" = "Θέμα";
+"design_system_setting" = "Χρήση ρυθμίσεων συστήματος";
+"design_always_lightmode" = "Πάντα ανοιχτόχρωμο";
+"design_always_darkmode" = "Πάντα σκούρο";
+"design_restart_required" = "Η αλλαγή αυτής της ρύθμισης απαιτεί επανεκκίνηση της εφαρμογής.";
+
+// MARK: Changelog
+"changelog_just_updated" = "Μόλις ενημερώθηκε!";
+"changelog_current_version" = "Τρέχουσα έκδοση";
+"changelog_whats_new" = "Τι νέο υπάρχει";
+"changelog_continue" = "Συνέχεια";
+"changelog_show_on_app_update" = "Εμφάνιση κατά την ενημέρωση της εφαρμογής";
+"changelog_show_on_app_update_footer" = "Το αρχείο αλλαγών θα εμφανίζεται μόνο για ενημερώσεις χαρακτηριστικών, όχι για τις ενημερώσεις που περιλαμβάνουν μόνο διορθώσεις σφαλμάτων.";
+"changelog_settings" = "Ρυθμίσεις αρχείου αλλαγών";
+
+// MARK: - Pro
+"pro" = "Pro";
+"pro_navtitle" = "Remote Pro";
+"pro_purchase" = "Αγορά του Pro";
+"pro_thankyou" = "Ευχαριστώ!";
+"pro_thankyou_heart" = "Ευχαριστώ! ❤️";
+"pro_learn-more" = "Μάθετε περισσότερα...";
+"pro_title" = "AdGuard Home\nRemote Pro";
+"pro_description" = "Ξεκλείδωμα εξελιγμένων χαρακτηριστικών & υποστήριξη μελλοντικής ανάπτυξης με μια εφάπαξ αγορά.";
+"pro_purchased_date_%@" = "Αγοράστηκε στις %@.";
+"pro_features" = "Δυνατότητες έκδοσης Pro";
+"pro_family_sharing" = "Υποστηρίζει Οικογενειακή κοινή χρήση";
+"pro_restore_purchase" = "Επαναφορά αγοράς";
+"pro_restored" = "Επαναφορά Pro!";
+"pro_restore_failed" = "Η επαναφορά απέτυχε";
+"pro_restore_nothing" = "Δεν υπάρχει τίποτα για επαναφορά";
+"pro_testflight" = "TestFlight";
+"pro_beta_access_button" = "Αίτημα πρόσβασης Beta";
+"pro_testflight_alert" = "Βλέπω ότι δεν έχετε ενεργό πελάτη email στη συσκευή σας, παρακαλώ στείλε μου email με αίτημα συμμετοχής στο TestFlight συμπεριλαμβάνοντας ένα στιγμιότυπο αυτής της οθόνης Pro, έτσι ώστε να δω ότι έχετε αγοράσει το Pro.\n\nΠαρακαλώ στείλτε το email στο developer@rocketscience-it.nl!";
+"pro_testflight_explainer" = "Σημείωση: Τρέχετε μία έκδοση TestFlight της εφαρμογής, επομένως οι πληρωμές εκτελούνται σε λειτουργία Sandbox και δεν γίνονται στην πραγματικότητα.\n\nΗ «άδεια» Pro θα ακυρώνεται κάθε λίγες ημέρες καθώς βρίσκεστε σε έκδοση TestFlight. Εάν θέλετε να αγοράσετε το Pro και να χρησιμοποιείτε την εφαρμογή χωρίς αυτήν την ενόχληση, παρακαλώ κατεβάστε την εφαρμογή από το App Store. Ευχαριστώ!";
+
+// MARK: Pro Features
+"pro_view_queries" = "Εμφάνιση 25+ ερωτημάτων & εφαρμογή φίλτρων";
+"pro_manage_clients" = "Διαχείριση πελατών";
+"pro_manage_filters" = "Διαχείριση φίλτρων";
+"pro_manage_custom_filter_rules" = "Διαχείριση κανόνων προσαρμοσμένων φίλτρων";
+"pro_manage_dhcp" = "Διαχείριση ρυθμίσεων DHCP";
+"pro_manage_dns" = "Διαχείριση Ρυθμίσεων DNS";
+"pro_manage_rewrites" = "Διαχείριση επανεγγραφών DNS";
+"pro_support_multiple_instances" = "Υποστήριξη 2+ εκδοχών";
+"pro_alternative_icons" = "Εναλλακτικά εικονίδια εφαρμογής";
+"pro_beta_access" = "Πρόσβαση Beta TestFlight";
+
+// MARK: Purchase Flow
+"purchase_unknown_error" = "Άγνωστο σφάλμα. Παρακαλώ επικοινωνήστε μαζί μου στο developer@rocketscience-it.nl.";
+"purchase_not_allowed" = "The device is not allowed to make the payment.";
+"purchase_invalid_id" = "Το αναγνωριστικό αγοράς ήταν άκυρο.";
+"purchase_not_allowed" = "Η συσκευή δεν επιτρέπεται να κάνει την πληρωμή.";
+"purchase_not_available" = "Το προϊόν δεν είναι διαθέσιμο στο τρέχον κατάστημα.";
+"purchase_cloud_permission_denied" = "Η πρόσβαση σε πληροφορίες της υπηρεσίας cloud δεν επιτρέπεται.";
+"purchase_connection_error" = "Δεν ήταν δυνατή η σύνδεση στο δίκτυο.";
+"purchase_cloud_permission_revoked" = "Ο χρήστης έχει ανακαλέσει την άδεια χρήσης αυτής της υπηρεσίας cloud.";
+
+// MARK: RocketScience
+"settings_rocketscience" = "Φτιάχτηκε από τη RocketScience";
+"rocketscience_hi_title" = "Γεια, είμαι ο Joost!";
+"rocketscience_hi_subtitle" = "Τον Ιούνιο του 2020 ξεκίνησα να φτιάχνω τις δικές μου εφαρμογές σαν ανεξάρτητος προγραμματιστής, με το όνομα «RocketScience IT».\n\nΟ κύριος στόχος μου είναι να μάθω: σχεδιασμό, προγραμματισμό, δοκιμή, υποστήριξη, προώθηση - ίσως ακόμη περισσότερα! Αυτή τη στιγμή, έχω δύο εφαρμογές στο App Store τις οποίες συνεχώς βελτιώνω & έχω πολλές ιδέες για άλλες εφαρμογές που ίσως θέλω να φτιάξω στο μέλλον.";
+"rocketscience_website" = "Ιστοσελίδα";
+"rocketscience_twitter" = "Twitter";
+"rocketscience_tipjar" = "Βάζο φιλοδωρημάτων";
+"rocketscience_tipjar_thankyou" = "Ευχαριστώ!";
+"rocketscience_my_other_apps" = "Οι άλλες εφαρμογές μου";
+"rocketscience_piholeremote_subtitle" = "Τα πάντα για το Pi-hole σε ένα μέρος.";
+"rocketscience_acknoledgements" = "Ιδιαίτερες ευχαριστίες στους";
+
+// MARK: Tip Jar
+"tipjar_navbar" = "Βάζο φιλοδωρημάτων";
+"tipjar_title" = "Το βάζο φιλοδωρημάτων βοηθάει στη λειτουργία του AdGuard Home Remote και υποστηρίζει άμεσα την ανάπτυξη φανταστικών χαρακτηριστικών και βελτιώσεων.";
+"tipjar_description" = "Αν σας αρέσει να χρησιμοποιείτε αυτή την εφαρμογή και θέλετε να υποστηρίξετε τον ανεξάρτητο προγραμματιστή (γεια! 👋), παρακαλούμε σκεφτείτε να αφήσετε ένα φιλοδώρημα. Θα το εκτιμούσα πολύ!";
+"tipjar_coffee_tip" = "Φιλοδώρημα για καφέ";
+"tipjar_whiskey_tip" = "Φιλοδώρημα για ουίσκι";
+"tipjar_ramen_tip" = "Φιλοδώρημα για ράμεν";
+"tipjar_sushi_tip" = "Φιλοδώρημα για σούσι";
+"tipjar_description_thankyou" = "Ευχαριστώ για την υποστήριξή σας.\n- Joost";
+"tipjar_thankyou_tip" = "Σας ευχαριστώ για το γενναιόδωρο φιλοδώρημα!";
+"tipjar_thankyou_tips" = "Σας ευχαριστώ για το γενναιόδωρο φιλοδώρημα!";
+"tipjar_love" = "Σας αγαπώ! ❤️";
+"tipjar_love_alert" = "Σας ευχαριστώ πάρα πολύ, εκτιμώ πραγματικά το γεγονός ότι αγαπάτε την εφαρμογή τόσο πολύ που είστε πρόθυμοι να δώσετε ένα φιλοδώρημα. Είναι επίσης εξαιρετικά ενθαρρυντικό. Σας αγαπώ!\n\nJoost";
+"tipjar_blush" = "*κοκκίνισμα*";
+"tipjar_payment_success" = "Επιτυχής πληρωμή";
+"tipjar_testflight_explainer" = "Σημείωση: Τρέχετε μία έκδοση TestFlight, επομένως οι πληρωμές εκτελούνται σε λειτουργία Sandbox και δεν γίνονται στην πραγματικότητα.\n\nΕάν θέλετε να δώσετε φιλοδώρημα, παρακαλώ κατεβάστε την εφαρμογή από το App Store! Μετά από αυτό μπορείτε να κατεβάσετε ξανά την έκδοση beta. Ευχαριστώ!";
+
+// MARK: - Other
+"loading" = "Φόρτωση";
+"loading_dots" = "Φόρτωση...";
+"search" = "Αναζήτηση";
+"new" = "Νέο";
+"add" = "Προσθήκη";
+"edit" = "Επεξεργασία";
+"done" = "Τέλος";
+"save" = "Αποθήκευση";
+"remove" = "Αφαίρεση";
+"ok" = "OK";
+"cancel" = "Άκυρο";
+"settings" = "Ρυθμίσεις";
+"cannot_reach_instance" = "Αδυναμία πρόσβασης στην εκδοχή.";
+"not_responding" = "Δεν αποκρίνεται";
+"something_went_wrong" = "Κάτι πήγε στραβά.";
+"something_went_wrong_alert" = "Κάτι πήγε στραβά";
+"error" = "Σφάλμα";
+"unknown_error" = "Άγνωστο σφάλμα";
+"unknown" = "Άγνωστο";
+"instance" = "Εκδοχή";
+"ms" = "ms";
+"select_all" = "Επιλογή όλων";
+"deselect_all" = "Αποεπιλογή όλων";
+"all" = "Όλα";
+"search" = "Αναζήτηση";
+"global" = "Γενικά";
+"use_global_settings" = "Χρήση γενικών ρυθμίσεων";
+"custom" = "Προσαρμογή";
+"other" = "Άλλα";
+"name" = "Όνομα";
+"none_dot" = "Κανένα.";
+"manage" = "Διαχείριση";
+"tap_to_learn_more" = "Πατήστε για να μάθετε περισσότερα.";
+
+// Durations
+"disabled" = "Απενεργοποιημένο";
+"1h" = "1 ώρα";
+"12h" = "12 ώρες";
+"24h" = "24 ώρες";
+"3d" = "3 ημέρες";
+"7d" = "7 ημέρες";
+"30d" = "30 ημέρες";
+"90d" = "90 ημέρες";
