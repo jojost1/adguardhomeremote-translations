@@ -13,7 +13,7 @@
 "dashboard_safe-browsing" = "Navegación\nSegura";
 "dashboard_safe-search" = "Búsqueda\nSegura";
 "dashboard_queries" = "Consultas DNS";
-"dashboard_blocked-filters" = "Bloqueado por filtros";
+"dashboard_blocked-filters" = "Bloqueos por filtros";
 "dashboard_blocked-malware" = "Malware/phishing bloqueado";
 "dashboard_blocked-adult" = "Sitios web para adultos bloqueados";
 "dashboard_top-clients" = "Clientes más frecuentes";
@@ -114,10 +114,10 @@
 "settings_dns" = "DNS";
 "settings_dns_rewrites" = "Reescrituras DNS";
 "settings_query-log" = "Consultas DNS";
-"settings_more" = "Más";
+"settings_more" = "Otras opciones";
 
 // MARK: Clients
-"client_settings" = "Configuración de clientes";
+"client_settings" = "Clientes";
 "client_new" = "Añadir cliente";
 "client_edit" = "Editar cliente";
 "client_remove" = "Eliminar cliente";
@@ -213,7 +213,7 @@
 "filtering_check_hostname_IP" = "IP";
 
 // MARK: DHCP
-"dhcp_settings" = "Configuración DHCP";
+"dhcp_settings" = "Servidor DHCP";
 "dhcp_status" = "Estado";
 "dhcp_enable" = "Habilitar servidor DHCP";
 "dhcp_interface" = "Interfaz";
@@ -228,7 +228,7 @@
 "dhcp_remove_lease" = "Eliminar";
 "dhcp_leases" = "Asignaciones";
 "dhcp_lease_create" = "Añadir asignación estática";
-"dhcp_pro_required" = "Es necesario actualizar a Remote Pro para gestionar los ajustes DHCP";
+"dhcp_pro_required" = "Es necesario actualizar a Remote Pro para gestionar los ajustes del servidor DHCP";
 // New Static Lease
 "dhcp_staticlease_new" = "Nueva asignación estática";
 "dhcp_staticlease_mac" = "Dirección MAC";
@@ -239,7 +239,7 @@
 "dhcp_staticlease_hostname_placeholder" = "raspberrypi.local";
 
 // MARK: DNS
-"dns_settings" = "Configuración DNS";
+"dns_settings" = "DNS";
 "dns_upstream_dns_servers" = "Servidores DNS";
 "dns_ip" = "IP";
 "dns_reverse_resolve" = "Habilitar la resolución inversa de las IP de los clientes";
@@ -289,8 +289,8 @@
 
 // MARK: More
 "more_statistics" = "Estadísticas";
-"more_statistics_footer" = "Cambiar la retención de las estadísticas requiere reiniciar AdGuard Home.";
-"more_statistics_retention" = "Retención de estadísticas";
+"more_statistics_footer" = "Cambiar el tiempo de retención de las estadísticas requiere reiniciar AdGuard Home.";
+"more_statistics_retention" = "Tiempo de retención";
 "more_statistics_clear" = "Borrar estadísticas";
 "more_statistics_clear_alert" = "¿Estás seguro de que deseas borrar las estadísticas?";
 "more_statistics_cleared" = "Borradas";
@@ -314,8 +314,8 @@
 "preferences_dashboard_graph_line" = "Línea";
 "preferences_dashboard_graph_bar" = "Histograma";
 "preferences_dashboard_graph_dnsqueries" = "Consultas DNS";
-"preferences_dashboard_graph_blockedbyfilters" = "Bloqueado por filtros";
-"preferences_dashboard_graph_blockedmalware" = "Bloqueado por malware/phishing";
+"preferences_dashboard_graph_blockedbyfilters" = "Bloqueos por filtros";
+"preferences_dashboard_graph_blockedmalware" = "Malware/phishing bloqueado";
 "preferences_dashboard_graph_blockedadultwebsites" = "Sitios web para adultos bloqueados";
 "preferences_dashboard_show_section" = "Mostrar sección";
 "preferences_dashboard_number_of_clients" = "Número de clientes";
