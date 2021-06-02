@@ -1,0 +1,36 @@
+AdGuard Home Remote et permet controlar el teu AdGuard Home de forma fàcil i ràpida. Activa o desactiva amb un sol clic les funcionalitats de filtratge i visualitza ràpidament les estadístiques de la navegació. Gestiona els teus clients, filtres, substitucions DNS i molt més.
+
+
+*Controla el Filtratge*
+Pots activar o desactivar el filtratge així com la navegació i cerca segures. També pots gestionar la configuració individual de cada un dels teus clients!
+
+*Estadístiques*
+Visualitza el número de consultes DNS en els gràfics disponibles, així com els clients més actius i els dominis més consultats i bloquejats. Busca entre el detall complet de totes les consultes DNS registrades.
+
+*Gestiona la configuració*
+Afegeix o edita els teus clients, crea nous filtres o desactiva’ls temporalment, actualitza les llistes de dominis, edita els serveis restringits, gestiona la configuració DHCP o DNS, crea noves entrades DNS o edita les opcions del registre de consultes.
+
+==
+
+Funcionalitats:
+- Activa o desactiva amb un sol clic el filtratge i la navegació i cerca segures
+- Revisa totes les estadístiques del sistema de forma ràpida i consulten tot el seu detall
+- Registre de consultes DNS amb funcionalitat de cerca i filtratge
+- Gestió dels clients: configuració de filtratge, bloqueig de serveis i etiquetes (PRO)
+- Gestió dels filtres: gestiona les llistes blanques i negres així com les regles de filtratge personalitzades (PRO)
+- Gestió de la configuració DHCP incloent les assignacions estàtiques (PRO)
+- Gestió de la configuració DNS (PRO)
+- Gestió de les substitucions DNS (PRO)
+- Suport per a varis servidors AdGuard Home (PRO)
+- Widgets
+- Varis esquemes de colors i personalització de la icona de l'aplicació
+- Compatible amb iOS, iPadOS i macOS
+- Disseny modern 100% SwiftUI
+
+* AdGuard Home Remote Pro:
+Algunes de les funcionalitats es desbloquegen al realitzar una compra que servirà per a finançar el desenvolupament d'aquesta aplicació.
+
+==
+
+Nota:
+AdGuard Home Remote es una aplicació no oficial i sense relació legal amb AdGuard. Per a més informació a sobre de AdGuard Home, visita https://adguard.com/es/adguard-home/overview.html.
