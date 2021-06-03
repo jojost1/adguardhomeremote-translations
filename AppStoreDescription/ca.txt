@@ -1,6 +1,5 @@
 AdGuard Home Remote et permet controlar el teu AdGuard Home de forma fàcil i ràpida. Activa o desactiva amb un sol clic les funcionalitats de filtratge i visualitza ràpidament les estadístiques de la navegació. Gestiona els teus clients, filtres, substitucions DNS i molt més.
 
-
 *Controla el Filtratge*
 Pots activar o desactivar el filtratge així com la navegació i cerca segures. També pots gestionar la configuració individual de cada un dels teus clients!
 
