@@ -1,0 +1,495 @@
+/*
+  Localizable.strings
+  AdGuardHome
+
+  Created by Joost van den Akker on 20/05/2021.
+  
+*/
+
+// MARK: - Dashboard
+"dashboard_tabbar" = "Tauler de control";
+"dashboard_rule-filtering" = "Filtratge\nde continguts";
+"dashboard_parental-filtering" = "Control\nParental";
+"dashboard_safe-browsing" = "Navegació\nSegura";
+"dashboard_safe-search" = "Cerca\nSegura";
+"dashboard_queries" = "Consultes DNS";
+"dashboard_blocked-filters" = "Peticions filtrades";
+"dashboard_blocked-malware" = "Malware/phishing bloquejat";
+"dashboard_blocked-adult" = "Llocs web per a adults bloquejats";
+"dashboard_top-clients" = "Clients més vistos";
+"dashboard_top-queried" = "Dominis més consultats";
+"dashboard_top-blocked" = "Dominis més bloquejats";
+"dashboard_avg_ms_%@" = "mitjana %@ms";
+"dashboard_jump_to_instance" = "Servidor";
+
+// MARK: - Query Log
+"querylog_tabbar" = "Consultes DNS";
+"querylog_query" = "Consulta";
+"querylog_no-queries" = "No s'han trobat resultats";
+"querylog_cannot-find-queries" = "No s'han trobat consultes DNS";
+"querylog_pro" = "Es necessari actualitzar a Remote Pro per a poder visualitzar més consultes DNS";
+"querylog_sidebar_explainer" = "Selecciona una consulta DNS de la llista per a veure els seus detalls";
+
+// MARK: Filter
+"querylog_filter" = "Filtre";
+"querylog_filtered" = "Filtratge";
+"querylog_number-of-queries" = "Número de consultes DNS";
+"querylog_status" = "Estat";
+"querylog_status-all" = "Totes";
+"querylog_status-processed" = "Processades";
+"querylog_status-filtered" = "Bloquejades";
+"querylog_clear-filtered" = "Netejar filtres";
+"querylog_show_queries_status" = "Veure consultes amb estat";
+
+// MARK: Queries
+"query_status_NotFilteredNotFound" = "Processada";
+"query_status_NotFilteredWhiteList" = "Processada | Llista blanca";
+"query_status_NotFilteredError" = "Processada | Error";
+"query_status_FilteredBlackList" = "Bloquejada | Filtro";
+"query_status_FilteredSafeBrowsing" = "Bloquejada | Navegació segura";
+"query_status_FilteredParental" = "Bloquejada | Control parental";
+"query_status_FilteredInvalid" = "Bloquejada | Petició invàlida";
+"query_status_FilteredSafeSearch" = "Bloquejada | Cerca segura";
+"query_status_FilteredBlockedService_%@" = "Servei bloquejat%@";
+"query_status_Rewrite" = "Substituïda";
+"query_status_RewriteEtcHosts" = "Substituïda | Fitxer hosts";
+"query_status_RewriteRule" = "Substituïda | Regla";
+"query_status_Unknown" = "Desconegut";
+"query_copy-domain" = "Copiar domini";
+"query_copy-client-name" = "Copiar nom del client";
+"query_copy-client-ip" = "Copiar IP del client";
+"query_copy-client-id" = "Copiar ID del client";
+
+// MARK: Query Detail
+"querydetail_filter_rule" = "Regla de filtratge";
+"querydetail_client" = "Client";
+"querydetail_new_client" = "Nou client";
+"querydetail_edit_client" = "Editar client";
+"querydetail_request_details" = "Detalls de la consulta";
+"querydetail_type" = "Tipus";
+"querydetail_class" = "Clasificació";
+"querydetail_plaindns" = "DNS Estàndard";
+"querydetail_protocol" = "Protocol";
+"querydetail_response_details" = "Detalls de la resposta";
+"querydetail_validated_with_dnssec" = "Validada amb DNSSEC";
+"querydetail_response_code" = "Codi de resposta";
+"querydetail_response_time" = "Temps transcorregut";
+"querydetail_upstream" = "Servidor DNS";
+"querydetail_copy_upstream" = "Copiar servidor DNS";
+"querydetail_block_domain" = "Bloquejar domini";
+"querydetail_unblock_domain" = "Desbloquejar domini";
+"querydetail_answer" = "Resposta";
+"querydetail_ttl_%lld" = "TTL %lld";
+
+// MARK: - Settings
+"settings_tabbar" = "Configuració";
+
+// MARK: Add/Edit Instance
+"instance_add" = "Afegir servidor";
+"instance_new" = "Nou servidor";
+"settings_edit_instance" = "Editar servidor";
+"instance_display_name" = "Nom";
+"instance_display_name_placeholder" = "AdGuard Home";
+"instance_ip_hostname" = "Direcció IP o nom del host";
+"instance_ssl_label" = "Utilitzar http (per defecte) o https?";
+"instance_ssl_http" = "http";
+"instance_ssl_https" = "https";
+"instance_authentication" = "Autenticació";
+"instance_authentication_username_placeholder" = "Usuari";
+"instance_authentication_password_placeholder" = "Contrasenya";
+"instance_other" = "Altres";
+"instance_hide" = "Amagar servidor";
+"instance_test_connection" = "Provar connexió";
+"instance_remove" = "Borrar servidor";
+"instance_remove_alert_title" = "Esborrar servidor";
+"instance_remove_alert_body" = "Estàs segur de que vols esborrar aquest servidor?";
+"settings_validation_port" = "Si us plau introdueix un número de port vàlid";
+
+// MARK: Instance Settings
+"settings_add-instance" = "Afegir servidor";
+"settings_edit-instance" = "Editar";
+"settings_clients" = "Clients";
+"settings_filtering" = "Filtres";
+"settings_dhcp" = "DHCP";
+"settings_dns" = "DNS";
+"settings_dns_rewrites" = "Substitucions DNS";
+"settings_query-log" = "Consultes DNS";
+"settings_more" = "Altres opcions";
+
+// MARK: Clients
+"client_settings" = "Clients";
+"client_new" = "Afegir client";
+"client_edit" = "Editar client";
+"client_remove" = "Esborrar client";
+"client_remove_alert_body" = "Estàs segur de que vols esborrar aquest client?";
+"clients" = "Clients";
+"clients_settings_label" = "Ajustos: ";
+"clients_services_label" = "Serveis bloquejats: ";
+"clients_no_clients_found" = "No s'han trobat clients.";
+"clients_runtime" = "Clients (actius)";
+"clients_runtime_footer" = "Aquests clients utilitzen AdGuard Home però no tenen una configuració específica.";
+"clients_disallowed" = "Clients bloquejats";
+"clients_disallowed_footer" = "AdGuard Home està rebutjant totes les consultes DNS d'aquests clients.";
+"clients_name" = "Nom del client";
+"clients_identifiers" = "Identificadors";
+"clients_identifiers_copy" = "Copiar";
+"clients_identifiers_placeholder" = "IP, CIDR, MAC, ClientID";
+"clients_identifiers_explainer" = "Els clients es poden identificar mitjançant l'adreça IP, el CIDR, l'adreça MAC o un identificador especial de client (per a DoT/DoH/DoQ). Per a utilitzar adreces MAC es necessari habilitar el servei DHCP de AdGuard Home.";
+"clients_upstreams" = "Servidors DNS";
+"clients_view_queries_from_%@" = "Veure consultes DNS de %@";
+"clients_edit_use_filter_blocking" = "Habilitar filtratge";
+"clients_edit_use_safe_browsing" = "Habilitar navegació segura";
+"clients_edit_use_parental_filtering" = "Habilitar control parental";
+"clients_edit_use_safe_search" = "Habilitar cerca segura";
+"clients_pro_required" = "Es necessari actualitzar a Remote Pro per a gestionar els clients";
+"services" = "Serveis";
+"blocked_services" = "Serveis bloquejats";
+"tags" = "Etiquetes";
+
+// MARK: Filtering
+"filtering_settings" = "Filtres";
+"filtering_status" = "Estat";
+"filtering_disabled" = "Desactivat";
+"filtering_disable_filter" = "Desactivar filtre";
+"filtering_enable_filter" = "Activar filtre";
+"filtering_edit_filter" = "Editar Filtre";
+"filtering_edit_filter_name" = "Nom descriptiu";
+"filtering_edit_filter_url" = "URL";
+"filtering_enable_filtering" = "Activar filtratge";
+"filtering_update_interval" = "Freqüència d'actualització";
+"filtering_dns_blocklists" = "Llistes negres";
+"filtering_update_blocklists" = "Cercar actualitzacions";
+"filtering_dns_allowlists" = "Llistes blanques";
+"filtering_update_allowlists" = "Cercar actualitzacions";
+"filtering_updated_count_%@" = "Llistes actualitzades: %@";
+"filtering_rules_%@" = "Regles: %@";
+"filtering_last_updated_%@" = "Última actualització: %@";
+"filtering_global_blocked_services" = "Serveis bloquejats";
+"filtering_custom_filtering_rules" = "Regles de filtratge personalitzades";
+"filtering_rule_count_%@" = "%@ regles";
+"filtering_check_filtered" = "Comprovar si un nom de host s’està filtrant";
+"filtering_pro_required" = "Es necessari actualitzar a Remote Pro per a gestionar els filtres";
+// Add Filter
+"filtering_addfilter_list" = "Tipus de llista";
+"filtering_addfilter_blocklist" = "Llista negra";
+"filtering_addfilter_blocklist_new" = "Afegir llista negra";
+"filtering_addfilter_allowlist" = "Llista blanca";
+"filtering_addfilter_allowlist_new" = "Afegir llista blanca";
+"filtering_addfilter_name" = "Nom descriptiu";
+"filtering_addfilter_url" = "URL";
+"filtering_addfilter_url_placeholder" = "URL o ruta absoluta";
+// Custom Rules
+"filtering_rules_custom" = "Regles personalitzades";
+"filtering_rules_custom_new" = "Nova regla";
+"filtering_rules_add" = "Afegir regla";
+"filtering_rules_no_rules_found" = "No s'han trobat regles.";
+"filtering_rules_delete_and_edit" = "Esborrar regla y editar";
+"filtering_rules_rule" = "Regla";
+"filtering_rules_settings" = "Ajustos";
+"filtering_rules_blocking_mode" = "Mode de bloqueig";
+"filtering_rules_blocking_mode_block" = "Bloquejar";
+"filtering_rules_blocking_mode_unblock" = "Desbloquejar";
+"filtering_rules_blocking_mode_custom" = "Personalitzat";
+"filtering_rules_final_rule" = "Regla final";
+"filtering_rules_rule_placeholder" = "Escriu un domini...";
+"filtering_rules_examples" = "Exemples";
+"filtering_rules_examples_block_title" = "||example.org^";
+"filtering_rules_examples_block_subtitle" = "Bloquejar example.org i tots els seus subdominis";
+"filtering_rules_examples_unblock_title" = "@@||example.org^";
+"filtering_rules_examples_unblock_subtitle" = "Desbloqueja example.org i tots els seus subdominis";
+"filtering_rules_examples_rewrite_title" = "127.0.0.1 example.org";
+"filtering_rules_examples_rewrite_subtitle" = "Retorna 127.0.0.1 per example.org (pero no per als seus subdominis)";
+"filtering_rules_examples_comment_title1" = "! Aquí va un comentari";
+"filtering_rules_examples_comment_title2" = "# Un altre comentari";
+"filtering_rules_examples_comment_subtitle" = "Permet afegir comentaris";
+"filtering_rules_examples_regex_title" = "/REGEX/";
+"filtering_rules_examples_regex_subtitle" = "Bloqueja l'accés als dominis que coincideixin amb l'expresió regular especificada";
+// Check Hostname
+"filtering_check_hostname" = "Comprovar filtratge";
+"filtering_check_hostname_placeholder" = "Introdueix un nom de host...";
+"filtering_check_hostname_check" = "Comprovar";
+"filtering_check_hostname_result" = "Resultat";
+"filtering_check_hostname_cname" = "CNAME";
+"filtering_check_hostname_IP" = "IP";
+
+// MARK: DHCP
+"dhcp_settings" = "Servei DHCP";
+"dhcp_status" = "Estat";
+"dhcp_enable" = "Activar el servei DHCP";
+"dhcp_interface" = "Interfície";
+"dhcp_ipv4_settings" = "Ajustos IPv4";
+"dhcp_gateway_ip" = "Porta d’enllaç";
+"dhcp_subnet_mask" = "Màscara de xarxa";
+"dhcp_ip_range" = "Rang de d'adreça IP";
+"dhcp_lease_time" = "Temps d'assignació (segons)";
+"dhcp_ipv6_settings" = "Ajustos IPv6";
+"dhcp_range_start" = "Inici del rang";
+"dhcp_static_leases" = "Assignacions estàtiques";
+"dhcp_remove_lease" = "Esborrar";
+"dhcp_leases" = "Assignacions";
+"dhcp_lease_create" = "Afegir assignació estàtica";
+"dhcp_pro_required" = "Es necessari actualitzar a Remote Pro per a gestionar els ajustos del servei DHCP";
+// New Static Lease
+"dhcp_staticlease_new" = "Nova assignació estàtica";
+"dhcp_staticlease_mac" = "Adreça MAC";
+"dhcp_staticlease_mac_placeholder" = "aa:0b:cd:e1:f2:34";
+"dhcp_staticlease_ip" = "Adreça IP";
+"dhcp_staticlease_ip_placeholder" = "192.168.1.10";
+"dhcp_staticlease_hostname" = "Nom de host";
+"dhcp_staticlease_hostname_placeholder" = "raspberrypi.local";
+
+// MARK: DNS
+"dns_settings" = "DNS";
+"dns_upstream_dns_servers" = "Servidors DNS";
+"dns_ip" = "IP";
+"dns_reverse_resolve" = "Habilitar la resolució inversa de les IP dels clients";
+"dns_upstream_mode" = "Mode DNS";
+"dns_upstream_mode_loadbalancing" = "Balanceig de càrrega";
+"dns_upstream_mode_parralel" = "Consultes paral·leles";
+"dns_upstream_mode_fastest" = "Direcció IP més ràpida";
+"dns_bootstrap_dns_servers" = "Servidors DNS inicials";
+"dns_bootstrap_dns_servers_footer" = "Els servidors DNS inicials s’utilitzen per a resoldre les adreçes IP dels servidors DoH/DoT que s'hagin configurat.";
+"dns_server_configuration" = "Configuració del servidor DNS de AdGuard";
+"dns_rate_limit" = "Límit de peticions per segon";
+"dns_edns_client_subnet" = "Subxarxa de client EDNS";
+"dns_dnssec" = "DNSSEC";
+"dns_disable_ipv6" = "Desactivar IPv6";
+"dns_blocking_mode" = "Mode de bloqueig";
+"dns_blocking_mode_default" = "Per defecte";
+"dns_blocking_mode_refused" = "REFUSED";
+"dns_blocking_mode_nxdomain" = "NXDOMAIN";
+"dns_blocking_mode_nullip" = "Null IP";
+"dns_blocking_mode_customip" = "IP Personalitzada";
+"dns_cache_configuration" = "Configuració de la memòria cau DNS";
+"dns_cache_size" = "Tamaño";
+"dns_override_minimum_ttl" = "TTL mínim";
+"dns_override_maximum_ttl" = "TTL màxim";
+"dns_pro_required" = "Es necessari actualitzar a Remote Pro per a gestionar la configuració DNS";
+
+// MARK: DNS Rewrites
+"dnsrewrites_entries" = "Substitucions DNS";
+"dnsrewrites_no_entries" = "No s'han trobat substitucions.";
+"dnsrewrites_new" = "Afegir substitució DNS";
+"dnsrewrites_domain" = "Domini";
+"dnsrewrites_domain_placeholder" = "Domini o comodí";
+"dnsrewrites_answer" = "Resposta";
+"dnsrewrites_answer_placeholder" = "IP o nom de domini";
+"dnsrewrites_pro_required" = "Es necessari actualitzar a Remote Pro per a gestionar les substitucions DNS";
+
+// MARK: Query Log
+"querylog_settings_status" = "Estat";
+"querylog_settings_enable" = "Activar el registre de consultes";
+"querylog_settings_options" = "Opcions";
+"querylog_settings_options_footer" = "Si s'habilita l'opció 'Anonimitzar la IP dels clients' s'evitarà enmagatzemar l'adreça IP d'els clients als registres i estadístiques.";
+"querylog_settings_anonymize" = "Anonimitzar la IP dels clients";
+"querylog_settings_log_retention" = "Temps de retenció";
+"querylog_settings_clear" = "Esborrar el registre de consultes";
+"querylog_settings_clear_alert" = "Estàs segur de que vols esborrar el registre de consultes?";
+"querylog_settings_cleared" = "Esborrat";
+
+// MARK: More
+"more_statistics" = "Estadístiques";
+"more_statistics_footer" = "Canviar el temps de retenció de les estadístiques requereix el reinici d'AdGuard Home.";
+"more_statistics_retention" = "Temps de retenció";
+"more_statistics_clear" = "Esborrar estadístiques";
+"more_statistics_clear_alert" = "Estàs segur de que vols esborrar les estadístiques?";
+"more_statistics_cleared" = "Esborrades";
+"more_version" = "Versió";
+"more_version_current_%@" = "Versió actual: %@";
+"more_update_started" = "S'ha iniciat l'actualització!";
+"more_update_to_%@" = "Actualitzar a la versió %@";
+"more_checking_version" = "Comprovant actualitzacions...";
+"more_up_to_date" = "Ja tens la versió més recent instal·lada";
+
+// MARK: Preferences
+"settings_preferences" = "Preferències";
+"settings_dashboard" = "Tauler de control";
+"preferences_dashboard_statusbuttons" = "Botons d'estat";
+"preferences_dashboard_rulefiltering" = "Bloqueig per filtre";
+"preferences_dashboard_parentalfiltering" = "Control parental";
+"preferences_dashboard_safebrowsing" = "Navegació segura";
+"preferences_dashboard_safesearch" = "Cerca segura";
+"preferences_dashboard_graphs" = "Gràfics";
+"preferences_dashboard_graph_type" = "Tipus de gràfics";
+"preferences_dashboard_graph_line" = "Línia";
+"preferences_dashboard_graph_bar" = "Histograma";
+"preferences_dashboard_graph_dnsqueries" = "Consultes DNS";
+"preferences_dashboard_graph_blockedbyfilters" = "Bloquejat per filtres";
+"preferences_dashboard_graph_blockedmalware" = "Malware/phishing bloquejat";
+"preferences_dashboard_graph_blockedadultwebsites" = "Llocs web per adults bloquejats";
+"preferences_dashboard_show_section" = "Visualitzar secció";
+"preferences_dashboard_number_of_clients" = "Número de clients";
+"preferences_dashboard_number_of_domains" = "Número de dominis";
+"preferences_other" = "Altres";
+"preferences_language" = "Idioma";
+
+// MARK: Help
+"settings_help" = "Ajuda i comentaris";
+"settings_help_navbar" = "Suport";
+"settings_help_contact" = "Contacta";
+"settings_help_actions" = "Accions";
+"settings_help_logs" = "Registres";
+"settings_help_logs_footer" = "Els registres de sistema s’emmagatzemen localment i no surten mai del teu dispositiu. Arrastra avall per a tancar el visor de registres.";
+"settings_help_logs_button" = "Visualitzar registres de sistema";
+"settings_give_feedback_alert_title" = "Enviar els teus comentaris";
+"settings_give_feedback_alert_body" = "Pots enviar-me un correu electrònic a developer@rocketscience-it.nl amb qualsevol comentari, error o idea en quant a l’aplicació.";
+"settings_copy_email" = "Copiar direcció de correu";
+
+// MARK: Other Settings
+"settings_other" = "Altres";
+"settings_pro" = "Pro";
+"settings_twitter" = "Segueix-me a Twitter";
+"settings_changelog" = "Novetats";
+"settings_adguard-website" = "Pàgina web d'AdGuard";
+
+// MARK: Design
+"settings_design" = "Disseny";
+"design_color_scheme" = "Esquema de colors";
+"design_color_scheme_default" = "Predeterminat";
+"design_color_scheme_adguard" = "AdGuard";
+"design_color_scheme_pastel" = "Pastel";
+"design_app_tint" = "Color de realç";
+"design_app_tint_green" = "Verd";
+"design_app_tint_blue" = "Blau";
+"design_app_tint_indigo" = "Indi";
+"design_app_tint_purple" = "Morat";
+"design_app_tint_teal" = "Verd blavós";
+"design_app_tint_yellow" = "Groc";
+"design_app_tint_orange" = "Taronja";
+"design_app_tint_pink" = "Rosa";
+"design_app_tint_red" = "Vermell";
+"design_app_icon" = "Icona de l'aplicació";
+"design_app_icon_original" = "Original";
+"design_app_icon_inverse" = "Invertit";
+"design_app_icon_dark" = "Fosc";
+"design_theme" = "Tema";
+"design_system_setting" = "Utilitzar la configuració del sistema";
+"design_always_lightmode" = "Sempre en mode clar";
+"design_always_darkmode" = "Sempre en mode fosc";
+"design_restart_required" = "Canviar aquesta opció requereix el reinici de l'aplicació.";
+
+// MARK: Changelog
+"changelog_just_updated" = "Novetats!";
+"changelog_current_version" = "Versió més recent";
+"changelog_whats_new" = "Novetats";
+"changelog_continue" = "Continuar";
+"changelog_show_on_app_update" = "Mostrar la llista de canvis al actualitzar l'aplicació";
+"changelog_show_on_app_update_footer" = "El llista de canvis només es mostrarà quan s'incorporin noves funcionalitats.";
+"changelog_settings" = "Ajustos";
+
+// MARK: - Pro
+"pro" = "Pro";
+"pro_navtitle" = "Remote Pro";
+"pro_purchase" = "Comprar Pro";
+"pro_thankyou" = "Gracies!";
+"pro_thankyou_heart" = "Gracies! ❤️";
+"pro_learn-more" = "Més informació...";
+"pro_title" = "AdGuard Home\nRemote Pro";
+"pro_description" = "Desbloqueja funcionalitats avançades i contribueix al desenvolupament de l'aplicació amb una compra única.";
+"pro_purchased_date_%@" = "Comprat el %@.";
+"pro_features" = "Funcionalitats Pro";
+"pro_family_sharing" = "Compatible amb 'En Família'";
+"pro_restore_purchase" = "Restaurar Compra";
+"pro_restored" = "Pro activat!";
+"pro_restore_failed" = "L'activació de Pro ha fallat";
+"pro_restore_nothing" = "Res a restaurar";
+"pro_testflight" = "TestFlight";
+"pro_beta_access_button" = "Sol·licitar accés a la versió beta";
+"pro_testflight_alert" = "Veig que no tens un client de correu instal·lat al teu dispositiu, si us plau, envía un correu a developer@rocketscience-it.nl sol·licitant l'accés a la beta i adjuntant un captura d'aquesta pantalla.";
+"pro_testflight_explainer" = "Estàs executant la versió beta de l'aplicació. En aquesta versió no es procesen els pagaments.\n\nLa llicencia Pro es desactivarà al cap d'uns dies. Si desitges comprar Pro i utilitzar aquesta aplicació sense aquesta molèstia, si us plau, descarrega l’aplicació des de l'App Store. Gracies!";
+
+// MARK: Pro Features
+"pro_view_queries" = "Ampliar el llista de consultes DNS i habilitar les opcions de filtratge de la llista";
+"pro_manage_clients" = "Gestionar els clients";
+"pro_manage_filters" = "Gestionar els filtres";
+"pro_manage_custom_filter_rules" = "Gestionar les regles de filtratge personalitzades";
+"pro_manage_dhcp" = "Gestionar els ajustos DHCP";
+"pro_manage_dns" = "Gestionar els ajustos DNS";
+"pro_manage_rewrites" = "Gestionar les substitucions DNS";
+"pro_support_multiple_instances" = "Gestionar múltiples servidors AdGuard Home";
+"pro_alternative_icons" = "Icones alternatives";
+"pro_beta_access" = "Accés a la versió Beta a TestFlight";
+
+// MARK: Purchase Flow
+"purchase_unknown_error" = "Error desconegut. Si us plau contacta amb mi a developer@rocketscience-it.nl.";
+"purchase_not_allowed" = "Pagament no permès.";
+"purchase_invalid_id" = "No s'ha pogut validar l'identificador de la compra.";
+"purchase_not_allowed" = "Aquest dispositiu no està autoritzat per a realitzar el pagament.";
+"purchase_not_available" = "Producte no disponible a la App Store actual.";
+"purchase_cloud_permission_denied" = "Accés al servei al núvol no autoritzat.";
+"purchase_connection_error" = "No s'ha pogut connectar.";
+"purchase_cloud_permission_revoked" = "L'usuari ha revocat els permisos per a utilitzar aquest servei al núvol.";
+
+// MARK: RocketScience
+"settings_rocketscience" = "Creat per RocketScience";
+"rocketscience_hi_title" = "Hola, soc en Joost!";
+"rocketscience_hi_subtitle" = "Al Juny de 2020 vaig començar de desenvolupar aplicacions com a desenvolupador independent sota el nom 'RocketScience IT'.\n\nEl meu principal objectiu es aprendre disseny, desenvolupament, proves, suport, promoció i molt mes. Ara mateix tinc dues aplicacions a l'App Store que milloro constantment. També tinc moltes idees per a noves aplicacions que potser acabaré creant en un futur.";
+"rocketscience_website" = "Pàgina Web";
+"rocketscience_twitter" = "Twitter";
+"rocketscience_tipjar" = "Propines";
+"rocketscience_tipjar_thankyou" = "Gracies!";
+"rocketscience_my_other_apps" = "Les meves altres aplicacions";
+"rocketscience_piholeremote_subtitle" = "La teva Pi-hole sota control.";
+"rocketscience_acknoledgements" = "Agraïments especials a";
+
+// MARK: Tip Jar
+"tipjar_navbar" = "Propines";
+"tipjar_title" = "Les propines contribueixen al desenvolupament de noves funcionalitats i millores.";
+"tipjar_description" = "Si t'agrada aquesta aplicació i vols contribuir amb el desenvolupador (hola! 👋), si us plau, considera deixar una propina. T'estaré molt agrait!";
+"tipjar_coffee_tip" = "Propina per a un cafè";
+"tipjar_whiskey_tip" = "Propina per a un Whisky";
+"tipjar_ramen_tip" = "Propina per a un Ramen";
+"tipjar_sushi_tip" = "Propina per a un Sushi";
+"tipjar_description_thankyou" = "Gracies per el teu suport.\n- Joost";
+"tipjar_thankyou_tip" = "Gracies per la teva generosa propina!";
+"tipjar_thankyou_tips" = "Gracies per les teves generoses propines!";
+"tipjar_love" = "T'estimo! ❤️";
+"tipjar_love_alert" = "Moltes gracies, aprecio de tot cor que t'agradi tant l'aplicació com per a deixar una propina. Això em motiva molt. T'estimo!\n\nJoost";
+"tipjar_blush" = "*blush*";
+"tipjar_payment_success" = "Pagament processat";
+"tipjar_testflight_explainer" = "Estàs executant la versió beta d'aquesta aplicació. En aquesta versió no es processen els pagaments.\n\nSi desitges deixar una propina, si us plau, descarrega l'aplicació de l'App Store. Gracies!";
+
+// MARK: - Other
+"loading" = "Carregant";
+"loading_dots" = "Carregant...";
+"search" = "Cercar";
+"new" = "Afegir";
+"add" = "Afegir";
+"edit" = "Editar";
+"done" = "Llest";
+"save" = "Guardar";
+"remove" = "Esborrar";
+"ok" = "Acceptar";
+"cancel" = "Cancel·lar";
+"settings" = "Ajustos";
+"cannot_reach_instance" = "No s'ha pogut contactar amb el servidor";
+"not_responding" = "Sense resposta";
+"something_went_wrong" = "Ha ocorregut un error";
+"something_went_wrong_alert" = "Ha ocorregut un error";
+"error" = "Error";
+"unknown_error" = "Error desconegut";
+"unknown" = "Desconegut";
+"instance" = "Servidor";
+"ms" = "ms";
+"select_all" = "Marcar tot";
+"deselect_all" = "Desmarcar tot";
+"all" = "Tot";
+"search" = "Cercar";
+"global" = "Global";
+"use_global_settings" = "Utilitzar els ajustos globals";
+"custom" = "Personalitzar";
+"other" = "Altres";
+"name" = "Nom";
+"none_dot" = "Sense definir";
+"manage" = "Gestionar";
+"tap_to_learn_more" = "Prem per a veure més detalls";
+
+// Durations
+"disabled" = "Desactivat";
+"1h" = "1 hora";
+"12h" = "12 hores";
+"24h" = "24 hores";
+"3d" = "3 dies";
+"7d" = "7 dies";
+"30d" = "30 dies";
+"90d" = "90 dies";
