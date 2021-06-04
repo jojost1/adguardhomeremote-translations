@@ -9,9 +9,9 @@
 // MARK: - Dashboard
 "dashboard_tabbar" = "Tauler de control";
 "dashboard_rule-filtering" = "Filtratge\nde continguts";
-"dashboard_parental-filtering" = "Control\nParental";
-"dashboard_safe-browsing" = "Navegació\nSegura";
-"dashboard_safe-search" = "Cerca\nSegura";
+"dashboard_parental-filtering" = "Control\nparental";
+"dashboard_safe-browsing" = "Navegació\nsegura";
+"dashboard_safe-search" = "Cerca\nsegura";
 "dashboard_queries" = "Consultes DNS";
 "dashboard_blocked-filters" = "Peticions filtrades";
 "dashboard_blocked-malware" = "Malware/phishing bloquejat";
@@ -305,7 +305,7 @@
 "settings_preferences" = "Preferències";
 "settings_dashboard" = "Tauler de control";
 "preferences_dashboard_statusbuttons" = "Botons d'estat";
-"preferences_dashboard_rulefiltering" = "Bloqueig per filtre";
+"preferences_dashboard_rulefiltering" = "Filtratge de continguts";
 "preferences_dashboard_parentalfiltering" = "Control parental";
 "preferences_dashboard_safebrowsing" = "Navegació segura";
 "preferences_dashboard_safesearch" = "Cerca segura";
@@ -316,7 +316,7 @@
 "preferences_dashboard_graph_dnsqueries" = "Consultes DNS";
 "preferences_dashboard_graph_blockedbyfilters" = "Bloquejat per filtres";
 "preferences_dashboard_graph_blockedmalware" = "Malware/phishing bloquejat";
-"preferences_dashboard_graph_blockedadultwebsites" = "Llocs web per adults bloquejats";
+"preferences_dashboard_graph_blockedadultwebsites" = "Llocs web per a adults bloquejats";
 "preferences_dashboard_show_section" = "Visualitzar secció";
 "preferences_dashboard_number_of_clients" = "Número de clients";
 "preferences_dashboard_number_of_domains" = "Número de dominis";
@@ -399,7 +399,7 @@
 "pro_testflight_explainer" = "Estàs executant la versió beta de l'aplicació. En aquesta versió no es procesen els pagaments.\n\nLa llicencia Pro es desactivarà al cap d'uns dies. Si desitges comprar Pro i utilitzar aquesta aplicació sense aquesta molèstia, si us plau, descarrega l’aplicació des de l'App Store. Gracies!";
 
 // MARK: Pro Features
-"pro_view_queries" = "Ampliar el llista de consultes DNS i habilitar les opcions de filtratge de la llista";
+"pro_view_queries" = "Ampliar el llistat de consultes DNS i habilitar les opcions de filtratge de consultes";
 "pro_manage_clients" = "Gestionar els clients";
 "pro_manage_filters" = "Gestionar els filtres";
 "pro_manage_custom_filter_rules" = "Gestionar les regles de filtratge personalitzades";
@@ -456,7 +456,7 @@
 "new" = "Afegir";
 "add" = "Afegir";
 "edit" = "Editar";
-"done" = "Llest";
+"done" = "Fet";
 "save" = "Guardar";
 "remove" = "Esborrar";
 "ok" = "Acceptar";
