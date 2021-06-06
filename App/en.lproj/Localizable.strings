@@ -326,7 +326,7 @@
 // MARK: Help
 "settings_help" = "Help & Feedback";
 "settings_help_navbar" = "Support";
-"settings_help_contact" = "Contact Me";
+"settings_help_contact" = "Contact me";
 "settings_help_actions" = "Actions";
 "settings_help_logs" = "Logs";
 "settings_help_logs_footer" = "Logs are recorded locally and never leave your device. Swipe down to exit the Log viewer.";

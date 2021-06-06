@@ -326,7 +326,7 @@
 // MARK: Help
 "settings_help" = "Help & Feedback";
 "settings_help_navbar" = "Support";
-"settings_help_contact" = "Mail me";
+"settings_help_contact" = "Neem contact op";
 "settings_help_actions" = "Acties";
 "settings_help_logs" = "Logs";
 "settings_help_logs_footer" = "Logs worden lokaal weggeschreven en verlaten nooit je device. Swipe naar beneden om de log-viewer te sluiten.";
