@@ -2,7 +2,7 @@
   Localizable.strings
   AdGuardHome
 
-  Created by Joost van den Akker on 03/06/2021.
+  Created by Joost van den Akker on 20/05/2021.
   
 */
 
@@ -381,8 +381,8 @@
 "pro" = "Pro";
 "pro_navtitle" = "Remote Pro";
 "pro_purchase" = "Comprar Pro";
-"pro_thankyou" = "Gracies!";
-"pro_thankyou_heart" = "Gracies! ❤️";
+"pro_thankyou" = "Gràcies!";
+"pro_thankyou_heart" = "Gràcies! ❤️";
 "pro_learn-more" = "Més informació...";
 "pro_title" = "AdGuard Home\nRemote Pro";
 "pro_description" = "Desbloqueja funcionalitats avançades i contribueix al desenvolupament de l'aplicació amb una compra única.";
@@ -396,7 +396,7 @@
 "pro_testflight" = "TestFlight";
 "pro_beta_access_button" = "Sol·licitar accés a la versió beta";
 "pro_testflight_alert" = "Veig que no tens un client de correu instal·lat al teu dispositiu, si us plau, envía un correu a developer@rocketscience-it.nl sol·licitant l'accés a la beta i adjuntant un captura d'aquesta pantalla.";
-"pro_testflight_explainer" = "Estàs executant la versió beta de l'aplicació. En aquesta versió no es procesen els pagaments.\n\nLa llicencia Pro es desactivarà al cap d'uns dies. Si desitges comprar Pro i utilitzar aquesta aplicació sense aquesta molèstia, si us plau, descarrega l’aplicació des de l'App Store. Gracies!";
+"pro_testflight_explainer" = "Estàs executant la versió beta de l'aplicació. En aquesta versió no es processen els pagaments.\n\nLa llicencia Pro es desactivarà al cap d'uns dies. Si desitges comprar Pro i utilitzar aquesta aplicació sense aquesta molèstia, si us plau, descarrega l’aplicació des de l'App Store. Gràcies!";
 
 // MARK: Pro Features
 "pro_view_queries" = "Ampliar el llistat de consultes DNS i habilitar les opcions de filtratge de consultes";
@@ -427,7 +427,7 @@
 "rocketscience_website" = "Pàgina Web";
 "rocketscience_twitter" = "Twitter";
 "rocketscience_tipjar" = "Propines";
-"rocketscience_tipjar_thankyou" = "Gracies!";
+"rocketscience_tipjar_thankyou" = "Gràcies!";
 "rocketscience_my_other_apps" = "Les meves altres aplicacions";
 "rocketscience_piholeremote_subtitle" = "La teva Pi-hole sota control.";
 "rocketscience_acknoledgements" = "Agraïments especials a";
@@ -440,14 +440,14 @@
 "tipjar_whiskey_tip" = "Propina per a un Whisky";
 "tipjar_ramen_tip" = "Propina per a un Ramen";
 "tipjar_sushi_tip" = "Propina per a un Sushi";
-"tipjar_description_thankyou" = "Gracies per el teu suport.\n- Joost";
-"tipjar_thankyou_tip" = "Gracies per la teva generosa propina!";
-"tipjar_thankyou_tips" = "Gracies per les teves generoses propines!";
+"tipjar_description_thankyou" = "Gràcies per el teu suport.\n- Joost";
+"tipjar_thankyou_tip" = "Gràcies per la teva generosa propina!";
+"tipjar_thankyou_tips" = "Gràcies per les teves generoses propines!";
 "tipjar_love" = "T'estimo! ❤️";
-"tipjar_love_alert" = "Moltes gracies, aprecio de tot cor que t'agradi tant l'aplicació com per a deixar una propina. Això em motiva molt. T'estimo!\n\nJoost";
+"tipjar_love_alert" = "Moltes gràcies, aprecio de tot cor que t'agradi tant l'aplicació com per a deixar una propina. Això em motiva molt. T'estimo!\n\nJoost";
 "tipjar_blush" = "*blush*";
 "tipjar_payment_success" = "Pagament processat";
-"tipjar_testflight_explainer" = "Estàs executant la versió beta d'aquesta aplicació. En aquesta versió no es processen els pagaments.\n\nSi desitges deixar una propina, si us plau, descarrega l'aplicació de l'App Store. Gracies!";
+"tipjar_testflight_explainer" = "Estàs executant la versió beta d'aquesta aplicació. En aquesta versió no es processen els pagaments.\n\nSi desitges deixar una propina, si us plau, descarrega l'aplicació de l'App Store. Gràcies!";
 
 // MARK: - Other
 "loading" = "Carregant";
