@@ -55,6 +55,7 @@
 "query_status_RewriteEtcHosts" = "Substituïda | Fitxer hosts";
 "query_status_RewriteRule" = "Substituïda | Regla";
 "query_status_Unknown" = "Desconegut";
+"query_copy" = "Copiar";
 "query_copy-domain" = "Copiar domini";
 "query_copy-client-name" = "Copiar nom del client";
 "query_copy-client-ip" = "Copiar IP del client";
@@ -130,6 +131,8 @@
 "clients_runtime_footer" = "Aquests clients utilitzen AdGuard Home però no tenen una configuració específica.";
 "clients_disallowed" = "Clients bloquejats";
 "clients_disallowed_footer" = "AdGuard Home està rebutjant totes les consultes DNS d'aquests clients.";
+"clients_disallowed_placeholder" = "Enter an IP or CIDR range";
+"clients_disallowed_add_client" = "Add to disallowed clients";
 "clients_name" = "Nom del client";
 "clients_identifiers" = "Identificadors";
 "clients_identifiers_copy" = "Copiar";
@@ -493,3 +496,7 @@
 "7d" = "7 dies";
 "30d" = "30 dies";
 "90d" = "90 dies";
+
+// MARK: Widgets
+"widget_dashboard" = "Dashboard Widget";
+"widget_dashboard_description" = "View your Dashboard Statistics.";

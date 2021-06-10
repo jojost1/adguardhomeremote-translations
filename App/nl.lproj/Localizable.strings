@@ -55,6 +55,7 @@
 "query_status_RewriteEtcHosts" = "Herschreven | Hosts Bestand";
 "query_status_RewriteRule" = "Herschreven | Regel";
 "query_status_Unknown" = "Onbekend";
+"query_copy" = "Kopieer";
 "query_copy-domain" = "Kopieer domein";
 "query_copy-client-name" = "Kopieer cliënt naam";
 "query_copy-client-ip" = "Kopieer cliënt IP";
@@ -128,8 +129,10 @@
 "clients_no_clients_found" = "Geen cliënten gevonden.";
 "clients_runtime" = "Cliënten (Runtime)";
 "clients_runtime_footer" = "Data over gebruikers die AdGuard Home gebruiken, maar niet geconfigureerd zijn.";
-"clients_disallowed" = "Geblokeerde Clients";
+"clients_disallowed" = "Geblokkeerde cliënten";
 "clients_disallowed_footer" = "AdGuard Home blokkeert alle DNS verzoeken van deze cliënten.";
+"clients_disallowed_placeholder" = "Typ een IP of CIDR";
+"clients_disallowed_add_client" = "Voeg toe aan geblokkeerde cliënten";
 "clients_name" = "Cliënt Naam";
 "clients_identifiers" = "Identificeer via";
 "clients_identifiers_copy" = "Kopieer";
@@ -493,3 +496,7 @@
 "7d" = "7 dagen";
 "30d" = "30 dagen";
 "90d" = "90 dagen";
+
+// MARK: Widgets
+"widget_dashboard" = "Dashboard Widget";
+"widget_dashboard_description" = "Bekijk statistieken van het Dashboard.";

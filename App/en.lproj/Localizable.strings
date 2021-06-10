@@ -55,6 +55,7 @@
 "query_status_RewriteEtcHosts" = "Rewrite | Hosts File";
 "query_status_RewriteRule" = "Rewrite | Rule";
 "query_status_Unknown" = "Unknown";
+"query_copy" = "Copy";
 "query_copy-domain" = "Copy Domain";
 "query_copy-client-name" = "Copy Client Name";
 "query_copy-client-ip" = "Copy Client IP";
@@ -130,6 +131,8 @@
 "clients_runtime_footer" = "These clients use AdGuard Home, but do not have a specific configuration.";
 "clients_disallowed" = "Disallowed Clients";
 "clients_disallowed_footer" = "AdGuard Home is dropping all DNS queries from these clients.";
+"clients_disallowed_placeholder" = "Enter an IP or CIDR range";
+"clients_disallowed_add_client" = "Add to disallowed clients";
 "clients_name" = "Client Name";
 "clients_identifiers" = "Identifiers";
 "clients_identifiers_copy" = "Copy";
@@ -493,3 +496,7 @@
 "7d" = "7 days";
 "30d" = "30 days";
 "90d" = "90 days";
+
+// MARK: Widgets
+"widget_dashboard" = "Dashboard Widget";
+"widget_dashboard_description" = "View your Dashboard Statistics.";

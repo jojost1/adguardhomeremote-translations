@@ -55,6 +55,7 @@
 "query_status_RewriteEtcHosts" = "改寫 | 主機檔案";
 "query_status_RewriteRule" = "改寫 | 規則";
 "query_status_Unknown" = "未知的";
+"query_copy" = "複製";
 "query_copy-domain" = "複製網域";
 "query_copy-client-name" = "複製用戶端名稱";
 "query_copy-client-ip" = "複製用戶端 IP";
@@ -130,6 +131,8 @@
 "clients_runtime_footer" = "這些用戶端使用 AdGuard Home，但沒有特定的配置。";
 "clients_disallowed" = "未被允許的用戶端";
 "clients_disallowed_footer" = "AdGuard Home 正在排除來自這些用戶端之所有的 DNS 查詢。";
+"clients_disallowed_placeholder" = "Enter an IP or CIDR range";
+"clients_disallowed_add_client" = "Add to disallowed clients";
 "clients_name" = "用戶端名稱";
 "clients_identifiers" = "識別碼";
 "clients_identifiers_copy" = "複製";
@@ -493,3 +496,7 @@
 "7d" = "7 天";
 "30d" = "30 天";
 "90d" = "90 天";
+
+// MARK: Widgets
+"widget_dashboard" = "Dashboard Widget";
+"widget_dashboard_description" = "View your Dashboard Statistics.";

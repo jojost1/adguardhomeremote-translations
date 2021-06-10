@@ -55,6 +55,7 @@
 "query_status_RewriteEtcHosts" = "重写项 | Hosts 文件";
 "query_status_RewriteRule" = "重写项 | 重写规则";
 "query_status_Unknown" = "未知";
+"query_copy" = "复制";
 "query_copy-domain" = "复制域名";
 "query_copy-client-name" = "复制客户端名称";
 "query_copy-client-ip" = "复制客户端 IP 地址";
@@ -130,6 +131,8 @@
 "clients_runtime_footer" = "使用 Adguard Home 但未存储在配置中的客户端。";
 "clients_disallowed" = "已阻止的客户端";
 "clients_disallowed_footer" = "AdGuard Home 会终止所有来自此客户端的DNS查询。";
+"clients_disallowed_placeholder" = "Enter an IP or CIDR range";
+"clients_disallowed_add_client" = "Add to disallowed clients";
 "clients_name" = "客户端名称";
 "clients_identifiers" = "标识符";
 "clients_identifiers_copy" = "复制";
@@ -493,3 +496,7 @@
 "7d" = "7 天";
 "30d" = "30 天";
 "90d" = "90 天";
+
+// MARK: Widgets
+"widget_dashboard" = "Dashboard Widget";
+"widget_dashboard_description" = "View your Dashboard Statistics.";

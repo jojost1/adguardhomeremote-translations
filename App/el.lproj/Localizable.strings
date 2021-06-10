@@ -55,6 +55,7 @@
 "query_status_RewriteEtcHosts" = "Επανεγγραφή | Αρχείο hosts";
 "query_status_RewriteRule" = "Επανεγγραφή | Κανόνας";
 "query_status_Unknown" = "Άγνωστο";
+"query_copy" = "Αντιγραφή";
 "query_copy-domain" = "Αντιγραφή domain";
 "query_copy-client-name" = "Αντιγραφή Ονόματος Πελάτη";
 "query_copy-client-ip" = "Αντιγραφή IP Πελάτη";
@@ -130,6 +131,8 @@
 "clients_runtime_footer" = "Αυτοί οι πελάτες χρησιμοποιούν το AdGuard Home, αλλά δεν έχουν συγκεκριμένη ρύθμιση.";
 "clients_disallowed" = "Μη επιτρεπόμενοι πελάτες";
 "clients_disallowed_footer" = "Το AdGuard Home απορρίπτει όλα τα ερωτήματα DNS από αυτούς τους πελάτες.";
+"clients_disallowed_placeholder" = "Enter an IP or CIDR range";
+"clients_disallowed_add_client" = "Add to disallowed clients";
 "clients_name" = "Όνομα πελάτη";
 "clients_identifiers" = "Αναγνωριστικά";
 "clients_identifiers_copy" = "Αντιγραφή";
@@ -493,3 +496,7 @@
 "7d" = "7 ημέρες";
 "30d" = "30 ημέρες";
 "90d" = "90 ημέρες";
+
+// MARK: Widgets
+"widget_dashboard" = "Dashboard Widget";
+"widget_dashboard_description" = "View your Dashboard Statistics.";
