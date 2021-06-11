@@ -131,8 +131,8 @@
 "clients_runtime_footer" = "Estos clientes utilizan AdGuard Home pero no tienen una configuración especifica.";
 "clients_disallowed" = "Clientes bloqueados";
 "clients_disallowed_footer" = "AdGuard Home está rechazando todas las consultas DNS de estos clientes.";
-"clients_disallowed_placeholder" = "Enter an IP or CIDR range";
-"clients_disallowed_add_client" = "Add to disallowed clients";
+"clients_disallowed_placeholder" = "Introduce una dirección IP o un rango CIDR";
+"clients_disallowed_add_client" = "Añadir a los clientes no autorizados";
 "clients_name" = "Nombre del cliente";
 "clients_identifiers" = "Identificadores";
 "clients_identifiers_copy" = "Copiar";
@@ -498,5 +498,5 @@
 "90d" = "90 días";
 
 // MARK: Widgets
-"widget_dashboard" = "Dashboard Widget";
-"widget_dashboard_description" = "View your Dashboard Statistics.";
+"widget_dashboard" = "Panel de control";
+"widget_dashboard_description" = "Muestra las estadísticas de tu AdGuard Home.";
