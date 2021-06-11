@@ -131,8 +131,8 @@
 "clients_runtime_footer" = "這些用戶端使用 AdGuard Home，但沒有特定的配置。";
 "clients_disallowed" = "未被允許的用戶端";
 "clients_disallowed_footer" = "AdGuard Home 正在排除來自這些用戶端之所有的 DNS 查詢。";
-"clients_disallowed_placeholder" = "Enter an IP or CIDR range";
-"clients_disallowed_add_client" = "Add to disallowed clients";
+"clients_disallowed_placeholder" = "輸入一組 IP 或無類別網域間路由（CIDR）範圍";
+"clients_disallowed_add_client" = "加至未被允許的用戶端";
 "clients_name" = "用戶端名稱";
 "clients_identifiers" = "識別碼";
 "clients_identifiers_copy" = "複製";
@@ -388,7 +388,7 @@
 "pro_thankyou_heart" = "感謝您！❤️";
 "pro_learn-more" = "了解更多…";
 "pro_title" = "AdGuard Home\nRemote Pro";
-"pro_description" = "以一次性購買解除封鎖強大的功能 & 支援未來的開發。";
+"pro_description" = "以一次性購買解鎖強大的功能 & 支援未來的開發。";
 "pro_purchased_date_%@" = "已於 %@ 購買。";
 "pro_features" = "Pro 功能";
 "pro_family_sharing" = "支援家庭共享";
@@ -498,5 +498,5 @@
 "90d" = "90 天";
 
 // MARK: Widgets
-"widget_dashboard" = "Dashboard Widget";
-"widget_dashboard_description" = "View your Dashboard Statistics.";
+"widget_dashboard" = "儀表板小工具";
+"widget_dashboard_description" = "檢視您的儀表板統計資料。";
