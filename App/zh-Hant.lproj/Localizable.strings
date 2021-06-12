@@ -38,6 +38,13 @@
 "querylog_status-all" = "所有的";
 "querylog_status-processed" = "已處理的";
 "querylog_status-filtered" = "受過濾的";
+"querylog_status-blocked" = "Blocked";
+"querylog_status-blocked_services" = "Blocked services";
+"querylog_status-blocked_safebrowsing" = "Blocked by safe browsing";
+"querylog_status-blocked_parental" = "Blocked by parental filtering";
+"querylog_status-whitelisted" = "Whitelisted";
+"querylog_status-rewritten" = "Rewritten";
+"querylog_status-safe_search" = "Safe search";
 "querylog_clear-filtered" = "清除已篩選的";
 "querylog_show_queries_status" = "顯示含狀態的查詢";
 

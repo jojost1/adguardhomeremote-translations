@@ -38,6 +38,13 @@
 "querylog_status-all" = "Alle";
 "querylog_status-processed" = "Verarbeitet";
 "querylog_status-filtered" = "Gefiltert";
+"querylog_status-blocked" = "Blocked";
+"querylog_status-blocked_services" = "Blocked services";
+"querylog_status-blocked_safebrowsing" = "Blocked by safe browsing";
+"querylog_status-blocked_parental" = "Blocked by parental filtering";
+"querylog_status-whitelisted" = "Whitelisted";
+"querylog_status-rewritten" = "Rewritten";
+"querylog_status-safe_search" = "Safe search";
 "querylog_clear-filtered" = "Filter leeren";
 "querylog_show_queries_status" = "Anfragen mit Status anzeigen";
 
