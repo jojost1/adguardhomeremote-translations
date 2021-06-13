@@ -36,13 +36,13 @@
 "querylog_number-of-queries" = "显示请求数";
 "querylog_status" = "响应状态";
 "querylog_status-all" = "全部";
-"querylog_status-processed" = "已处理";
 "querylog_status-filtered" = "已过滤";
+"querylog_status-processed" = "已处理";
 "querylog_status-blocked" = "Blocked";
 "querylog_status-blocked_services" = "Blocked services";
 "querylog_status-blocked_safebrowsing" = "Blocked by safe browsing";
 "querylog_status-blocked_parental" = "Blocked by parental filtering";
-"querylog_status-whitelisted" = "Whitelisted";
+"querylog_status-whitelisted" = "Allowed";
 "querylog_status-rewritten" = "Rewritten";
 "querylog_status-safe_search" = "Safe search";
 "querylog_clear-filtered" = "清除筛选";

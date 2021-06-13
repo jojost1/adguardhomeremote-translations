@@ -36,15 +36,15 @@
 "querylog_number-of-queries" = "查詢之數量";
 "querylog_status" = "狀態";
 "querylog_status-all" = "所有的";
-"querylog_status-processed" = "已處理的";
 "querylog_status-filtered" = "受過濾的";
-"querylog_status-blocked" = "Blocked";
-"querylog_status-blocked_services" = "Blocked services";
-"querylog_status-blocked_safebrowsing" = "Blocked by safe browsing";
-"querylog_status-blocked_parental" = "Blocked by parental filtering";
-"querylog_status-whitelisted" = "Whitelisted";
-"querylog_status-rewritten" = "Rewritten";
-"querylog_status-safe_search" = "Safe search";
+"querylog_status-processed" = "已處理的";
+"querylog_status-blocked" = "已封鎖的";
+"querylog_status-blocked_services" = "已封鎖的服務";
+"querylog_status-blocked_safebrowsing" = "被安全瀏覽封鎖";
+"querylog_status-blocked_parental" = "被家長過濾封鎖";
+"querylog_status-whitelisted" = "已允許的";
+"querylog_status-rewritten" = "已改寫的";
+"querylog_status-safe_search" = "安全搜尋";
 "querylog_clear-filtered" = "清除已篩選的";
 "querylog_show_queries_status" = "顯示含狀態的查詢";
 
