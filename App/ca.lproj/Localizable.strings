@@ -36,15 +36,15 @@
 "querylog_number-of-queries" = "Número de consultes DNS";
 "querylog_status" = "Estat";
 "querylog_status-all" = "Totes";
-"querylog_status-filtered" = "Bloquejades";
+"querylog_status-filtered" = "Filtrades";
 "querylog_status-processed" = "Processades";
-"querylog_status-blocked" = "Blocked";
-"querylog_status-blocked_services" = "Blocked services";
-"querylog_status-blocked_safebrowsing" = "Blocked by safe browsing";
-"querylog_status-blocked_parental" = "Blocked by parental filtering";
-"querylog_status-whitelisted" = "Allowed";
-"querylog_status-rewritten" = "Rewritten";
-"querylog_status-safe_search" = "Safe search";
+"querylog_status-blocked" = "Bloquejades";
+"querylog_status-blocked_services" = "Serveis Bloquejats";
+"querylog_status-blocked_safebrowsing" = "Bloquejades per cerca segura";
+"querylog_status-blocked_parental" = "Bloquejades per control parental";
+"querylog_status-whitelisted" = "Llista blanca";
+"querylog_status-rewritten" = "Substituides";
+"querylog_status-safe_search" = "Cerca segura";
 "querylog_clear-filtered" = "Netejar filtres";
 "querylog_show_queries_status" = "Veure consultes amb estat";
 
