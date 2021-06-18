@@ -9,7 +9,7 @@
 // MARK: - Dashboard
 "dashboard_tabbar" = "Übersicht";
 "dashboard_rule-filtering" = "Filter";
-"dashboard_parental-filtering" = "Kinder-\nschutz";
+"dashboard_parental-filtering" = "Jugend-\nschutz";
 "dashboard_safe-browsing" = "Sicheres\nBrowsen";
 "dashboard_safe-search" = "Sichere\nSuche";
 "dashboard_queries" = "DNS-Anfragen";
@@ -40,8 +40,8 @@
 "querylog_status-processed" = "Verarbeitet";
 "querylog_status-blocked" = "Gesperrt";
 "querylog_status-blocked_services" = "Gesperrte Dienste";
-"querylog_status-blocked_safebrowsing" = "Blocked by safe browsing";
-"querylog_status-blocked_parental" = "Blocked by parental filtering";
+"querylog_status-blocked_safebrowsing" = "Durch sicheres Browsen gesperrt";
+"querylog_status-blocked_parental" = "Durch jugendgefährdende Filter gesperrt";
 "querylog_status-whitelisted" = "Zugelassen";
 "querylog_status-rewritten" = "Umgeschrieben";
 "querylog_status-safe_search" = "Sichere Suche";
@@ -138,8 +138,8 @@
 "clients_runtime_footer" = "Diese Clients verwenden AdGuard Home ohne spezielle Konfiguration.";
 "clients_disallowed" = "Verbotene Clients";
 "clients_disallowed_footer" = "AdGuard Home verwirft alle DNS-Anfragen von diesen Clients.";
-"clients_disallowed_placeholder" = "Enter an IP or CIDR range";
-"clients_disallowed_add_client" = "Add to disallowed clients";
+"clients_disallowed_placeholder" = "Geben Sie einen IP- oder CIDR-Bereich ein";
+"clients_disallowed_add_client" = "Zu nicht zugelassenen Clients hinzufügen";
 "clients_name" = "Client-Name";
 "clients_identifiers" = "Identifikator";
 "clients_identifiers_copy" = "Kopieren";
@@ -149,7 +149,7 @@
 "clients_view_queries_from_%@" = "Anfragen von %@ anzeigen";
 "clients_edit_use_filter_blocking" = "Filtersperre verwenden";
 "clients_edit_use_safe_browsing" = "Sicheres Browsen verwenden";
-"clients_edit_use_parental_filtering" = "Kinderschutz verwenden";
+"clients_edit_use_parental_filtering" = "Jugendschutz verwenden";
 "clients_edit_use_safe_search" = "Sichere Suche verwenden";
 "clients_pro_required" = "Remote Pro ist für die Verwaltung von Clients erforderlich.";
 "services" = "Dienste";
@@ -316,7 +316,7 @@
 "settings_dashboard" = "Dashboard";
 "preferences_dashboard_statusbuttons" = "Status-Schaltflächen";
 "preferences_dashboard_rulefiltering" = "Filter";
-"preferences_dashboard_parentalfiltering" = "Kinderschutz";
+"preferences_dashboard_parentalfiltering" = "Jugendschutz";
 "preferences_dashboard_safebrowsing" = "Sicheres Browsen";
 "preferences_dashboard_safesearch" = "Sichere Suche";
 "preferences_dashboard_graphs" = "Diagramme";
@@ -385,7 +385,7 @@
 "changelog_continue" = "Fortfahren";
 "changelog_show_on_app_update" = "Bei App-Update anzeigen";
 "changelog_show_on_app_update_footer" = "Der Changelog wird nur für Feature-Updates angezeigt und nicht ausschließlich bei Bugfixes";
-"changelog_settings" = "Neuerungseinstellungen";
+"changelog_settings" = "Was ist neu?";
 
 // MARK: - Pro
 "pro" = "Pro";
@@ -506,4 +506,4 @@
 
 // MARK: Widgets
 "widget_dashboard" = "Dashboard Widget";
-"widget_dashboard_description" = "View your Dashboard Statistics.";
+"widget_dashboard_description" = "Zeigen Sie Ihre Dashboard-Statistiken an.";
