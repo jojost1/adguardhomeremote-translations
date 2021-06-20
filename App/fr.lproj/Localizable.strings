@@ -40,8 +40,8 @@
 "querylog_status-processed" = "Traité";
 "querylog_status-blocked" = "Bloqué";
 "querylog_status-blocked_services" = "Services bloqué";
-"querylog_status-blocked_safebrowsing" = "Blocked by safe browsing";
-"querylog_status-blocked_parental" = "Blocked by parental filtering";
+"querylog_status-blocked_safebrowsing" = "Bloqué par la navigation sécurisée";
+"querylog_status-blocked_parental" = "Bloqué par le filtrage parental";
 "querylog_status-whitelisted" = "Autorisé";
 "querylog_status-rewritten" = "Réécrit";
 "querylog_status-safe_search" = "Recherche sécurisée";
@@ -138,8 +138,8 @@
 "clients_runtime_footer" = "Ces clients utilisent AdGuard Home, mais n’ont pas de configuration spécifique.";
 "clients_disallowed" = "Clients non autorisés";
 "clients_disallowed_footer" = "AdGuard Home rejette toutes les requêtes DNS de ces clients.";
-"clients_disallowed_placeholder" = "Enter an IP or CIDR range";
-"clients_disallowed_add_client" = "Add to disallowed clients";
+"clients_disallowed_placeholder" = "Entrez une plage IP ou CIDR";
+"clients_disallowed_add_client" = "Ajouter aux clients non-autorisés";
 "clients_name" = "Nom du client";
 "clients_identifiers" = "Identifiants";
 "clients_identifiers_copy" = "Copier";
@@ -505,5 +505,5 @@
 "90d" = "90 jours";
 
 // MARK: Widgets
-"widget_dashboard" = "Dashboard Widget";
-"widget_dashboard_description" = "View your Dashboard Statistics.";
+"widget_dashboard" = "Widget du tableau de bord";
+"widget_dashboard_description" = "Consultez les statistiques de votre tableau de bord.";
