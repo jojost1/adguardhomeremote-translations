@@ -38,13 +38,13 @@
 "querylog_status-all" = "Όλα";
 "querylog_status-filtered" = "Φιλτραρισμένα";
 "querylog_status-processed" = "Επεξεργασμένα";
-"querylog_status-blocked" = "Blocked";
-"querylog_status-blocked_services" = "Blocked services";
-"querylog_status-blocked_safebrowsing" = "Blocked by safe browsing";
-"querylog_status-blocked_parental" = "Blocked by parental filtering";
-"querylog_status-whitelisted" = "Allowed";
-"querylog_status-rewritten" = "Rewritten";
-"querylog_status-safe_search" = "Safe search";
+"querylog_status-blocked" = "Αποκλεισμένα";
+"querylog_status-blocked_services" = "Αποκλεισμένες υπηρεσίες";
+"querylog_status-blocked_safebrowsing" = "Αποκλεισμένα από την ασφαλή περιήγηση";
+"querylog_status-blocked_parental" = "Αποκλεισμένα από το γονικό φιλτράρισμα";
+"querylog_status-whitelisted" = "Επιτρεπόμενα";
+"querylog_status-rewritten" = "Επανεγγραμμένα";
+"querylog_status-safe_search" = "Ασφαλής αναζήτηση";
 "querylog_clear-filtered" = "Καθαρισμός φιλτραρισμένων";
 "querylog_show_queries_status" = "Εμφάνιση ερωτημάτων με κατάσταση";
 
@@ -138,8 +138,8 @@
 "clients_runtime_footer" = "Αυτοί οι πελάτες χρησιμοποιούν το AdGuard Home, αλλά δεν έχουν συγκεκριμένη ρύθμιση.";
 "clients_disallowed" = "Μη επιτρεπόμενοι πελάτες";
 "clients_disallowed_footer" = "Το AdGuard Home απορρίπτει όλα τα ερωτήματα DNS από αυτούς τους πελάτες.";
-"clients_disallowed_placeholder" = "Enter an IP or CIDR range";
-"clients_disallowed_add_client" = "Add to disallowed clients";
+"clients_disallowed_placeholder" = "Εισαγωγή IP ή εύρους CIDR";
+"clients_disallowed_add_client" = "Προσθήκη στους μη επιτρεπόμενους πελάτες";
 "clients_name" = "Όνομα πελάτη";
 "clients_identifiers" = "Αναγνωριστικά";
 "clients_identifiers_copy" = "Αντιγραφή";
@@ -505,5 +505,5 @@
 "90d" = "90 ημέρες";
 
 // MARK: Widgets
-"widget_dashboard" = "Dashboard Widget";
-"widget_dashboard_description" = "View your Dashboard Statistics.";
+"widget_dashboard" = "Widget αρχικής";
+"widget_dashboard_description" = "Προβολή των στατιστικών αρχικής.";
