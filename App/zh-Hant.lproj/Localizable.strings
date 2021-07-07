@@ -45,7 +45,7 @@
 "querylog_status-whitelisted" = "已允許的";
 "querylog_status-rewritten" = "已改寫的";
 "querylog_status-safe_search" = "安全搜尋";
-"querylog_clear-filtered" = "清除已篩選的";
+"querylog_clear-filtered" = "清除狀態篩選";
 "querylog_show_queries_status" = "顯示含狀態的查詢";
 
 // MARK: Queries
@@ -354,7 +354,7 @@
 
 // MARK: Design
 "settings_design" = "設計";
-"design_color_scheme" = "顏色配置";
+"design_color_scheme" = "色彩配置";
 "design_color_scheme_default" = "預設";
 "design_color_scheme_adguard" = "AdGuard";
 "design_color_scheme_pastel" = "柔和的淡色彩";
