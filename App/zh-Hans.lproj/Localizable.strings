@@ -8,6 +8,7 @@
 
 // MARK: - Dashboard
 "dashboard_tabbar" = "仪表盘";
+"dashboard_protection" = "保护";
 "dashboard_rule-filtering" = "规则\n过滤";
 "dashboard_parental-filtering" = "家长\n控制";
 "dashboard_safe-browsing" = "浏览\n安全";
@@ -315,6 +316,7 @@
 "settings_preferences" = "首选项";
 "settings_dashboard" = "仪表盘";
 "preferences_dashboard_statusbuttons" = "状态按钮";
+"preferences_dashboard_protection" = "保护";
 "preferences_dashboard_rulefiltering" = "规则过滤";
 "preferences_dashboard_parentalfiltering" = "家长控制";
 "preferences_dashboard_safebrowsing" = "浏览安全";

@@ -8,6 +8,7 @@
 
 // MARK: - Dashboard
 "dashboard_tabbar" = "儀表板";
+"dashboard_protection" = "防護";
 "dashboard_rule-filtering" = "規則\n過濾";
 "dashboard_parental-filtering" = "家長\n過濾";
 "dashboard_safe-browsing" = "安全\n瀏覽";
@@ -315,6 +316,7 @@
 "settings_preferences" = "偏好設定";
 "settings_dashboard" = "儀表板";
 "preferences_dashboard_statusbuttons" = "狀態按鈕";
+"preferences_dashboard_protection" = "防護";
 "preferences_dashboard_rulefiltering" = "規則過濾";
 "preferences_dashboard_parentalfiltering" = "家長過濾";
 "preferences_dashboard_safebrowsing" = "安全瀏覽";

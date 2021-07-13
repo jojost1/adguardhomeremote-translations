@@ -8,6 +8,7 @@
 
 // MARK: - Dashboard
 "dashboard_tabbar" = "Dashboard";
+"dashboard_protection" = "Bescherming";
 "dashboard_rule-filtering" = "Filters";
 "dashboard_parental-filtering" = "Ouderlijk\nToezicht";
 "dashboard_safe-browsing" = "Veilig\nBrowsen";
@@ -314,6 +315,7 @@
 // MARK: Preferences
 "settings_preferences" = "Voorkeuren";
 "settings_dashboard" = "Dashboard";
+"preferences_dashboard_protection" = "Bescherming";
 "preferences_dashboard_statusbuttons" = "Status Knoppen";
 "preferences_dashboard_rulefiltering" = "Filters";
 "preferences_dashboard_parentalfiltering" = "Ouderlijk Toezicht";

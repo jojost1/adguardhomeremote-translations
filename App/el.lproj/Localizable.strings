@@ -8,6 +8,7 @@
 
 // MARK: - Dashboard
 "dashboard_tabbar" = "Πίνακας Ελέγχου";
+"dashboard_protection" = "Protection";
 "dashboard_rule-filtering" = "Φιλτράρισμα\nκανόνων";
 "dashboard_parental-filtering" = "Γονικό\nφιλτράρισμα";
 "dashboard_safe-browsing" = "Ασφαλής\nπεριήγηση";
@@ -315,6 +316,7 @@
 "settings_preferences" = "Προτιμήσεις";
 "settings_dashboard" = "Πίνακας ελέγχου";
 "preferences_dashboard_statusbuttons" = "Πλήκτρα κατάστασης";
+"preferences_dashboard_protection" = "Protection";
 "preferences_dashboard_rulefiltering" = "Φιλτράρισμα κανόνων";
 "preferences_dashboard_parentalfiltering" = "Γονικό φιλτράρισμα";
 "preferences_dashboard_safebrowsing" = "Ασφαλής περιήγηση";

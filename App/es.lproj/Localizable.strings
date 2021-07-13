@@ -8,6 +8,7 @@
 
 // MARK: - Dashboard
 "dashboard_tabbar" = "Panel de control";
+"dashboard_protection" = "Protección";
 "dashboard_rule-filtering" = "Bloqueo\npor Filtros";
 "dashboard_parental-filtering" = "Control\nParental";
 "dashboard_safe-browsing" = "Navegación\nSegura";
@@ -315,6 +316,7 @@
 "settings_preferences" = "Preferencias";
 "settings_dashboard" = "Panel de control";
 "preferences_dashboard_statusbuttons" = "Botones de estado";
+"preferences_dashboard_protection" = "Protección";
 "preferences_dashboard_rulefiltering" = "Bloqueo por filtros";
 "preferences_dashboard_parentalfiltering" = "Control parental";
 "preferences_dashboard_safebrowsing" = "Navegación segura";

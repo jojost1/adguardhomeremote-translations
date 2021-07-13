@@ -8,6 +8,7 @@
 
 // MARK: - Dashboard
 "dashboard_tabbar" = "Übersicht";
+"dashboard_protection" = "Schutz";
 "dashboard_rule-filtering" = "Filter";
 "dashboard_parental-filtering" = "Jugend-\nschutz";
 "dashboard_safe-browsing" = "Sicheres\nBrowsen";
@@ -315,6 +316,7 @@
 "settings_preferences" = "Präferenzen";
 "settings_dashboard" = "Dashboard";
 "preferences_dashboard_statusbuttons" = "Status-Schaltflächen";
+"preferences_dashboard_protection" = "Schutz";
 "preferences_dashboard_rulefiltering" = "Filter";
 "preferences_dashboard_parentalfiltering" = "Jugendschutz";
 "preferences_dashboard_safebrowsing" = "Sicheres Browsen";
