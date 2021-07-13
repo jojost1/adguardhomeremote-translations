@@ -8,7 +8,7 @@
 
 // MARK: - Dashboard
 "dashboard_tabbar" = "Tauler de control";
-"dashboard_protection" = "Protección";
+"dashboard_protection" = "Protecció";
 "dashboard_rule-filtering" = "Filtratge\nde continguts";
 "dashboard_parental-filtering" = "Control\nparental";
 "dashboard_safe-browsing" = "Navegació\nsegura";
@@ -316,7 +316,7 @@
 "settings_preferences" = "Preferències";
 "settings_dashboard" = "Tauler de control";
 "preferences_dashboard_statusbuttons" = "Botons d'estat";
-"preferences_dashboard_protection" = "Protección";
+"preferences_dashboard_protection" = "Protecció";
 "preferences_dashboard_rulefiltering" = "Filtratge de continguts";
 "preferences_dashboard_parentalfiltering" = "Control parental";
 "preferences_dashboard_safebrowsing" = "Navegació segura";
