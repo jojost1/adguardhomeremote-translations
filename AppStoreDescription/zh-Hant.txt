@@ -22,7 +22,7 @@ AdGuard Home Remote 使管理您的 AdGuard Home 快速且簡單。快速地啟�
 - 管理 DNS 改寫（需要 Pro）
 - 對於多個實例的支援（需要 Pro）
 - 小工具
-- 自訂的顏色配置和應用程式圖像
+- 自訂的色彩配置和應用程式圖像
 - 對於 iOS、iPadOS、macOS 的支援
 - 乾淨的和現代的 100％ SwiftUI 設計
 
@@ -32,4 +32,4 @@ AdGuard Home Remote 使管理您的 AdGuard Home 快速且簡單。快速地啟�
 ==
 
 注意：
-AdGuard Home Remote 是第三方的應用程式且並不直接地隸屬於 AdGuard。有關 AdGuard Home 的更多資訊，訪問 https://adguard.com/adguard-home/overview.html。
+AdGuard Home Remote 是第三方的應用程式且不直接地隸屬於 AdGuard。有關 AdGuard Home 的更多資訊，訪問 https://adguard.com/adguard-home/overview.html。
