@@ -32,4 +32,4 @@ Additional features are unlocked with a one-time purchase which will also suppor
 ==
 
 Note: 
-AdGuard Home Remote is a third-party app and is not directly affiliated by AdGuard. For more information about AdGuard Home, visit https://adguard.com/adguard-home/overview.html.
+AdGuard Home Remote is a third-party app and is not directly affiliated to AdGuard. For more information about AdGuard Home, visit https://adguard.com/adguard-home/overview.html.
