@@ -239,6 +239,10 @@
 "dhcp_remove_lease" = "Eliminar";
 "dhcp_leases" = "Asignaciones";
 "dhcp_lease_create" = "Añadir asignación estática";
+"dhcp_reset_all_leases" = "Reset all leases";
+"dhcp_reset_all_leases_footer" = "Removes all current leases without erasing the lease configuration.";
+"dhcp_reset_all_leases_alert_title" = "Reset Leases";
+"dhcp_reset_all_leases_alert_body" = "Are you sure you want to reset all leases?";
 "dhcp_pro_required" = "Es necesario actualizar a Remote Pro para gestionar los ajustes del servidor DHCP";
 // New Static Lease
 "dhcp_staticlease_new" = "Nueva asignación estática";
@@ -260,6 +264,8 @@
 "dns_upstream_mode_fastest" = "Dirección IP más rápida";
 "dns_bootstrap_dns_servers" = "Servidores DNS iniciales";
 "dns_bootstrap_dns_servers_footer" = "Los servidores DNS iniciales se utilizan para resolver las direcciones IP de los servidores DoH/DoT que hayas configurado.";
+"dns_private_dns_servers" = "Servidores DNS privados";
+"dns_private_dns_servers_footer" = "Los servidores DNS que AdGuard Home utiliza para las consultas PTR locales.";
 "dns_server_configuration" = "Configuración del servidor DNS de AdGuard";
 "dns_rate_limit" = "Límite de peticiones por segundo";
 "dns_edns_client_subnet" = "Subred de cliente EDNS";

@@ -239,6 +239,10 @@
 "dhcp_remove_lease" = "删除租约";
 "dhcp_leases" = "租约";
 "dhcp_lease_create" = "添加静态租约";
+"dhcp_reset_all_leases" = "Reset all leases";
+"dhcp_reset_all_leases_footer" = "Removes all current leases without erasing the lease configuration.";
+"dhcp_reset_all_leases_alert_title" = "Reset Leases";
+"dhcp_reset_all_leases_alert_body" = "Are you sure you want to reset all leases?";
 "dhcp_pro_required" = "需要 Remote Pro 来管理 DHCP 设置";
 // New Static Lease
 "dhcp_staticlease_new" = "新建静态租约";
@@ -260,6 +264,8 @@
 "dns_upstream_mode_fastest" = "最快的 IP 地址";
 "dns_bootstrap_dns_servers" = "Bootstrap DNS 服务器";
 "dns_bootstrap_dns_servers_footer" = "Bootstrap DNS 服务器用于解析您指定为上游的 DoH / DoT 解析器的 IP 地址。";
+"dns_private_dns_servers" = "Private DNS servers";
+"dns_private_dns_servers_footer" = "The DNS servers that AdGuard Home uses for local PTR queries.";
 "dns_server_configuration" = "DNS 服务设定";
 "dns_rate_limit" = "速度限制";
 "dns_edns_client_subnet" = "使用客户端的子网地址 (EDNS)";

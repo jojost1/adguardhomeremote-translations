@@ -139,7 +139,7 @@
 "clients_runtime_footer" = "These clients use AdGuard Home, but do not have a specific configuration.";
 "clients_disallowed" = "Disallowed Clients";
 "clients_disallowed_footer" = "AdGuard Home is dropping all DNS queries from these clients.";
-"clients_disallowed_placeholder" = "Enter an IP or CIDR range";
+"clients_disallowed_placeholder" = "Enter an IP, ClientID, or CIDR range";
 "clients_disallowed_add_client" = "Add to disallowed clients";
 "clients_name" = "Client Name";
 "clients_identifiers" = "Identifiers";
@@ -239,6 +239,10 @@
 "dhcp_remove_lease" = "Remove Lease";
 "dhcp_leases" = "Leases";
 "dhcp_lease_create" = "Create Static Lease";
+"dhcp_reset_all_leases" = "Reset all leases";
+"dhcp_reset_all_leases_footer" = "Removes all current leases without erasing the lease configuration.";
+"dhcp_reset_all_leases_alert_title" = "Reset Leases";
+"dhcp_reset_all_leases_alert_body" = "Are you sure you want to reset all leases?";
 "dhcp_pro_required" = "Remote Pro is required to manage DHCP settings.";
 // New Static Lease
 "dhcp_staticlease_new" = "New Static Lease";
@@ -251,30 +255,32 @@
 
 // MARK: DNS
 "dns_settings" = "DNS Settings";
-"dns_upstream_dns_servers" = "Upstream DNS Servers";
+"dns_upstream_dns_servers" = "Upstream DNS servers";
 "dns_ip" = "IP";
-"dns_reverse_resolve" = "Reverse Resolve Client IPs";
-"dns_upstream_mode" = "Upstream Mode";
+"dns_reverse_resolve" = "Reverse resolve client IPs";
+"dns_upstream_mode" = "Upstream mode";
 "dns_upstream_mode_loadbalancing" = "Load-balancing";
 "dns_upstream_mode_parralel" = "Parallel requests";
 "dns_upstream_mode_fastest" = "Fastest IP address";
-"dns_bootstrap_dns_servers" = "Bootstrap DNS Servers";
+"dns_bootstrap_dns_servers" = "Bootstrap DNS servers";
 "dns_bootstrap_dns_servers_footer" = "Bootstrap DNS servers are used to resolve IP addresses of the DoH/DoT resolvers you specify as upstreams.";
-"dns_server_configuration" = "DNS Server Configuration";
+"dns_private_dns_servers" = "Private DNS servers";
+"dns_private_dns_servers_footer" = "The DNS servers that AdGuard Home uses for local PTR queries.";
+"dns_server_configuration" = "DNS server configuration";
 "dns_rate_limit" = "Rate limit";
-"dns_edns_client_subnet" = "EDNS Client Subnet";
+"dns_edns_client_subnet" = "EDNS client subnet";
 "dns_dnssec" = "DNSSEC";
 "dns_disable_ipv6" = "Disable IPv6";
-"dns_blocking_mode" = "Blocking Mode";
+"dns_blocking_mode" = "Blocking mode";
 "dns_blocking_mode_default" = "Default";
 "dns_blocking_mode_refused" = "REFUSED";
 "dns_blocking_mode_nxdomain" = "NXDOMAIN";
 "dns_blocking_mode_nullip" = "Null IP";
 "dns_blocking_mode_customip" = "Custom IP";
-"dns_cache_configuration" = "DNS Cache Configuration";
-"dns_cache_size" = "Cache Size";
-"dns_override_minimum_ttl" = "Override Minimum TTL";
-"dns_override_maximum_ttl" = "Override Maximum TTL";
+"dns_cache_configuration" = "DNS cache configuration";
+"dns_cache_size" = "Cache size";
+"dns_override_minimum_ttl" = "Override minimum TTL";
+"dns_override_maximum_ttl" = "Override maximum TTL";
 "dns_pro_required" = "Remote Pro is required to manage DNS settings.";
 
 // MARK: DNS Rewrites

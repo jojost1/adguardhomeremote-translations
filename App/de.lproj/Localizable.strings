@@ -239,6 +239,10 @@
 "dhcp_remove_lease" = "Lease entfernen";
 "dhcp_leases" = "Leases";
 "dhcp_lease_create" = "Statische Lease erstellen";
+"dhcp_reset_all_leases" = "Reset all leases";
+"dhcp_reset_all_leases_footer" = "Removes all current leases without erasing the lease configuration.";
+"dhcp_reset_all_leases_alert_title" = "Reset Leases";
+"dhcp_reset_all_leases_alert_body" = "Are you sure you want to reset all leases?";
 "dhcp_pro_required" = "Remote Pro ist erforderlich, um DHCP-Einstellungen zu verwalten.";
 // New Static Lease
 "dhcp_staticlease_new" = "Neue statische Lease";
@@ -260,6 +264,8 @@
 "dns_upstream_mode_fastest" = "Schnellste IP-Adresse";
 "dns_bootstrap_dns_servers" = "Bootstrap-DNS-Server";
 "dns_bootstrap_dns_servers_footer" = "Bootstrap-DNS-Server werden verwendet, um IP-Adressen der DoH/DoT-Auflöser aufzulösen, die Sie als Upstreams angeben.";
+"dns_private_dns_servers" = "Eigene DNS-Server";
+"dns_private_dns_servers_footer" = "Die DNS-Server, die AdGuard Home für lokale PTR-Abfragen verwendet.";
 "dns_server_configuration" = "DNS-Server-Konfiguration";
 "dns_rate_limit" = "DNS-Ratenlimit";
 "dns_edns_client_subnet" = "EDNS-Client-Subnetz";

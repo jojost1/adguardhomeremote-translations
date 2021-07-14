@@ -139,7 +139,7 @@
 "clients_runtime_footer" = "Ces clients utilisent AdGuard Home, mais n’ont pas de configuration spécifique.";
 "clients_disallowed" = "Clients non autorisés";
 "clients_disallowed_footer" = "AdGuard Home rejette toutes les requêtes DNS de ces clients.";
-"clients_disallowed_placeholder" = "Entrez une plage IP ou CIDR";
+"clients_disallowed_placeholder" = "Entrez une plage IP, ID du client ou CIDR";
 "clients_disallowed_add_client" = "Ajouter aux clients non-autorisés";
 "clients_name" = "Nom du client";
 "clients_identifiers" = "Identifiants";
@@ -239,6 +239,10 @@
 "dhcp_remove_lease" = "Supprimer le bail";
 "dhcp_leases" = "Baux";
 "dhcp_lease_create" = "Créer un bail statique";
+"dhcp_reset_all_leases" = "Reset all leases";
+"dhcp_reset_all_leases_footer" = "Removes all current leases without erasing the lease configuration.";
+"dhcp_reset_all_leases_alert_title" = "Reset Leases";
+"dhcp_reset_all_leases_alert_body" = "Are you sure you want to reset all leases?";
 "dhcp_pro_required" = "Remote Pro est requis pour gérer les paramètres DHCP.";
 // New Static Lease
 "dhcp_staticlease_new" = "Nouveau bail statique";
@@ -260,6 +264,8 @@
 "dns_upstream_mode_fastest" = "Adresse IP la plus rapide";
 "dns_bootstrap_dns_servers" = "Serveurs DNS d’amorçage";
 "dns_bootstrap_dns_servers_footer" = "Les serveurs DNS d’amorçage sont utilisés pour résoudre les adresses IP des résolveurs DoH/DoT que vous spécifiez comme upstream";
+"dns_private_dns_servers" = "Serveurs DNS privés";
+"dns_private_dns_servers_footer" = "Les serveurs DNS utilisés par AdGuard Home pour les requêtes PTR servies localement.";
 "dns_server_configuration" = "Configuration du serveur DNS";
 "dns_rate_limit" = "Limite de taux";
 "dns_edns_client_subnet" = "Sous-réseau du client EDNS";

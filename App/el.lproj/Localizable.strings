@@ -239,6 +239,10 @@
 "dhcp_remove_lease" = "Αφαίρεση μίσθωσης";
 "dhcp_leases" = "Μισθώσεις";
 "dhcp_lease_create" = "Δημιουργία στατικής μίσθωσης";
+"dhcp_reset_all_leases" = "Reset all leases";
+"dhcp_reset_all_leases_footer" = "Removes all current leases without erasing the lease configuration.";
+"dhcp_reset_all_leases_alert_title" = "Reset Leases";
+"dhcp_reset_all_leases_alert_body" = "Are you sure you want to reset all leases?";
 "dhcp_pro_required" = "Το Remote Pro απαιτείται για τη διαχείριση των ρυθμίσεων DHCP.";
 // New Static Lease
 "dhcp_staticlease_new" = "Νέα στατική μίσθωση";
@@ -260,6 +264,8 @@
 "dns_upstream_mode_fastest" = "Ταχύτερη διεύθυνση IP";
 "dns_bootstrap_dns_servers" = "Διακομιστές bootstrap DNS";
 "dns_bootstrap_dns_servers_footer" = "Οι διακομιστές bootstrap DNS χρησιμοποιούνται για την επίλυση των διευθύνσεων IP των αναλυτών DoH/DoT που ορίζετε ως upstream.";
+"dns_private_dns_servers" = "Private DNS servers";
+"dns_private_dns_servers_footer" = "The DNS servers that AdGuard Home uses for local PTR queries.";
 "dns_server_configuration" = "Ρύθμιση διακομιστή DNS";
 "dns_rate_limit" = "Όριο ρυθμού";
 "dns_edns_client_subnet" = "Υποδίκτυο πελάτη EDNS";
