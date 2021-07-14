@@ -499,6 +499,7 @@
 // Durations
 "disabled" = "Désactivé";
 "1h" = "1 heure";
+"6h" = "6 heures";
 "12h" = "12 heures";
 "24h" = "24 heures";
 "3d" = "3 jours";

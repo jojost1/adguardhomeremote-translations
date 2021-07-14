@@ -499,6 +499,7 @@
 // Durations
 "disabled" = "Uitgeschakeld";
 "1h" = "1 uur";
+"6h" = "6 uur";
 "12h" = "12 uur";
 "24h" = "24 uur";
 "3d" = "3 dagen";
