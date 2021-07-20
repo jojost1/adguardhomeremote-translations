@@ -239,10 +239,10 @@
 "dhcp_remove_lease" = "Verwijder lease";
 "dhcp_leases" = "Leases";
 "dhcp_lease_create" = "Nieuwe Lease";
-"dhcp_reset_all_leases" = "Reset alle leases";
+"dhcp_reset_all_leases" = "Alle leases resetten";
 "dhcp_reset_all_leases_footer" = "Verwijder alle leases zonder de lease configuratie te wissen.";
 "dhcp_reset_all_leases_alert_title" = "Reset Leases";
-"dhcp_reset_all_leases_alert_body" = "Weet je het zeker dat je alle leases will resetten?";
+"dhcp_reset_all_leases_alert_body" = "Weet je zeker dat je alle leases wilt resetten?";
 "dhcp_pro_required" = "Remote Pro is vereist om DHCP instellingen te beheren.";
 // New Static Lease
 "dhcp_staticlease_new" = "Nieuwe Statische Lease";

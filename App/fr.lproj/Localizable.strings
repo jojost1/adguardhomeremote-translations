@@ -239,10 +239,10 @@
 "dhcp_remove_lease" = "Supprimer le bail";
 "dhcp_leases" = "Baux";
 "dhcp_lease_create" = "Créer un bail statique";
-"dhcp_reset_all_leases" = "Reset all leases";
+"dhcp_reset_all_leases" = "Réinitialiser tous les baux";
 "dhcp_reset_all_leases_footer" = "Removes all current leases without erasing the lease configuration.";
-"dhcp_reset_all_leases_alert_title" = "Reset Leases";
-"dhcp_reset_all_leases_alert_body" = "Are you sure you want to reset all leases?";
+"dhcp_reset_all_leases_alert_title" = "Réinitialiser tous les baux";
+"dhcp_reset_all_leases_alert_body" = "Voulez-vous vraiment réinitialiser tous les baux DHCP?";
 "dhcp_pro_required" = "Remote Pro est requis pour gérer les paramètres DHCP.";
 // New Static Lease
 "dhcp_staticlease_new" = "Nouveau bail statique";

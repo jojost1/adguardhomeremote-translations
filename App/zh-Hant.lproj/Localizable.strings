@@ -239,10 +239,10 @@
 "dhcp_remove_lease" = "移除租約";
 "dhcp_leases" = "租約";
 "dhcp_lease_create" = "創建靜態租約";
-"dhcp_reset_all_leases" = "重置所有的租約";
+"dhcp_reset_all_leases" = "重置所有租约";
 "dhcp_reset_all_leases_footer" = "移除所有現行的租約而沒清除租約配置。";
 "dhcp_reset_all_leases_alert_title" = "重置租約";
-"dhcp_reset_all_leases_alert_body" = "您確定您想要重置所有的租約嗎？";
+"dhcp_reset_all_leases_alert_body" = "您确定您想重置所有租约吗？";
 "dhcp_pro_required" = "Remote Pro 是必須的以管理 DHCP 設定。";
 // New Static Lease
 "dhcp_staticlease_new" = "新的靜態租約";
