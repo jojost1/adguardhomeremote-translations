@@ -239,10 +239,10 @@
 "dhcp_remove_lease" = "Esborrar";
 "dhcp_leases" = "Assignacions";
 "dhcp_lease_create" = "Afegir assignació estàtica";
-"dhcp_reset_all_leases" = "Reset all leases";
-"dhcp_reset_all_leases_footer" = "Removes all current leases without erasing the lease configuration.";
-"dhcp_reset_all_leases_alert_title" = "Reset Leases";
-"dhcp_reset_all_leases_alert_body" = "Are you sure you want to reset all leases?";
+"dhcp_reset_all_leases" = "Restablir totes les assignacions";
+"dhcp_reset_all_leases_footer" = "Elimina totes les adreces assignades sense esborrar-ne la configuració.";
+"dhcp_reset_all_leases_alert_title" = "Restablir assignacions";
+"dhcp_reset_all_leases_alert_body" = "Estàs segur de que vols restablir totes les assignacions?";
 "dhcp_pro_required" = "Es necessari actualitzar a Remote Pro per a gestionar els ajustos del servei DHCP";
 // New Static Lease
 "dhcp_staticlease_new" = "Nova assignació estàtica";
@@ -264,8 +264,8 @@
 "dns_upstream_mode_fastest" = "Direcció IP més ràpida";
 "dns_bootstrap_dns_servers" = "Servidors DNS inicials";
 "dns_bootstrap_dns_servers_footer" = "Els servidors DNS inicials s’utilitzen per a resoldre les adreçes IP dels servidors DoH/DoT que s'hagin configurat.";
-"dns_private_dns_servers" = "Private DNS servers";
-"dns_private_dns_servers_footer" = "The DNS servers that AdGuard Home uses for local PTR queries.";
+"dns_private_dns_servers" = "Servidors DNS Privats";
+"dns_private_dns_servers_footer" = "Els servidors DNS que AdGuard Home utilitza per a les consultes PTR locals.";
 "dns_server_configuration" = "Configuració del servidor DNS de AdGuard";
 "dns_rate_limit" = "Límit de peticions per segon";
 "dns_edns_client_subnet" = "Subxarxa de client EDNS";

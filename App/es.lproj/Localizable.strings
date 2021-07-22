@@ -240,8 +240,8 @@
 "dhcp_leases" = "Asignaciones";
 "dhcp_lease_create" = "Añadir asignación estática";
 "dhcp_reset_all_leases" = "Restablecer todas las asignaciones";
-"dhcp_reset_all_leases_footer" = "Removes all current leases without erasing the lease configuration.";
-"dhcp_reset_all_leases_alert_title" = "Restablecer todas las asignaciones";
+"dhcp_reset_all_leases_footer" = "Elimina todas las asignaciones actuales sin eliminar las opciones configuradas.";
+"dhcp_reset_all_leases_alert_title" = "Restablecer asignaciones";
 "dhcp_reset_all_leases_alert_body" = "¿Estás seguro de que deseas restablecer todas las asignaciones?";
 "dhcp_pro_required" = "Es necesario actualizar a Remote Pro para gestionar los ajustes del servidor DHCP";
 // New Static Lease
