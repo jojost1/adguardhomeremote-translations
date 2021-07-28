@@ -479,6 +479,7 @@
 "remove" = "Supprimer";
 "ok" = "OK";
 "cancel" = "Annuler";
+"reset" = "Réinitialiser";
 "settings" = "Paramètres";
 "cannot_reach_instance" = "Impossible de trouver l’instance.";
 "not_responding" = "Aucune réponse";

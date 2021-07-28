@@ -479,6 +479,7 @@
 "remove" = "Entfernen";
 "ok" = "OK";
 "cancel" = "Abbrechen";
+"reset" = "Erstellen";
 "settings" = "Einstellungen";
 "cannot_reach_instance" = "Kann die Instanz nicht erreichen.";
 "not_responding" = "Keine Antwort";

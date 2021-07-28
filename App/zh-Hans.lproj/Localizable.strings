@@ -479,6 +479,7 @@
 "remove" = "删除";
 "ok" = "确定";
 "cancel" = "取消";
+"reset" = "Reset";
 "settings" = "设置";
 "cannot_reach_instance" = "无法连接实例";
 "not_responding" = "无响应";

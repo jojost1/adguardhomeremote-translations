@@ -479,6 +479,7 @@
 "remove" = "Αφαίρεση";
 "ok" = "OK";
 "cancel" = "Άκυρο";
+"reset" = "Reset";
 "settings" = "Ρυθμίσεις";
 "cannot_reach_instance" = "Αδυναμία πρόσβασης στην εκδοχή.";
 "not_responding" = "Δεν αποκρίνεται";

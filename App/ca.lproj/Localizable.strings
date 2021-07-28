@@ -479,6 +479,7 @@
 "remove" = "Esborrar";
 "ok" = "Acceptar";
 "cancel" = "Cancel·lar";
+"reset" = "Restablir";
 "settings" = "Ajustos";
 "cannot_reach_instance" = "No s'ha pogut contactar amb el servidor";
 "not_responding" = "Sense resposta";
