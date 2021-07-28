@@ -480,6 +480,7 @@
 "ok" = "確定";
 "cancel" = "取消";
 "reset" = "Reset";
+"refresh" = "Refresh";
 "settings" = "設定";
 "cannot_reach_instance" = "無法達到實例。";
 "not_responding" = "未回應";

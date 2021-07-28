@@ -480,6 +480,7 @@
 "ok" = "OK";
 "cancel" = "Annuler";
 "reset" = "Réinitialiser";
+"refresh" = "Refresh";
 "settings" = "Paramètres";
 "cannot_reach_instance" = "Impossible de trouver l’instance.";
 "not_responding" = "Aucune réponse";

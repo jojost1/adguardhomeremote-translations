@@ -480,6 +480,7 @@
 "ok" = "OK";
 "cancel" = "Abbrechen";
 "reset" = "Erstellen";
+"refresh" = "Refresh";
 "settings" = "Einstellungen";
 "cannot_reach_instance" = "Kann die Instanz nicht erreichen.";
 "not_responding" = "Keine Antwort";

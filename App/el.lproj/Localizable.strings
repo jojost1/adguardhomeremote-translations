@@ -480,6 +480,7 @@
 "ok" = "OK";
 "cancel" = "Άκυρο";
 "reset" = "Reset";
+"refresh" = "Refresh";
 "settings" = "Ρυθμίσεις";
 "cannot_reach_instance" = "Αδυναμία πρόσβασης στην εκδοχή.";
 "not_responding" = "Δεν αποκρίνεται";
