@@ -6,4 +6,4 @@
   
 */
 
-"NSLocalNetworkUsageDescription" = "AdGuard Home Remote uses the local network to connect with your AdGuard Home instances.";
+"NSLocalNetworkUsageDescription" = "AdGuard Home Remote 使用本地网络来连接您的 AdGuard Home 实例。";

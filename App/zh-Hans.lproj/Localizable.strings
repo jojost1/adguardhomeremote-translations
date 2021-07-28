@@ -39,13 +39,13 @@
 "querylog_status-all" = "全部";
 "querylog_status-filtered" = "已过滤";
 "querylog_status-processed" = "已处理";
-"querylog_status-blocked" = "Blocked";
-"querylog_status-blocked_services" = "Blocked services";
-"querylog_status-blocked_safebrowsing" = "Blocked by safe browsing";
-"querylog_status-blocked_parental" = "Blocked by parental filtering";
-"querylog_status-whitelisted" = "Allowed";
-"querylog_status-rewritten" = "Rewritten";
-"querylog_status-safe_search" = "Safe search";
+"querylog_status-blocked" = "已拦截";
+"querylog_status-blocked_services" = "已阻止的服务";
+"querylog_status-blocked_safebrowsing" = "拦截的威胁";
+"querylog_status-blocked_parental" = "拦截的成人网站";
+"querylog_status-whitelisted" = "允许项";
+"querylog_status-rewritten" = "重写项";
+"querylog_status-safe_search" = "安全搜索";
 "querylog_clear-filtered" = "清除筛选";
 "querylog_show_queries_status" = "基于响应状态显示请求";
 
@@ -205,16 +205,16 @@
 "filtering_rules_rule_placeholder" = "请在此输入域名...";
 "filtering_rules_examples" = "范例";
 "filtering_rules_examples_block_title" = "||example.org^";
-"filtering_rules_examples_block_subtitle" = "block example.org and all its subdomains";
+"filtering_rules_examples_block_subtitle" = "拦截 example.org 域名及其所有子域名";
 "filtering_rules_examples_unblock_title" = "@@||example.org^";
-"filtering_rules_examples_unblock_subtitle" = "unblock example.org and all its subdomains";
+"filtering_rules_examples_unblock_subtitle" = "放行 example.org 及其所有子域名";
 "filtering_rules_examples_rewrite_title" = "127.0.0.1 example.org";
-"filtering_rules_examples_rewrite_subtitle" = "return 127.0.0.1 for example.org (but not its subdomains)";
-"filtering_rules_examples_comment_title1" = "! Here goes a comment";
-"filtering_rules_examples_comment_title2" = "# Also a comment";
-"filtering_rules_examples_comment_subtitle" = "just a comment";
+"filtering_rules_examples_rewrite_subtitle" = "AdGuard Home 现在将会把 example.org（但不包括它的子域名）解析到 127.0.0.1";
+"filtering_rules_examples_comment_title1" = "! 这是一行注释";
+"filtering_rules_examples_comment_title2" = "# 这也是一行注释";
+"filtering_rules_examples_comment_subtitle" = "只是一条注释";
 "filtering_rules_examples_regex_title" = "/REGEX/";
-"filtering_rules_examples_regex_subtitle" = "block domains matching the specified regular expression";
+"filtering_rules_examples_regex_subtitle" = "阻止访问与example_regex_meaning匹配的域";
 // Check Hostname
 "filtering_check_hostname" = "检查过滤";
 "filtering_check_hostname_placeholder" = "请输入主机名…";
@@ -264,8 +264,8 @@
 "dns_upstream_mode_fastest" = "最快的 IP 地址";
 "dns_bootstrap_dns_servers" = "Bootstrap DNS 服务器";
 "dns_bootstrap_dns_servers_footer" = "Bootstrap DNS 服务器用于解析您指定为上游的 DoH / DoT 解析器的 IP 地址。";
-"dns_private_dns_servers" = "Private DNS servers";
-"dns_private_dns_servers_footer" = "The DNS servers that AdGuard Home uses for local PTR queries.";
+"dns_private_dns_servers" = "私人 DNS 服务器";
+"dns_private_dns_servers_footer" = "AdGuard Home 用于本地 PTR 查询的 DNS 服务器。";
 "dns_server_configuration" = "DNS 服务设定";
 "dns_rate_limit" = "速度限制";
 "dns_edns_client_subnet" = "使用客户端的子网地址 (EDNS)";
@@ -329,7 +329,7 @@
 "preferences_dashboard_safesearch" = "安全搜索";
 "preferences_dashboard_graphs" = "图表";
 "preferences_dashboard_graph_type" = "图标类型";
-"preferences_dashboard_graph_line" = "现形图";
+"preferences_dashboard_graph_line" = "线形图";
 "preferences_dashboard_graph_bar" = "条状图";
 "preferences_dashboard_graph_dnsqueries" = "DNS 查询";
 "preferences_dashboard_graph_blockedbyfilters" = "已被过滤器拦截";
@@ -374,8 +374,8 @@
 "design_app_tint_teal" = "蓝绿色";
 "design_app_tint_yellow" = "黄色";
 "design_app_tint_orange" = "橙色";
-"design_app_tint_pink" = "粉色的";
-"design_app_tint_red" = "红色的";
+"design_app_tint_pink" = "粉色";
+"design_app_tint_red" = "红色";
 "design_app_icon" = "App 图标";
 "design_app_icon_original" = "原版";
 "design_app_icon_inverse" = "反色";
@@ -514,5 +514,5 @@
 "90d" = "90 天";
 
 // MARK: Widgets
-"widget_dashboard" = "Dashboard Widget";
-"widget_dashboard_description" = "View your Dashboard Statistics.";
+"widget_dashboard" = "仪表盘小组件";
+"widget_dashboard_description" = "查看您的仪表盘统计数据。";
