@@ -240,7 +240,7 @@
 "dhcp_leases" = "Leases";
 "dhcp_lease_create" = "Statische Lease erstellen";
 "dhcp_reset_all_leases" = "Setzen Sie alle Leases zurück";
-"dhcp_reset_all_leases_footer" = "Removes all current leases without erasing the lease configuration.";
+"dhcp_reset_all_leases_footer" = "Entfernt alle aktuellen Leases, ohne die Lease-Konfiguration zu löschen.";
 "dhcp_reset_all_leases_alert_title" = "Setzen Sie alle Leases zurück";
 "dhcp_reset_all_leases_alert_body" = "Möchten Sie wirklich alle Leases zurücksetzen?";
 "dhcp_pro_required" = "Remote Pro ist erforderlich, um DHCP-Einstellungen zu verwalten.";
@@ -479,8 +479,8 @@
 "remove" = "Entfernen";
 "ok" = "OK";
 "cancel" = "Abbrechen";
-"reset" = "Erstellen";
-"refresh" = "Refresh";
+"reset" = "Zurücksetzen";
+"refresh" = "Aktualisieren";
 "settings" = "Einstellungen";
 "cannot_reach_instance" = "Kann die Instanz nicht erreichen.";
 "not_responding" = "Keine Antwort";
