@@ -338,6 +338,7 @@
 "preferences_dashboard_show_section" = "Εμφάνιση ενότητας";
 "preferences_dashboard_number_of_clients" = "Αριθμός πελατών";
 "preferences_dashboard_number_of_domains" = "Αριθμός domain";
+"preferences_querylog_show_sidebar" = "Show sidebar";
 "preferences_other" = "Άλλα";
 "preferences_language" = "Γλώσσα";
 
@@ -384,7 +385,7 @@
 "design_system_setting" = "Χρήση ρυθμίσεων συστήματος";
 "design_always_lightmode" = "Πάντα ανοιχτόχρωμο";
 "design_always_darkmode" = "Πάντα σκούρο";
-"design_restart_required" = "Η αλλαγή αυτής της ρύθμισης απαιτεί επανεκκίνηση της εφαρμογής.";
+"settings_restart_required" = "Η αλλαγή αυτής της ρύθμισης απαιτεί επανεκκίνηση της εφαρμογής.";
 
 // MARK: Changelog
 "changelog_just_updated" = "Μόλις ενημερώθηκε!";

@@ -338,6 +338,7 @@
 "preferences_dashboard_show_section" = "Visualitzar secció";
 "preferences_dashboard_number_of_clients" = "Número de clients";
 "preferences_dashboard_number_of_domains" = "Número de dominis";
+"preferences_querylog_show_sidebar" = "Show sidebar";
 "preferences_other" = "Altres";
 "preferences_language" = "Idioma";
 
@@ -384,7 +385,7 @@
 "design_system_setting" = "Utilitzar la configuració del sistema";
 "design_always_lightmode" = "Sempre en mode clar";
 "design_always_darkmode" = "Sempre en mode fosc";
-"design_restart_required" = "Canviar aquesta opció requereix el reinici de l'aplicació.";
+"settings_restart_required" = "Canviar aquesta opció requereix el reinici de l'aplicació.";
 
 // MARK: Changelog
 "changelog_just_updated" = "Novetats!";

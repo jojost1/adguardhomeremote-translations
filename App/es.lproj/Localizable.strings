@@ -338,6 +338,7 @@
 "preferences_dashboard_show_section" = "Mostrar sección";
 "preferences_dashboard_number_of_clients" = "Número de clientes";
 "preferences_dashboard_number_of_domains" = "Número de dominios";
+"preferences_querylog_show_sidebar" = "Show sidebar";
 "preferences_other" = "Otros";
 "preferences_language" = "Idioma";
 
@@ -384,7 +385,7 @@
 "design_system_setting" = "Utilizar la configuración del sistema";
 "design_always_lightmode" = "Siempre en modo claro";
 "design_always_darkmode" = "Siempre en modo oscuro";
-"design_restart_required" = "Cambiar esta opción requiere reiniciar la aplicación.";
+"settings_restart_required" = "Cambiar esta opción requiere reiniciar la aplicación.";
 
 // MARK: Changelog
 "changelog_just_updated" = "¡Novedades!";

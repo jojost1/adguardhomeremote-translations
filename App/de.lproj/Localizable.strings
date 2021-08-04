@@ -338,6 +338,7 @@
 "preferences_dashboard_show_section" = "Bereich anzeigen";
 "preferences_dashboard_number_of_clients" = "Anzahl an Clients";
 "preferences_dashboard_number_of_domains" = "Anzahl an Domains";
+"preferences_querylog_show_sidebar" = "Show sidebar";
 "preferences_other" = "Sonstiges";
 "preferences_language" = "Sprache";
 
@@ -384,7 +385,7 @@
 "design_system_setting" = "Systemeinstellungen verwenden";
 "design_always_lightmode" = "Immer Hell";
 "design_always_darkmode" = "Immer Dunkel";
-"design_restart_required" = "Das Ändern dieser Einstellung erfordert einen App-Neustart.";
+"settings_restart_required" = "Das Ändern dieser Einstellung erfordert einen App-Neustart.";
 
 // MARK: Changelog
 "changelog_just_updated" = "Gerade aktualisiert!";

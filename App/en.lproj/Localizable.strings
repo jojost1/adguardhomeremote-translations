@@ -335,9 +335,10 @@
 "preferences_dashboard_graph_blockedbyfilters" = "Blocked by Filters";
 "preferences_dashboard_graph_blockedmalware" = "Blocked Malware/Phishing";
 "preferences_dashboard_graph_blockedadultwebsites" = "Blocked Adult Websites";
-"preferences_dashboard_show_section" = "Show Section";
-"preferences_dashboard_number_of_clients" = "Number of Clients";
-"preferences_dashboard_number_of_domains" = "Number of Domains";
+"preferences_dashboard_show_section" = "Show section";
+"preferences_dashboard_number_of_clients" = "Number of clients";
+"preferences_dashboard_number_of_domains" = "Number of domains";
+"preferences_querylog_show_sidebar" = "Show sidebar";
 "preferences_other" = "Other";
 "preferences_language" = "Language";
 
@@ -384,7 +385,7 @@
 "design_system_setting" = "Use System Setting";
 "design_always_lightmode" = "Always Light Mode";
 "design_always_darkmode" = "Always Dark Mode";
-"design_restart_required" = "Changing this setting requires an app restart.";
+"settings_restart_required" = "Changing this setting requires an app restart.";
 
 // MARK: Changelog
 "changelog_just_updated" = "Just Updated!";

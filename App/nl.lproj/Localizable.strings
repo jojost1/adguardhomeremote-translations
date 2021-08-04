@@ -338,6 +338,7 @@
 "preferences_dashboard_show_section" = "Toon onderdeel";
 "preferences_dashboard_number_of_clients" = "Aantal cliënten";
 "preferences_dashboard_number_of_domains" = "Aantal domeinen";
+"preferences_querylog_show_sidebar" = "Toon zijbalk";
 "preferences_other" = "Overig";
 "preferences_language" = "Taal";
 
@@ -384,7 +385,7 @@
 "design_system_setting" = "Systeem";
 "design_always_lightmode" = "Licht";
 "design_always_darkmode" = "Donker";
-"design_restart_required" = "Het aanpassen van deze instelling vereist een restart van de app.";
+"settings_restart_required" = "Het aanpassen van deze instelling vereist een restart van de app.";
 
 // MARK: Changelog
 "changelog_just_updated" = "Net geüpdatet!";

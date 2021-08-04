@@ -338,6 +338,7 @@
 "preferences_dashboard_show_section" = "是否显示";
 "preferences_dashboard_number_of_clients" = "客户端数量";
 "preferences_dashboard_number_of_domains" = "域名数量";
+"preferences_querylog_show_sidebar" = "Show sidebar";
 "preferences_other" = "其他";
 "preferences_language" = "语言";
 
@@ -384,7 +385,7 @@
 "design_system_setting" = "使用系统设置";
 "design_always_lightmode" = "总是使用浅色外观";
 "design_always_darkmode" = "总是使用深色外观";
-"design_restart_required" = "更改此设置需要重启 App 来查看效果。";
+"settings_restart_required" = "更改此设置需要重启 App 来查看效果。";
 
 // MARK: Changelog
 "changelog_just_updated" = "软件已更新!";
