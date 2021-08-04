@@ -257,7 +257,6 @@
 "dns_settings" = "DNS Instellingen";
 "dns_upstream_dns_servers" = "Upstream DNS-servers";
 "dns_ip" = "IP";
-"dns_reverse_resolve" = "Omzetten van hostnamen van cliënten";
 "dns_upstream_mode" = "Upstream modus";
 "dns_upstream_mode_loadbalancing" = "Volume balanceren";
 "dns_upstream_mode_parralel" = "Parallelle verzoeken";
@@ -266,6 +265,10 @@
 "dns_bootstrap_dns_servers_footer" = "Bootstrap DNS-servers worden gebruikt om IP-adressen op te lossen van de DoH / DoT-resolvers die u opgeeft als upstreams.";
 "dns_private_dns_servers" = "Private DNS-servers";
 "dns_private_dns_servers_footer" = "De DNS-servers die AdGuard Home zal gebruiken voor zoekopdrachten naar lokaal aangeboden bronnen.";
+"dns_use_private_dns_resolvers" = "Private omgekeerde DNS-resolvers gebruiken";
+"dns_use_private_dns_resolvers_help" = "Omgekeerde DNS opzoekingen uitvoeren voor locale adressen door deze upstream servers te gebruiken. Indien uitgeschakeld, reageert AdGuard Home met NXDOMAIN op al dergelijke PTR-verzoeken, uitgezonderd voor apparaten gekend van DHCP, /etc/hosts, enz.";
+"dns_reverse_resolve" = "Omzetten van hostnamen van clients";
+"dns_reverse_resolve_help" = "Indien ingeschakeld, zal AdGuard Home proberen om IP-adressen van apparaten te converteren in hun hostnamen door PTR-verzoeken te sturen naar overeenkomstige resolvers (privé-DNS-servers voor lokale apparaten, upstream-server voor apparaten met een openbaar IP-adres).";
 "dns_server_configuration" = "DNS-server configuratie";
 "dns_rate_limit" = "Ratio limiet";
 "dns_edns_client_subnet" = "EDNS client subnet";

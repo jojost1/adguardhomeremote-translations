@@ -257,7 +257,6 @@
 "dns_settings" = "Paramètres DNS";
 "dns_upstream_dns_servers" = "Serveurs DNS upstream";
 "dns_ip" = "IP";
-"dns_reverse_resolve" = "Résolution inverse des IP des clients";
 "dns_upstream_mode" = "Mode upstream";
 "dns_upstream_mode_loadbalancing" = "Équilibrage de charge";
 "dns_upstream_mode_parralel" = "Demandes en parallèle";
@@ -266,6 +265,10 @@
 "dns_bootstrap_dns_servers_footer" = "Les serveurs DNS d’amorçage sont utilisés pour résoudre les adresses IP des résolveurs DoH/DoT que vous spécifiez comme upstream";
 "dns_private_dns_servers" = "Serveurs DNS privés";
 "dns_private_dns_servers_footer" = "Les serveurs DNS utilisés par AdGuard Home pour les requêtes PTR servies localement.";
+"dns_use_private_dns_resolvers" = "Utiliser des résolveurs DNS inversés privés";
+"dns_use_private_dns_resolvers_help" = "Effectuer des recherches DNS inversées pour les adresses servies localement en utilisant ces serveurs en amont. S'il est désactivé, AdGuard Home répond avec NXDOMAIN à toutes les requêtes PTR de ce type, sauf pour les clients connus par DHCP, /etc/hosts, etc.";
+"dns_reverse_resolve" = "Résolution inverse des IP des clients";
+"dns_reverse_resolve_help" = "Résoudre inversement les adresses IP des clients en leurs noms d'hôtes en envoyant des requêtes PTR aux résolveurs correspondants (serveurs DNS privés pour les clients locaux, serveurs en amont pour les clients ayant une adresse IP publique).";
 "dns_server_configuration" = "Configuration du serveur DNS";
 "dns_rate_limit" = "Limite de taux";
 "dns_edns_client_subnet" = "Sous-réseau du client EDNS";

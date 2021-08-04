@@ -257,7 +257,6 @@
 "dns_settings" = "DNS-Einstellungen";
 "dns_upstream_dns_servers" = "Upstream-DNS-Server";
 "dns_ip" = "IP";
-"dns_reverse_resolve" = "Client-IPs rückwärts auflösen";
 "dns_upstream_mode" = "Upstream-Modus";
 "dns_upstream_mode_loadbalancing" = "Lastverteilung";
 "dns_upstream_mode_parralel" = "Parallele Anfragen";
@@ -266,6 +265,10 @@
 "dns_bootstrap_dns_servers_footer" = "Bootstrap-DNS-Server werden verwendet, um IP-Adressen der DoH/DoT-Auflöser aufzulösen, die Sie als Upstreams angeben.";
 "dns_private_dns_servers" = "Eigene DNS-Server";
 "dns_private_dns_servers_footer" = "Die DNS-Server, die AdGuard Home für lokale PTR-Abfragen verwendet.";
+"dns_use_private_dns_resolvers" = "Private Reverse-DNS-Resolver verwenden";
+"dns_use_private_dns_resolvers_help" = "Führen Sie mithilfe dieser Upstream-Server Reverse DNS-Lookups für lokal bereitgestellte Adressen durch. Wenn diese Option deaktiviert ist, antwortet AdGuard Home mit NXDOMAIN auf alle derartigen PTR-Anfragen mit Ausnahme von Clients, die von DHCP, /etc/hosts usw. bekannt sind.";
+"dns_reverse_resolve" = "Hostnamenauflösung der Clients";
+"dns_reverse_resolve_help" = "Lösen Sie die IP-Adressen der Clients umgekehrt in ihre Hostnamen auf, indem Sie PTR-Anfragen an entsprechende Resolver senden (private DNS-Server für lokale Clients, Upstream-Server für Clients mit öffentlichen IP-Adressen).";
 "dns_server_configuration" = "DNS-Server-Konfiguration";
 "dns_rate_limit" = "DNS-Ratenlimit";
 "dns_edns_client_subnet" = "EDNS-Client-Subnetz";

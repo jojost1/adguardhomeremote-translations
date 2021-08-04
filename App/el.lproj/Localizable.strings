@@ -257,7 +257,6 @@
 "dns_settings" = "Ρυθμίσεις DNS";
 "dns_upstream_dns_servers" = "Διακομιστές upstream DNS";
 "dns_ip" = "IP";
-"dns_reverse_resolve" = "Αντίστροφη επίλυση IP πελάτη";
 "dns_upstream_mode" = "Λειτουργία upstream";
 "dns_upstream_mode_loadbalancing" = "Εξισορρόπηση φόρτου";
 "dns_upstream_mode_parralel" = "Παράλληλα αιτήματα";
@@ -266,6 +265,10 @@
 "dns_bootstrap_dns_servers_footer" = "Οι διακομιστές bootstrap DNS χρησιμοποιούνται για την επίλυση των διευθύνσεων IP των αναλυτών DoH/DoT που ορίζετε ως upstream.";
 "dns_private_dns_servers" = "Private DNS servers";
 "dns_private_dns_servers_footer" = "The DNS servers that AdGuard Home uses for local PTR queries.";
+"dns_use_private_dns_resolvers" = "Use private reverse DNS resolvers";
+"dns_use_private_dns_resolvers_help" = "Perform reverse DNS lookups for locally served addresses using these upstream servers. If disabled, AdGuard Home responds with NXDOMAIN to all such PTR requests except for clients known from DHCP, /etc/hosts, and so on.";
+"dns_reverse_resolve" = "Αντίστροφη επίλυση IP πελάτη";
+"dns_reverse_resolve_help" = "Reversely resolve clients' IP addresses into their hostnames by sending PTR queries to corresponding resolvers (private DNS servers for local clients, upstream servers for clients with public IP addresses).";
 "dns_server_configuration" = "Ρύθμιση διακομιστή DNS";
 "dns_rate_limit" = "Όριο ρυθμού";
 "dns_edns_client_subnet" = "Υποδίκτυο πελάτη EDNS";
