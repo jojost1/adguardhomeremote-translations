@@ -279,6 +279,7 @@
 "dns_blocking_mode_customip" = "Προσαρμοσμένη IP";
 "dns_cache_configuration" = "Ρύθμιση κρυφής μνήμης DNS";
 "dns_cache_size" = "Μέγεθος κρυφής μνήμης";
+"dns_cache_optimistic" = "Optimistic";
 "dns_override_minimum_ttl" = "Παράκαμψη ελάχιστου TTL";
 "dns_override_maximum_ttl" = "Παράκαμψη μέγιστου TTL";
 "dns_pro_required" = "Το Remote Pro απαιτείται για τη διαχείριση των ρυθμίσεων DNS.";

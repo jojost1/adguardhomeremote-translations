@@ -279,6 +279,7 @@
 "dns_blocking_mode_customip" = "Benutzerdefinierte IP";
 "dns_cache_configuration" = "Konfiguration des DNS-Zwischenspeicher";
 "dns_cache_size" = "Größe des DNS-Zwischenspeichers (in Bytes)";
+"dns_cache_optimistic" = "Optimistisch";
 "dns_override_minimum_ttl" = "TTL-Minimalwert überschreiben (in Sekunden)";
 "dns_override_maximum_ttl" = "TTL-Höchstwert überschreiben (in Sekunden)";
 "dns_pro_required" = "Remote Pro ist erforderlich, um DNS-Einstellungen zu verwalten.";

@@ -279,6 +279,7 @@
 "dns_blocking_mode_customip" = "IP Personalizada";
 "dns_cache_configuration" = "Configuración de la caché DNS";
 "dns_cache_size" = "Tamaño";
+"dns_cache_optimistic" = "Optimista";
 "dns_override_minimum_ttl" = "TTL mínimo";
 "dns_override_maximum_ttl" = "TTL máximo";
 "dns_pro_required" = "Es necesario actualizar a Remote Pro para gestionar la configuración DNS";

@@ -279,6 +279,7 @@
 "dns_blocking_mode_customip" = "自訂的 IP";
 "dns_cache_configuration" = "DNS 快取配置";
 "dns_cache_size" = "快取大小";
+"dns_cache_optimistic" = "樂觀快取模式";
 "dns_override_minimum_ttl" = "覆寫最小的存活時間（TTL）";
 "dns_override_maximum_ttl" = "覆寫最大的存活時間（TTL）";
 "dns_pro_required" = "Remote Pro 是必須的以管理 DNS 設定。";
