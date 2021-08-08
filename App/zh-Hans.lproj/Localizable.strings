@@ -265,10 +265,10 @@
 "dns_bootstrap_dns_servers_footer" = "Bootstrap DNS 服务器用于解析您指定为上游的 DoH / DoT 解析器的 IP 地址。";
 "dns_private_dns_servers" = "私人 DNS 服务器";
 "dns_private_dns_servers_footer" = "AdGuard Home 用于本地 PTR 查询的 DNS 服务器。";
-"dns_use_private_dns_resolvers" = "Use private reverse DNS resolvers";
-"dns_use_private_dns_resolvers_help" = "Perform reverse DNS lookups for locally served addresses using these upstream servers. If disabled, AdGuard Home responds with NXDOMAIN to all such PTR requests except for clients known from DHCP, /etc/hosts, and so on.";
+"dns_use_private_dns_resolvers" = "使用私人反向 DNS 解析器";
+"dns_use_private_dns_resolvers_help" = "使用这些上游服务器对本地服务的地址执行反向 DNS 查找。 如果禁用，则 AdGuard Home会以 NXDOMAIN 响应所有此类PTR请求，从 DHCP、/ etc / hosts 等获知的客户端除外。";
 "dns_reverse_resolve" = "反向解析客户端的 IP 地址";
-"dns_reverse_resolve_help" = "Reversely resolve clients' IP addresses into their hostnames by sending PTR queries to corresponding resolvers (private DNS servers for local clients, upstream servers for clients with public IP addresses).";
+"dns_reverse_resolve_help" = "通过发送 PTR 查询到对应的解析器 (本地客户端的私人 DNS 服务器，公共 IP 客户端的上游服务器) 将 IP 地址反向解析成其客户端主机名。";
 "dns_server_configuration" = "DNS 服务设定";
 "dns_rate_limit" = "速度限制";
 "dns_edns_client_subnet" = "使用客户端的子网地址 (EDNS)";
