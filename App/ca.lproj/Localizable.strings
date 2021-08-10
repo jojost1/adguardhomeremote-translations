@@ -268,7 +268,7 @@
 "dns_use_private_dns_resolvers" = "Usar resolutores DNS inversos y privados";
 "dns_use_private_dns_resolvers_help" = "Realiza búsquedas DNS inversas para direcciones servidas localmente utilizando estos servidores DNS de subida. Si está deshabilitado, AdGuard Home responderá con NXDOMAIN a todas las peticiones PTR de este tipo, excepto para los clientes conocidos por DHCP, /etc/hosts, etc.";
 "dns_reverse_resolve" = "Habilitar la resolució inversa de les IP dels clients";
-"dns_reverse_resolve_help" = "Resolve de manera inversa las direcciones IP de los clientes a sus nombres de hosts enviando consultas PTR a los resolutores correspondientes (servidores DNS privados para clientes locales, servidores DNS de subida para clientes con direcciones IP públicas).";
+"dns_reverse_resolve_help" = "Resoldre les direccions IP dels clients als seus noms de host enviant consultes PTR als servidors DNS (privats per a clients locals, públics per a adreces públiques).";
 "dns_server_configuration" = "Configuració del servidor DNS de AdGuard";
 "dns_rate_limit" = "Límit de peticions per segon";
 "dns_edns_client_subnet" = "Subxarxa de client EDNS";
@@ -342,7 +342,7 @@
 "preferences_dashboard_show_section" = "Visualitzar secció";
 "preferences_dashboard_number_of_clients" = "Número de clients";
 "preferences_dashboard_number_of_domains" = "Número de dominis";
-"preferences_querylog_show_sidebar" = "Show sidebar";
+"preferences_querylog_show_sidebar" = "Mostra el panell lateral";
 "preferences_other" = "Altres";
 "preferences_language" = "Idioma";
 
