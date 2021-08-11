@@ -282,7 +282,7 @@
 "dns_blocking_mode_customip" = "Aangepast IP";
 "dns_cache_configuration" = "DNS cache configuratie";
 "dns_cache_size" = "Cache Grootte";
-"dns_cache_optimistic" = "Optimistisch";
+"dns_cache_optimistic" = "Optimistisch cachen";
 "dns_override_minimum_ttl" = "Minimale TTL overschrijven";
 "dns_override_maximum_ttl" = "Maximale TTL overschrijven";
 "dns_pro_required" = "Remote Pro is vereist om DNS instellingen te beheren.";
