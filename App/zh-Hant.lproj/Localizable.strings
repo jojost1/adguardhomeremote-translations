@@ -265,10 +265,10 @@
 "dns_bootstrap_dns_servers_footer" = "自我啟動（Bootstrap）DNS 伺服器被用於解析您明確指定作為上游的 DoH/DoT 解析器之 IP 位址。";
 "dns_private_dns_servers" = "私人 DNS 伺服器";
 "dns_private_dns_servers_footer" = "AdGuard Home 用於區域指標（PTR）查詢之 DNS 伺服器。";
-"dns_use_private_dns_resolvers" = "Use private reverse DNS resolvers";
-"dns_use_private_dns_resolvers_help" = "Perform reverse DNS lookups for locally served addresses using these upstream servers. If disabled, AdGuard Home responds with NXDOMAIN to all such PTR requests except for clients known from DHCP, /etc/hosts, and so on.";
+"dns_use_private_dns_resolvers" = "使用私人反向的 DNS 解析器";
+"dns_use_private_dns_resolvers_help" = "對於正使用這些上游伺服器之區域服務的位址執行反向的 DNS 查找。如果被禁用，除已知來自 DHCP、/etc/hosts 等等的用戶端之外，AdGuard Home 對於所有此類的區域指標（PTR）請求以 NXDOMAIN 回覆。";
 "dns_reverse_resolve" = "反向地解析用戶端 IPs";
-"dns_reverse_resolve_help" = "Reversely resolve clients' IP addresses into their hostnames by sending PTR queries to corresponding resolvers (private DNS servers for local clients, upstream servers for clients with public IP addresses).";
+"dns_reverse_resolve_help" = "透過傳送指標（PTR）查詢到對應的解析器（私人 DNS 伺服器供區域的用戶端，上游的伺服器供有公共 IP 位址的用戶端），反向地解析用戶端的 IP 位址變為它們的主機名稱。";
 "dns_server_configuration" = "DNS 伺服器配置";
 "dns_rate_limit" = "速率限制";
 "dns_edns_client_subnet" = "對於 DNS 的擴充機制（EDNS）用戶端子網路";
@@ -282,7 +282,7 @@
 "dns_blocking_mode_customip" = "自訂的 IP";
 "dns_cache_configuration" = "DNS 快取配置";
 "dns_cache_size" = "快取大小";
-"dns_cache_optimistic" = "樂觀快取模式";
+"dns_cache_optimistic" = "樂觀快取";
 "dns_override_minimum_ttl" = "覆寫最小的存活時間（TTL）";
 "dns_override_maximum_ttl" = "覆寫最大的存活時間（TTL）";
 "dns_pro_required" = "Remote Pro 是必須的以管理 DNS 設定。";
@@ -342,7 +342,7 @@
 "preferences_dashboard_show_section" = "顯示區域";
 "preferences_dashboard_number_of_clients" = "用戶端之數量";
 "preferences_dashboard_number_of_domains" = "網域之數量";
-"preferences_querylog_show_sidebar" = "Show sidebar";
+"preferences_querylog_show_sidebar" = "顯示側邊欄";
 "preferences_other" = "其它";
 "preferences_language" = "語言";
 
@@ -484,8 +484,8 @@
 "remove" = "移除";
 "ok" = "確定";
 "cancel" = "取消";
-"reset" = "Reset";
-"refresh" = "Refresh";
+"reset" = "重置";
+"refresh" = "重新整理";
 "settings" = "設定";
 "cannot_reach_instance" = "無法達到實例。";
 "not_responding" = "未回應";
