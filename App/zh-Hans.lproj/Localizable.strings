@@ -282,7 +282,7 @@
 "dns_blocking_mode_customip" = "自定义 IP";
 "dns_cache_configuration" = "DNS 缓存配置";
 "dns_cache_size" = "缓存大小";
-"dns_cache_optimistic" = "优化的";
+"dns_cache_optimistic" = "乐观缓存";
 "dns_override_minimum_ttl" = "覆盖最小 TTL 值";
 "dns_override_maximum_ttl" = "覆盖最大 TTL 值";
 "dns_pro_required" = "需要 Remote Pro 来管理 DNS 设置";
