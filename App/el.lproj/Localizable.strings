@@ -377,10 +377,12 @@
 "design_app_tint_indigo" = "Λουλάκι";
 "design_app_tint_purple" = "Μοβ";
 "design_app_tint_teal" = "Βεραμάν";
+"design_app_tint_mint" = "Μέντα";
 "design_app_tint_yellow" = "Κίτρινο";
 "design_app_tint_orange" = "Πορτοκαλί";
 "design_app_tint_pink" = "Ροζ";
 "design_app_tint_red" = "Κόκκινο";
+"design_app_tint_brown" = "καφέ";
 "design_app_icon" = "Εικονίδιο εφαρμογής";
 "design_app_icon_original" = "Πρωτότυπo";
 "design_app_icon_inverse" = "Αντίστροφο";

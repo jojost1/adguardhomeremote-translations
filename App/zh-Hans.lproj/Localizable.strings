@@ -377,10 +377,12 @@
 "design_app_tint_indigo" = "靛青";
 "design_app_tint_purple" = "紫色";
 "design_app_tint_teal" = "蓝绿色";
+"design_app_tint_mint" = "Mint";
 "design_app_tint_yellow" = "黄色";
 "design_app_tint_orange" = "橙色";
 "design_app_tint_pink" = "粉色";
 "design_app_tint_red" = "红色";
+"design_app_tint_brown" = "棕色";
 "design_app_icon" = "App 图标";
 "design_app_icon_original" = "原版";
 "design_app_icon_inverse" = "反色";

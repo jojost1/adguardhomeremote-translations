@@ -377,10 +377,12 @@
 "design_app_tint_indigo" = "Indi";
 "design_app_tint_purple" = "Morat";
 "design_app_tint_teal" = "Verd blavós";
+"design_app_tint_mint" = "Menta";
 "design_app_tint_yellow" = "Groc";
 "design_app_tint_orange" = "Taronja";
 "design_app_tint_pink" = "Rosa";
 "design_app_tint_red" = "Vermell";
+"design_app_tint_brown" = "Marró";
 "design_app_icon" = "Icona de l'aplicació";
 "design_app_icon_original" = "Original";
 "design_app_icon_inverse" = "Invertit";
