@@ -137,10 +137,10 @@
 "clients_no_clients_found" = "未找到";
 "clients_runtime" = "客户端 (运行时间)";
 "clients_runtime_footer" = "使用 Adguard Home 但未存储在配置中的客户端。";
-"clients_disallowed" = "已阻止的客户端";
-"clients_disallowed_footer" = "AdGuard Home 会终止所有来自此客户端的DNS查询。";
-"clients_disallowed_placeholder" = "Enter an IP or CIDR range";
-"clients_disallowed_add_client" = "Add to disallowed clients";
+"clients_disallowed" = "不允许的客户端";
+"clients_disallowed_footer" = "AdGuard Home 会放弃源自这些 IP 地址的请求。";
+"clients_disallowed_placeholder" = "输入 IP 地址或 CIDR 范围";
+"clients_disallowed_add_client" = "添加到不允许的客户端";
 "clients_name" = "客户端名称";
 "clients_identifiers" = "标识符";
 "clients_identifiers_copy" = "复制";
@@ -163,7 +163,7 @@
 "filtering_disabled" = "已禁用";
 "filtering_disable_filter" = "禁用过滤器";
 "filtering_enable_filter" = "启用过滤器";
-"filtering_edit_filter" = "Edit Filter";
+"filtering_edit_filter" = "编辑过滤器";
 "filtering_edit_filter_name" = "名称";
 "filtering_edit_filter_url" = "清单网址";
 "filtering_enable_filtering" = "启用过滤器";
@@ -342,7 +342,7 @@
 "preferences_dashboard_show_section" = "是否显示";
 "preferences_dashboard_number_of_clients" = "客户端数量";
 "preferences_dashboard_number_of_domains" = "域名数量";
-"preferences_querylog_show_sidebar" = "Show sidebar";
+"preferences_querylog_show_sidebar" = "显示侧边栏";
 "preferences_other" = "其他";
 "preferences_language" = "语言";
 
@@ -370,14 +370,14 @@
 "design_color_scheme" = "色彩方案";
 "design_color_scheme_default" = "默认";
 "design_color_scheme_adguard" = "AdGuard";
-"design_color_scheme_pastel" = "Pastel";
+"design_color_scheme_pastel" = "粉彩";
 "design_app_tint" = "App 控件颜色";
 "design_app_tint_green" = "绿色";
 "design_app_tint_blue" = "蓝色";
 "design_app_tint_indigo" = "靛青";
 "design_app_tint_purple" = "紫色";
-"design_app_tint_teal" = "蓝绿色";
-"design_app_tint_mint" = "Mint";
+"design_app_tint_teal" = "青色";
+"design_app_tint_mint" = "薄荷绿";
 "design_app_tint_yellow" = "黄色";
 "design_app_tint_orange" = "橙色";
 "design_app_tint_pink" = "粉色";
