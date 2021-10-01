@@ -64,10 +64,13 @@
 "query_status_RewriteRule" = "Umgeschrieben | Regel";
 "query_status_Unknown" = "Unbekannt";
 "query_copy" = "Kopieren";
-"query_copy-domain" = "Domain kopieren";
-"query_copy-client-name" = "Client-Name kopieren";
-"query_copy-client-ip" = "Client-IP kopieren";
-"query_copy-client-id" = "Client-ID kopieren";
+"query_copy_domain" = "Domain kopieren";
+"query_copy_client_name" = "Client-Name kopieren";
+"query_copy_client_ip" = "Client-IP kopieren";
+"query_copy_client_id" = "Client-ID kopieren";
+"query_view_queries_to_hostname" = "View queries to hostname";
+"query_view_queries_from_client" = "View queries to client";
+"query_visit_domain" = "Visit domain";
 
 // MARK: Query Detail
 "querydetail_filter_rule" = "Filterregel";

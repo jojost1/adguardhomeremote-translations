@@ -64,10 +64,13 @@
 "query_status_RewriteRule" = "Rewrite | Rule";
 "query_status_Unknown" = "Unknown";
 "query_copy" = "Copy";
-"query_copy-domain" = "Copy Domain";
-"query_copy-client-name" = "Copy Client Name";
-"query_copy-client-ip" = "Copy Client IP";
-"query_copy-client-id" = "Copy Client ID";
+"query_copy_domain" = "Copy domain";
+"query_copy_client_name" = "Copy client name";
+"query_copy_client_ip" = "Copy client IP";
+"query_copy_client_id" = "Copy client ID";
+"query_view_queries_to_hostname" = "View queries to hostname";
+"query_view_queries_from_client" = "View queries to client";
+"query_visit_domain" = "Visit domain";
 
 // MARK: Query Detail
 "querydetail_filter_rule" = "Filter Rule";
@@ -84,7 +87,7 @@
 "querydetail_response_code" = "Response Code";
 "querydetail_response_time" = "Response Time";
 "querydetail_upstream" = "Upstream";
-"querydetail_copy_upstream" = "Copy Upstream";
+"querydetail_copy_upstream" = "Copy upstream";
 "querydetail_block_domain" = "Block Domain";
 "querydetail_unblock_domain" = "Unblock Domain";
 "querydetail_answer" = "Answer";
@@ -147,7 +150,7 @@
 "clients_identifiers_placeholder" = "IP, CIDR, MAC, ClientID";
 "clients_identifiers_explainer" = "Clients can be identified by the IP address, CIDR, MAC address, or a special client ID (can be used for DoT/DoH/DoQ). Using MAC as identifier is possible only if AdGuard Home is also a DHCP server.";
 "clients_upstreams" = "Upstreams";
-"clients_view_queries_from_%@" = "View Queries from %@";
+"clients_view_queries_from_%@" = "View queries from %@";
 "clients_edit_use_filter_blocking" = "Use Filter Blocking";
 "clients_edit_use_safe_browsing" = "Use Safe Browsing";
 "clients_edit_use_parental_filtering" = "Use Parental Filtering";

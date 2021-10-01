@@ -64,10 +64,13 @@
 "query_status_RewriteRule" = "Επανεγγραφή | Κανόνας";
 "query_status_Unknown" = "Άγνωστο";
 "query_copy" = "Αντιγραφή";
-"query_copy-domain" = "Αντιγραφή domain";
-"query_copy-client-name" = "Αντιγραφή Ονόματος Πελάτη";
-"query_copy-client-ip" = "Αντιγραφή IP Πελάτη";
-"query_copy-client-id" = "Αντιγραφή ID Πελάτη";
+"query_copy_domain" = "Αντιγραφή domain";
+"query_copy_client_name" = "Αντιγραφή Ονόματος Πελάτη";
+"query_copy_client_ip" = "Αντιγραφή IP Πελάτη";
+"query_copy_client_id" = "Αντιγραφή ID Πελάτη";
+"query_view_queries_to_hostname" = "View queries to hostname";
+"query_view_queries_from_client" = "View queries to client";
+"query_visit_domain" = "Visit domain";
 
 // MARK: Query Detail
 "querydetail_filter_rule" = "Κανόνας φιλτραρίσματος";
