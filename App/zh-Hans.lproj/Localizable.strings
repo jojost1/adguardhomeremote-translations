@@ -68,9 +68,9 @@
 "query_copy_client_name" = "复制客户端名称";
 "query_copy_client_ip" = "复制客户端 IP 地址";
 "query_copy_client_id" = "复制客户端 ID";
-"query_view_queries_to_hostname" = "View queries to hostname";
-"query_view_queries_from_client" = "View queries to client";
-"query_visit_domain" = "Visit domain";
+"query_view_queries_to_hostname" = "查看主机名下的查询记录";
+"query_view_queries_from_client" = "查看客户端下的查询记录";
+"query_visit_domain" = "访问域名";
 
 // MARK: Query Detail
 "querydetail_filter_rule" = "过滤器规则";
