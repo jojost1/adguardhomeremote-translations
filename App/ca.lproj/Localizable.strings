@@ -68,9 +68,9 @@
 "query_copy_client_name" = "Copiar nom del client";
 "query_copy_client_ip" = "Copiar IP del client";
 "query_copy_client_id" = "Copiar ID del client";
-"query_view_queries_to_hostname" = "View queries to hostname";
-"query_view_queries_from_client" = "View queries to client";
-"query_visit_domain" = "Visit domain";
+"query_view_queries_to_hostname" = "Veure consultes al nom de host";
+"query_view_queries_from_client" = "Veure consultas al client";
+"query_visit_domain" = "Visitar domini";
 
 // MARK: Query Detail
 "querydetail_filter_rule" = "Regla de filtratge";
