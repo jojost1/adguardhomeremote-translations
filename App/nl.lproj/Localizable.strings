@@ -338,6 +338,7 @@
 "preferences_dashboard_graph_type" = "Type";
 "preferences_dashboard_graph_line" = "Lijn";
 "preferences_dashboard_graph_bar" = "Staaf";
+"preferences_dashboard_graph_hide" = "Verberg";
 "preferences_dashboard_graph_dnsqueries" = "DNS queries";
 "preferences_dashboard_graph_blockedbyfilters" = "Geblokkeerd door filters";
 "preferences_dashboard_graph_blockedmalware" = "Geblokkeerde malware/phishing";

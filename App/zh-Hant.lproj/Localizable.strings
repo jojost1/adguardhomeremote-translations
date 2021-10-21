@@ -338,6 +338,7 @@
 "preferences_dashboard_graph_type" = "圖表類型";
 "preferences_dashboard_graph_line" = "線條圖";
 "preferences_dashboard_graph_bar" = "橫條圖";
+"preferences_dashboard_graph_hide" = "Hide graph";
 "preferences_dashboard_graph_dnsqueries" = "DNS 查詢";
 "preferences_dashboard_graph_blockedbyfilters" = "被過濾器封鎖";
 "preferences_dashboard_graph_blockedmalware" = "已封鎖的惡意軟體/網路釣魚";

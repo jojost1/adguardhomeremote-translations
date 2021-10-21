@@ -335,9 +335,10 @@
 "preferences_dashboard_safebrowsing" = "Ασφαλής περιήγηση";
 "preferences_dashboard_safesearch" = "Ασφαλής αναζήτηση";
 "preferences_dashboard_graphs" = "Γραφήματα";
-"preferences_dashboard_graph_type" = "Τύπος γραφήματος";
+"preferences_dashboard_graph_type" = "Τύπος";
 "preferences_dashboard_graph_line" = "Γράφημα γραμμών";
 "preferences_dashboard_graph_bar" = "Γράφημα ράβδων";
+"preferences_dashboard_graph_hide" = "Hide graph";
 "preferences_dashboard_graph_dnsqueries" = "Ερωτήματα DNS";
 "preferences_dashboard_graph_blockedbyfilters" = "Αποκλεισμένα από φίλτρα";
 "preferences_dashboard_graph_blockedmalware" = "Αποκλεισμένα malware/phishing";

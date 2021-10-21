@@ -335,9 +335,10 @@
 "preferences_dashboard_safebrowsing" = "Sécurité de navigation";
 "preferences_dashboard_safesearch" = "Recherche sécurisée";
 "preferences_dashboard_graphs" = "Graphiques";
-"preferences_dashboard_graph_type" = "Type de graphique";
+"preferences_dashboard_graph_type" = "Type";
 "preferences_dashboard_graph_line" = "Graphique linéaire";
 "preferences_dashboard_graph_bar" = "Graphique à barres";
+"preferences_dashboard_graph_hide" = "Hide graph";
 "preferences_dashboard_graph_dnsqueries" = "Requêtes DNS";
 "preferences_dashboard_graph_blockedbyfilters" = "Bloqué par les filtres";
 "preferences_dashboard_graph_blockedmalware" = "Malware/Phishing bloqués";
