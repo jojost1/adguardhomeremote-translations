@@ -335,7 +335,7 @@
 "preferences_dashboard_safebrowsing" = "安全瀏覽";
 "preferences_dashboard_safesearch" = "安全搜尋";
 "preferences_dashboard_graphs" = "圖表";
-"preferences_dashboard_graph_type" = "圖表類型";
+"preferences_dashboard_graph_type" = "類型";
 "preferences_dashboard_graph_line" = "線條圖";
 "preferences_dashboard_graph_bar" = "橫條圖";
 "preferences_dashboard_graph_hide" = "隱藏圖表";

@@ -335,7 +335,7 @@
 "preferences_dashboard_safebrowsing" = "浏览安全";
 "preferences_dashboard_safesearch" = "安全搜索";
 "preferences_dashboard_graphs" = "图表";
-"preferences_dashboard_graph_type" = "图标类型";
+"preferences_dashboard_graph_type" = "类型";
 "preferences_dashboard_graph_line" = "线形图";
 "preferences_dashboard_graph_bar" = "条状图";
 "preferences_dashboard_graph_hide" = "Hide graph";
