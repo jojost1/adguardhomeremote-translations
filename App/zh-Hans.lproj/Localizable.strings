@@ -26,7 +26,7 @@
 // MARK: - Query Log
 "querylog_tabbar" = "查询日志";
 "querylog_query" = "请求";
-"querylog_livelog" = "Live Log";
+"querylog_livelog" = "活动日志";
 "querylog_no-queries" = "未找到";
 "querylog_cannot-find-queries" = "未找到";
 "querylog_pro" = "需要 Remote Pro 来查看更多请求";
@@ -339,7 +339,7 @@
 "preferences_dashboard_graph_type" = "类型";
 "preferences_dashboard_graph_line" = "线形图";
 "preferences_dashboard_graph_bar" = "条状图";
-"preferences_dashboard_graph_hide" = "Hide graph";
+"preferences_dashboard_graph_hide" = "隐藏图表";
 "preferences_dashboard_graph_dnsqueries" = "DNS 查询";
 "preferences_dashboard_graph_blockedbyfilters" = "已被过滤器拦截";
 "preferences_dashboard_graph_blockedmalware" = "被拦截的恶意/钓鱼网站";
@@ -347,7 +347,7 @@
 "preferences_dashboard_show_section" = "是否显示";
 "preferences_dashboard_number_of_clients" = "客户端数量";
 "preferences_dashboard_number_of_domains" = "域名数量";
-"preferences_dashboard_auto_refresh" = "Auto-refresh every minute";
+"preferences_dashboard_auto_refresh" = "每分钟自动刷新";
 "preferences_querylog_show_sidebar" = "显示侧边栏";
 "preferences_other" = "其他";
 "preferences_language" = "语言";
@@ -356,7 +356,7 @@
 "settings_help" = "帮助与反馈";
 "settings_help_navbar" = "支持服务";
 "settings_help_contact" = "联系作者";
-"settings_help_contact_footer" = "Please use English for support requests!";
+"settings_help_contact_footer" = "要请求技术支持请使用英语！";
 "settings_help_actions" = "操作";
 "settings_help_logs" = "软件日志";
 "settings_help_logs_footer" = "软件日志在本地储存，并且绝不会被远程获取。要退出日志查看器请下滑窗口。";
