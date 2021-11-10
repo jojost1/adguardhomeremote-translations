@@ -26,6 +26,7 @@
 // MARK: - Query Log
 "querylog_tabbar" = "Consultas DNS";
 "querylog_query" = "Consulta";
+"querylog_livelog" = "Live Log";
 "querylog_no-queries" = "No se han encontrado resultados";
 "querylog_cannot-find-queries" = "No se han podido encontrar consultas DNS";
 "querylog_pro" = "Es necesario actualizar a Remote Pro para ver más consultas DNS";
@@ -346,6 +347,7 @@
 "preferences_dashboard_show_section" = "Mostrar sección";
 "preferences_dashboard_number_of_clients" = "Número de clientes";
 "preferences_dashboard_number_of_domains" = "Número de dominios";
+"preferences_dashboard_auto_refresh" = "Auto-refresh every minute";
 "preferences_querylog_show_sidebar" = "Muestra el panel lateral";
 "preferences_other" = "Otros";
 "preferences_language" = "Idioma";
@@ -354,6 +356,7 @@
 "settings_help" = "Ayuda y comentarios";
 "settings_help_navbar" = "Soporte";
 "settings_help_contact" = "Contacta conmigo";
+"settings_help_contact_footer" = "Please use English for support requests!";
 "settings_help_actions" = "Acciones";
 "settings_help_logs" = "Registros";
 "settings_help_logs_footer" = "Los registros de sistema se almacenan localmente y nunca salen de tu dispositvo. Arrastra hacia abajo para cerrar el visor de registros.";

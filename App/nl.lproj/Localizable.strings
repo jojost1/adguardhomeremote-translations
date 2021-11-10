@@ -26,6 +26,7 @@
 // MARK: - Query Log
 "querylog_tabbar" = "Query Log";
 "querylog_query" = "Query";
+"querylog_livelog" = "Live Log";
 "querylog_no-queries" = "Geen queries gevonden.";
 "querylog_cannot-find-queries" = "Kon geen queries vinden..";
 "querylog_pro" = "Remote Pro is vereist om meer queries te zien.";
@@ -346,6 +347,7 @@
 "preferences_dashboard_show_section" = "Toon onderdeel";
 "preferences_dashboard_number_of_clients" = "Aantal cliënten";
 "preferences_dashboard_number_of_domains" = "Aantal domeinen";
+"preferences_dashboard_auto_refresh" = "Ververs automatisch elke minuut";
 "preferences_querylog_show_sidebar" = "Toon zijbalk";
 "preferences_other" = "Overig";
 "preferences_language" = "Taal";
@@ -354,6 +356,7 @@
 "settings_help" = "Help & Feedback";
 "settings_help_navbar" = "Support";
 "settings_help_contact" = "Neem contact op";
+"settings_help_contact_footer" = "Please use English for support requests!";
 "settings_help_actions" = "Acties";
 "settings_help_logs" = "Logs";
 "settings_help_logs_footer" = "Logs worden lokaal weggeschreven en verlaten nooit je device. Swipe naar beneden om de log-viewer te sluiten.";

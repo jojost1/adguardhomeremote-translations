@@ -26,6 +26,7 @@
 // MARK: - Query Log
 "querylog_tabbar" = "Journal des requêtes";
 "querylog_query" = "Requêtes";
+"querylog_livelog" = "Live Log";
 "querylog_no-queries" = "Aucune requête trouvée.";
 "querylog_cannot-find-queries" = "Aucune requête trouvée";
 "querylog_pro" = "Remote Pro est requis pour afficher plus de requêtes.";
@@ -346,6 +347,7 @@
 "preferences_dashboard_show_section" = "Afficher la section";
 "preferences_dashboard_number_of_clients" = "Nombre de clients";
 "preferences_dashboard_number_of_domains" = "Nombre de domaines";
+"preferences_dashboard_auto_refresh" = "Auto-refresh every minute";
 "preferences_querylog_show_sidebar" = "Show sidebar";
 "preferences_other" = "Autres";
 "preferences_language" = "Langue";
@@ -354,6 +356,7 @@
 "settings_help" = "Aide et commentaires";
 "settings_help_navbar" = "Support";
 "settings_help_contact" = "Me contacter";
+"settings_help_contact_footer" = "Please use English for support requests!";
 "settings_help_actions" = "Actions";
 "settings_help_logs" = "Journaux";
 "settings_help_logs_footer" = "Les journaux sont enregistrés localement et ne quittent jamais votre appareil. Glissez vers le bas pour quitter la visionneuse de journaux.";

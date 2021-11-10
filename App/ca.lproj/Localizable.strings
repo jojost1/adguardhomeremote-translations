@@ -26,6 +26,7 @@
 // MARK: - Query Log
 "querylog_tabbar" = "Consultes DNS";
 "querylog_query" = "Consulta";
+"querylog_livelog" = "Live Log";
 "querylog_no-queries" = "No s'han trobat resultats";
 "querylog_cannot-find-queries" = "No s'han trobat consultes DNS";
 "querylog_pro" = "Es necessari actualitzar a Remote Pro per a poder visualitzar més consultes DNS";
@@ -346,6 +347,7 @@
 "preferences_dashboard_show_section" = "Visualitzar secció";
 "preferences_dashboard_number_of_clients" = "Número de clients";
 "preferences_dashboard_number_of_domains" = "Número de dominis";
+"preferences_dashboard_auto_refresh" = "Auto-refresh every minute";
 "preferences_querylog_show_sidebar" = "Mostra el panell lateral";
 "preferences_other" = "Altres";
 "preferences_language" = "Idioma";
@@ -354,6 +356,7 @@
 "settings_help" = "Ajuda i comentaris";
 "settings_help_navbar" = "Suport";
 "settings_help_contact" = "Contacta";
+"settings_help_contact_footer" = "Please use English for support requests!";
 "settings_help_actions" = "Accions";
 "settings_help_logs" = "Registres";
 "settings_help_logs_footer" = "Els registres de sistema s’emmagatzemen localment i no surten mai del teu dispositiu. Arrastra avall per a tancar el visor de registres.";
