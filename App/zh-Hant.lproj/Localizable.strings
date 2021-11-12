@@ -27,6 +27,8 @@
 "querylog_tabbar" = "查詢記錄";
 "querylog_query" = "查詢";
 "querylog_livelog" = "Live Log";
+"querylog_livelog_no_queries_yet" = "No queries found yet...";
+"querylog_livelog_pro" = "Remote Pro is required to view more queries.";
 "querylog_no-queries" = "無已發現之查詢。";
 "querylog_cannot-find-queries" = "無法找到任何的查詢。";
 "querylog_pro" = "Remote Pro 是必須的以檢視更多的查詢。";
@@ -432,6 +434,7 @@
 
 // MARK: Pro Features
 "pro_view_queries" = "檢視 25+ 查詢 & 設定過濾器";
+"pro_livelog" = "View Live Query Log";
 "pro_manage_clients" = "管理用戶端";
 "pro_manage_filters" = "管理過濾器";
 "pro_manage_custom_filter_rules" = "管理自訂的過濾器規則";

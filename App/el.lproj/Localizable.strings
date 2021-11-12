@@ -27,6 +27,8 @@
 "querylog_tabbar" = "Αρχείο ερωτημάτων";
 "querylog_query" = "Ερώτημα";
 "querylog_livelog" = "Live Log";
+"querylog_livelog_no_queries_yet" = "No queries found yet...";
+"querylog_livelog_pro" = "Remote Pro is required to view more queries.";
 "querylog_no-queries" = "Δεν βρέθηκαν ερωτήματα.";
 "querylog_cannot-find-queries" = "Αδυναμία εύρεσης ερωτημάτων.";
 "querylog_pro" = "Το Remote Pro απαιτείται για να δείτε περισσότερα ερωτήματα.";
@@ -432,6 +434,7 @@
 
 // MARK: Pro Features
 "pro_view_queries" = "Εμφάνιση 25+ ερωτημάτων & εφαρμογή φίλτρων";
+"pro_livelog" = "View Live Query Log";
 "pro_manage_clients" = "Διαχείριση πελατών";
 "pro_manage_filters" = "Διαχείριση φίλτρων";
 "pro_manage_custom_filter_rules" = "Διαχείριση κανόνων προσαρμοσμένων φίλτρων";

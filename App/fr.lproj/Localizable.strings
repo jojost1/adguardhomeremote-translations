@@ -27,6 +27,8 @@
 "querylog_tabbar" = "Journal des requêtes";
 "querylog_query" = "Requêtes";
 "querylog_livelog" = "Live Log";
+"querylog_livelog_no_queries_yet" = "No queries found yet...";
+"querylog_livelog_pro" = "Remote Pro is required to view more queries.";
 "querylog_no-queries" = "Aucune requête trouvée.";
 "querylog_cannot-find-queries" = "Aucune requête trouvée";
 "querylog_pro" = "Remote Pro est requis pour afficher plus de requêtes.";
@@ -432,6 +434,7 @@
 
 // MARK: Pro Features
 "pro_view_queries" = "Afficher plus de 25 requêtes et définir des filtres";
+"pro_livelog" = "View Live Query Log";
 "pro_manage_clients" = "Gérer les clients";
 "pro_manage_filters" = "Gérer les filtres";
 "pro_manage_custom_filter_rules" = "Gérer les règles de filtrage personnalisées";

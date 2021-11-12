@@ -27,6 +27,8 @@
 "querylog_tabbar" = "Consultas DNS";
 "querylog_query" = "Consulta";
 "querylog_livelog" = "Live Log";
+"querylog_livelog_no_queries_yet" = "No queries found yet...";
+"querylog_livelog_pro" = "Remote Pro is required to view more queries.";
 "querylog_no-queries" = "No se han encontrado resultados";
 "querylog_cannot-find-queries" = "No se han podido encontrar consultas DNS";
 "querylog_pro" = "Es necesario actualizar a Remote Pro para ver más consultas DNS";
@@ -432,6 +434,7 @@
 
 // MARK: Pro Features
 "pro_view_queries" = "Ampliar el listado de consultas DNS y habilitar las opciones de filtrado";
+"pro_livelog" = "View Live Query Log";
 "pro_manage_clients" = "Gestionar los clientes";
 "pro_manage_filters" = "Gestionar los filtros";
 "pro_manage_custom_filter_rules" = "Gestionar las reglas de filtrado personalizadas";

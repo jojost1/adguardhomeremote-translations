@@ -27,6 +27,8 @@
 "querylog_tabbar" = "Anfragenprotokoll";
 "querylog_query" = "Anfrage";
 "querylog_livelog" = "Live Log";
+"querylog_livelog_no_queries_yet" = "No queries found yet...";
+"querylog_livelog_pro" = "Remote Pro is required to view more queries.";
 "querylog_no-queries" = "Nichts gefunden.";
 "querylog_cannot-find-queries" = "Es wurden keine Anfragen gefunden.";
 "querylog_pro" = "Remote Pro ist erforderlich, um weitere Anfragen anzuzeigen.";
@@ -432,6 +434,7 @@
 
 // MARK: Pro Features
 "pro_view_queries" = "Sehe 25+ Anfragen & setze Filter";
+"pro_livelog" = "View Live Query Log";
 "pro_manage_clients" = "Verwalte Clients";
 "pro_manage_filters" = "Verwalte Filter";
 "pro_manage_custom_filter_rules" = "Verwalte eigene Filterregeln";
