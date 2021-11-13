@@ -26,9 +26,9 @@
 // MARK: - Query Log
 "querylog_tabbar" = "Consultes DNS";
 "querylog_query" = "Consulta";
-"querylog_livelog" = "Live Log";
-"querylog_livelog_no_queries_yet" = "No queries found yet...";
-"querylog_livelog_pro" = "Remote Pro is required to view more queries.";
+"querylog_livelog" = "En directe";
+"querylog_livelog_no_queries_yet" = "No s'han trobat consultes...";
+"querylog_livelog_pro" = "Remote Pro es necessari per a veure mes consultes.";
 "querylog_no-queries" = "No s'han trobat resultats";
 "querylog_cannot-find-queries" = "No s'han trobat consultes DNS";
 "querylog_pro" = "Es necessari actualitzar a Remote Pro per a poder visualitzar més consultes DNS";
@@ -349,7 +349,7 @@
 "preferences_dashboard_show_section" = "Visualitzar secció";
 "preferences_dashboard_number_of_clients" = "Número de clients";
 "preferences_dashboard_number_of_domains" = "Número de dominis";
-"preferences_dashboard_auto_refresh" = "Auto-refresh every minute";
+"preferences_dashboard_auto_refresh" = "Refresca automàticament cada minut";
 "preferences_querylog_show_sidebar" = "Mostra el panell lateral";
 "preferences_other" = "Altres";
 "preferences_language" = "Idioma";
@@ -358,7 +358,7 @@
 "settings_help" = "Ajuda i comentaris";
 "settings_help_navbar" = "Suport";
 "settings_help_contact" = "Contacta";
-"settings_help_contact_footer" = "Please use English for support requests!";
+"settings_help_contact_footer" = "En cas de contactar, agrairem que ens escriviu en anglès.";
 "settings_help_actions" = "Accions";
 "settings_help_logs" = "Registres";
 "settings_help_logs_footer" = "Els registres de sistema s’emmagatzemen localment i no surten mai del teu dispositiu. Arrastra avall per a tancar el visor de registres.";
@@ -434,7 +434,7 @@
 
 // MARK: Pro Features
 "pro_view_queries" = "Ampliar el llistat de consultes DNS i habilitar les opcions de filtratge de consultes";
-"pro_livelog" = "View Live Query Log";
+"pro_livelog" = "Visualitza el registre de consultes en directe";
 "pro_manage_clients" = "Gestionar els clients";
 "pro_manage_filters" = "Gestionar els filtres";
 "pro_manage_custom_filter_rules" = "Gestionar les regles de filtratge personalitzades";
