@@ -26,9 +26,9 @@
 // MARK: - Query Log
 "querylog_tabbar" = "Consultas DNS";
 "querylog_query" = "Consulta";
-"querylog_livelog" = "Live Log";
-"querylog_livelog_no_queries_yet" = "No queries found yet...";
-"querylog_livelog_pro" = "Remote Pro is required to view more queries.";
+"querylog_livelog" = "En directo";
+"querylog_livelog_no_queries_yet" = "No se han encontrado consultas...";
+"querylog_livelog_pro" = "Remote Pro es necesario para ver más consultas.";
 "querylog_no-queries" = "No se han encontrado resultados";
 "querylog_cannot-find-queries" = "No se han podido encontrar consultas DNS";
 "querylog_pro" = "Es necesario actualizar a Remote Pro para ver más consultas DNS";
@@ -349,7 +349,7 @@
 "preferences_dashboard_show_section" = "Mostrar sección";
 "preferences_dashboard_number_of_clients" = "Número de clientes";
 "preferences_dashboard_number_of_domains" = "Número de dominios";
-"preferences_dashboard_auto_refresh" = "Auto-refresh every minute";
+"preferences_dashboard_auto_refresh" = "Actualiza automáticamente cada minuto";
 "preferences_querylog_show_sidebar" = "Muestra el panel lateral";
 "preferences_other" = "Otros";
 "preferences_language" = "Idioma";
@@ -358,7 +358,7 @@
 "settings_help" = "Ayuda y comentarios";
 "settings_help_navbar" = "Soporte";
 "settings_help_contact" = "Contacta conmigo";
-"settings_help_contact_footer" = "Please use English for support requests!";
+"settings_help_contact_footer" = "En caso de contactar, agradeceremos que nos escribáis en inglés.";
 "settings_help_actions" = "Acciones";
 "settings_help_logs" = "Registros";
 "settings_help_logs_footer" = "Los registros de sistema se almacenan localmente y nunca salen de tu dispositvo. Arrastra hacia abajo para cerrar el visor de registros.";
@@ -434,7 +434,7 @@
 
 // MARK: Pro Features
 "pro_view_queries" = "Ampliar el listado de consultas DNS y habilitar las opciones de filtrado";
-"pro_livelog" = "View Live Query Log";
+"pro_livelog" = "Ver el registro de consultas en directo";
 "pro_manage_clients" = "Gestionar los clientes";
 "pro_manage_filters" = "Gestionar los filtros";
 "pro_manage_custom_filter_rules" = "Gestionar las reglas de filtrado personalizadas";
