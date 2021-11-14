@@ -407,6 +407,11 @@
 "changelog_current_version" = "Version actuelle";
 "changelog_whats_new" = "Quoi de neuf";
 "changelog_continue" = "Continuer";
+"changelog_new" = "New";
+"changelog_improved" = "Improved";
+"changelog_fixed" = "Fixed";
+"changelog_view_full" = "View Full Changelog";
+"changelog_show_feature_promo" = "Show Feature Promo";
 "changelog_show_on_app_update" = "Afficher après la mise à jour de l’application";
 "changelog_show_on_app_update_footer" = "Le journal des modifications ne sera affiché que pour les mises à jour des fonctionnalités, et non pour les mises à jour qui ne contiennent que des corrections de bogues.";
 "changelog_settings" = "Paramètres du journal des modifications";

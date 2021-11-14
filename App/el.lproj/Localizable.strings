@@ -407,6 +407,11 @@
 "changelog_current_version" = "Τρέχουσα έκδοση";
 "changelog_whats_new" = "Τι νέο υπάρχει";
 "changelog_continue" = "Συνέχεια";
+"changelog_new" = "New";
+"changelog_improved" = "Improved";
+"changelog_fixed" = "Fixed";
+"changelog_view_full" = "View Full Changelog";
+"changelog_show_feature_promo" = "Show Feature Promo";
 "changelog_show_on_app_update" = "Εμφάνιση κατά την ενημέρωση της εφαρμογής";
 "changelog_show_on_app_update_footer" = "Το αρχείο αλλαγών θα εμφανίζεται μόνο για ενημερώσεις χαρακτηριστικών, όχι για τις ενημερώσεις που περιλαμβάνουν μόνο διορθώσεις σφαλμάτων.";
 "changelog_settings" = "Ρυθμίσεις αρχείου αλλαγών";

@@ -407,6 +407,11 @@
 "changelog_current_version" = "当前";
 "changelog_whats_new" = "新增功能";
 "changelog_continue" = "继续";
+"changelog_new" = "New";
+"changelog_improved" = "Improved";
+"changelog_fixed" = "Fixed";
+"changelog_view_full" = "View Full Changelog";
+"changelog_show_feature_promo" = "Show Feature Promo";
 "changelog_show_on_app_update" = "App 更新后启动显示";
 "changelog_show_on_app_update_footer" = "更新日志只在功能更新时会显示，仅有错误修正的更新将不显示更新日志。";
 "changelog_settings" = "更新日志设置";

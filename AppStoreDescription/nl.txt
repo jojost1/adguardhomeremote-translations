@@ -15,6 +15,7 @@ Functies:
 - Stel Filtering, Veilig Browsen, Veilig Zoeken en Ouderlijk Toezicht in
 - Bekijk basis & geavanceerde statistieken
 - Query Log met zoeken en filters
+- Live Log om queries in real-time te bekijken (Pro vereist)
 - Beheer cliënten, inclusief filtering/diensten/tag instellingen (Pro vereist)
 - Beheer filters, inclusief blokkeer- & toestemmingslijsten en aangepaste filter regels (Pro vereist)
 - Beheer DHCP instellingen, inclusief statische leases (Pro vereist)

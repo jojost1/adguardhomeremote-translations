@@ -15,6 +15,7 @@ Features:
 - Control Filtering & Safe Browsing/Search
 - View basic & advanced statistics
 - Query Log with search and filters
+- Live Log showing a log of queries while they happen in real-time (requires Pro)
 - Manage Clients, including filtering settings, blocked services, and tags (requires Pro)
 - Manage Filters, including block- & allowlists and custom filtering rules (requires Pro)
 - Manage DHCP settings, including static leases (requires Pro)

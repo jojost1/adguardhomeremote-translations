@@ -407,8 +407,13 @@
 "changelog_current_version" = "Huidige versie";
 "changelog_whats_new" = "Wat is er nieuw?";
 "changelog_continue" = "Ga door";
+"changelog_new" = "Nieuw";
+"changelog_improved" = "Verbeterd";
+"changelog_fixed" = "Opgelost";
+"changelog_view_full" = "Volledige changelog";
+"changelog_show_feature_promo" = "Functiepromo";
 "changelog_show_on_app_update" = "Laat zien bij app update";
-"changelog_show_on_app_update_footer" = "De Changelog zal alleen getoond worden na een update met nieuwe features, niet voor updates met alleen bugfixes.";
+"changelog_show_on_app_update_footer" = "De changelog zal alleen getoond worden na een update met nieuwe features, niet voor updates met alleen bugfixes.";
 "changelog_settings" = "Changelog";
 
 // MARK: - Pro

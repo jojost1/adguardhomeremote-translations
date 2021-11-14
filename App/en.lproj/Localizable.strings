@@ -407,6 +407,11 @@
 "changelog_current_version" = "Current";
 "changelog_whats_new" = "What's New";
 "changelog_continue" = "Continue";
+"changelog_new" = "New";
+"changelog_improved" = "Improved";
+"changelog_fixed" = "Fixed";
+"changelog_view_full" = "View Full Changelog";
+"changelog_show_feature_promo" = "Show Feature Promo";
 "changelog_show_on_app_update" = "Show on App Update";
 "changelog_show_on_app_update_footer" = "The Changelog will only be shown for feature-updates, not for updates that only contain bugfixes.";
 "changelog_settings" = "Changelog Settings";
