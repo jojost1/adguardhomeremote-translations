@@ -407,11 +407,11 @@
 "changelog_current_version" = "Versión más reciente";
 "changelog_whats_new" = "Novedades";
 "changelog_continue" = "Continuar";
-"changelog_new" = "New";
-"changelog_improved" = "Improved";
-"changelog_fixed" = "Fixed";
-"changelog_view_full" = "View Full Changelog";
-"changelog_show_feature_promo" = "Show Feature Promo";
+"changelog_new" = "Nuevo";
+"changelog_improved" = "Mejorado";
+"changelog_fixed" = "Arreglado";
+"changelog_view_full" = "Ver todas las novedades";
+"changelog_show_feature_promo" = "Novedades destacables";
 "changelog_show_on_app_update" = "Mostrar lista de cambios al actualizar la aplicación";
 "changelog_show_on_app_update_footer" = "El listado de cambios solo se mostrará cuando se incorporen nuevas funcionalidades.";
 "changelog_settings" = "Ajustes";
