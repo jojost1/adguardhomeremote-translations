@@ -319,7 +319,7 @@
 "more_statistics_footer" = "Das Ändern dieser Einstellung erfordert einen App-Neustart.";
 "more_statistics_retention" = "Aufbewahrungsdauer";
 "more_statistics_clear" = "Statistik löschen";
-"more_statistics_clear_alert" = "Sind Sie sicher, dass Sie die Statistik löschen möchten? Dadurch werden alle Statistiken im Dashboard auf Nullen zurückgesetzt.";
+"more_statistics_clear_alert" = "Sind Sie sicher, dass Sie die Statistik löschen möchten? Dadurch werden alle Statistiken in der Übersicht auf Nullen zurückgesetzt.";
 "more_statistics_cleared" = "Gelöscht.";
 "more_version" = "Version";
 "more_version_current_%@" = "Aktuelle Version: %@";
@@ -330,7 +330,7 @@
 
 // MARK: Preferences
 "settings_preferences" = "Präferenzen";
-"settings_dashboard" = "Dashboard";
+"settings_dashboard" = "Übersicht";
 "preferences_dashboard_statusbuttons" = "Status-Schaltflächen";
 "preferences_dashboard_protection" = "Schutz";
 "preferences_dashboard_rulefiltering" = "Filter";
@@ -341,7 +341,7 @@
 "preferences_dashboard_graph_type" = "Typ";
 "preferences_dashboard_graph_line" = "Liniendiagramm";
 "preferences_dashboard_graph_bar" = "Balkendiagramm";
-"preferences_dashboard_graph_hide" = "Hide graph";
+"preferences_dashboard_graph_hide" = "Diagramm ausblenden";
 "preferences_dashboard_graph_dnsqueries" = "DNS-Anfragen";
 "preferences_dashboard_graph_blockedbyfilters" = "Durch Filter gesperrt";
 "preferences_dashboard_graph_blockedmalware" = "Gesperrte Schädliche/Phishing-Webseiten";
@@ -349,7 +349,7 @@
 "preferences_dashboard_show_section" = "Bereich anzeigen";
 "preferences_dashboard_number_of_clients" = "Anzahl an Clients";
 "preferences_dashboard_number_of_domains" = "Anzahl an Domains";
-"preferences_dashboard_auto_refresh" = "Auto-refresh every minute";
+"preferences_dashboard_auto_refresh" = "Auto. jede Min. aktualiseren;
 "preferences_querylog_show_sidebar" = "Sidebar anzeigen";
 "preferences_other" = "Sonstiges";
 "preferences_language" = "Sprache";
@@ -358,7 +358,7 @@
 "settings_help" = "Hilfe & Feedback";
 "settings_help_navbar" = "Support";
 "settings_help_contact" = "Mich kontaktieren";
-"settings_help_contact_footer" = "Please use English for support requests!";
+"settings_help_contact_footer" = "Bitte verwenden Sie Englisch für Supportanfragen!";
 "settings_help_actions" = "Aktionen";
 "settings_help_logs" = "Protokolle";
 "settings_help_logs_footer" = "Protokolle werden lokal aufgezeichnet und verlassen nicht Ihr Gerät. Wischen Sie nach unten, um die Protokollanzeige zu verlassen.";
@@ -407,11 +407,11 @@
 "changelog_current_version" = "Aktuell";
 "changelog_whats_new" = "Was ist neu?";
 "changelog_continue" = "Fortfahren";
-"changelog_new" = "New";
-"changelog_improved" = "Improved";
-"changelog_fixed" = "Fixed";
-"changelog_view_full" = "View Full Changelog";
-"changelog_show_feature_promo" = "Show Feature Promo";
+"changelog_new" = "Neu";
+"changelog_improved" = "Verbessert";
+"changelog_fixed" = "Behoben";
+"changelog_view_full" = "Vollständigen Changelog anzeigen";
+"changelog_show_feature_promo" = "Feature Promo anzeigen";
 "changelog_show_on_app_update" = "Bei App-Update anzeigen";
 "changelog_show_on_app_update_footer" = "Der Changelog wird nur für Feature-Updates angezeigt und nicht ausschließlich bei Bugfixes";
 "changelog_settings" = "Was ist neu?";
