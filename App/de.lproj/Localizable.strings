@@ -349,7 +349,7 @@
 "preferences_dashboard_show_section" = "Bereich anzeigen";
 "preferences_dashboard_number_of_clients" = "Anzahl an Clients";
 "preferences_dashboard_number_of_domains" = "Anzahl an Domains";
-"preferences_dashboard_auto_refresh" = "Auto. jede Min. aktualiseren;
+"preferences_dashboard_auto_refresh" = "Auto. jede Min. aktualiseren";
 "preferences_querylog_show_sidebar" = "Sidebar anzeigen";
 "preferences_other" = "Sonstiges";
 "preferences_language" = "Sprache";
