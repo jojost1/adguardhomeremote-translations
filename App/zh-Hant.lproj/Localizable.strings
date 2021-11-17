@@ -407,11 +407,11 @@
 "changelog_current_version" = "現行的";
 "changelog_whats_new" = "有什麼新事物嗎？";
 "changelog_continue" = "繼續";
-"changelog_new" = "New";
-"changelog_improved" = "Improved";
-"changelog_fixed" = "Fixed";
-"changelog_view_full" = "View Full Changelog";
-"changelog_show_feature_promo" = "Show Feature Promo";
+"changelog_new" = "新的";
+"changelog_improved" = "已改善的";
+"changelog_fixed" = "已修復的";
+"changelog_view_full" = "檢視完整的變更記錄";
+"changelog_show_feature_promo" = "顯示特色商品促銷";
 "changelog_show_on_app_update" = "顯示有關應用程式更新";
 "changelog_show_on_app_update_footer" = "該變更記錄將僅顯示有關功能更新，非有關只包含程式錯誤修正的更新。";
 "changelog_settings" = "變更記錄設定";
