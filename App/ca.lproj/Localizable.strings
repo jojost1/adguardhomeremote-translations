@@ -407,11 +407,11 @@
 "changelog_current_version" = "Versió més recent";
 "changelog_whats_new" = "Novetats";
 "changelog_continue" = "Continuar";
-"changelog_new" = "New";
-"changelog_improved" = "Improved";
-"changelog_fixed" = "Fixed";
-"changelog_view_full" = "View Full Changelog";
-"changelog_show_feature_promo" = "Show Feature Promo";
+"changelog_new" = "Nou";
+"changelog_improved" = "Millorat";
+"changelog_fixed" = "Arreglat";
+"changelog_view_full" = "Veure totes les novetats";
+"changelog_show_feature_promo" = "Novetats destacables";
 "changelog_show_on_app_update" = "Mostrar la llista de canvis al actualitzar l'aplicació";
 "changelog_show_on_app_update_footer" = "El llista de canvis només es mostrarà quan s'incorporin noves funcionalitats.";
 "changelog_settings" = "Ajustos";

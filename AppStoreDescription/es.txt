@@ -15,6 +15,7 @@ Funcionalidades:
 - Habilita o deshabilita con un clic el filtrado y la navegación/búsqueda Segura
 - Revisa todas las estadísticas del sistema de forma rápida y consulta también el detalle al completo
 - Registro de consultas DNS con funcionalidad de búsqueda y filtrado
+- Visualización del registro de consultas en tiempo real (PRO)
 - Gestión de los clientes: configuración de filtrado, servicios bloqueados y etiquetas (PRO)
 - Gestión de los Filtros: gestión de las listas blanca y negra, así como de las reglas de filtrado personalizadas (PRO)
 - Gestión de la configuración DHCP incluyendo las asignaciones estáticas (PRO)

@@ -15,6 +15,7 @@ Funcionalitats:
 - Activa o desactiva amb un sol clic el filtratge i la navegació i cerca segures
 - Revisa totes les estadístiques del sistema de forma ràpida i consulten tot el seu detall
 - Registre de consultes DNS amb funcionalitat de cerca i filtratge
+- Visualització del registre de consultes en temps real (PRO)
 - Gestió dels clients: configuració de filtratge, bloqueig de serveis i etiquetes (PRO)
 - Gestió dels filtres: gestiona les llistes blanques i negres així com les regles de filtratge personalitzades (PRO)
 - Gestió de la configuració DHCP incloent les assignacions estàtiques (PRO)
