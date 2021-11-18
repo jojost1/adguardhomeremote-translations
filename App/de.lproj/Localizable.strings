@@ -18,8 +18,8 @@
 "dashboard_blocked-malware" = "Gesperrte Schädliche/Phishing-Webseiten";
 "dashboard_blocked-adult" = "Gesperrte jugendgefährdende Webseiten";
 "dashboard_top-clients" = "Top Clients";
-"dashboard_top-queried" = "Am häufigsten angefragte Domains";
-"dashboard_top-blocked" = "Am häufigsten gesperrte Domains";
+"dashboard_top-queried" = "Top angefragte Domains";
+"dashboard_top-blocked" = "Top gesperrte Domains";
 "dashboard_avg_ms_%@" = "durchschn. %@ms";
 "dashboard_jump_to_instance" = "Instanz";
 
