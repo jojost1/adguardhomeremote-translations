@@ -288,7 +288,7 @@
 "dns_blocking_mode_customip" = "Benutzerdefinierte IP";
 "dns_cache_configuration" = "Konfiguration des DNS-Zwischenspeicher";
 "dns_cache_size" = "Größe des DNS-Zwischenspeichers (in Bytes)";
-"dns_cache_optimistic" = "Optimistisch";
+"dns_cache_optimistic" = "Optimistisch cachen";
 "dns_override_minimum_ttl" = "TTL-Minimalwert überschreiben (in Sekunden)";
 "dns_override_maximum_ttl" = "TTL-Höchstwert überschreiben (in Sekunden)";
 "dns_pro_required" = "Remote Pro ist erforderlich, um DNS-Einstellungen zu verwalten.";
@@ -349,7 +349,7 @@
 "preferences_dashboard_show_section" = "Bereich anzeigen";
 "preferences_dashboard_number_of_clients" = "Anzahl an Clients";
 "preferences_dashboard_number_of_domains" = "Anzahl an Domains";
-"preferences_dashboard_auto_refresh" = "Auto. jede Min. aktualiseren";
+"preferences_dashboard_auto_refresh" = "Auto. jede Min. aktualisieren";
 "preferences_querylog_show_sidebar" = "Sidebar anzeigen";
 "preferences_other" = "Sonstiges";
 "preferences_language" = "Sprache";
@@ -494,7 +494,7 @@
 "loading_dots" = "Lädt...";
 "search" = "Suche";
 "new" = "Neu";
-"add" = "Hinzufügen";
+"add" = "Hinzufügen von";
 "edit" = "Bearbeiten";
 "done" = "Fertig";
 "save" = "Speichern";
