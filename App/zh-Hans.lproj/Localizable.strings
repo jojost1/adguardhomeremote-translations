@@ -27,8 +27,8 @@
 "querylog_tabbar" = "查询日志";
 "querylog_query" = "请求";
 "querylog_livelog" = "活动日志";
-"querylog_livelog_no_queries_yet" = "No queries found yet...";
-"querylog_livelog_pro" = "Remote Pro is required to view more queries.";
+"querylog_livelog_no_queries_yet" = "尚未找到请求...";
+"querylog_livelog_pro" = "需要 Remote Pro 来查看更多请求。";
 "querylog_no-queries" = "未找到";
 "querylog_cannot-find-queries" = "未找到";
 "querylog_pro" = "需要 Remote Pro 来查看更多请求";
@@ -407,12 +407,12 @@
 "changelog_current_version" = "当前";
 "changelog_whats_new" = "新增功能";
 "changelog_continue" = "继续";
-"changelog_new" = "New";
-"changelog_improved" = "Improved";
-"changelog_fixed" = "Fixed";
-"changelog_view_full" = "View Full Changelog";
-"changelog_show_feature_promo" = "Show Feature Promo";
-"changelog_show_on_app_update" = "App 更新后启动显示";
+"changelog_new" = "新增";
+"changelog_improved" = "改进";
+"changelog_fixed" = "修复";
+"changelog_view_full" = "查看完整更新日志";
+"changelog_show_feature_promo" = "显示特色推广";
+"changelog_show_on_app_update" = "显示 App 更新日志";
 "changelog_show_on_app_update_footer" = "更新日志只在功能更新时会显示，仅有错误修正的更新将不显示更新日志。";
 "changelog_settings" = "更新日志设置";
 
@@ -439,7 +439,7 @@
 
 // MARK: Pro Features
 "pro_view_queries" = "查看 25 条以上的请求并可设置筛选";
-"pro_livelog" = "View Live Query Log";
+"pro_livelog" = "查看活动查询日志";
 "pro_manage_clients" = "管理客户端";
 "pro_manage_filters" = "管理过滤器";
 "pro_manage_custom_filter_rules" = "管理自定义过滤规则";
