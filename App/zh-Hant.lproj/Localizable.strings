@@ -353,17 +353,17 @@
 "preferences_querylog_show_sidebar" = "顯示側邊欄";
 "preferences_other" = "其它";
 "preferences_language" = "語言";
-"preferences_lock_faceid" = "Lock with Face ID";
-"preferences_lock_touchid" = "Lock with Touch ID";
-"preferences_lock_footer" = "If enabled, AdGuard Home Remote will be locked whenever you close the app. You'll be prompted to authenticate when relaunching.";
-"preferences_lock_require" = "Require";
-"preferences_lock_require_immediately" = "Immediately";
-"preferences_lock_require_1min" = "After 1 minute";
-"preferences_lock_require_5min" = "After 5 minutes";
-"preferences_lock_require_1hour" = "After 1 hour";
-"preferences_lock_unlock_button" = "Unlock";
-"preferences_lock_unlock_footnote_tap" = "Tap above to unlock AdGuard Home Remote";
-"preferences_lock_unlock_footnote_click" = "Click above to unlock AdGuard Home Remote";
+"preferences_lock_faceid" = "用 Face ID 鎖定";
+"preferences_lock_touchid" = "用 Touch ID 鎖定";
+"preferences_lock_footer" = "如果被啟用，每當您關閉該應用程式時，AdGuard Home Remote 將被鎖定。當重新啟動時，您將被提醒去驗證。";
+"preferences_lock_require" = "需要";
+"preferences_lock_require_immediately" = "立即";
+"preferences_lock_require_1min" = "在 1 分鐘之後";
+"preferences_lock_require_5min" = "在 5 分鐘之後";
+"preferences_lock_require_1hour" = "在 1 小時之後";
+"preferences_lock_unlock_button" = "解鎖";
+"preferences_lock_unlock_footnote_tap" = "輕觸上面以解鎖 AdGuard Home Remote";
+"preferences_lock_unlock_footnote_click" = "點擊上面以解鎖 AdGuard Home Remote";
 
 // MARK: Help
 "settings_help" = "幫助 & 回饋意見";
