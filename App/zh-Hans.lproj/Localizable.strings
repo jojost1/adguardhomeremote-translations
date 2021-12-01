@@ -353,17 +353,17 @@
 "preferences_querylog_show_sidebar" = "显示侧边栏";
 "preferences_other" = "其他";
 "preferences_language" = "语言";
-"preferences_lock_faceid" = "Lock with Face ID";
-"preferences_lock_touchid" = "Lock with Touch ID";
-"preferences_lock_footer" = "If enabled, AdGuard Home Remote will be locked whenever you close the app. You'll be prompted to authenticate when relaunching.";
-"preferences_lock_require" = "Require";
-"preferences_lock_require_immediately" = "Immediately";
-"preferences_lock_require_1min" = "After 1 minute";
-"preferences_lock_require_5min" = "After 5 minutes";
-"preferences_lock_require_1hour" = "After 1 hour";
-"preferences_lock_unlock_button" = "Unlock";
-"preferences_lock_unlock_footnote_tap" = "Tap above to unlock AdGuard Home Remote";
-"preferences_lock_unlock_footnote_click" = "Click above to unlock AdGuard Home Remote";
+"preferences_lock_faceid" = "使用面容ID锁定";
+"preferences_lock_touchid" = "使用触控ID锁定";
+"preferences_lock_footer" = "如启用，AdGuard Home Remote 将在您关闭程序时锁定，再次启动时您将被要求验证身份。";
+"preferences_lock_require" = "要求验证";
+"preferences_lock_require_immediately" = "立即";
+"preferences_lock_require_1min" = "1 分钟后";
+"preferences_lock_require_5min" = "5 分钟后";
+"preferences_lock_require_1hour" = "1 小时后";
+"preferences_lock_unlock_button" = "解锁";
+"preferences_lock_unlock_footnote_tap" = "点击上方解锁 AdGuard Home Remote";
+"preferences_lock_unlock_footnote_click" = "点击上方解锁 AdGuard Home Remote";
 
 // MARK: Help
 "settings_help" = "帮助与反馈";
