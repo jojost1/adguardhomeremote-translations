@@ -197,7 +197,7 @@
 "filtering_addfilter_url_placeholder" = "URL oder absoluten Pfad";
 // Custom Rules
 "filtering_rules_custom" = "Benutzerdefinierte Filterregeln";
-"filtering_rules_custom_new" = "Neue benutzerdef. Regel";
+"filtering_rules_custom_new" = "Neue eigene Regel";
 "filtering_rules_add" = "Regel hinzufügen";
 "filtering_rules_no_rules_found" = "Keine Regeln gefunden.";
 "filtering_rules_delete_and_edit" = "Regel löschen & bearbeiten";
@@ -265,12 +265,12 @@
 "dns_ip" = "Serveradresse";
 "dns_upstream_mode" = "Upstream-Modus";
 "dns_upstream_mode_loadbalancing" = "Lastverteilung";
-"dns_upstream_mode_parralel" = "Parallele Abfragen";
+"dns_upstream_mode_parralel" = "Parallele Anfragen";
 "dns_upstream_mode_fastest" = "Schnellste IP-Adresse";
 "dns_bootstrap_dns_servers" = "Bootstrap DNS-Server";
 "dns_bootstrap_dns_servers_footer" = "Bootstrap-DNS-Server werden verwendet, um IP-Adressen der DoH/DoT-Resolver aufzulösen, die Sie als Upstreams angeben.";
 "dns_private_dns_servers" = "Eigene DNS-Server";
-"dns_private_dns_servers_footer" = "Die DNS-Server, die AdGuard Home für lokale PTR-Abfragen verwendet.";
+"dns_private_dns_servers_footer" = "Die DNS-Server, die AdGuard Home für lokale PTR-Anfragen verwendet.";
 "dns_use_private_dns_resolvers" = "Private Reverse-DNS-Resolver verwenden";
 "dns_use_private_dns_resolvers_help" = "Führen Sie mithilfe dieser Upstream-Server Reverse DNS-Lookups für lokal bereitgestellte Adressen durch. Wenn diese Option deaktiviert ist, antwortet AdGuard Home mit NXDOMAIN auf alle derartigen PTR-Anfragen mit Ausnahme von Clients, die von DHCP, /etc/hosts usw. bekannt sind.";
 "dns_reverse_resolve" = "Hostnamenauflösung der Clients aktivieren";
@@ -309,10 +309,10 @@
 "querylog_settings_options" = "Konfiguration";
 "querylog_settings_options_footer" = "Vollständige IP-Adresse des Clients nicht in Protokollen und Statistiken speichern.";
 "querylog_settings_anonymize" = "Client-IP anonymisieren";
-"querylog_settings_log_retention" = "Abfrageprotokolle aufbewahren";
-"querylog_settings_clear" = "Abfrageprotokolle leeren";
-"querylog_settings_clear_alert" = "Möchten Sie wirklich das Abfrageprotokoll vollständig löschen?";
-"querylog_settings_cleared" = "Das Abfrageprotokoll wurde erfolgreich gelöscht";
+"querylog_settings_log_retention" = "Anfrageprotokolle aufbewahren";
+"querylog_settings_clear" = "Anfrageprotokolle leeren";
+"querylog_settings_clear_alert" = "Möchten Sie wirklich das Anfrageprotokoll vollständig löschen?";
+"querylog_settings_cleared" = "Das Anfrageprotokoll wurde erfolgreich gelöscht";
 
 // MARK: More
 "more_statistics" = "Statistikkonfiguration";
@@ -357,9 +357,9 @@
 "preferences_lock_touchid" = "Per Touch ID sperren";
 "preferences_lock_footer" = "Wenn aktiviert, wird AdGuard Home Remote gesperrt, sobald Sie die App schließen. Beim Neuaufruf werden Sie aufgefordert, sich zu authentifizieren.";
 "preferences_lock_require" = "Erforderlich";
-"preferences_lock_require_immediately" = "Sofot";
+"preferences_lock_require_immediately" = "Sofort";
 "preferences_lock_require_1min" = "Nach 1 Minute";
-"preferences_lock_require_5min" = "Nfter 5 Minuten";
+"preferences_lock_require_5min" = "Nach 5 Minuten";
 "preferences_lock_require_1hour" = "Nach 1 Stunde";
 "preferences_lock_unlock_button" = "Entsperren";
 "preferences_lock_unlock_footnote_tap" = "Tippen Sie oben, um AdGuard Home Remote zu entsperren";
@@ -425,10 +425,10 @@
 "changelog_show_feature_promo" = "Feature-Vorschau anzeigen";
 "changelog_show_on_app_update" = "Bei App-Update anzeigen";
 "changelog_show_on_app_update_footer" = "Die Neuerungen werden nur bei Feature-Updates angezeigt und nicht bei ausschließlichen Bugfixes.";
-"changelog_settings" = "Neuerungseinstellungen";
+"changelog_settings" = "Neuerungen";
 
 // MARK: - Pro
-"pro" = "Pro";
+"pro" = "Remote Pro";
 "pro_navtitle" = "Remote Pro";
 "pro_purchase" = "Remote Pro kaufen";
 "pro_thankyou" = "Danke!";
@@ -452,8 +452,8 @@
 "pro_view_queries" = "25+ Anfragen sehen & Filter setzen";
 "pro_livelog" = "Anfragenprotokoll live sehen";
 "pro_manage_clients" = "Clients verwalten";
-"pro_manage_filters" = "Filters verwalten";
-"pro_manage_custom_filter_rules" = "Eigene Filterregen verwalten";
+"pro_manage_filters" = "Filter verwalten";
+"pro_manage_custom_filter_rules" = "Eigene Filterregeln verwalten";
 "pro_manage_dhcp" = "DHCP-Einstellungen verwalten";
 "pro_manage_dns" = "DNS-Einstellungen verwalten";
 "pro_manage_rewrites" = "DNS-Umschreibungen verwalten";
@@ -474,7 +474,7 @@
 // MARK: RocketScience
 "settings_rocketscience" = "Entwickelt von RocketScience";
 "rocketscience_hi_title" = "Hi, ich bin Joost!";
-"rocketscience_hi_subtitle" = "Im Juni 2020 habe ich begonnen, meine eigenen Apps als unabhängiger Entwickler unter dem Namen 'Rocket Science IT' zu entwicklen.\n\nMein Hauptziel ist es, mich in den Bereichen Design, Entwicklung, Testen, Support & Promotion stetig zu verbessern und weiter zu lernen - vielleicht sogar bald mehr!\n\nMomentan habe ich zwei Apps im AppStore veröffentlicht, welche ich ständig verbessere. Außerdem habe ich bereits viele Ideen für weitere Apps, die ich in Zukunft entwickeln möchte.";
+"rocketscience_hi_subtitle" = "Im Juni 2020 habe ich begonnen, meine eigenen Apps als unabhängiger Entwickler unter dem Namen 'RocketScience IT' zu entwickeln.\n\nMein Hauptziel ist es, mich in den Bereichen Design, Entwicklung, Testen, Support und Promotion (vielleicht sogar bald mehr) stetig zu verbessern und in diesen weiter zu lernen.\n\nMomentan habe ich zwei Apps, welche ich kontinuierlich verbessere, im AppStore veröffentlicht. Außerdem habe ich auch bereits viele Ideen für weitere Apps, die ich zukünftig entwickeln möchte."
 "rocketscience_website" = "Webseite";
 "rocketscience_twitter" = "Twitter";
 "rocketscience_tipjar" = "Spenden";
@@ -505,7 +505,7 @@
 "loading_dots" = "Lädt...";
 "search" = "Suche";
 "new" = "Neu";
-"add" = "Hinzüfügen (von)";
+"add" = "Hinzufügen";
 "edit" = "Bearbeiten";
 "done" = "Fertig";
 "save" = "Speichern";

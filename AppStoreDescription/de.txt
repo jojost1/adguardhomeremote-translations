@@ -1,35 +1,36 @@
-AdGuard Home Remote macht die Verwaltung Ihres AdGuard Home Setups schnell und einfach. Aktivieren beziehungsweise deaktivieren Sie schnell verschiedenste Sperrfunktionen oder sehen Sie sich Statistiken wie Top-Clients oder Top-Domains an. Außerdem können Sie Clients, Filter, DNS-Umschreibungen und mehr verwalten.
+AdGuard Home Remote macht die Verwaltung Ihres AdGuard Home schnell und einfach. Aktivieren und deaktivieren Sie schnell die Filterfunktionen, und sehen Sie sich Statistiken wie die Top-Clients und Top-Domains an. Verwalten Sie Ihre Clients, Filter, DNS-Umschreibungen und vieles mehr.
 
-*Sperrungen kontrollieren*
-Sie können Filter, sicheres Browsen und sicheres Suchen schnell und einfach aktivieren oder deaktivieren. Des Weiteren können Sie sogar spezifische Einstellungen für Ihre verschiedene Clients vornehmen.
+*Filter kontrollieren*
+Sie können schnell Filterregeln, die Internetsicherheit und die sichere Suche aktivieren beziehungsweise deaktivieren. Sie können sogar spezifische Einstellungen für Ihre Clients verwalten!
 
 *Statistiken*
-Zeigen Sie Diagramme Ihrer Anfragen sowie der Top-Clients und Domains an. Durchsuchen Sie Ihre Anfragen im Anfragenprotokoll mit detaillierten Informationen zu Anfrage und Antwort.
+Sehen Sie Diagramme zu Ihren Anfragen sowie zu den Top-Clients und Top-Domains. Durchsuchen Sie Ihre Anfragen im Anfrageprotokoll mit detaillierten Informationen zur Anfrage und der Antwort.
 
 *Einstellungen verwalten*
-Sie können Ihre Clients hinzufügen oder bearbeiten, neue Filter erstellen oder diese für eine Weile deaktivieren, Ihre Filter aktualisieren lassen, blockierte Dienste bearbeiten, DHCP- und DNS-Einstellungen verwalten, neue DNS-Regeln erstellen oder Ihre Anfragenprotokoll-Einstellungen bearbeiten.
+Fügen Sie Ihre Clients hinzu oder bearbeiten diese, fügen Sie neue Filter hinzu oder deaktivieren diese, aktualisieren Sie Ihre Filter, bearbeiten Sie blockierte Dienste, verwalten Sie DHCP- und die DNS-Einstellungen, erstellen Sie neue DNS-Regeln oder bearbeiten Sie Ihre Anfrageprotokoll-Einstellungen.
 
 ==
 
 Funktionen:
-- Kontrolliere Filter, sicheres Browsen und sicheres Suchen
-- Sehe grundlegende und erweiterte Statistiken
+- Filter, Internetsicherheit & sichere Suche verwalten
+- Grundlegende und erweiterte Statistiken anzeigen
 - Anfragenprotokoll mit Suche und Filter
-- Verwalte Clients, einschließlich Filtereinstellungen, gesperrten Diensten und Tags (erfordert Pro)
-- Verwalte Filter, einschließlich Sperr- und Freigabelisten und benutzerdefinierten Filterregeln (erfordert Pro)
-- Verwalte DHCP-Einstellungen, einschließlich statischer Leases (erfordert Pro)
-- Verwalte DNS-Einstellungen (erfordert Pro)
-- Verwalte DNS-Umschreibungen (erfordert Pro)
-- Unterstützt mehrere Instanzen (erfordert Pro)
+- Live-Protokoll mit Auskunft über Anfragen, während diese in Echtzeit stattfinden (erfordert Remote Pro)
+- Clients einschließlich Filtereinstellungen, gesperrten Diensten und Schlagwörtern verwalten (erfordert Remote Pro)
+- Filter einschließlich Sperr- & Freigabelisten und benutzerdefinierten Filterregeln verwalten (erfordert Remote Pro)
+- DHCP-Einstellungen einschließlich statischer Leases verwalten (erfordert Remote Pro)
+- DNS-Einstellungen verwalten (erfordert Remote Pro)
+- DNS-Umschreibungen verwalten (erfordert Remote Pro)
+- Unterstützung mehrerer Instanzen (erfordert Remote Pro)
 - Widgets
 - Anpassbare Farbschemen und App-Icons
-- Unterstützung für iOS, iPadOS und macOS
-- Reines und modernes 100% SwiftUI-Design
+- Unterstützt iOS, iPadOS und macOS
+- 100% reines und modernes SwiftUI-Design
 
-* AdGuard Home Remote Pro:
-Schalten Sie mit einem einmaligen Kauf weitere leistungsstarke Funktionen frei und unterstützen Sie die zukünftige Entwicklung.
+AdGuard Home Remote Pro:
+Weitere leistungsstarke Funktionen werden mit einem einmaligen Kauf freigeschaltet, womit auch die zukünftige Entwicklung unterstützt wird.
 
 ==
 
 Beachte: 
-AdGuard Home Remote ist eine Drittanbieter-App und steht nicht in direkter Verbindung mit AdGuard. Weitere Informationen zu AdGuard Home finden Sie unter https://adguard.com/adguard-home/overview.html.
+AdGuard Home Remote ist eine Drittanbieter-App und steht in keiner direkten Verbindung mit AdGuard Software Limited. Weitere Informationen zu AdGuard Home finden Sie unter https://adguard.com/adguard-home/overview.html.
