@@ -354,6 +354,7 @@
 "preferences_querylog_show_sidebar" = "Sidebar anzeigen";
 "preferences_other" = "Sonstiges";
 "preferences_language" = "Sprache (Language)";
+"preferences_lock_password" = "Per Passwort sperren";
 "preferences_lock_faceid" = "Per Face ID sperren";
 "preferences_lock_touchid" = "Per Touch ID sperren";
 "preferences_lock_footer" = "Wenn aktiviert, wird AdGuard Home Remote gesperrt, sobald Sie die App schließen. Beim Neuaufruf werden Sie aufgefordert, sich zu authentifizieren.";

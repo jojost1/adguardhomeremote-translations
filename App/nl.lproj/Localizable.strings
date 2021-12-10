@@ -354,6 +354,7 @@
 "preferences_querylog_show_sidebar" = "Toon zijbalk";
 "preferences_other" = "Overig";
 "preferences_language" = "Taal";
+"preferences_lock_password" = "Vergrendel met wachtwoord";
 "preferences_lock_faceid" = "Vergrendel met Face ID";
 "preferences_lock_touchid" = "Vergrendel met Touch ID";
 "preferences_lock_footer" = "Wanneer ingeschakeld zal AdGuard Home Remote vergrendeld worden als je de app sluit. Je moet je authenticeren wanneer je de app opnieuw opent.";

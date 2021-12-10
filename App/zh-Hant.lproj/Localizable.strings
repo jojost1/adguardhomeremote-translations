@@ -354,6 +354,7 @@
 "preferences_querylog_show_sidebar" = "顯示側邊欄";
 "preferences_other" = "其它";
 "preferences_language" = "語言";
+"preferences_lock_password" = "Lock with password";
 "preferences_lock_faceid" = "用 Face ID 鎖定";
 "preferences_lock_touchid" = "用 Touch ID 鎖定";
 "preferences_lock_footer" = "如果被啟用，每當您關閉該應用程式時，AdGuard Home Remote 將被鎖定。當重新啟動時，您將被提醒去驗證。";

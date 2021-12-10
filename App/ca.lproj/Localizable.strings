@@ -354,6 +354,7 @@
 "preferences_querylog_show_sidebar" = "Mostra el panell lateral";
 "preferences_other" = "Altres";
 "preferences_language" = "Idioma";
+"preferences_lock_password" = "Lock with password";
 "preferences_lock_faceid" = "Lock with Face ID";
 "preferences_lock_touchid" = "Lock with Touch ID";
 "preferences_lock_footer" = "If enabled, AdGuard Home Remote will be locked whenever you close the app. You'll be prompted to authenticate when relaunching.";
