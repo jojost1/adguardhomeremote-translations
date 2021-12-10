@@ -350,6 +350,7 @@
 "preferences_dashboard_number_of_clients" = "Aantal cliënten";
 "preferences_dashboard_number_of_domains" = "Aantal domeinen";
 "preferences_dashboard_auto_refresh" = "Ververs automatisch elke minuut";
+"preferences_dashboard_extra_confirmation" = "Extra bevestiging voor status knoppen";
 "preferences_querylog_show_sidebar" = "Toon zijbalk";
 "preferences_other" = "Overig";
 "preferences_language" = "Taal";

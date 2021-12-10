@@ -350,6 +350,7 @@
 "preferences_dashboard_number_of_clients" = "Anzahl an Clients";
 "preferences_dashboard_number_of_domains" = "Anzahl an Domains";
 "preferences_dashboard_auto_refresh" = "Auto. minütlich aktualisieren";
+"preferences_dashboard_extra_confirmation" = "Confirmation alert for buttons";
 "preferences_querylog_show_sidebar" = "Sidebar anzeigen";
 "preferences_other" = "Sonstiges";
 "preferences_language" = "Sprache (Language)";

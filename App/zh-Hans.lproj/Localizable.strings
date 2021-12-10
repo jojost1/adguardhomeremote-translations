@@ -350,6 +350,7 @@
 "preferences_dashboard_number_of_clients" = "客户端数量";
 "preferences_dashboard_number_of_domains" = "域名数量";
 "preferences_dashboard_auto_refresh" = "每分钟自动刷新";
+"preferences_dashboard_extra_confirmation" = "Confirmation alert for buttons";
 "preferences_querylog_show_sidebar" = "显示侧边栏";
 "preferences_other" = "其他";
 "preferences_language" = "语言";

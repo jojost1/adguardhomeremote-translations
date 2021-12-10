@@ -350,6 +350,7 @@
 "preferences_dashboard_number_of_clients" = "Número de clients";
 "preferences_dashboard_number_of_domains" = "Número de dominis";
 "preferences_dashboard_auto_refresh" = "Refresca automàticament cada minut";
+"preferences_dashboard_extra_confirmation" = "Confirmation alert for buttons";
 "preferences_querylog_show_sidebar" = "Mostra el panell lateral";
 "preferences_other" = "Altres";
 "preferences_language" = "Idioma";

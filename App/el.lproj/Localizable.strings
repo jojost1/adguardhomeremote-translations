@@ -350,6 +350,7 @@
 "preferences_dashboard_number_of_clients" = "Αριθμός πελατών";
 "preferences_dashboard_number_of_domains" = "Αριθμός domain";
 "preferences_dashboard_auto_refresh" = "Auto-refresh every minute";
+"preferences_dashboard_extra_confirmation" = "Confirmation alert for buttons";
 "preferences_querylog_show_sidebar" = "Show sidebar";
 "preferences_other" = "Άλλα";
 "preferences_language" = "Γλώσσα";
