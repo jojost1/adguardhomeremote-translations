@@ -350,11 +350,11 @@
 "preferences_dashboard_number_of_clients" = "用戶端之數量";
 "preferences_dashboard_number_of_domains" = "網域之數量";
 "preferences_dashboard_auto_refresh" = "每分鐘自動重新整理";
-"preferences_dashboard_extra_confirmation" = "Confirmation alert for buttons";
+"preferences_dashboard_extra_confirmation" = "作為按鈕的確認警報";
 "preferences_querylog_show_sidebar" = "顯示側邊欄";
 "preferences_other" = "其它";
 "preferences_language" = "語言";
-"preferences_lock_password" = "Lock with password";
+"preferences_lock_password" = "用密碼鎖定";
 "preferences_lock_faceid" = "用 Face ID 鎖定";
 "preferences_lock_touchid" = "用 Touch ID 鎖定";
 "preferences_lock_footer" = "如果被啟用，每當您關閉該應用程式時，AdGuard Home Remote 將被鎖定。當重新啟動時，您將被提醒去驗證。";
