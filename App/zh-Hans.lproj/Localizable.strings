@@ -350,11 +350,11 @@
 "preferences_dashboard_number_of_clients" = "客户端数量";
 "preferences_dashboard_number_of_domains" = "域名数量";
 "preferences_dashboard_auto_refresh" = "每分钟自动刷新";
-"preferences_dashboard_extra_confirmation" = "Confirmation alert for buttons";
+"preferences_dashboard_extra_confirmation" = "增加操作确认提示";
 "preferences_querylog_show_sidebar" = "显示侧边栏";
 "preferences_other" = "其他";
 "preferences_language" = "语言";
-"preferences_lock_password" = "Lock with password";
+"preferences_lock_password" = "使用密码锁定";
 "preferences_lock_faceid" = "使用面容ID锁定";
 "preferences_lock_touchid" = "使用触控ID锁定";
 "preferences_lock_footer" = "如启用，AdGuard Home Remote 将在您关闭程序时锁定，再次启动时您将被要求验证身份。";
