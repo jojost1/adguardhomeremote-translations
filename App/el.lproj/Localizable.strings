@@ -87,6 +87,7 @@
 "querydetail_protocol" = "Πρωτόκολλο";
 "querydetail_response_details" = "Λεπτομέρειες απάντησης";
 "querydetail_validated_with_dnssec" = "Επικυρωμένο με DNSSEC";
+"querydetail_served_from_cache" = "Served from cache";
 "querydetail_response_code" = "Κωδικός απάντησης";
 "querydetail_response_time" = "Χρόνος απάντησης";
 "querydetail_upstream" = "Upstream";

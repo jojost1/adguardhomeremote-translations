@@ -87,6 +87,7 @@
 "querydetail_protocol" = "協定";
 "querydetail_response_details" = "回應細節";
 "querydetail_validated_with_dnssec" = "已用網域名稱系統安全性擴充功能（DNSSEC）驗證";
+"querydetail_served_from_cache" = "由快取提供";
 "querydetail_response_code" = "回應碼";
 "querydetail_response_time" = "回應時間";
 "querydetail_upstream" = "上游";

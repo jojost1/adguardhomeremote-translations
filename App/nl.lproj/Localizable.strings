@@ -87,6 +87,7 @@
 "querydetail_protocol" = "Protocol";
 "querydetail_response_details" = "Response";
 "querydetail_validated_with_dnssec" = "Gevalideerd met DNSSEC";
+"querydetail_served_from_cache" = "Geleverd vanuit cache";
 "querydetail_response_code" = "Reactiecode";
 "querydetail_response_time" = "Reactietijd";
 "querydetail_upstream" = "Upstream";

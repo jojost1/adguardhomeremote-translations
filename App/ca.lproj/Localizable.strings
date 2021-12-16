@@ -87,6 +87,7 @@
 "querydetail_protocol" = "Protocol";
 "querydetail_response_details" = "Detalls de la resposta";
 "querydetail_validated_with_dnssec" = "Validada amb DNSSEC";
+"querydetail_served_from_cache" = "Served from cache";
 "querydetail_response_code" = "Codi de resposta";
 "querydetail_response_time" = "Temps transcorregut";
 "querydetail_upstream" = "Servidor DNS";

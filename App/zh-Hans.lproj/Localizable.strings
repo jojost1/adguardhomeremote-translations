@@ -87,6 +87,7 @@
 "querydetail_protocol" = "协议";
 "querydetail_response_details" = "响应详情";
 "querydetail_validated_with_dnssec" = "通过DNSSEC验证";
+"querydetail_served_from_cache" = "由缓存提供";
 "querydetail_response_code" = "响应代码";
 "querydetail_response_time" = "耗时";
 "querydetail_upstream" = "上游服务器";

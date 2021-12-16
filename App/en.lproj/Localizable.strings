@@ -87,6 +87,7 @@
 "querydetail_protocol" = "Protocol";
 "querydetail_response_details" = "Response Details";
 "querydetail_validated_with_dnssec" = "Validated with DNSSEC";
+"querydetail_served_from_cache" = "Served from cache";
 "querydetail_response_code" = "Response Code";
 "querydetail_response_time" = "Response Time";
 "querydetail_upstream" = "Upstream";
