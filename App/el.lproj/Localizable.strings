@@ -21,6 +21,10 @@
 "dashboard_top-queried" = "Κορυφαία ζητούμενα domain";
 "dashboard_top-blocked" = "Κορυφαία αποκλεισμένα domain";
 "dashboard_avg_ms_%@" = "μέσος όρος %@ms";
+"dashboard_confirmation_enable_%@" = "Are you sure you want to enable %@?";
+"dashboard_confirmation_enable_button" = "Enable";
+"dashboard_confirmation_disable_%@" = "Are you sure you want to disable %@?";
+"dashboard_confirmation_disable_button" = "Disable";
 "dashboard_jump_to_instance" = "Εκδοχή";
 
 // MARK: - Query Log

@@ -21,6 +21,10 @@
 "dashboard_top-queried" = "Top Bezochte Domeinen";
 "dashboard_top-blocked" = "Top Geblokkeerde Domeinen";
 "dashboard_avg_ms_%@" = "gem %@ms";
+"dashboard_confirmation_enable_%@" = "Weet je zeker dat je %@ wil inschakelen?";
+"dashboard_confirmation_enable_button" = "Inschakelen";
+"dashboard_confirmation_disable_%@" = "Weet je zeker dat je %@ wil uitschakelen?";
+"dashboard_confirmation_disable_button" = "Uitschakelen";
 "dashboard_jump_to_instance" = "Instantie";
 
 // MARK: - Query Log
