@@ -14,7 +14,8 @@ AdGuard Home Remote 让管理您的 AdGuard Home 变得快捷又简单。通过 
 功能:
 - 规则过滤、家长控制、浏览安全和安全搜索
 - 查看基础和进阶统计数据
-- 带有搜索和筛选功能的  ‘查询日志’  
+- 带有搜索和筛选功能的 ‘查询日志’
+- 实时显示所查询内容的动态日志 (需要 Pro)
 - 管理客户端，包括过滤设置，阻止特定服务，以及标签 (需要 Pro)
 - 管理过滤器，包括封锁清单和允许清单，以及自定义过滤规则 (需要 Pro)
 - 管理 DHCP 设置，包括静态合约 (需要 Pro)
@@ -32,3 +33,4 @@ AdGuard Home Remote 让管理您的 AdGuard Home 变得快捷又简单。通过 
 ==
 
 注意: 
+AdGuard Home Remote 是一款第三方程序，并不直接隶属于 AdGuard。有关 AdGuard Home 的更多信息，请访问 https://adguard.com/adguard-home/overview.html 。
