@@ -21,10 +21,10 @@
 "dashboard_top-queried" = "Dominis més consultats";
 "dashboard_top-blocked" = "Dominis més bloquejats";
 "dashboard_avg_ms_%@" = "mitjana %@ms";
-"dashboard_confirmation_enable_%@" = "Are you sure you want to enable %@?";
-"dashboard_confirmation_enable_button" = "Enable";
-"dashboard_confirmation_disable_%@" = "Are you sure you want to disable %@?";
-"dashboard_confirmation_disable_button" = "Disable";
+"dashboard_confirmation_enable_%@" = "Estàs segur de que vols activar %@?";
+"dashboard_confirmation_enable_button" = "Activar";
+"dashboard_confirmation_disable_%@" = "Estàs segur de que vols desactivar %@?";
+"dashboard_confirmation_disable_button" = "Desactivar";
 "dashboard_jump_to_instance" = "Servidor";
 
 // MARK: - Query Log
@@ -76,7 +76,7 @@
 "query_copy_client_ip" = "Copiar IP del client";
 "query_copy_client_id" = "Copiar ID del client";
 "query_view_queries_to_hostname" = "Veure consultes al nom de host";
-"query_view_queries_from_client" = "Veure consultas al client";
+"query_view_queries_from_client" = "Veure consultes al client";
 "query_visit_domain" = "Visitar domini";
 
 // MARK: Query Detail
@@ -346,7 +346,7 @@
 "preferences_dashboard_graph_type" = "Tipus";
 "preferences_dashboard_graph_line" = "Línia";
 "preferences_dashboard_graph_bar" = "Histograma";
-"preferences_dashboard_graph_hide" = "Hide graph";
+"preferences_dashboard_graph_hide" = "Amagar gràfic";
 "preferences_dashboard_graph_dnsqueries" = "Consultes DNS";
 "preferences_dashboard_graph_blockedbyfilters" = "Bloquejat per filtres";
 "preferences_dashboard_graph_blockedmalware" = "Malware/phishing bloquejat";
@@ -355,22 +355,22 @@
 "preferences_dashboard_number_of_clients" = "Número de clients";
 "preferences_dashboard_number_of_domains" = "Número de dominis";
 "preferences_dashboard_auto_refresh" = "Refresca automàticament cada minut";
-"preferences_dashboard_extra_confirmation" = "Confirmation alert for buttons";
+"preferences_dashboard_extra_confirmation" = "Demanar confirmació per els botons";
 "preferences_querylog_show_sidebar" = "Mostra el panell lateral";
 "preferences_other" = "Altres";
 "preferences_language" = "Idioma";
-"preferences_lock_password" = "Lock with password";
-"preferences_lock_faceid" = "Lock with Face ID";
-"preferences_lock_touchid" = "Lock with Touch ID";
-"preferences_lock_footer" = "If enabled, AdGuard Home Remote will be locked whenever you close the app. You'll be prompted to authenticate when relaunching.";
-"preferences_lock_require" = "Require";
-"preferences_lock_require_immediately" = "Immediately";
-"preferences_lock_require_1min" = "After 1 minute";
-"preferences_lock_require_5min" = "After 5 minutes";
-"preferences_lock_require_1hour" = "After 1 hour";
-"preferences_lock_unlock_button" = "Unlock";
-"preferences_lock_unlock_footnote_tap" = "Tap above to unlock AdGuard Home Remote";
-"preferences_lock_unlock_footnote_click" = "Click above to unlock AdGuard Home Remote";
+"preferences_lock_password" = "Bloquejar amb contrassenya";
+"preferences_lock_faceid" = "Bloquejar amb Face ID";
+"preferences_lock_touchid" = "Bloquejar amb Touch ID";
+"preferences_lock_footer" = "Si s'activa, AdGuard Home remote es bloquejarà sempre que tanquis l'aplicació, demanant autenticació al tornar-la a obrir.";
+"preferences_lock_require" = "Bloquejar";
+"preferences_lock_require_immediately" = "Inmediatament";
+"preferences_lock_require_1min" = "Passat 1 minut";
+"preferences_lock_require_5min" = "Passats 5 minuts";
+"preferences_lock_require_1hour" = "Pasada una hora";
+"preferences_lock_unlock_button" = "Desbloquejar";
+"preferences_lock_unlock_footnote_tap" = "Prem per desbloquejar AdGuard Home Remote";
+"preferences_lock_unlock_footnote_click" = "Fes clic per desbloquejar AdGuard Home Remote";
 
 // MARK: Help
 "settings_help" = "Ajuda i comentaris";
