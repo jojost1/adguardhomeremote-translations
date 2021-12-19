@@ -21,16 +21,16 @@
 "dashboard_top-queried" = "请求域名排行";
 "dashboard_top-blocked" = "被拦截域名排行";
 "dashboard_avg_ms_%@" = "平均耗时 %@ 毫秒";
-"dashboard_confirmation_enable_%@" = "Are you sure you want to enable %@?";
-"dashboard_confirmation_enable_button" = "Enable";
-"dashboard_confirmation_disable_%@" = "Are you sure you want to disable %@?";
-"dashboard_confirmation_disable_button" = "Disable";
+"dashboard_confirmation_enable_%@" = "您确定要启用 %@ 吗？";
+"dashboard_confirmation_enable_button" = "启用";
+"dashboard_confirmation_disable_%@" = "您确定要禁用 %@ 吗？";
+"dashboard_confirmation_disable_button" = "禁用";
 "dashboard_jump_to_instance" = "实例";
 
 // MARK: - Query Log
 "querylog_tabbar" = "查询日志";
 "querylog_query" = "请求";
-"querylog_livelog" = "活动日志";
+"querylog_livelog" = "动态日志";
 "querylog_livelog_no_queries_yet" = "尚未找到请求...";
 "querylog_livelog_pro" = "需要 Remote Pro 来查看更多请求。";
 "querylog_no-queries" = "未找到";
@@ -488,7 +488,7 @@
 "rocketscience_tipjar_thankyou" = "万分感谢!";
 "rocketscience_my_other_apps" = "我的其他 App";
 "rocketscience_piholeremote_subtitle" = "关于 Pi-hole 的一切用一个 App 搞定。";
-"rocketscience_energieradar_subtitle" = "Monitor real-time electricity prices in The Netherlands.";
+"rocketscience_energieradar_subtitle" = "关注荷兰的实时电价。";
 "rocketscience_acknoledgements" = "特别感谢";
 
 // MARK: Tip Jar
