@@ -10,9 +10,9 @@
 "dashboard_tabbar" = "Übersicht";
 "dashboard_protection" = "Schutz";
 "dashboard_rule-filtering" = "Filter";
-"dashboard_parental-filtering" = "Jugend-\ngefährdend";
-"dashboard_safe-browsing" = "Internet-\nsicherheit";
-"dashboard_safe-search" = "Sichere\nSuche";
+"dashboard_parental-filtering" = "Jugendgefährdend";
+"dashboard_safe-browsing" = "Internetnsicherheit";
+"dashboard_safe-search" = "Sichere Suche";
 "dashboard_queries" = "DNS-Anfragen";
 "dashboard_blocked-filters" = "Durch Filter gesperrt";
 "dashboard_blocked-malware" = "Gesperrte Schädliche/Phishing-Webseiten";
@@ -21,10 +21,10 @@
 "dashboard_top-queried" = "Top angefragte Domains";
 "dashboard_top-blocked" = "Top gesperrte Domains";
 "dashboard_avg_ms_%@" = "durchschnittlich %@ms";
-"dashboard_confirmation_enable_%@" = "Are you sure you want to enable %@?";
-"dashboard_confirmation_enable_button" = "Enable";
-"dashboard_confirmation_disable_%@" = "Are you sure you want to disable %@?";
-"dashboard_confirmation_disable_button" = "Disable";
+"dashboard_confirmation_enable_%@" = "'%@' aktivieren?";
+"dashboard_confirmation_enable_button" = "Aktivieren";
+"dashboard_confirmation_disable_%@" = "'%@' deaktivieren?";
+"dashboard_confirmation_disable_button" = "Deaktivieren";
 "dashboard_jump_to_instance" = "Instanz";
 
 // MARK: - Query Log
@@ -291,9 +291,9 @@
 "dns_blocking_mode_nxdomain" = "NXDomain";
 "dns_blocking_mode_nullip" = "Null-IP-Adresse";
 "dns_blocking_mode_customip" = "Benutzerdefinierte IP";
-"dns_cache_configuration" = "Konfiguration des DNS-Caches";
-"dns_cache_size" = "Größe des DNS-Caches (Bytes)";
-"dns_cache_optimistic" = "Optimistisches Caching";
+"dns_cache_configuration" = "Konfiguration des DNS-Zwischenspeicher";
+"dns_cache_size" = "Größe des DNS-Zwischenspeichers (Bytes)";
+"dns_cache_optimistic" = "Optimistisches Zwischenspeichern";
 "dns_override_minimum_ttl" = "TTL-Minimalwert überschreiben (Sekunden)";
 "dns_override_maximum_ttl" = "TTL-Höchstwert überschreiben (Sekunden)";
 "dns_pro_required" = "Remote Pro ist erforderlich, um die DNS-Einstellungen zu verwalten.";
@@ -355,7 +355,7 @@
 "preferences_dashboard_number_of_clients" = "Anzahl an Clients";
 "preferences_dashboard_number_of_domains" = "Anzahl an Domains";
 "preferences_dashboard_auto_refresh" = "Auto. minütlich aktualisieren";
-"preferences_dashboard_extra_confirmation" = "Confirmation alert for buttons";
+"preferences_dashboard_extra_confirmation" = "Bestätigungsmeldung für Buttons";
 "preferences_querylog_show_sidebar" = "Sidebar anzeigen";
 "preferences_other" = "Sonstiges";
 "preferences_language" = "Sprache (Language)";
@@ -481,14 +481,15 @@
 // MARK: RocketScience
 "settings_rocketscience" = "Entwickelt von RocketScience";
 "rocketscience_hi_title" = "Hi, ich bin Joost!";
-"rocketscience_hi_subtitle" = "Im Juni 2020 habe ich begonnen, meine eigenen Apps als unabhängiger Entwickler unter dem Namen 'RocketScience IT' zu entwickeln.\n\nMein Hauptziel ist es, mich in den Bereichen Design, Entwicklung, Testen, Support und Promotion (vielleicht sogar bald mehr) stetig zu verbessern und in diesen weiter zu lernen.\n\nMomentan habe ich zwei Apps, welche ich kontinuierlich verbessere, im AppStore veröffentlicht. Außerdem habe ich auch bereits viele Ideen für weitere Apps, die ich zukünftig entwickeln möchte.";
+"rocketscience_hi_subtitle" = "Im Juni 2020 habe ich begonnen, meine eigenen Apps als unabhängiger Entwickler unter dem Namen 'RocketScience IT' zu entwickeln.\n\nMein Hauptziel ist es, mich in den Bereichen Design, Entwicklung, Testen, Support und Promotion (vielleicht sogar bald mehr) stetig zu verbessern und in diesen weiter zu lernen.\n\nMomentan habe ich drei weitere
+Apps, welche ich ebenfalls kontinuierlich verbessere, im AppStore veröffentlicht. Außerdem habe ich auch bereits viele Ideen für weitere Apps, die ich zukünftig entwickeln möchte.";
 "rocketscience_website" = "Webseite";
 "rocketscience_twitter" = "Twitter";
 "rocketscience_tipjar" = "Spenden";
 "rocketscience_tipjar_thankyou" = "Vielen Dank!";
 "rocketscience_my_other_apps" = "Meine anderen Apps";
 "rocketscience_piholeremote_subtitle" = "Alles über Pi-hole an einem Ort.";
-"rocketscience_energieradar_subtitle" = "Monitor real-time electricity prices in The Netherlands.";
+"rocketscience_energieradar_subtitle" = "Überwache Strompreise in den Niederlanden in Echtzeit.";
 "rocketscience_acknoledgements" = "Besonderer Dank geht an";
 
 // MARK: Tip Jar
