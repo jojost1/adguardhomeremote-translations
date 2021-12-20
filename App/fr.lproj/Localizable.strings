@@ -21,10 +21,10 @@
 "dashboard_top-queried" = "Domaines les plus recherchés";
 "dashboard_top-blocked" = "Domaines les plus fréquemment bloqués";
 "dashboard_avg_ms_%@" = "Temps moyen : %@ms";
-"dashboard_confirmation_enable_%@" = "Are you sure you want to enable %@?";
-"dashboard_confirmation_enable_button" = "Enable";
-"dashboard_confirmation_disable_%@" = "Are you sure you want to disable %@?";
-"dashboard_confirmation_disable_button" = "Disable";
+"dashboard_confirmation_enable_%@" = "Êtes vous sur que vous voulez activer %@?";
+"dashboard_confirmation_enable_button" = "Activer";
+"dashboard_confirmation_disable_%@" = "Êtes vous sur que vous voulez désactiver %@?";
+"dashboard_confirmation_disable_button" = "Désactiver";
 "dashboard_jump_to_instance" = "Instance";
 
 // MARK: - Query Log
@@ -354,20 +354,20 @@
 "preferences_dashboard_show_section" = "Afficher la section";
 "preferences_dashboard_number_of_clients" = "Nombre de clients";
 "preferences_dashboard_number_of_domains" = "Nombre de domaines";
-"preferences_dashboard_auto_refresh" = "Auto-refresh every minute";
-"preferences_dashboard_extra_confirmation" = "Confirmation alert for buttons";
+"preferences_dashboard_auto_refresh" = "Rafraîchissement automatique toutes les minutes";
+"preferences_dashboard_extra_confirmation" = "Demande de confirmation pour les boutons";
 "preferences_querylog_show_sidebar" = "Show sidebar";
 "preferences_other" = "Autres";
 "preferences_language" = "Langue";
 "preferences_lock_password" = "Lock with password";
-"preferences_lock_faceid" = "Lock with Face ID";
-"preferences_lock_touchid" = "Lock with Touch ID";
-"preferences_lock_footer" = "If enabled, AdGuard Home Remote will be locked whenever you close the app. You'll be prompted to authenticate when relaunching.";
-"preferences_lock_require" = "Require";
+"preferences_lock_faceid" = "Verrouillage FaceId";
+"preferences_lock_touchid" = "Verrouillage Touch ID";
+"preferences_lock_footer" = "Si activé, AdGuard Home Remote sera verrouillé lors de la fermeture de l’app. Une authentification vous sera demandé lors de l’ouverture de l’app.";
+"preferences_lock_require" = "Exiger";
 "preferences_lock_require_immediately" = "Immediately";
-"preferences_lock_require_1min" = "After 1 minute";
-"preferences_lock_require_5min" = "After 5 minutes";
-"preferences_lock_require_1hour" = "After 1 hour";
+"preferences_lock_require_1min" = "Après 1 minute";
+"preferences_lock_require_5min" = "Après 5 minute";
+"preferences_lock_require_1hour" = "Après 1 heure";
 "preferences_lock_unlock_button" = "Unlock";
 "preferences_lock_unlock_footnote_tap" = "Tap above to unlock AdGuard Home Remote";
 "preferences_lock_unlock_footnote_click" = "Click above to unlock AdGuard Home Remote";
