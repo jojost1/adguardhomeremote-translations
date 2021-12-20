@@ -11,7 +11,7 @@
 "dashboard_protection" = "Schutz";
 "dashboard_rule-filtering" = "Filter";
 "dashboard_parental-filtering" = "Jugendgefährdend";
-"dashboard_safe-browsing" = "Internetnsicherheit";
+"dashboard_safe-browsing" = "Internetsicherheit";
 "dashboard_safe-search" = "Sichere Suche";
 "dashboard_queries" = "DNS-Anfragen";
 "dashboard_blocked-filters" = "Durch Filter gesperrt";
