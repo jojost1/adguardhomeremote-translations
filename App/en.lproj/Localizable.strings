@@ -41,7 +41,8 @@
 // MARK: Filter
 "querylog_filter" = "Filter";
 "querylog_filtered" = "Filtered";
-"querylog_number-of-queries" = "Number of Queries";
+"querylog_number-of-queries" = "Number of queries";
+"querylog_show_extra_detail" = "Show extra detail";
 "querylog_status" = "Status";
 "querylog_status-all" = "All";
 "querylog_status-filtered" = "Filtered";
