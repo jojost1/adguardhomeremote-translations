@@ -42,6 +42,7 @@
 "querylog_filter" = "篩選";
 "querylog_filtered" = "已篩選的";
 "querylog_number-of-queries" = "查詢之數量";
+"querylog_show_extra_detail" = "顯示額外的細節";
 "querylog_status" = "狀態";
 "querylog_status-all" = "所有的";
 "querylog_status-filtered" = "受過濾的";
