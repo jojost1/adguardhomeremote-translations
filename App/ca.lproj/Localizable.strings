@@ -42,6 +42,7 @@
 "querylog_filter" = "Filtre";
 "querylog_filtered" = "Filtratge";
 "querylog_number-of-queries" = "Número de consultes DNS";
+"querylog_show_extra_detail" = "Show extra detail";
 "querylog_status" = "Estat";
 "querylog_status-all" = "Totes";
 "querylog_status-filtered" = "Filtrades";

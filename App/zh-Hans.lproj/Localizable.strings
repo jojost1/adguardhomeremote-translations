@@ -42,6 +42,7 @@
 "querylog_filter" = "筛选";
 "querylog_filtered" = "已筛选";
 "querylog_number-of-queries" = "显示请求数";
+"querylog_show_extra_detail" = "Show extra detail";
 "querylog_status" = "响应状态";
 "querylog_status-all" = "全部";
 "querylog_status-filtered" = "已过滤";

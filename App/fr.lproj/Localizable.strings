@@ -42,6 +42,7 @@
 "querylog_filter" = "Filtre";
 "querylog_filtered" = "Bloqué";
 "querylog_number-of-queries" = "Nombre de requêtes";
+"querylog_show_extra_detail" = "Show extra detail";
 "querylog_status" = "Statut";
 "querylog_status-all" = "Tous";
 "querylog_status-filtered" = "Filtré";

@@ -42,6 +42,7 @@
 "querylog_filter" = "Φίλτρο";
 "querylog_filtered" = "Φιλτραρισμένα";
 "querylog_number-of-queries" = "Αριθμός ερωτημάτων";
+"querylog_show_extra_detail" = "Show extra detail";
 "querylog_status" = "Κατάσταση";
 "querylog_status-all" = "Όλα";
 "querylog_status-filtered" = "Φιλτραρισμένα";

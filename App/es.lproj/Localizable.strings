@@ -42,6 +42,7 @@
 "querylog_filter" = "Filtro";
 "querylog_filtered" = "Filtrado";
 "querylog_number-of-queries" = "Número de consultas DNS";
+"querylog_show_extra_detail" = "Show extra detail";
 "querylog_status" = "Estado";
 "querylog_status-all" = "Todas";
 "querylog_status-filtered" = "Filtradas";
