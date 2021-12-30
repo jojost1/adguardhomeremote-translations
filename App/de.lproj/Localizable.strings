@@ -99,6 +99,8 @@
 "querydetail_copy_upstream" = "Upstream kopieren";
 "querydetail_block_domain" = "Domain sperren";
 "querydetail_unblock_domain" = "Domain entsperren";
+"querydetail_block_domain_for_client" = "Block Domain for this client only";
+"querydetail_unblock_domain_for_client" = "Unblock Domain for this client only";
 "querydetail_answer" = "Antwort";
 "querydetail_ttl_%lld" = "TTL %lld";
 
@@ -220,6 +222,8 @@
 "filtering_rules_examples_block_subtitle" = "example.org und Subdomainen sperren";
 "filtering_rules_examples_unblock_title" = "@@||example.org^";
 "filtering_rules_examples_unblock_subtitle" = "example.org und Subdomainen entsperren";
+"filtering_rules_examples_block_client_title" = "||example.org^$client=192.168.1.42";
+"filtering_rules_examples_block_client_subtitle" = "block example.org and all its subdomains for client IP 192.168.1.42";
 "filtering_rules_examples_rewrite_title" = "127.0.0.1 example.org";
 "filtering_rules_examples_rewrite_subtitle" = "127.0.0.1 statt example.org zurückgeben (aber nicht für die Subdomains)";
 "filtering_rules_examples_comment_title1" = "! Dies ist ein Kommentar";

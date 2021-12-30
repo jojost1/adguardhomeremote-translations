@@ -99,6 +99,8 @@
 "querydetail_copy_upstream" = "Kopieer upstream";
 "querydetail_block_domain" = "Blokkeer domein";
 "querydetail_unblock_domain" = "Deblokeer domain";
+"querydetail_block_domain_for_client" = "Blokkeer domein voor cliënt";
+"querydetail_unblock_domain_for_client" = "Deblokkeer domein voor cliënt";
 "querydetail_answer" = "Antwoord";
 "querydetail_ttl_%lld" = "TTL %lld";
 
@@ -189,7 +191,7 @@
 "filtering_last_updated_%@" = "Laatst geüpdatet: %@";
 "filtering_global_blocked_services" = "Globaal Geblokkeerde Services";
 "filtering_custom_filtering_rules" = "Aangepaste Filter Regels";
-"filtering_rule_count_%lld" = "%lld regels";
+"filtering_rule_count_%@" = "%@ regels";
 "filtering_check_filtered" = "Controleer hostnaam filtering";
 "filtering_pro_required" = "Remote Pro is vereist om filters te beheren.";
 // Add Filter
@@ -220,6 +222,8 @@
 "filtering_rules_examples_block_subtitle" = "block example.org and all its subdomains";
 "filtering_rules_examples_unblock_title" = "@@||example.org^";
 "filtering_rules_examples_unblock_subtitle" = "unblock example.org and all its subdomains";
+"filtering_rules_examples_block_client_title" = "||example.org^$client=192.168.1.42";
+"filtering_rules_examples_block_client_subtitle" = "block example.org and all its subdomains for client IP 192.168.1.42";
 "filtering_rules_examples_rewrite_title" = "127.0.0.1 example.org";
 "filtering_rules_examples_rewrite_subtitle" = "return 127.0.0.1 for example.org (but not its subdomains)";
 "filtering_rules_examples_comment_title1" = "! Here goes a comment";

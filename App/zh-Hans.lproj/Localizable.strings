@@ -99,6 +99,8 @@
 "querydetail_copy_upstream" = "复制上游服务器";
 "querydetail_block_domain" = "拦截域名";
 "querydetail_unblock_domain" = "放行域名";
+"querydetail_block_domain_for_client" = "Block Domain for this client only";
+"querydetail_unblock_domain_for_client" = "Unblock Domain for this client only";
 "querydetail_answer" = "响应";
 "querydetail_ttl_%lld" = "TTL %lld";
 
@@ -220,6 +222,8 @@
 "filtering_rules_examples_block_subtitle" = "拦截 example.org 域名及其所有子域名";
 "filtering_rules_examples_unblock_title" = "@@||example.org^";
 "filtering_rules_examples_unblock_subtitle" = "放行 example.org 及其所有子域名";
+"filtering_rules_examples_block_client_title" = "||example.org^$client=192.168.1.42";
+"filtering_rules_examples_block_client_subtitle" = "block example.org and all its subdomains for client IP 192.168.1.42";
 "filtering_rules_examples_rewrite_title" = "127.0.0.1 example.org";
 "filtering_rules_examples_rewrite_subtitle" = "AdGuard Home 现在将会把 example.org（但不包括它的子域名）解析到 127.0.0.1";
 "filtering_rules_examples_comment_title1" = "! 这是一行注释";

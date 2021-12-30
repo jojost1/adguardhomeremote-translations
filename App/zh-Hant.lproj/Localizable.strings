@@ -99,6 +99,8 @@
 "querydetail_copy_upstream" = "複製上游";
 "querydetail_block_domain" = "封鎖網域";
 "querydetail_unblock_domain" = "解除封鎖網域";
+"querydetail_block_domain_for_client" = "Block Domain for this client only";
+"querydetail_unblock_domain_for_client" = "Unblock Domain for this client only";
 "querydetail_answer" = "回應";
 "querydetail_ttl_%lld" = "存活時間（TTL）%lld";
 
@@ -220,6 +222,8 @@
 "filtering_rules_examples_block_subtitle" = "封鎖 example.org 和所有它的子網域";
 "filtering_rules_examples_unblock_title" = "@@||example.org^";
 "filtering_rules_examples_unblock_subtitle" = "解除封鎖 example.org 和所有它的子網域 ";
+"filtering_rules_examples_block_client_title" = "||example.org^$client=192.168.1.42";
+"filtering_rules_examples_block_client_subtitle" = "block example.org and all its subdomains for client IP 192.168.1.42";
 "filtering_rules_examples_rewrite_title" = "127.0.0.1 example.org";
 "filtering_rules_examples_rewrite_subtitle" = "對 example.org 網域（但非其子網域）返回 127.0.0.1 位址";
 "filtering_rules_examples_comment_title1" = "! 看，一個註解";
