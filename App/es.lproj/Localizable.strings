@@ -42,7 +42,7 @@
 "querylog_filter" = "Filtro";
 "querylog_filtered" = "Filtrado";
 "querylog_number-of-queries" = "Número de consultas DNS";
-"querylog_show_extra_detail" = "Show extra detail";
+"querylog_show_extra_detail" = "Mostrar más información";
 "querylog_status" = "Estado";
 "querylog_status-all" = "Todas";
 "querylog_status-filtered" = "Filtradas";
@@ -99,8 +99,8 @@
 "querydetail_copy_upstream" = "Copiar servidor DNS";
 "querydetail_block_domain" = "Bloquear dominio";
 "querydetail_unblock_domain" = "Desbloquear dominio";
-"querydetail_block_domain_for_client" = "Block Domain for this client only";
-"querydetail_unblock_domain_for_client" = "Unblock Domain for this client only";
+"querydetail_block_domain_for_client" = "Bloquear dominio solo para este cliente";
+"querydetail_unblock_domain_for_client" = "Desbloquear dominio solo para este cliente";
 "querydetail_answer" = "Respuesta";
 "querydetail_ttl_%lld" = "TTL %lld";
 
@@ -223,7 +223,7 @@
 "filtering_rules_examples_unblock_title" = "@@||example.org^";
 "filtering_rules_examples_unblock_subtitle" = "Desbloquea example.org y todos sus subdominios";
 "filtering_rules_examples_block_client_title" = "||example.org^$client=192.168.1.42";
-"filtering_rules_examples_block_client_subtitle" = "block example.org and all its subdomains for client IP 192.168.1.42";
+"filtering_rules_examples_block_client_subtitle" = "Bloquear example.org y todos sus subdominios para el cliente con IP 192.168.1.42";
 "filtering_rules_examples_rewrite_title" = "127.0.0.1 example.org";
 "filtering_rules_examples_rewrite_subtitle" = "Devuelve 127.0.0.1 para example.org (pero no para sus subdominios)";
 "filtering_rules_examples_comment_title1" = "! Aquí va un comentario";

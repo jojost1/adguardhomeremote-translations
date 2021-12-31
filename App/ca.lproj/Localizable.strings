@@ -42,7 +42,7 @@
 "querylog_filter" = "Filtre";
 "querylog_filtered" = "Filtratge";
 "querylog_number-of-queries" = "Número de consultes DNS";
-"querylog_show_extra_detail" = "Show extra detail";
+"querylog_show_extra_detail" = "Mostrar mes informació";
 "querylog_status" = "Estat";
 "querylog_status-all" = "Totes";
 "querylog_status-filtered" = "Filtrades";
@@ -99,8 +99,8 @@
 "querydetail_copy_upstream" = "Copiar servidor DNS";
 "querydetail_block_domain" = "Bloquejar domini";
 "querydetail_unblock_domain" = "Desbloquejar domini";
-"querydetail_block_domain_for_client" = "Block Domain for this client only";
-"querydetail_unblock_domain_for_client" = "Unblock Domain for this client only";
+"querydetail_block_domain_for_client" = "Bloquejar domini només per aquest client";
+"querydetail_unblock_domain_for_client" = "Desbloquejar domini només per aquest cliente";
 "querydetail_answer" = "Resposta";
 "querydetail_ttl_%lld" = "TTL %lld";
 
@@ -223,7 +223,7 @@
 "filtering_rules_examples_unblock_title" = "@@||example.org^";
 "filtering_rules_examples_unblock_subtitle" = "Desbloqueja example.org i tots els seus subdominis";
 "filtering_rules_examples_block_client_title" = "||example.org^$client=192.168.1.42";
-"filtering_rules_examples_block_client_subtitle" = "block example.org and all its subdomains for client IP 192.168.1.42";
+"filtering_rules_examples_block_client_subtitle" = "Bloquear example.org i tots els seus subdominis per el client amb IP 192.168.1.42";
 "filtering_rules_examples_rewrite_title" = "127.0.0.1 example.org";
 "filtering_rules_examples_rewrite_subtitle" = "Retorna 127.0.0.1 per example.org (pero no per als seus subdominis)";
 "filtering_rules_examples_comment_title1" = "! Aquí va un comentari";
