@@ -99,8 +99,8 @@
 "querydetail_copy_upstream" = "Αντιγραφή upstream";
 "querydetail_block_domain" = "Αποκλεισμός domain";
 "querydetail_unblock_domain" = "Άρση αποκλεισμού domain";
-"querydetail_block_domain_for_client" = "Block Domain for this client only";
-"querydetail_unblock_domain_for_client" = "Unblock Domain for this client only";
+"querydetail_block_domain_for_client" = "Block Domain for this client";
+"querydetail_unblock_domain_for_client" = "Unblock Domain for this client";
 "querydetail_answer" = "Απάντηση";
 "querydetail_ttl_%lld" = "TTL %lld";
 
@@ -378,6 +378,7 @@
 "preferences_lock_unlock_footnote_click" = "Click above to unlock AdGuard Home Remote";
 
 // MARK: Help
+"help_callout" = "Need help?";
 "settings_help" = "Βοήθεια & σχόλια";
 "settings_help_navbar" = "Υποστήριξη";
 "settings_help_contact" = "Επικοινωνία";

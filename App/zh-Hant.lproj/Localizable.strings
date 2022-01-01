@@ -378,6 +378,7 @@
 "preferences_lock_unlock_footnote_click" = "點擊上面以解鎖 AdGuard Home Remote";
 
 // MARK: Help
+"help_callout" = "Need help?";
 "settings_help" = "幫助 & 回饋意見";
 "settings_help_navbar" = "支援";
 "settings_help_contact" = "與我聯繫";

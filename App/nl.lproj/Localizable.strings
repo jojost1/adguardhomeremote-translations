@@ -378,6 +378,7 @@
 "preferences_other_lock_unlock_footnote_click" = "Klik hier om AdGuard Home Remote te ontgrendelen";
 
 // MARK: Help
+"help_callout" = "Hulp nodig?";
 "settings_help" = "Help & Feedback";
 "settings_help_navbar" = "Support";
 "settings_help_contact" = "Neem contact op";

@@ -378,6 +378,7 @@
 "preferences_lock_unlock_footnote_click" = "Fes clic per desbloquejar AdGuard Home Remote";
 
 // MARK: Help
+"help_callout" = "Need help?";
 "settings_help" = "Ajuda i comentaris";
 "settings_help_navbar" = "Suport";
 "settings_help_contact" = "Contacta";
