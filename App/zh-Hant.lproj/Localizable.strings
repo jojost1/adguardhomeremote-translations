@@ -99,8 +99,8 @@
 "querydetail_copy_upstream" = "複製上游";
 "querydetail_block_domain" = "封鎖網域";
 "querydetail_unblock_domain" = "解除封鎖網域";
-"querydetail_block_domain_for_client" = "僅對此用戶端封鎖網域";
-"querydetail_unblock_domain_for_client" = "僅對此用戶端解除封鎖網域";
+"querydetail_block_domain_for_client" = "對此用戶端封鎖網域";
+"querydetail_unblock_domain_for_client" = "對此用戶端解除封鎖網域";
 "querydetail_answer" = "回應";
 "querydetail_ttl_%lld" = "存活時間（TTL）%lld";
 
@@ -378,7 +378,7 @@
 "preferences_lock_unlock_footnote_click" = "點擊上面以解鎖 AdGuard Home Remote";
 
 // MARK: Help
-"help_callout" = "Need help?";
+"help_callout" = "需要幫助嗎？";
 "settings_help" = "幫助 & 回饋意見";
 "settings_help_navbar" = "支援";
 "settings_help_contact" = "與我聯繫";
