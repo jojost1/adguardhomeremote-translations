@@ -494,7 +494,7 @@
 "rocketscience_tipjar_thankyou" = "感謝您！";
 "rocketscience_my_other_apps" = "我的其它應用程式";
 "rocketscience_piholeremote_subtitle" = "Pi-hole 的一切在一個地方。";
-"rocketscience_energieradar_subtitle" = "關注在荷蘭的即時電價。";
+"rocketscience_energieradar_subtitle" = "關注在荷蘭的即時電價和天然氣價格。";
 "rocketscience_acknoledgements" = "對以下的特別感謝";
 
 // MARK: Tip Jar
