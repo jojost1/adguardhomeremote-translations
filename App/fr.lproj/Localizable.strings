@@ -494,7 +494,7 @@
 "rocketscience_tipjar_thankyou" = "Merci !";
 "rocketscience_my_other_apps" = "Mes autres apps";
 "rocketscience_piholeremote_subtitle" = "Tout Pi-hole en un seul endroit.";
-"rocketscience_energieradar_subtitle" = "Monitor real-time electricity prices in The Netherlands.";
+"rocketscience_energieradar_subtitle" = "Monitor real-time electricity and gas prices in The Netherlands.";
 "rocketscience_acknoledgements" = "Remerciements particuliers";
 
 // MARK: Tip Jar
