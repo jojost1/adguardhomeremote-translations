@@ -394,6 +394,7 @@
 // MARK: Other Settings
 "settings_other" = "Overig";
 "settings_pro" = "Pro";
+"settings_leave_review" = "Review de app";
 "settings_twitter" = "Volg op Twitter";
 "settings_changelog" = "Wat is er nieuw?";
 "settings_adguard-website" = "AdGuard Website";

@@ -394,6 +394,7 @@
 // MARK: Other Settings
 "settings_other" = "其他";
 "settings_pro" = "Pro";
+"settings_leave_review" = "Leave a Review";
 "settings_twitter" = "在 Twitter 上关注";
 "settings_changelog" = "新增功能";
 "settings_adguard-website" = "AdGuard 主页";

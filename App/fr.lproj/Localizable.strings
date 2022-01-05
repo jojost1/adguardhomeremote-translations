@@ -394,6 +394,7 @@
 // MARK: Other Settings
 "settings_other" = "Autres";
 "settings_pro" = "Pro";
+"settings_leave_review" = "Laisser un commentaire";
 "settings_twitter" = "Suivre sur Twitter";
 "settings_changelog" = "Quoi de neuf";
 "settings_adguard-website" = "Site Web d’AdGuard";
