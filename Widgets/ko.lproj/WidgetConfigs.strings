@@ -1,47 +1,47 @@
-"0foAlr-1ekF7R" = "Just to confirm, you wanted ‘Dark (Pure Black)’?";
+"0foAlr-1ekF7R" = "확인을 위해, ‘다크 (완전히 어두움)’을 선택하셨나요?";
 
-"0foAlr-JOGSFQ" = "Just to confirm, you wanted ‘Light’?";
+"0foAlr-JOGSFQ" = "확인을 위해, ‘라이트’를 선택하셨나요?";
 
-"0foAlr-W38Flm" = "Just to confirm, you wanted ‘Dark’?";
+"0foAlr-W38Flm" = "확인을 위해, ‘다크’을 선택하셨나요?";
 
-"0foAlr-ZyGBsF" = "Just to confirm, you wanted ‘System’?";
+"0foAlr-ZyGBsF" = "확인을 위해, ‘시스템’을 선택하셨나요?";
 
-"0foAlr-g0CJBh" = "Just to confirm, you wanted ‘System (Pure Black)’?";
+"0foAlr-g0CJBh" = "확인을 위해, ‘시스템 (완전히 어두움)’을 선택하셨나요?";
 
-"1ekF7R" = "Dark (Pure Black)";
+"1ekF7R" = "다크 (완전히 어두움)";
 
-"9m7HE0" = "Appearance";
+"9m7HE0" = "테마";
 
-"JOGSFQ" = "Light";
+"JOGSFQ" = "라이트";
 
-"MtnrjZ" = "What instance to display?";
+"MtnrjZ" = "표시할 인스턴스는 무엇인가요?";
 
-"VA4ap6" = "Instance";
+"VA4ap6" = "인스턴스";
 
-"W38Flm" = "Dark";
+"W38Flm" = "다크";
 
-"ZyGBsF" = "System";
+"ZyGBsF" = "시스템";
 
-"bfm6TG" = "Just to confirm, you wanted ‘${instance}’?";
+"bfm6TG" = "확인을 위해, ‘${instance}’를 선택하셨나요?";
 
-"g0CJBh" = "System (Pure Black)";
+"g0CJBh" = "시스템 (완전히 어두움)";
 
-"gpCwrM" = "Dashboard Widget";
+"gpCwrM" = "대시보드 위젯";
 
-"l8C2oo" = "There are ${count} options matching ‘${instance}’.";
+"l8C2oo" = "‘${instance}’와 일치하는 ${count} 개의 옵션이 있습니다.";
 
-"tVvJ9c" = "Dashboard Widget";
+"tVvJ9c" = "대시보드 위젯";
 
-"v1RflJ" = "Instance";
+"v1RflJ" = "인스턴스";
 
-"veGZYz-1ekF7R" = "There are ${count} options matching ‘Dark (Pure Black)’.";
+"veGZYz-1ekF7R" = "‘다크 (완전히 어두움)’와 일치하는 ${count} 개의 옵션이 있습니다.";
 
-"veGZYz-JOGSFQ" = "There are ${count} options matching ‘Light’.";
+"veGZYz-JOGSFQ" = "‘라이트’와 일치하는 ${count} 개의 옵션이 있습니다.";
 
-"veGZYz-W38Flm" = "There are ${count} options matching ‘Dark’.";
+"veGZYz-W38Flm" = "‘다크’와 일치하는 ${count} 개의 옵션이 있습니다.";
 
-"veGZYz-ZyGBsF" = "There are ${count} options matching ‘System’.";
+"veGZYz-ZyGBsF" = "‘시스템’과 일치하는 ${count} 개의 옵션이 있습니다.";
 
-"veGZYz-g0CJBh" = "There are ${count} options matching ‘System (Pure Black)’.";
+"veGZYz-g0CJBh" = "‘시스템 (완전히 어두움)’과 일치하는 ${count} 개의 옵션이 있습니다.";
 
-"xq4Ojz" = "Appearance";
+"xq4Ojz" = "테마";
