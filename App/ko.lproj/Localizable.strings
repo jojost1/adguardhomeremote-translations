@@ -304,7 +304,7 @@
 "dns_pro_required" = "DNS 설정을 관리하려면 Pro 버전이 필요합니다.";
 
 // MARK: DNS Rewrites
-"dnsrewrites_entries" = "항목";
+"dnsrewrites_entries" = "DNS 변환 정보";
 "dnsrewrites_no_entries" = "항목을 찾을 수 없습니다.";
 "dnsrewrites_new" = "DNS 변환 정보 추가";
 "dnsrewrites_domain" = "도메인";
@@ -370,10 +370,10 @@
 "preferences_lock_footer" = "활성화하면 앱을 닫을 때마다 AdGuard Home Remote가 잠깁니다. 다시 열었을 때 인증하라는 메시지가 표시됩니다.";
 "preferences_lock_require" = "자동 잠금";
 "preferences_lock_require_immediately" = "즉시";
-"preferences_lock_require_1min" = "1분 후";
-"preferences_lock_require_5min" = "5분 후";
-"preferences_lock_require_1hour" = "1시간 후";
-"preferences_lock_unlock_button" = "안 함";
+"preferences_lock_require_1min" = "1분";
+"preferences_lock_require_5min" = "5분";
+"preferences_lock_require_1hour" = "1시간";
+"preferences_lock_unlock_button" = "잠금해제";
 "preferences_lock_unlock_footnote_tap" = "AdGuard Home Remote를 잠금 해제하려면 위를 탭 하세요.";
 "preferences_lock_unlock_footnote_click" = "AdGuard Home Remote의 잠금을 해제하려면 위를 클릭하세요.";
 
