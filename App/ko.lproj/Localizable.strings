@@ -147,7 +147,7 @@
 "client_remove_alert_body" = "이 클라이언트를 삭제하시겠습니까?";
 "clients" = "클라이언트";
 "clients_settings_label" = "설정: ";
-"clients_services_label" = 차단된 서비스: ";
+"clients_services_label" = "차단된 서비스: ";
 "clients_no_clients_found" = "클라이언트 없음.";
 "clients_runtime" = "클라이언트 (런타임)";
 "clients_runtime_footer" = "AdGuard Home을 사용하지만 구성에 저장되지 않은 클라이언트의 데이터입니다.";
