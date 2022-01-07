@@ -1,36 +1,36 @@
-AdGuard Home Remote makes managing your AdGuard Home quick and easy. Quickly enable/disable blocking features, as well as view statistics such as top clients and top domains. Manage your clients, filters, DNS rewrites, and more.
+AdGuard Home Remote를 사용하면 AdGuard Home을 빠르고 쉽게 관리할 수 있습니다. 차단 기능을 빠르게 활성화/비활성화하고 상위 클라이언트 및 상위 도메인과 같은 통계를 볼 수 있습니다. 클라이언트, 필터, DNS 변경 등을 관리할 수 있습니다.
 
-*Control Blocking*
-You can quickly enable or disable filtering & safe browsing/search. You can even manage specific settings for your clients!
+*차단 제어*
+필터링 및 세이프 브라우징/검색을 빠르게 활성화 또는 비활성화할 수 있습니다. 클라이언트의 특정 설정을 관리할 수도 있습니다!
 
-*Statistics*
-View graphs of your queries as well as top clients and domains. Search through your queries in the Query Log with detailed request and response info.
+*통계*
+상위 클라이언트 및 도메인뿐만 아니라 쿼리의 그래프를 볼 수 있습니다. 상세 요청 및 응답 정보가 포함된 쿼리 로그에서 쿼리를 검색합니다.
 
-*Manage Settings*
-Add or edit your clients, add some new filters or maybe disable them for a while, update your filters, edit blocked services, manage DHCP and DNS settings, create new DNS rules, or edit your Query Log settings.
+*설정 관리*
+클라이언트를 추가 또는 편집하고, 새 필터를 추가하거나 잠시 비활성화하고, 필터를 업데이트하고, 차단된 서비스를 편집하고, DHCP 및 DNS 설정을 관리하고, 새 DNS 규칙을 생성하거나, 쿼리 로그 설정을 편집할 수 있습니다.
 
 ==
 
-Features:
-- Control Filtering & Safe Browsing/Search
-- View basic & advanced statistics
-- Query Log with search and filters
-- Live Log showing a log of queries while they happen in real-time (requires Pro)
-- Manage Clients, including filtering settings, blocked services, and tags (requires Pro)
-- Manage Filters, including block- & allowlists and custom filtering rules (requires Pro)
-- Manage DHCP settings, including static leases (requires Pro)
-- Manage DNS settings (requires Pro)
-- Manage DNS Rewrites (requires Pro)
-- Support for multiple instances (requires Pro)
-- Widgets
-- Customisable color schemes and app icons
-- Support for iOS, iPadOS, macOS
-- Clean and modern 100% SwiftUI design
+특징:
+- 필터링 및 세이프 브라우징/검색 제어
+- 기본 및 고급 통계 보기
+- 검색 및 필터가 있는 쿼리 로그
+- 실시간으로 발생하는 쿼리 로그를 보여주는 실시간 로그 (Pro 필요)
+- 필터링 설정, 차단된 서비스 및 태그를 포함한 클라이언트 관리 (Pro 필요)
+- 차단 및 허용 목록, 커스텀 필터링 규칙을 포함한 필터 관리 (Pro 필요)
+- 고정 임대를 포함한 DHCP 설정 관리 (Pro 필요)
+- DNS 설정 관리 (Pro 필요)
+- DNS 변경 관리 (Pro 필요)
+- 여러 인스턴스 지원 (Pro 필요)
+- 위젯
+- 사용자 정의 가능한 색 구성표 및 앱 아이콘
+- iOS, iPadOS, macOS 지원
+- 깨끗하고 현대적인 100% SwiftUI 디자인
 
 * AdGuard Home Remote Pro:
-Additional features are unlocked with a one-time purchase which will also support future development.
+추가 기능은 향후 개발도 지원하는 일회성 구매로 잠금 해제됩니다.
 
 ==
 
-Note: 
-AdGuard Home Remote is a third-party app and is not directly affiliated to AdGuard. For more information about AdGuard Home, visit https://adguard.com/adguard-home/overview.html.
+메모:
+AdGuard Home Remote는 타사 앱이며 AdGuard와 직접적인 관련이 없습니다. AdGuard Home에 대한 자세한 내용은 https://adguard.com/adguard-home/overview.html을 참조하십시오.
