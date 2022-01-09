@@ -364,6 +364,8 @@
 "preferences_querylog_show_sidebar" = "显示侧边栏";
 "preferences_other" = "其他";
 "preferences_language" = "语言";
+"preferences_language_macos_alert" = "Change Language";
+"preferences_language_macos_alert_body" = "To change the language of the app on macOS, open 'System Preferences > Language & Region > Apps' and add the app there.";
 "preferences_lock_password" = "使用密码锁定";
 "preferences_lock_faceid" = "使用面容ID锁定";
 "preferences_lock_touchid" = "使用触控ID锁定";

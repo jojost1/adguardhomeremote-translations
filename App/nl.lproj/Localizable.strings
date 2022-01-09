@@ -364,6 +364,8 @@
 "preferences_querylog_show_sidebar" = "Toon zijbalk";
 "preferences_other" = "Overig";
 "preferences_language" = "Taal";
+"preferences_language_macos_alert" = "Taal wijzigen";
+"preferences_language_macos_alert_body" = "Om de taal van de app te wijzigen op macOS, open 'Systeemvoorkeuren > Taal en regio > Apps' en voeg de app daar toe.";
 "preferences_lock_password" = "Vergrendel met wachtwoord";
 "preferences_lock_faceid" = "Vergrendel met Face ID";
 "preferences_lock_touchid" = "Vergrendel met Touch ID";
