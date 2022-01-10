@@ -42,7 +42,7 @@
 "querylog_filter" = "筛选";
 "querylog_filtered" = "已筛选";
 "querylog_number-of-queries" = "显示请求数";
-"querylog_show_extra_detail" = "Show extra detail";
+"querylog_show_extra_detail" = "显示额外细节";
 "querylog_status" = "响应状态";
 "querylog_status-all" = "全部";
 "querylog_status-filtered" = "已过滤";
@@ -99,8 +99,8 @@
 "querydetail_copy_upstream" = "复制上游服务器";
 "querydetail_block_domain" = "拦截域名";
 "querydetail_unblock_domain" = "放行域名";
-"querydetail_block_domain_for_client" = "Block Domain for this client";
-"querydetail_unblock_domain_for_client" = "Unblock Domain for this client";
+"querydetail_block_domain_for_client" = "对此客户端拦截域名";
+"querydetail_unblock_domain_for_client" = "对此客户端放行域名";
 "querydetail_answer" = "响应";
 "querydetail_ttl_%lld" = "TTL %lld";
 
@@ -223,7 +223,7 @@
 "filtering_rules_examples_unblock_title" = "@@||example.org^";
 "filtering_rules_examples_unblock_subtitle" = "放行 example.org 及其所有子域名";
 "filtering_rules_examples_block_client_title" = "||example.org^$client=192.168.1.42";
-"filtering_rules_examples_block_client_subtitle" = "block example.org and all its subdomains for client IP 192.168.1.42";
+"filtering_rules_examples_block_client_subtitle" = "对客户端 IP 192.168.1.42 拦截 example.org 域名及其所有子域名";
 "filtering_rules_examples_rewrite_title" = "127.0.0.1 example.org";
 "filtering_rules_examples_rewrite_subtitle" = "AdGuard Home 现在将会把 example.org（但不包括它的子域名）解析到 127.0.0.1";
 "filtering_rules_examples_comment_title1" = "! 这是一行注释";
@@ -364,8 +364,8 @@
 "preferences_querylog_show_sidebar" = "显示侧边栏";
 "preferences_other" = "其他";
 "preferences_language" = "语言";
-"preferences_language_macos_alert" = "Change Language";
-"preferences_language_macos_alert_body" = "To change the language of the app on macOS, open 'System Preferences > Language & Region > Apps' and add the app there.";
+"preferences_language_macos_alert" = "更改语言";
+"preferences_language_macos_alert_body" = "要在 macOS 上更改程序语言，请打开 '系统偏好设置 > 语言与地区 > App' 并添加本程序。";
 "preferences_lock_password" = "使用密码锁定";
 "preferences_lock_faceid" = "使用面容ID锁定";
 "preferences_lock_touchid" = "使用触控ID锁定";
@@ -380,7 +380,7 @@
 "preferences_lock_unlock_footnote_click" = "点击上方解锁 AdGuard Home Remote";
 
 // MARK: Help
-"help_callout" = "Need help?";
+"help_callout" = "需要帮助？";
 "settings_help" = "帮助与反馈";
 "settings_help_navbar" = "支持服务";
 "settings_help_contact" = "联系作者";
@@ -396,7 +396,7 @@
 // MARK: Other Settings
 "settings_other" = "其他";
 "settings_pro" = "Pro";
-"settings_leave_review" = "Leave a Review";
+"settings_leave_review" = "发表评论";
 "settings_twitter" = "在 Twitter 上关注";
 "settings_changelog" = "新增功能";
 "settings_adguard-website" = "AdGuard 主页";
