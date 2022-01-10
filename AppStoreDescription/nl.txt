@@ -23,6 +23,7 @@ Functies:
 - Beheer DNS herschrijvingen (Pro vereist)
 - Ondersteuning voor meerdere instanties (Pro vereist)
 - Widgets
+- Synchronisatie via iCloud voor iOS & iPadOS
 - Aanpasbaar kleurenschema en app icoon
 - Ondersteuning voor iOS, iPadOS, macOS
 - Modern 100% SwiftUI ontwerp

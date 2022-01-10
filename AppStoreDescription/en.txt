@@ -23,6 +23,7 @@ Features:
 - Manage DNS Rewrites (requires Pro)
 - Support for multiple instances (requires Pro)
 - Widgets
+- iCloud sync between iOS & iPadOS
 - Customisable color schemes and app icons
 - Support for iOS, iPadOS, macOS
 - Clean and modern 100% SwiftUI design
