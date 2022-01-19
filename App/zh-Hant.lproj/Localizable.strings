@@ -365,7 +365,7 @@
 "preferences_other" = "其它";
 "preferences_language" = "語言";
 "preferences_language_macos_alert" = "變更語言";
-"preferences_language_macos_alert_body" = "為了於 macOS 上變更此應用程式的語言，開啟'系統偏好設定 > 語言 & 區域 > 應用程式'並在那新增此應用程式。";
+"preferences_language_macos_alert_body" = "為了於 macOS 上自訂應用程式的語言，前往'系統偏好設定 > 語言 & 區域 > 應用程式'，在那新增此應用程式並選擇一種語言。";
 "preferences_lock_password" = "用密碼鎖定";
 "preferences_lock_faceid" = "用 Face ID 鎖定";
 "preferences_lock_touchid" = "用 Touch ID 鎖定";
