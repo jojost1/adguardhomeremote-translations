@@ -428,6 +428,8 @@
 "design_app_icon_original" = "Originale";
 "design_app_icon_inverse" = "Inversé";
 "design_app_icon_dark" = "Sombre";
+"design_app_icon_blueprint" = "Blueprint";
+"design_app_icon_pride" = "Pride";
 "design_theme" = "Thème";
 "design_system_setting" = "Utiliser les paramètres du système";
 "design_always_lightmode" = "Mode clair";

@@ -428,6 +428,8 @@
 "design_app_icon_original" = "Πρωτότυπo";
 "design_app_icon_inverse" = "Αντίστροφο";
 "design_app_icon_dark" = "Σκούρο";
+"design_app_icon_blueprint" = "Blueprint";
+"design_app_icon_pride" = "Pride";
 "design_theme" = "Θέμα";
 "design_system_setting" = "Χρήση ρυθμίσεων συστήματος";
 "design_always_lightmode" = "Πάντα ανοιχτόχρωμο";

@@ -428,6 +428,8 @@
 "design_app_icon_original" = "原版";
 "design_app_icon_inverse" = "反色";
 "design_app_icon_dark" = "深色";
+"design_app_icon_blueprint" = "Blueprint";
+"design_app_icon_pride" = "Pride";
 "design_theme" = "主题外观";
 "design_system_setting" = "使用系统设置";
 "design_always_lightmode" = "总是使用浅色外观";

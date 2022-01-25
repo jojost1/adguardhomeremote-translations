@@ -428,6 +428,8 @@
 "design_app_icon_original" = "Original";
 "design_app_icon_inverse" = "Invertit";
 "design_app_icon_dark" = "Fosc";
+"design_app_icon_blueprint" = "Blueprint";
+"design_app_icon_pride" = "Pride";
 "design_theme" = "Tema";
 "design_system_setting" = "Utilitzar la configuració del sistema";
 "design_always_lightmode" = "Sempre en mode clar";

@@ -428,6 +428,8 @@
 "design_app_icon_original" = "기본";
 "design_app_icon_inverse" = "반전";
 "design_app_icon_dark" = "어두운";
+"design_app_icon_blueprint" = "Blueprint";
+"design_app_icon_pride" = "Pride";
 "design_theme" = "테마";
 "design_system_setting" = "시스템 설정 사용";
 "design_always_lightmode" = "항상 라이트 모드";
