@@ -255,6 +255,8 @@
 "dhcp_remove_lease" = "移除租約";
 "dhcp_leases" = "租約";
 "dhcp_lease_create" = "創建靜態租約";
+"dhcp_add_client_with_ip" = "New Client (with IP)";
+"dhcp_add_client_with_mac" = "New Client (with MAC)";
 "dhcp_reset_all_leases" = "重置所有的租約";
 "dhcp_reset_all_leases_footer" = "移除所有現行的租約而沒清除租約配置。";
 "dhcp_reset_all_leases_alert_title" = "重置租約";
@@ -298,9 +300,12 @@
 "dns_blocking_mode_customip" = "自訂的 IP";
 "dns_cache_configuration" = "DNS 快取配置";
 "dns_cache_size" = "快取大小";
+"dns_cache_size_in_bytes" = "以位元組";
 "dns_cache_optimistic" = "樂觀快取";
+"dns_cache_optimistic_explainer" = "即使當項目為已到期的，從快取使 AdGuard Home 回覆，並還嘗試重新整理它們。";
 "dns_override_minimum_ttl" = "覆寫最小的存活時間（TTL）";
 "dns_override_maximum_ttl" = "覆寫最大的存活時間（TTL）";
+"dns_override_in_seconds" = "秒";
 "dns_pro_required" = "Remote Pro 是必須的以管理 DNS 設定。";
 
 // MARK: DNS Rewrites
@@ -568,3 +573,6 @@
 // MARK: Widgets
 "widget_dashboard" = "儀表板小工具";
 "widget_dashboard_description" = "檢視您的儀表板統計資料。";
+
+// MARK: Apple Watch
+"loading_instances_icloud" = "Loading instances from iCloud...";

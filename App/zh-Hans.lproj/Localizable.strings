@@ -255,6 +255,8 @@
 "dhcp_remove_lease" = "删除租约";
 "dhcp_leases" = "租约";
 "dhcp_lease_create" = "添加静态租约";
+"dhcp_add_client_with_ip" = "New Client (with IP)";
+"dhcp_add_client_with_mac" = "New Client (with MAC)";
 "dhcp_reset_all_leases" = "重置所有租约";
 "dhcp_reset_all_leases_footer" = "移除所有现行的租约而没清除租约配置。";
 "dhcp_reset_all_leases_alert_title" = "重置租约";
@@ -298,9 +300,12 @@
 "dns_blocking_mode_customip" = "自定义 IP";
 "dns_cache_configuration" = "DNS 缓存配置";
 "dns_cache_size" = "缓存大小";
+"dns_cache_size_in_bytes" = "单位：字节";
 "dns_cache_optimistic" = "乐观缓存";
+"dns_cache_optimistic_explainer" = "即使条目已过期，也让 AdGuard Home 从缓存中响应，并尝试刷新它们。";
 "dns_override_minimum_ttl" = "覆盖最小 TTL 值";
 "dns_override_maximum_ttl" = "覆盖最大 TTL 值";
+"dns_override_in_seconds" = "秒";
 "dns_pro_required" = "需要 Remote Pro 来管理 DNS 设置";
 
 // MARK: DNS Rewrites
@@ -568,3 +573,6 @@
 // MARK: Widgets
 "widget_dashboard" = "仪表盘小组件";
 "widget_dashboard_description" = "查看您的仪表盘统计数据。";
+
+// MARK: Apple Watch
+"loading_instances_icloud" = "Loading instances from iCloud...";

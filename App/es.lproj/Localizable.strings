@@ -255,6 +255,8 @@
 "dhcp_remove_lease" = "Eliminar";
 "dhcp_leases" = "Asignaciones";
 "dhcp_lease_create" = "Añadir asignación estática";
+"dhcp_add_client_with_ip" = "New Client (with IP)";
+"dhcp_add_client_with_mac" = "New Client (with MAC)";
 "dhcp_reset_all_leases" = "Restablecer todas las asignaciones";
 "dhcp_reset_all_leases_footer" = "Elimina todas las asignaciones actuales sin eliminar las opciones configuradas.";
 "dhcp_reset_all_leases_alert_title" = "Restablecer asignaciones";
@@ -298,9 +300,12 @@
 "dns_blocking_mode_customip" = "IP Personalizada";
 "dns_cache_configuration" = "Configuración de la caché DNS";
 "dns_cache_size" = "Tamaño";
+"dns_cache_size_in_bytes" = "en bytes";
 "dns_cache_optimistic" = "Optimista";
+"dns_cache_optimistic_explainer" = "Haz que AdGuard Home responda desde la caché incluso cuando las entradas estén expiradas y también intente actualizarlas.";
 "dns_override_minimum_ttl" = "TTL mínimo";
 "dns_override_maximum_ttl" = "TTL máximo";
+"dns_override_in_seconds" = "en segundos";
 "dns_pro_required" = "Es necesario actualizar a Remote Pro para gestionar la configuración DNS";
 
 // MARK: DNS Rewrites
@@ -568,3 +573,6 @@
 // MARK: Widgets
 "widget_dashboard" = "Panel de control";
 "widget_dashboard_description" = "Muestra las estadísticas de tu AdGuard Home.";
+
+// MARK: Apple Watch
+"loading_instances_icloud" = "Loading instances from iCloud...";

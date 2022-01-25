@@ -255,6 +255,8 @@
 "dhcp_remove_lease" = "Lease entfernen";
 "dhcp_leases" = "Leases";
 "dhcp_lease_create" = "Statischen Lease hinzufügen";
+"dhcp_add_client_with_ip" = "New Client (with IP)";
+"dhcp_add_client_with_mac" = "New Client (with MAC)";
 "dhcp_reset_all_leases" = "Setzen Sie alle Leases zurück";
 "dhcp_reset_all_leases_footer" = "Entfernt alle aktuellen Leases, ohne die Lease-Konfiguration zu löschen.";
 "dhcp_reset_all_leases_alert_title" = "Setzen Sie alle Leases zurück";
@@ -297,10 +299,13 @@
 "dns_blocking_mode_nullip" = "Null-IP-Adresse";
 "dns_blocking_mode_customip" = "Benutzerdefinierte IP";
 "dns_cache_configuration" = "Konfiguration des DNS-Zwischenspeicher";
-"dns_cache_size" = "Größe des DNS-Zwischenspeichers (Bytes)";
+"dns_cache_size" = "Größe des DNS-Zwischenspeichers";
+"dns_cache_size_in_bytes" = "in Bytes";
 "dns_cache_optimistic" = "Optimistisches Zwischenspeichern";
-"dns_override_minimum_ttl" = "TTL-Minimalwert überschreiben (Sekunden)";
-"dns_override_maximum_ttl" = "TTL-Höchstwert überschreiben (Sekunden)";
+"dns_cache_optimistic_explainer" = "Sorgt dafür, dass AdGuard Home auch dann aus dem Zwischenspeicher antwortet, wenn die Einträge abgelaufen sind, und versucht zudem, diese zu aktualisieren.";
+"dns_override_minimum_ttl" = "TTL-Minimalwert überschreiben";
+"dns_override_maximum_ttl" = "TTL-Höchstwert überschreiben";
+"dns_override_in_seconds" = "in Sekunden";
 "dns_pro_required" = "Remote Pro ist erforderlich, um die DNS-Einstellungen zu verwalten.";
 
 // MARK: DNS Rewrites
@@ -569,3 +574,6 @@ Apps, welche ich ebenfalls kontinuierlich verbessere, im AppStore veröffentlich
 // MARK: Widgets
 "widget_dashboard" = "Übersichtswidget";
 "widget_dashboard_description" = "Ihre Statistiken anzeigen.";
+
+// MARK: Apple Watch
+"loading_instances_icloud" = "Loading instances from iCloud...";

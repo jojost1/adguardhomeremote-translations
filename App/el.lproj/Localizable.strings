@@ -255,6 +255,8 @@
 "dhcp_remove_lease" = "Αφαίρεση μίσθωσης";
 "dhcp_leases" = "Μισθώσεις";
 "dhcp_lease_create" = "Δημιουργία στατικής μίσθωσης";
+"dhcp_add_client_with_ip" = "New Client (with IP)";
+"dhcp_add_client_with_mac" = "New Client (with MAC)";
 "dhcp_reset_all_leases" = "Reset all leases";
 "dhcp_reset_all_leases_footer" = "Removes all current leases without erasing the lease configuration.";
 "dhcp_reset_all_leases_alert_title" = "Reset Leases";
@@ -298,9 +300,12 @@
 "dns_blocking_mode_customip" = "Προσαρμοσμένη IP";
 "dns_cache_configuration" = "Ρύθμιση κρυφής μνήμης DNS";
 "dns_cache_size" = "Μέγεθος κρυφής μνήμης";
+"dns_cache_size_in_bytes" = "in bytes";
 "dns_cache_optimistic" = "Optimistic";
+"dns_cache_optimistic_explainer" = "Make AdGuard Home respond from the cache even when the entries are expired and also try to refresh them.";
 "dns_override_minimum_ttl" = "Παράκαμψη ελάχιστου TTL";
 "dns_override_maximum_ttl" = "Παράκαμψη μέγιστου TTL";
+"dns_override_in_seconds" = "in seconds";
 "dns_pro_required" = "Το Remote Pro απαιτείται για τη διαχείριση των ρυθμίσεων DNS.";
 
 // MARK: DNS Rewrites
@@ -568,3 +573,6 @@
 // MARK: Widgets
 "widget_dashboard" = "Widget αρχικής";
 "widget_dashboard_description" = "Προβολή των στατιστικών αρχικής.";
+
+// MARK: Apple Watch
+"loading_instances_icloud" = "Loading instances from iCloud...";

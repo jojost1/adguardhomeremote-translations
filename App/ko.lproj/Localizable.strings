@@ -255,6 +255,8 @@
 "dhcp_remove_lease" = "임대 삭제";
 "dhcp_leases" = "임대";
 "dhcp_lease_create" = "고정 임대 추가";
+"dhcp_add_client_with_ip" = "New Client (with IP)";
+"dhcp_add_client_with_mac" = "New Client (with MAC)";
 "dhcp_reset_all_leases" = "모든 임대 초기화";
 "dhcp_reset_all_leases_footer" = "임대 구성을 지우지 않고 현재 임대를 모두 제거합니다.";
 "dhcp_reset_all_leases_alert_title" = "임대 초기화";
@@ -298,9 +300,12 @@
 "dns_blocking_mode_customip" = "사용자 지정 IP";
 "dns_cache_configuration" = "DNS 캐시 구성";
 "dns_cache_size" = "캐시 크기";
+"dns_cache_size_in_bytes" = "바이트";
 "dns_cache_optimistic" = "옵티미스틱 캐시";
+"dns_cache_optimistic_explainer" = "세션이 만료되었거나 새로고침을 시도하는 경우에도 AdGuard Home이 캐시를 기반으로 응답하도록 합니다.";
 "dns_override_minimum_ttl" = "최소 TTL (초) 무시";
 "dns_override_maximum_ttl" = "최대 TTL (초) 무시";
+"dns_override_in_seconds" = "초";
 "dns_pro_required" = "DNS 설정을 관리하려면 Pro 버전이 필요합니다.";
 
 // MARK: DNS Rewrites
@@ -568,3 +573,6 @@
 // MARK: Widgets
 "widget_dashboard" = "대시보드 위젯";
 "widget_dashboard_description" = "대시보드 통계 보기.";
+
+// MARK: Apple Watch
+"loading_instances_icloud" = "Loading instances from iCloud...";

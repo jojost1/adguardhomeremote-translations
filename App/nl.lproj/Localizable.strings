@@ -255,6 +255,8 @@
 "dhcp_remove_lease" = "Verwijder lease";
 "dhcp_leases" = "Leases";
 "dhcp_lease_create" = "Nieuwe Lease";
+"dhcp_add_client_by_ip" = "Nieuwe cliënt (met IP)";
+"dhcp_add_client_by_mac" = "Nieuwe cliënt (met MAC)";
 "dhcp_reset_all_leases" = "Alle leases resetten";
 "dhcp_reset_all_leases_footer" = "Verwijder alle leases zonder de lease configuratie te wissen.";
 "dhcp_reset_all_leases_alert_title" = "Reset Leases";
@@ -298,9 +300,12 @@
 "dns_blocking_mode_customip" = "Aangepast IP";
 "dns_cache_configuration" = "DNS cache configuratie";
 "dns_cache_size" = "Cache Grootte";
+"dns_cache_size_in_bytes" = "in bytes";
 "dns_cache_optimistic" = "Optimistisch cachen";
+"dns_cache_optimistic_explainer" = "Laat AdGuard Home reageren vanuit de cache, zelfs als de vermeldingen zijn verlopen en probeer deze ook te vernieuwen.";
 "dns_override_minimum_ttl" = "Minimale TTL overschrijven";
 "dns_override_maximum_ttl" = "Maximale TTL overschrijven";
+"dns_override_in_seconds" = "in seconden";
 "dns_pro_required" = "Remote Pro is vereist om DNS instellingen te beheren.";
 
 // MARK: DNS Rewrites
@@ -568,3 +573,6 @@
 // MARK: Widgets
 "widget_dashboard" = "Dashboard Widget";
 "widget_dashboard_description" = "Bekijk statistieken van het Dashboard.";
+
+// MARK: Apple Watch
+"loading_instances_icloud" = "Instanties ophalen uit iCloud...";
