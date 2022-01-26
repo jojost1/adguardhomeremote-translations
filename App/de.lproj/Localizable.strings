@@ -579,3 +579,4 @@ Apps, welche ich ebenfalls kontinuierlich verbessere, im AppStore veröffentlich
 
 // MARK: Apple Watch
 "loading_instances_icloud" = "Loading instances from iCloud...";
+"watch_stuck_reinstall" = "This can take a while. If the app is stuck on this spinner, please try a reinstall of the app. Sorry for the inconvenience!";
