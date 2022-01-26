@@ -370,7 +370,7 @@
 "preferences_other" = "Other";
 "preferences_language" = "Language";
 "preferences_language_macos_alert" = "Change Language";
-"preferences_language_macos_alert_body" = "To change the language of the app on macOS, open 'System Preferences > Language & Region > Apps' and add the app there.";
+"preferences_language_macos_alert_body" = "For customizing an app's language on macOS, go to 'System Preferences > Language & Region > Apps', add the app and select a language there.";
 "preferences_lock_password" = "Lock with password";
 "preferences_lock_faceid" = "Lock with Face ID";
 "preferences_lock_touchid" = "Lock with Touch ID";
