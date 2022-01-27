@@ -255,8 +255,8 @@
 "dhcp_remove_lease" = "移除租約";
 "dhcp_leases" = "租約";
 "dhcp_lease_create" = "創建靜態租約";
-"dhcp_add_client_with_ip" = "New Client (with IP)";
-"dhcp_add_client_with_mac" = "New Client (with MAC)";
+"dhcp_add_client_with_ip" = "新的用戶端（以 IP）";
+"dhcp_add_client_with_mac" = "新的用戶端（以 MAC）";
 "dhcp_reset_all_leases" = "重置所有的租約";
 "dhcp_reset_all_leases_footer" = "移除所有現行的租約而沒清除租約配置。";
 "dhcp_reset_all_leases_alert_title" = "重置租約";
@@ -305,7 +305,7 @@
 "dns_cache_optimistic_explainer" = "即使當項目為已到期的，從快取使 AdGuard Home 回覆，並還嘗試重新整理它們。";
 "dns_override_minimum_ttl" = "覆寫最小的存活時間（TTL）";
 "dns_override_maximum_ttl" = "覆寫最大的存活時間（TTL）";
-"dns_override_in_seconds" = "秒";
+"dns_override_in_seconds" = "以秒數";
 "dns_pro_required" = "Remote Pro 是必須的以管理 DNS 設定。";
 
 // MARK: DNS Rewrites
@@ -428,7 +428,7 @@
 "design_app_icon_original" = "原始";
 "design_app_icon_inverse" = "反向";
 "design_app_icon_dark" = "深色";
-"design_app_icon_blueprint" = "Blueprint";
+"design_app_icon_blueprint" = "藍圖";
 "design_app_icon_pride" = "Pride";
 "design_theme" = "主題";
 "design_system_setting" = "使用系統設定";
@@ -577,5 +577,5 @@
 "widget_dashboard_description" = "檢視您的儀表板統計資料。";
 
 // MARK: Apple Watch
-"loading_instances_icloud" = "Loading instances from iCloud...";
-"watch_stuck_reinstall" = "This can take a while. If the app is stuck on this spinner, please try a reinstall of the app. Sorry for the inconvenience!";
+"loading_instances_icloud" = "正在從 iCloud 載入實例…";
+"watch_stuck_reinstall" = "這可能需要一段時間。如果此應用程式卡在轉盤上，請嘗試重新安裝它。為該不便而抱歉！";
