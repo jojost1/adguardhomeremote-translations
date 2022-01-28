@@ -23,6 +23,7 @@ Funktionen:
 - DNS-Umschreibungen verwalten (erfordert Remote Pro)
 - Unterstützung mehrerer Instanzen (erfordert Remote Pro)
 - Widgets
+- iCloud-Synchronisierung zwischen iOS und iPadOS
 - Anpassbare Farbschemen und App-Icons
 - Unterstützt iOS, iPadOS und macOS
 - 100% reines und modernes SwiftUI-Design
