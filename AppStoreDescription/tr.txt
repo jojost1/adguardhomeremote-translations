@@ -1,0 +1,37 @@
+AdGuard Home Remote makes managing your AdGuard Home quick and easy. Quickly enable/disable blocking features, as well as view statistics such as top clients and top domains. Manage your clients, filters, DNS rewrites, and more.
+
+*Control Blocking*
+You can quickly enable or disable filtering & safe browsing/search. You can even manage specific settings for your clients!
+
+*Statistics*
+View graphs of your queries as well as top clients and domains. Search through your queries in the Query Log with detailed request and response info.
+
+*Manage Settings*
+Add or edit your clients, add some new filters or maybe disable them for a while, update your filters, edit blocked services, manage DHCP and DNS settings, create new DNS rules, or edit your Query Log settings.
+
+==
+
+Features:
+- Control Filtering & Safe Browsing/Search
+- View basic & advanced statistics
+- Query Log with search and filters
+- Live Log showing a log of queries while they happen in real-time (requires Pro)
+- Manage Clients, including filtering settings, blocked services, and tags (requires Pro)
+- Manage Filters, including block- & allowlists and custom filtering rules (requires Pro)
+- Manage DHCP settings, including static leases (requires Pro)
+- Manage DNS settings (requires Pro)
+- Manage DNS Rewrites (requires Pro)
+- Support for multiple instances (requires Pro)
+- Widgets
+- iCloud sync between iOS & iPadOS
+- Customisable color schemes and app icons
+- Support for iOS, iPadOS, macOS
+- Clean and modern 100% SwiftUI design
+
+* AdGuard Home Remote Pro:
+Additional features are unlocked with a one-time purchase which will also support future development.
+
+==
+
+Note: 
+AdGuard Home Remote is a third-party app and is not directly affiliated to AdGuard. For more information about AdGuard Home, visit https://adguard.com/adguard-home/overview.html.
