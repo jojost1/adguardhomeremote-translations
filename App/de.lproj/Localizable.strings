@@ -255,8 +255,8 @@
 "dhcp_remove_lease" = "Lease entfernen";
 "dhcp_leases" = "Leases";
 "dhcp_lease_create" = "Statischen Lease hinzufügen";
-"dhcp_add_client_with_ip" = "New Client (with IP)";
-"dhcp_add_client_with_mac" = "New Client (with MAC)";
+"dhcp_add_client_with_ip" = "Neuer Client (mit IP)";
+"dhcp_add_client_with_mac" = "Neuer Client (mit MAC)";
 "dhcp_reset_all_leases" = "Setzen Sie alle Leases zurück";
 "dhcp_reset_all_leases_footer" = "Entfernt alle aktuellen Leases, ohne die Lease-Konfiguration zu löschen.";
 "dhcp_reset_all_leases_alert_title" = "Setzen Sie alle Leases zurück";
@@ -369,8 +369,8 @@
 "preferences_querylog_show_sidebar" = "Sidebar anzeigen";
 "preferences_other" = "Sonstiges";
 "preferences_language" = "Sprache (Language)";
-"preferences_language_macos_alert" = "Change Language";
-"preferences_language_macos_alert_body" = "To change the language of the app on macOS, open 'System Preferences > Language & Region > Apps' and add the app there.";
+"preferences_language_macos_alert" = "Sprache wechseln";
+"preferences_language_macos_alert_body" = "Um die App-Sprache unter macOS zu ändern, öffnen Sie "Systemeinstellungen > Sprache & Region > Apps" und fügen Sie die App dort hinzu.";
 "preferences_lock_password" = "Per Passwort sperren";
 "preferences_lock_faceid" = "Per Face ID sperren";
 "preferences_lock_touchid" = "Per Touch ID sperren";
@@ -428,7 +428,7 @@
 "design_app_icon_original" = "Original";
 "design_app_icon_inverse" = "Umgekehrt";
 "design_app_icon_dark" = "Dunkel";
-"design_app_icon_blueprint" = "Blueprint";
+"design_app_icon_blueprint" = "Blaupause";
 "design_app_icon_pride" = "Pride";
 "design_theme" = "Darstellung";
 "design_system_setting" = "Gerätedesign verwenden";
@@ -505,7 +505,7 @@ Apps, welche ich ebenfalls kontinuierlich verbessere, im AppStore veröffentlich
 "rocketscience_tipjar_thankyou" = "Vielen Dank!";
 "rocketscience_my_other_apps" = "Meine anderen Apps";
 "rocketscience_piholeremote_subtitle" = "Alles über Pi-hole an einem Ort.";
-"rocketscience_energieradar_subtitle" = "Überwache Strompreise in den Niederlanden in Echtzeit.";
+"rocketscience_energieradar_subtitle" = "Überwache Strom- & Gaspreise in den Niederlanden in Echtzeit.";
 "rocketscience_acknoledgements" = "Besonderer Dank geht an";
 
 // MARK: Tip Jar
@@ -578,5 +578,5 @@ Apps, welche ich ebenfalls kontinuierlich verbessere, im AppStore veröffentlich
 "widget_dashboard_description" = "Ihre Statistiken anzeigen.";
 
 // MARK: Apple Watch
-"loading_instances_icloud" = "Loading instances from iCloud...";
-"watch_stuck_reinstall" = "This can take a while. If the app is stuck on this spinner, please try a reinstall of the app. Sorry for the inconvenience!";
+"loading_instances_icloud" = "Lädt Instanzen aus iCloud...";
+"watch_stuck_reinstall" = "Dies kann eine Weile dauern. Wenn die App bei diesem Vorgang stecken bleibt, versuchen Sie bitte eine App-Neuinstallation.";
