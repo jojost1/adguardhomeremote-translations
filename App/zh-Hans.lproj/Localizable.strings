@@ -577,5 +577,5 @@
 "widget_dashboard_description" = "查看您的仪表盘统计数据。";
 
 // MARK: Apple Watch
-"loading_instances_icloud" = "Loading instances from iCloud...";
-"watch_stuck_reinstall" = "This can take a while. If the app is stuck on this spinner, please try a reinstall of the app. Sorry for the inconvenience!";
+"loading_instances_icloud" = "正在从 iCloud 读取实例...";
+"watch_stuck_reinstall" = "这可能需要一段时间。如果程序长时间卡在此旋转图标处，请尝试重新安装本程序。为此不便深表歉意！";
