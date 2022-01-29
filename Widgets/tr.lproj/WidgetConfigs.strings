@@ -1,47 +1,47 @@
-"0foAlr-1ekF7R" = "Just to confirm, you wanted ‘Dark (Pure Black)’?";
+"0foAlr-1ekF7R" = "Doğrulamak için soruyorum, ‘Koyu (Saf Siyah)’ istiyorsunuz değil mi?";
 
-"0foAlr-JOGSFQ" = "Just to confirm, you wanted ‘Light’?";
+"0foAlr-JOGSFQ" = "Doğrulamak için soruyorum, ‘Açık’ istiyorsunuz değil mi?";
 
-"0foAlr-W38Flm" = "Just to confirm, you wanted ‘Dark’?";
+"0foAlr-W38Flm" = "Doğrulamak için soruyorum, ‘Koyu’ istiyorsunuz değil mi?";
 
-"0foAlr-ZyGBsF" = "Just to confirm, you wanted ‘System’?";
+"0foAlr-ZyGBsF" = "Doğrulamak için soruyorum, ‘Sistem’ istiyorsunuz değil mi?";
 
-"0foAlr-g0CJBh" = "Just to confirm, you wanted ‘System (Pure Black)’?";
+"0foAlr-g0CJBh" = "Doğrulamak için soruyorum, ‘Sistem (Saf Siyah)’ istiyorsunuz değil mi?";
 
-"1ekF7R" = "Dark (Pure Black)";
+"1ekF7R" = "Koyu (Saf Siyah)";
 
-"9m7HE0" = "Appearance";
+"9m7HE0" = "Görünüm";
 
-"JOGSFQ" = "Light";
+"JOGSFQ" = "Açık";
 
-"MtnrjZ" = "What instance to display?";
+"MtnrjZ" = "Hangi örnek gösterilecek?";
 
-"VA4ap6" = "Instance";
+"VA4ap6" = "Örnek";
 
-"W38Flm" = "Dark";
+"W38Flm" = "Koyu";
 
-"ZyGBsF" = "System";
+"ZyGBsF" = "Sistem";
 
-"bfm6TG" = "Just to confirm, you wanted ‘${instance}’?";
+"bfm6TG" = "Doğrulamak için soruyorum, ‘${instance}’?";
 
-"g0CJBh" = "System (Pure Black)";
+"g0CJBh" = "Sistem (Saf Siyah)";
 
-"gpCwrM" = "Dashboard Widget";
+"gpCwrM" = "Pano Widget'ı";
 
-"l8C2oo" = "There are ${count} options matching ‘${instance}’.";
+"l8C2oo" = "‘${instance}’ ile eşleşen {count} adet seçenek bulunuyor.";
 
-"tVvJ9c" = "Dashboard Widget";
+"tVvJ9c" = "Pano Widget'ı";
 
-"v1RflJ" = "Instance";
+"v1RflJ" = "Örnek";
 
-"veGZYz-1ekF7R" = "There are ${count} options matching ‘Dark (Pure Black)’.";
+"veGZYz-1ekF7R" = "‘Dark (Pure Black)’ ile eşleşen {count} adet seçenek bulunuyor.;
 
-"veGZYz-JOGSFQ" = "There are ${count} options matching ‘Light’.";
+"veGZYz-JOGSFQ" = "Açık’ ile eşleşen {count} adet seçenek bulunuyor.";
 
-"veGZYz-W38Flm" = "There are ${count} options matching ‘Dark’.";
+"veGZYz-W38Flm" = "‘Koyu’ ile eşleşen {count} adet seçenek bulunuyor.";
 
-"veGZYz-ZyGBsF" = "There are ${count} options matching ‘System’.";
+"veGZYz-ZyGBsF" = "Sistem‘Dark (Pure Black)’ ile eşleşen {count} adet seçenek bulunuyor.";
 
-"veGZYz-g0CJBh" = "There are ${count} options matching ‘System (Pure Black)’.";
+"veGZYz-g0CJBh" = "‘Sistem (Saf Siyah)’ ile eşleşen {count} adet seçenek bulunuyor.";
 
-"xq4Ojz" = "Appearance";
+"xq4Ojz" = "Görünüm";
