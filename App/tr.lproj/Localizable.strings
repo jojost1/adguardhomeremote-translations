@@ -572,9 +572,9 @@
 "90d" = "90 gün";
 
 // MARK: Widgets
-"widget_dashboard" = "Dashboard Widget";
-"widget_dashboard_description" = "View your Dashboard statistics.";
+"widget_dashboard" = "Pano Widget'ı";
+"widget_dashboard_description" = "Gösterge Tablosu istatistiklerinizi görüntüleyin.";
 
 // MARK: Apple Watch
-"loading_instances_icloud" = "Loading instances from iCloud...";
-"watch_stuck_reinstall" = "This can take a while. If the app is stuck on this spinner, please try a reinstall of the app. Sorry for the inconvenience!";
+"loading_instances_icloud" = "iCloud'dan örnekler yükleniyor...";
+"watch_stuck_reinstall" = "Bu biraz zaman alabilir. Uygulama bu döndürücüde takılı kalırsa, lütfen uygulamayı yeniden yüklemeyi deneyin. Rahatsızlıktan dolayı özür dileriz!";
