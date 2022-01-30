@@ -370,7 +370,7 @@
 "preferences_other" = "Diğer";
 "preferences_language" = "Dil";
 "preferences_language_macos_alert" = "Dili değiştir";
-"preferences_language_macos_alert_body" = "Bir uygulamanın dilini macOS'te özelleştirmek için "Sistem Tercihleri > Dil ve Bölge > Uygulamalar"a gidin, uygulamayı ekleyin ve oradan bir dil seçin.";
+"preferences_language_macos_alert_body" = "Bir uygulamanın dilini macOS'te özelleştirmek için 'Sistem Tercihleri > Dil ve Bölge > Uygulamalar' a gidin, uygulamayı ekleyin ve oradan bir dil seçin.";
 "preferences_lock_password" = "Şifre ile kilitle";
 "preferences_lock_faceid" = "Face ID ile kilitle";
 "preferences_lock_touchid" = "Touch ID ile kilitle";
