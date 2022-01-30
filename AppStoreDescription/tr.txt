@@ -1,0 +1,37 @@
+AdGuard Home Remote, AdGuard Home'unuzu yönetmeyi hızlı ve kolay hale getirir. Engelleme özelliklerini hızlı bir şekilde etkinleştirin/devre dışı bırakın, ayrıca en iyi istemciler ve en iyi alanlar gibi istatistikleri görüntüleyin. İstemcilerinizi, filtrelerinizi, DNS yeniden yazma işlemlerini ve daha fazlasını yönetin.
+
+*Kontrol Engelleme*
+Filtreleme ve güvenli tarama/aramayı hızla etkinleştirebilir veya devre dışı bırakabilirsiniz. Hatta müşterileriniz için belirli ayarları yönetebilirsiniz!
+
+*İstatistik*
+Sorgularınızın yanı sıra en iyi müşteriler ve alan adlarının grafiklerini görüntüleyin. Ayrıntılı istek ve yanıt bilgileriyle Sorgu Günlüğünde sorgularınızı arayın.
+
+*Ayarları Yönet*
+İstemcilerinizi ekleyin veya düzenleyin, bazı yeni filtreler ekleyin veya bunları bir süreliğine devre dışı bırakın, filtrelerinizi güncelleyin, engellenen hizmetleri düzenleyin, DHCP ve DNS ayarlarını yönetin, yeni DNS kuralları oluşturun veya Sorgu Günlüğü ayarlarınızı düzenleyin.
+
+==
+
+Özellikleri:
+- Kontrol Filtreleme ve Güvenli Tarama/Arama
+- Temel ve gelişmiş istatistikleri görüntüleyin
+- Arama ve filtrelerle Sorgu Günlüğü
+- Gerçek zamanlı olarak gerçekleşirken sorgu günlüğünü gösteren Canlı Günlük (Pro gerektirir)
+- Filtreleme ayarları, engellenen hizmetler ve etiketler dahil olmak üzere İstemcileri Yönetin (Pro gerektirir)
+- Engelleme ve izin verilenler listeleri ve özel filtreleme kuralları dahil olmak üzere Filtreleri Yönetin (Pro gerektirir)
+- Statik kiralamalar dahil DHCP ayarlarını yönetin (Pro gerektirir)
+- DNS ayarlarını yönetin (Pro gerektirir)
+- DNS Yeniden Yazmalarını Yönetin (Pro gerektirir)
+- Birden çok örnek için destek (Pro gerektirir)
+- Widget'lar
+- iOS ve iPadOS arasında iCloud senkronizasyonu
+- Özelleştirilebilir renk şemaları ve uygulama simgeleri
+- iOS, iPadOS, macOS desteği
+- Temiz ve modern %100 SwiftUI tasarımı
+
+* AdGuard Home Remote Pro:
+Gelecekteki geliştirmeleri de destekleyecek olan tek seferlik satın alma ile ek özelliklerin kilidi açılır.
+
+==
+
+Not:
+AdGuard Home Remote bir üçüncü taraf uygulamasıdır ve doğrudan AdGuard'a bağlı değildir. AdGuard Home hakkında daha fazla bilgi için https://adguard.com/adguard-home/overview.html adresini ziyaret edin.
