@@ -578,4 +578,4 @@
 
 // MARK: Apple Watch
 "loading_instances_icloud" = "Loading instances from iCloud...";
-"watch_stuck_reinstall" = "This can take a while. If the app is stuck on a spinner, please try reinstalling it. Sorry for the inconvenience!";
+"watch_stuck_reinstall" = "This can take a while. If the app is stuck on this screen, please try reinstalling it. Sorry for the inconvenience!";
