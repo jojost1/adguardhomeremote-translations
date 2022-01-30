@@ -370,7 +370,7 @@
 "preferences_other" = "Sonstiges";
 "preferences_language" = "Sprache (Language)";
 "preferences_language_macos_alert" = "Sprache wechseln";
-"preferences_language_macos_alert_body" = "Um die App-Sprache unter macOS zu ändern, öffnen Sie "Systemeinstellungen > Sprache & Region > Apps" und fügen Sie die App dort hinzu.";
+"preferences_language_macos_alert_body" = "Um die App-Sprache unter macOS zu ändern, öffnen Sie 'Systemeinstellungen > Sprache & Region > Apps' und fügen Sie die App dort hinzu.";
 "preferences_lock_password" = "Per Passwort sperren";
 "preferences_lock_faceid" = "Per Face ID sperren";
 "preferences_lock_touchid" = "Per Touch ID sperren";
