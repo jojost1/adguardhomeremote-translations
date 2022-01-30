@@ -469,7 +469,8 @@
 "pro_testflight" = "TestFlight";
 "pro_beta_access_button" = "Beta Erişim İste";
 "pro_testflight_alert" = "Cihazınızda aktif bir posta istemciniz olmadığını görüyorum, lütfen Pro'yu satın aldığınızı görebilmem için bu Pro ekranının ekran görüntüsünü içeren TestFlight'a katılma isteği ile birlikte bana e-posta gönderin..\n\nLütfen developer@rocketscience-it.nl mail gönderin!";
-"pro_testflight_explainer" = "Note: Uygulamanın bir TestFlight derlemesini çalıştırıyorsunuz, bu nedenle ödemeler Sandbox modunda çalışır ve gerçekte işlenmez.\n\nA Pro 'lisans' TestFlight derlemesindeyken birkaç günde bir geçersiz olur. Pro'yu satın almak ve bu sıkıntı olmadan uygulamayı kullanmak istiyorsanız, lütfen uygulamayı App Store'dan indirin. teşekkürler
+"pro_testflight_explainer" = "Note: Uygulamanın bir TestFlight derlemesini çalıştırıyorsunuz, bu nedenle ödemeler Sandbox modunda çalışır ve gerçekte işlenmez.\n\nA Pro 'lisans' TestFlight derlemesindeyken birkaç günde bir geçersiz olur. Pro'yu satın almak ve bu sıkıntı olmadan uygulamayı kullanmak istiyorsanız, lütfen uygulamayı App Store'dan indirin. teşekkürler";
+
 // MARK: Pro Features
 "pro_view_queries" = "25+ Sorgularını Görüntüle & Filtreleri ayarla";
 "pro_livelog" = "Canlı Sorgu Kayıtını Görüntüle";
