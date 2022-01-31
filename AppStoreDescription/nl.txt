@@ -23,9 +23,9 @@ Functies:
 - Beheer DNS herschrijvingen (Pro vereist)
 - Ondersteuning voor meerdere instanties (Pro vereist)
 - Widgets
-- Synchronisatie via iCloud voor iOS & iPadOS
+- Synchronisatie via iCloud tussen iPhone, iPad, Apple Watch
 - Aanpasbaar kleurenschema en app icoon
-- Ondersteuning voor iOS, iPadOS, macOS
+- Ondersteuning voor iOS, iPadOS, macOS, watchOS
 - Modern 100% SwiftUI ontwerp
 
 * AdGuard Home Remote Pro:

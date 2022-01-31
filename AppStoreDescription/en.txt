@@ -23,9 +23,9 @@ Features:
 - Manage DNS Rewrites (requires Pro)
 - Support for multiple instances (requires Pro)
 - Widgets
-- iCloud sync between iOS & iPadOS
+- iCloud sync between iPhone, iPad, and Apple Watch
 - Customisable color schemes and app icons
-- Support for iOS, iPadOS, macOS
+- Support for iOS, iPadOS, macOS, watchOS
 - Clean and modern 100% SwiftUI design
 
 * AdGuard Home Remote Pro:
