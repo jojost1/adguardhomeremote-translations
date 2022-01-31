@@ -24,7 +24,7 @@ Funcionalidades:
 - Soporte para múltiples instancias (PRO)
 - Widgets
 - Esquema de colores e icono personalizable
-- Soporta iOS, iPadOS y macOS
+- Soporta iOS, iPadOS, macOS y watchOS
 - Diseño moderno 100% SwiftUI
 
 * AdGuard Home Remote Pro:

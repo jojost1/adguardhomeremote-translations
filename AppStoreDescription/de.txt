@@ -25,7 +25,7 @@ Funktionen:
 - Widgets
 - iCloud-Synchronisierung zwischen iOS und iPadOS
 - Anpassbare Farbschemen und App-Icons
-- Unterstützt iOS, iPadOS und macOS
+- Unterstützt iOS, iPadOS, macOS und watchOS
 - 100% reines und modernes SwiftUI-Design
 
 AdGuard Home Remote Pro:

@@ -25,7 +25,7 @@ Sorgularınızın yanı sıra en iyi müşteriler ve alan adlarının grafikleri
 - Widget'lar
 - iOS ve iPadOS arasında iCloud senkronizasyonu
 - Özelleştirilebilir renk şemaları ve uygulama simgeleri
-- iOS, iPadOS, macOS desteği
+- iOS, iPadOS, macOS, watchOS desteği
 - Temiz ve modern %100 SwiftUI tasarımı
 
 * AdGuard Home Remote Pro:

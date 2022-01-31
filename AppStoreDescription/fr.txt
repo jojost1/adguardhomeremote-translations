@@ -23,7 +23,7 @@ Caractéristiques :
 - Prise en charge de plusieurs instances (nécessite la version Pro)
 - Widgets
 - Jeux de couleurs et icônes d'applications personnalisables
-- Prise en charge d'iOS, iPadOS et macOS
+- Prise en charge d'iOS, iPadOS, macOS et watchOS
 - Design propre et moderne 100% SwiftUI
 
 * AdGuard Home Remote Pro :
