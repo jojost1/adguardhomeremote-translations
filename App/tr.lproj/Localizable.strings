@@ -14,10 +14,10 @@
 "dashboard_safe-browsing" = "Güvenli\nTarama";
 "dashboard_safe-search" = "Güvenli\nArama";
 "dashboard_queries" = "DNS Sorgular";
-"dashboard_blocked-filters" = "Filtreler tarafından engellendi";
-"dashboard_blocked-malware" = "Kötü Amaçlı Yazılım/Kimlik Avı engellendi";
-"dashboard_blocked-adult" = "Yetişkin Web Siteleri engellendi";
-"dashboard_top-clients" = "En iyi müşteriler";
+"dashboard_blocked-filters" = "Filtreler Tarafından Engellendi";
+"dashboard_blocked-malware" = "Kötü Amaçlı Yazılım/Kimlik Avı Engellendi";
+"dashboard_blocked-adult" = "Yetişkin Web Siteleri Engellendi";
+"dashboard_top-clients" = "En İyi Müşteriler";
 "dashboard_top-queried" = "En Çok Sorgulanan Alanlar";
 "dashboard_top-blocked" = "En Çok Engellenen Alanlar";
 "dashboard_avg_ms_%@" = "avg %@ms";
@@ -137,7 +137,7 @@
 "settings_dns" = "DNS";
 "settings_dns_rewrites" = "DNS yeniden yazımlar";
 "settings_query-log" = "Sorgu kaydı";
-"settings_more" = "Fazlası";
+"settings_more" = "Daha Fazlası";
 
 // MARK: Clients
 "client_settings" = "Müşteri Ayarları";
@@ -320,12 +320,12 @@
 
 // MARK: Query Log
 "querylog_settings_status" = "Durum";
-"querylog_settings_enable" = "Sorgu kayıtını etkinleştir";
+"querylog_settings_enable" = "Sorgu Kayıdını Etkinleştir";
 "querylog_settings_options" = "Seçenekler";
 "querylog_settings_options_footer" = "'Müşteri IP'sini Anonimleştir'i açmak, istemcilerin tam IP adresinin günlüklere ve istatistiklere kaydedilmesini devre dışı bırakır.";
 "querylog_settings_anonymize" = "Müşteri IP'sini Anonimleştir";
 "querylog_settings_log_retention" = "Kayıt Tutma";
-"querylog_settings_clear" = "Sorgu Kayıdını temizle";
+"querylog_settings_clear" = "Sorgu Kayıdını Temizle";
 "querylog_settings_clear_alert" = "Bütün sorgu kayıdını temizlemek istediğinize emin misiniz?";
 "querylog_settings_cleared" = "Temizlendi.";
 
@@ -375,7 +375,7 @@
 "preferences_lock_faceid" = "Face ID ile kilitle";
 "preferences_lock_touchid" = "Touch ID ile kilitle";
 "preferences_lock_footer" = "Etkinleştirilirse, uygulamayı her kapattığınızda AdGuard Home Remote kilitlenir. Yeniden başlatırken kimlik doğrulamanız istenecek.";
-"preferences_lock_require" = "Gerekmek";
+"preferences_lock_require" = "Kilit";
 "preferences_lock_require_immediately" = "Hemen";
 "preferences_lock_require_1min" = "1 dakika sonra";
 "preferences_lock_require_5min" = "5 dakika sonra";
@@ -401,12 +401,12 @@
 // MARK: Other Settings
 "settings_other" = "Diğer";
 "settings_pro" = "Pro";
-"settings_leave_review" = "Yorum bırak";
+"settings_leave_review" = "Yorum Yap";
 "settings_twitter" = "Twitter'da takip et";
-"settings_changelog" = "Neler Yeni";
+"settings_changelog" = "Değişiklik Günlüğü";
 "settings_adguard-website" = "AdGuard Web sitesi";
 
-// MARK: Design
+// MARK: Desig
 "settings_design" = "Tasarım";
 "design_color_scheme" = "Renk uyumu";
 "design_color_scheme_default" = "Varsayılan";
@@ -427,7 +427,7 @@
 "design_app_icon" = "Uygulama İkonu";
 "design_app_icon_original" = "Orijinal";
 "design_app_icon_inverse" = "Ters";
-"design_app_icon_dark" = "karanlık";
+"design_app_icon_dark" = "Karanlık";
 "design_app_icon_blueprint" = "Taslak";
 "design_app_icon_pride" = "Gurur";
 "design_theme" = "Theme";
@@ -531,7 +531,7 @@
 "new" = "Yeni";
 "add" = "Ekle";
 "edit" = "Düzenle";
-"done" = "Tamamlandı";
+"done" = "Tamam";
 "save" = "Kaydet";
 "remove" = "Kaldır";
 "ok" = "OK";
@@ -573,7 +573,7 @@
 "90d" = "90 gün";
 
 // MARK: Widgets
-"widget_dashboard" = "Pano Widget'ı";
+"widget_dashboard" = "Gösterge Paneli";
 "widget_dashboard_description" = "Gösterge Tablosu istatistiklerinizi görüntüleyin.";
 
 // MARK: Apple Watch
