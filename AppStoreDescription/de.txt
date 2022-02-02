@@ -23,7 +23,7 @@ Funktionen:
 - DNS-Umschreibungen verwalten (erfordert Remote Pro)
 - Unterstützung mehrerer Instanzen (erfordert Remote Pro)
 - Widgets
-- iCloud-Synchronisierung zwischen iOS und iPadOS
+- iCloud-Synchronisierung zwischen iPhone, iPad und Apple Watch
 - Anpassbare Farbschemen und App-Icons
 - Unterstützt iOS, iPadOS, macOS und watchOS
 - 100% reines und modernes SwiftUI-Design
@@ -34,4 +34,4 @@ Weitere leistungsstarke Funktionen werden mit einem einmaligen Kauf freigeschalt
 ==
 
 Beachte: 
-AdGuard Home Remote ist eine Drittanbieter-App und steht in keiner direkten Verbindung mit AdGuard Software Limited. Weitere Informationen zu AdGuard Home finden Sie unter https://adguard.com/adguard-home/overview.html.
+AdGuard Home Remote ist eine Drittanbieter-App und steht in keiner direkten Verbindung mit AdGuard Software Limited. Weitere Informationen zu AdGuard Home finden Sie unter https://adguard.com/adguard-home.html
