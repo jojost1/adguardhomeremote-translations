@@ -23,9 +23,9 @@ AdGuard Home Remote 使管理您的 AdGuard Home 快速且簡單。快速地啟�
 - 管理 DNS 改寫（需要 Pro）
 - 對於多個實例的支援（需要 Pro）
 - 小工具
-- 在 iOS & iPadOS 之間的 iCloud 同步
+- 在 iPhone、iPad 和 Apple Watch 之間的 iCloud 同步
 - 自訂的色彩配置和應用程式圖像
-- 對於 iOS、iPadOS、macOS 的支援
+- 對於 iOS、iPadOS、macOS、watchOS 的支援
 - 乾淨的和現代的 100％ SwiftUI 設計
 
 * AdGuard Home Remote Pro：
