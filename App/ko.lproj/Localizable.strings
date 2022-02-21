@@ -244,12 +244,21 @@
 "dhcp_status" = "상태";
 "dhcp_enable" = "DHCP 서버 활성화";
 "dhcp_interface" = "인터페이스";
+"dhcp_interface_details" = "Details";
+"dhcp_interface_gateway_ip" = "Gateway IP";
+"dhcp_interface_hardware_address" = "Hardware address";
+"dhcp_interface_ip_addresses" = "IP addresses";
+"dhcp_interface_flags" = "Flags";
 "dhcp_ipv4_settings" = "IPv4 설정";
 "dhcp_gateway_ip" = "게이트웨이 IP";
 "dhcp_subnet_mask" = "서브넷 마스크";
 "dhcp_ip_range" = "IP 주소 범위";
-"dhcp_lease_time" = "DHCP 임대 시간 (초 단위로 표시됩니다)";
+"dhcp_ip_range_start" = "start";
+"dhcp_ip_range_end" = "end";
+"dhcp_lease_time" = "DHCP 임대 시간";
+"dhcp_lease_time_in_seconds" = "초";
 "dhcp_ipv6_settings" = "IPv6 설정";
+"dhcp_ipv6_settings_unsupported" = "Interface does not support IPv6.";
 "dhcp_range_start" = "범위 시작";
 "dhcp_static_leases" = "고정 임대";
 "dhcp_remove_lease" = "임대 삭제";
@@ -261,6 +270,9 @@
 "dhcp_reset_all_leases_footer" = "임대 구성을 지우지 않고 현재 임대를 모두 제거합니다.";
 "dhcp_reset_all_leases_alert_title" = "임대 초기화";
 "dhcp_reset_all_leases_alert_body" = "모든 임대를 초기화하시겠습니까?";
+"dhcp_reset_dhcp_config" = "Reset DHCP configuration";
+"dhcp_reset_dhcp_config_footer" = "Resets all DHCP settings.";
+"dhcp_reset_dhcp_config_alert_body" = "Are you sure you want to reset the DHCP configuration?";
 "dhcp_pro_required" = "DHCP 설정을 관리하려면 Pro 버전이 필요합니다.";
 // New Static Lease
 "dhcp_staticlease_new" = "새 고정 임대";

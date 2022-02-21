@@ -244,12 +244,21 @@
 "dhcp_status" = "Statut";
 "dhcp_enable" = "Activer le serveur DHCP";
 "dhcp_interface" = "Interface";
+"dhcp_interface_details" = "Des détails";
+"dhcp_interface_gateway_ip" = "IP de la passerelle";
+"dhcp_interface_hardware_address" = "Adresse de la machine";
+"dhcp_interface_ip_addresses" = "Adresses IP";
+"dhcp_interface_flags" = "Flags";
 "dhcp_ipv4_settings" = "Paramètres IPv4";
 "dhcp_gateway_ip" = "IP de la passerelle";
 "dhcp_subnet_mask" = "Masque de sous-réseau";
 "dhcp_ip_range" = "Plage des adresses IP";
-"dhcp_lease_time" = "Période de location du serveur DHCP (secondes)";
+"dhcp_ip_range_start" = "start";
+"dhcp_ip_range_end" = "end";
+"dhcp_lease_time" = "Période de location";
+"dhcp_lease_time_in_seconds" = "en secondes";
 "dhcp_ipv6_settings" = "Paramètres IPv6";
+"dhcp_ipv6_settings_unsupported" = "Interface does not support IPv6.";
 "dhcp_range_start" = "Début de la plage";
 "dhcp_static_leases" = "Baux statiques DHCP";
 "dhcp_remove_lease" = "Supprimer le bail";
@@ -261,6 +270,9 @@
 "dhcp_reset_all_leases_footer" = "Removes all current leases without erasing the lease configuration.";
 "dhcp_reset_all_leases_alert_title" = "Réinitialiser tous les baux";
 "dhcp_reset_all_leases_alert_body" = "Voulez-vous vraiment réinitialiser tous les baux DHCP?";
+"dhcp_reset_dhcp_config" = "Reset DHCP configuration";
+"dhcp_reset_dhcp_config_footer" = "Resets all DHCP settings.";
+"dhcp_reset_dhcp_config_alert_body" = "Are you sure you want to reset the DHCP configuration?";
 "dhcp_pro_required" = "Remote Pro est requis pour gérer les paramètres DHCP.";
 // New Static Lease
 "dhcp_staticlease_new" = "Nouveau bail statique";

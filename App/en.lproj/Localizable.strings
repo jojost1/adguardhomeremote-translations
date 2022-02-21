@@ -244,12 +244,21 @@
 "dhcp_status" = "Status";
 "dhcp_enable" = "Enable DHCP Server";
 "dhcp_interface" = "Interface";
+"dhcp_interface_details" = "Details";
+"dhcp_interface_gateway_ip" = "Gateway IP";
+"dhcp_interface_hardware_address" = "Hardware address";
+"dhcp_interface_ip_addresses" = "IP addresses";
+"dhcp_interface_flags" = "Flags";
 "dhcp_ipv4_settings" = "IPv4 Settings";
 "dhcp_gateway_ip" = "Gateway IP";
 "dhcp_subnet_mask" = "Subnet Mask";
 "dhcp_ip_range" = "IP Range";
-"dhcp_lease_time" = "Lease Time (Seconds)";
+"dhcp_ip_range_start" = "start";
+"dhcp_ip_range_end" = "end";
+"dhcp_lease_time" = "Lease Time";
+"dhcp_lease_time_in_seconds" = "in seconds";
 "dhcp_ipv6_settings" = "IPv6 Settings";
+"dhcp_ipv6_settings_unsupported" = "Interface does not support IPv6.";
 "dhcp_range_start" = "Range Start";
 "dhcp_static_leases" = "Static Leases";
 "dhcp_remove_lease" = "Remove Lease";
@@ -261,6 +270,9 @@
 "dhcp_reset_all_leases_footer" = "Removes all current leases without erasing the lease configuration.";
 "dhcp_reset_all_leases_alert_title" = "Reset Leases";
 "dhcp_reset_all_leases_alert_body" = "Are you sure you want to reset all leases?";
+"dhcp_reset_dhcp_config" = "Reset DHCP configuration";
+"dhcp_reset_dhcp_config_footer" = "Resets all DHCP settings.";
+"dhcp_reset_dhcp_config_alert_body" = "Are you sure you want to reset the DHCP configuration?";
 "dhcp_pro_required" = "Remote Pro is required to manage DHCP settings.";
 // New Static Lease
 "dhcp_staticlease_new" = "New Static Lease";

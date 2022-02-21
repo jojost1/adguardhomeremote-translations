@@ -244,12 +244,21 @@
 "dhcp_status" = "Estado";
 "dhcp_enable" = "Habilitar servidor DHCP";
 "dhcp_interface" = "Interfaz";
+"dhcp_interface_details" = "Details";
+"dhcp_interface_gateway_ip" = "Gateway IP";
+"dhcp_interface_hardware_address" = "Hardware address";
+"dhcp_interface_ip_addresses" = "IP addresses";
+"dhcp_interface_flags" = "Flags";
 "dhcp_ipv4_settings" = "Ajustes IPv4";
 "dhcp_gateway_ip" = "Puerta de enlace";
 "dhcp_subnet_mask" = "Máscara de subred";
 "dhcp_ip_range" = "Rango de direcciones IP";
-"dhcp_lease_time" = "Tiempo de asignación (segundos)";
+"dhcp_ip_range_start" = "start";
+"dhcp_ip_range_end" = "end";
+"dhcp_lease_time" = "Tiempo de asignación";
+"dhcp_lease_time_in_seconds" = "en segundos";
 "dhcp_ipv6_settings" = "Ajustes IPv6";
+"dhcp_ipv6_settings_unsupported" = "Interface does not support IPv6.";
 "dhcp_range_start" = "Inicio del rango";
 "dhcp_static_leases" = "Asignaciones estáticas";
 "dhcp_remove_lease" = "Eliminar";
@@ -261,6 +270,9 @@
 "dhcp_reset_all_leases_footer" = "Elimina todas las asignaciones actuales sin eliminar las opciones configuradas.";
 "dhcp_reset_all_leases_alert_title" = "Restablecer asignaciones";
 "dhcp_reset_all_leases_alert_body" = "¿Estás seguro de que deseas restablecer todas las asignaciones?";
+"dhcp_reset_dhcp_config" = "Reset DHCP configuration";
+"dhcp_reset_dhcp_config_footer" = "Resets all DHCP settings.";
+"dhcp_reset_dhcp_config_alert_body" = "Are you sure you want to reset the DHCP configuration?";
 "dhcp_pro_required" = "Es necesario actualizar a Remote Pro para gestionar los ajustes del servidor DHCP";
 // New Static Lease
 "dhcp_staticlease_new" = "Nueva asignación estática";

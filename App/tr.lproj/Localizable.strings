@@ -244,12 +244,21 @@
 "dhcp_status" = "Durum";
 "dhcp_enable" = "DHCP ağını etkinleştir";
 "dhcp_interface" = "Arayüz";
+"dhcp_interface_details" = "Details";
+"dhcp_interface_gateway_ip" = "Gateway IP";
+"dhcp_interface_hardware_address" = "Hardware address";
+"dhcp_interface_ip_addresses" = "IP addresses";
+"dhcp_interface_flags" = "Flags";
 "dhcp_ipv4_settings" = "IPv4 Ayarları";
 "dhcp_gateway_ip" = "Gateway IP";
 "dhcp_subnet_mask" = "Subnet Maskesi";
 "dhcp_ip_range" = "IP Menzili";
-"dhcp_lease_time" = "Kiralama süresi (Seconds)";
+"dhcp_ip_range_start" = "start";
+"dhcp_ip_range_end" = "end";
+"dhcp_lease_time" = "Kiralama süresi";
+"dhcp_lease_time_in_seconds" = "saniyeler içinde";
 "dhcp_ipv6_settings" = "IPv6 Ayarları";
+"dhcp_ipv6_settings_unsupported" = "Interface does not support IPv6.";
 "dhcp_range_start" = "Menzil başlat";
 "dhcp_static_leases" = "Statik kiralamalar";
 "dhcp_remove_lease" = "Kiralamayı kaldır";
@@ -261,6 +270,9 @@
 "dhcp_reset_all_leases_footer" = "Kiralama yapılandırmalarını silmeden mevcut bütün kiralamaları sıfırla.";
 "dhcp_reset_all_leases_alert_title" = "Kiralamaları sıfırla";
 "dhcp_reset_all_leases_alert_body" = "Bütün kiralamaları sıfırlamak istediğinize emin misiniz?";
+"dhcp_reset_dhcp_config" = "Reset DHCP configuration";
+"dhcp_reset_dhcp_config_footer" = "Resets all DHCP settings.";
+"dhcp_reset_dhcp_config_alert_body" = "Are you sure you want to reset the DHCP configuration?";
 "dhcp_pro_required" = "DHCP ayarlarını yönetmek için RemotePro gerekmektedir.";
 // New Static Lease
 "dhcp_staticlease_new" = "Yeni Statik Kiralama";

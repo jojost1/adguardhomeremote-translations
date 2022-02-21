@@ -244,13 +244,22 @@
 "dhcp_status" = "Status";
 "dhcp_enable" = "DHCP server inschakelen";
 "dhcp_interface" = "Interface";
+"dhcp_interface_details" = "Details";
+"dhcp_interface_gateway_ip" = "Gateway IP";
+"dhcp_interface_hardware_address" = "Hardware adres";
+"dhcp_interface_ip_addresses" = "IP addressen";
+"dhcp_interface_flags" = "Flags";
 "dhcp_ipv4_settings" = "IPv4 Instellingen";
 "dhcp_gateway_ip" = "Gateway IP";
-"dhcp_subnet_mask" = "Subnet Mask";
+"dhcp_subnet_mask" = "Subnet mask";
 "dhcp_ip_range" = "Bereik van IP adressen";
-"dhcp_lease_time" = "Lease Tijd (Seconden)";
+"dhcp_ip_range_start" = "start";
+"dhcp_ip_range_end" = "eind";
+"dhcp_lease_time" = "Lease tijd";
+"dhcp_lease_time_in_seconds" = "in seconden";
 "dhcp_ipv6_settings" = "IPv6 Instellingen";
-"dhcp_range_start" = "Range Start";
+"dhcp_ipv6_settings_unsupported" = "Interface ondersteunt geen IPv6.";
+"dhcp_range_start" = "Range start";
 "dhcp_static_leases" = "Statische Leases";
 "dhcp_remove_lease" = "Verwijder lease";
 "dhcp_leases" = "Leases";
@@ -261,6 +270,9 @@
 "dhcp_reset_all_leases_footer" = "Verwijder alle leases zonder de lease configuratie te wissen.";
 "dhcp_reset_all_leases_alert_title" = "Reset Leases";
 "dhcp_reset_all_leases_alert_body" = "Weet je zeker dat je alle leases wilt resetten?";
+"dhcp_reset_dhcp_config" = "Reset DHCP configuratie";
+"dhcp_reset_dhcp_config_footer" = "Reset alle DHCP instellingen.";
+"dhcp_reset_dhcp_config_alert_body" = "Weet je zeker dat je de DHCP configuratie wilt resetten?";
 "dhcp_pro_required" = "Remote Pro is vereist om DHCP instellingen te beheren.";
 // New Static Lease
 "dhcp_staticlease_new" = "Nieuwe Statische Lease";

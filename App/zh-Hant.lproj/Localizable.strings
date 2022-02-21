@@ -244,12 +244,21 @@
 "dhcp_status" = "狀態";
 "dhcp_enable" = "啟用 DHCP 伺服器";
 "dhcp_interface" = "介面";
+"dhcp_interface_details" = "Details";
+"dhcp_interface_gateway_ip" = "Gateway IP";
+"dhcp_interface_hardware_address" = "Hardware address";
+"dhcp_interface_ip_addresses" = "IP addresses";
+"dhcp_interface_flags" = "Flags";
 "dhcp_ipv4_settings" = "IPv4 設定";
 "dhcp_gateway_ip" = "閘道 IP";
 "dhcp_subnet_mask" = "子網路遮罩";
 "dhcp_ip_range" = "IP 範圍";
-"dhcp_lease_time" = "租約時間（秒）";
+"dhcp_ip_range_start" = "start";
+"dhcp_ip_range_end" = "end";
+"dhcp_lease_time" = "租約時間";
+"dhcp_lease_time_in_seconds" = "以秒數";
 "dhcp_ipv6_settings" = "IPv6 設定";
+"dhcp_ipv6_settings_unsupported" = "Interface does not support IPv6.";
 "dhcp_range_start" = "起始範圍";
 "dhcp_static_leases" = "靜態租約";
 "dhcp_remove_lease" = "移除租約";
@@ -261,6 +270,9 @@
 "dhcp_reset_all_leases_footer" = "移除所有現行的租約而沒清除租約配置。";
 "dhcp_reset_all_leases_alert_title" = "重置租約";
 "dhcp_reset_all_leases_alert_body" = "您確定您想要重置所有的租約嗎？";
+"dhcp_reset_dhcp_config" = "Reset DHCP configuration";
+"dhcp_reset_dhcp_config_footer" = "Resets all DHCP settings.";
+"dhcp_reset_dhcp_config_alert_body" = "Are you sure you want to reset the DHCP configuration?";
 "dhcp_pro_required" = "Remote Pro 是必須的以管理 DHCP 設定。";
 // New Static Lease
 "dhcp_staticlease_new" = "新的靜態租約";

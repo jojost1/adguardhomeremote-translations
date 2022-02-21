@@ -244,12 +244,21 @@
 "dhcp_status" = "Estat";
 "dhcp_enable" = "Activar el servei DHCP";
 "dhcp_interface" = "Interfície";
+"dhcp_interface_details" = "Details";
+"dhcp_interface_gateway_ip" = "Gateway IP";
+"dhcp_interface_hardware_address" = "Hardware address";
+"dhcp_interface_ip_addresses" = "IP addresses";
+"dhcp_interface_flags" = "Flags";
 "dhcp_ipv4_settings" = "Ajustos IPv4";
 "dhcp_gateway_ip" = "Porta d’enllaç";
 "dhcp_subnet_mask" = "Màscara de xarxa";
 "dhcp_ip_range" = "Rang de d'adreça IP";
-"dhcp_lease_time" = "Temps d'assignació (segons)";
+"dhcp_ip_range_start" = "start";
+"dhcp_ip_range_end" = "end";
+"dhcp_lease_time" = "Temps d'assignació";
+"dhcp_lease_time_in_seconds" = "en segons";
 "dhcp_ipv6_settings" = "Ajustos IPv6";
+"dhcp_ipv6_settings_unsupported" = "Interface does not support IPv6.";
 "dhcp_range_start" = "Inici del rang";
 "dhcp_static_leases" = "Assignacions estàtiques";
 "dhcp_remove_lease" = "Esborrar";
@@ -261,6 +270,9 @@
 "dhcp_reset_all_leases_footer" = "Elimina totes les adreces assignades sense esborrar-ne la configuració.";
 "dhcp_reset_all_leases_alert_title" = "Restablir assignacions";
 "dhcp_reset_all_leases_alert_body" = "Estàs segur de que vols restablir totes les assignacions?";
+"dhcp_reset_dhcp_config" = "Reset DHCP configuration";
+"dhcp_reset_dhcp_config_footer" = "Resets all DHCP settings.";
+"dhcp_reset_dhcp_config_alert_body" = "Are you sure you want to reset the DHCP configuration?";
 "dhcp_pro_required" = "Es necessari actualitzar a Remote Pro per a gestionar els ajustos del servei DHCP";
 // New Static Lease
 "dhcp_staticlease_new" = "Nova assignació estàtica";
@@ -305,7 +317,7 @@
 "dns_cache_optimistic_explainer" = "Haz que AdGuard Home responda desde la caché incluso cuando las entradas estén expiradas y también intente actualizarlas.";
 "dns_override_minimum_ttl" = "TTL mínim";
 "dns_override_maximum_ttl" = "TTL màxim";
-"dns_override_in_seconds" = "en segundos";
+"dns_override_in_seconds" = "en segons";
 "dns_pro_required" = "Es necessari actualitzar a Remote Pro per a gestionar la configuració DNS";
 
 // MARK: DNS Rewrites
