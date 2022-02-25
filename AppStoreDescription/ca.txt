@@ -23,6 +23,7 @@ Funcionalitats:
 - Gestió de les substitucions DNS (PRO)
 - Suport per a varis servidors AdGuard Home (PRO)
 - Widgets
+- Sincronització via iCloud entre iOS i iPadOS
 - Varis esquemes de colors i personalització de la icona de l'aplicació
 - Compatible amb iOS, iPadOS i macOS
 - Disseny modern 100% SwiftUI
