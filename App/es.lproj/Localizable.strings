@@ -244,35 +244,35 @@
 "dhcp_status" = "Estado";
 "dhcp_enable" = "Habilitar servidor DHCP";
 "dhcp_interface" = "Interfaz";
-"dhcp_interface_details" = "Details";
-"dhcp_interface_gateway_ip" = "Gateway IP";
-"dhcp_interface_hardware_address" = "Hardware address";
-"dhcp_interface_ip_addresses" = "IP addresses";
+"dhcp_interface_details" = "Detalles";
+"dhcp_interface_gateway_ip" = "Puerta de enlace";
+"dhcp_interface_hardware_address" = "Dirección MAC";
+"dhcp_interface_ip_addresses" = "Direcciones IP";
 "dhcp_interface_flags" = "Flags";
 "dhcp_ipv4_settings" = "Ajustes IPv4";
 "dhcp_gateway_ip" = "Puerta de enlace";
 "dhcp_subnet_mask" = "Máscara de subred";
 "dhcp_ip_range" = "Rango de direcciones IP";
-"dhcp_ip_range_start" = "start";
-"dhcp_ip_range_end" = "end";
+"dhcp_ip_range_start" = "inicio";
+"dhcp_ip_range_end" = "fin";
 "dhcp_lease_time" = "Tiempo de asignación";
 "dhcp_lease_time_in_seconds" = "en segundos";
 "dhcp_ipv6_settings" = "Ajustes IPv6";
-"dhcp_ipv6_settings_unsupported" = "Interface does not support IPv6.";
+"dhcp_ipv6_settings_unsupported" = "La interfaz no soporta IPv6.";
 "dhcp_range_start" = "Inicio del rango";
 "dhcp_static_leases" = "Asignaciones estáticas";
 "dhcp_remove_lease" = "Eliminar";
 "dhcp_leases" = "Asignaciones";
 "dhcp_lease_create" = "Añadir asignación estática";
-"dhcp_add_client_with_ip" = "New Client (with IP)";
-"dhcp_add_client_with_mac" = "New Client (with MAC)";
+"dhcp_add_client_with_ip" = "Nuevo Cliente (con IP)";
+"dhcp_add_client_with_mac" = "Nuevo Cliente (con MAC)";
 "dhcp_reset_all_leases" = "Restablecer todas las asignaciones";
 "dhcp_reset_all_leases_footer" = "Elimina todas las asignaciones actuales sin eliminar las opciones configuradas.";
 "dhcp_reset_all_leases_alert_title" = "Restablecer asignaciones";
 "dhcp_reset_all_leases_alert_body" = "¿Estás seguro de que deseas restablecer todas las asignaciones?";
-"dhcp_reset_dhcp_config" = "Reset DHCP configuration";
-"dhcp_reset_dhcp_config_footer" = "Resets all DHCP settings.";
-"dhcp_reset_dhcp_config_alert_body" = "Are you sure you want to reset the DHCP configuration?";
+"dhcp_reset_dhcp_config" = "Restablecer configuración DHCP";
+"dhcp_reset_dhcp_config_footer" = "Restablece todos los parámetros del servidor DHCP";
+"dhcp_reset_dhcp_config_alert_body" = "¿Estás seguro de que quieres restablecer la configuraciónd el servidor DHCP";
 "dhcp_pro_required" = "Es necesario actualizar a Remote Pro para gestionar los ajustes del servidor DHCP";
 // New Static Lease
 "dhcp_staticlease_new" = "Nueva asignación estática";
@@ -295,8 +295,8 @@
 "dns_bootstrap_dns_servers_footer" = "Los servidores DNS iniciales se utilizan para resolver las direcciones IP de los servidores DoH/DoT que hayas configurado.";
 "dns_private_dns_servers" = "Servidores DNS privados";
 "dns_private_dns_servers_footer" = "Los servidores DNS que AdGuard Home utiliza para las consultas PTR locales.";
-"dns_use_private_dns_resolvers" = "Usar resolutores DNS inversos y privados";
-"dns_use_private_dns_resolvers_help" = "Realiza búsquedas DNS inversas para direcciones servidas localmente utilizando estos servidores DNS de subida. Si está deshabilitado, AdGuard Home responderá con NXDOMAIN a todas las peticiones PTR de este tipo, excepto para los clientes conocidos por DHCP, /etc/hosts, etc.";
+"dns_use_private_dns_resolvers" = "Usar servidores DNS privados";
+"dns_use_private_dns_resolvers_help" = "Realiza búsquedas DNS inversas para direcciones locales utilizando estos servidores DNS de subida. Si está deshabilitado, AdGuard Home responderá con NXDOMAIN a todas las peticiones PTR de este tipo, excepto para los clientes conocidos por DHCP, /etc/hosts, etc.";
 "dns_reverse_resolve" = "Habilitar la resolución inversa de las IP de los clientes";
 "dns_reverse_resolve_help" = "Resolver las direcciones IP de los clientes a sus nombres de hosts enviando consultas PTR a los servidores DNS (DNS privados para clientes locales, DNS públicos para clientes con direcciones IP públicas).";
 "dns_server_configuration" = "Configuración del servidor DNS de AdGuard";
@@ -314,7 +314,7 @@
 "dns_cache_size" = "Tamaño";
 "dns_cache_size_in_bytes" = "en bytes";
 "dns_cache_optimistic" = "Optimista";
-"dns_cache_optimistic_explainer" = "Haz que AdGuard Home responda desde la caché incluso cuando las entradas estén expiradas y también intente actualizarlas.";
+"dns_cache_optimistic_explainer" = "Haz que AdGuard Home responda desde la caché incluso cuando las entradas estén expiradas a la vez que intenta actualizarlas.";
 "dns_override_minimum_ttl" = "TTL mínimo";
 "dns_override_maximum_ttl" = "TTL máximo";
 "dns_override_in_seconds" = "en segundos";
@@ -381,8 +381,8 @@
 "preferences_querylog_show_sidebar" = "Muestra el panel lateral";
 "preferences_other" = "Otros";
 "preferences_language" = "Idioma";
-"preferences_language_macos_alert" = "Change Language";
-"preferences_language_macos_alert_body" = "To change the language of the app on macOS, open 'System Preferences > Language & Region > Apps' and add the app there.";
+"preferences_language_macos_alert" = "Cambiar de idioma";
+"preferences_language_macos_alert_body" = "Para cambiar el idioma de la aplicación en macOS, abre 'Preferencias del sistema > Idioma y Región > Aplicaciones' y añade la aplicación.";
 "preferences_lock_password" = "Bloquear con contraseña";
 "preferences_lock_faceid" = "Bloquear con Face ID";
 "preferences_lock_touchid" = "Bloquear con Touch ID";
@@ -397,7 +397,7 @@
 "preferences_lock_unlock_footnote_click" = "Haz clic para desbloquear AdGuard Home Remote";
 
 // MARK: Help
-"help_callout" = "Need help?";
+"help_callout" = "¿Necesitas ayuda?";
 "settings_help" = "Ayuda y comentarios";
 "settings_help_navbar" = "Soporte";
 "settings_help_contact" = "Contacta conmigo";
@@ -440,8 +440,8 @@
 "design_app_icon_original" = "Original";
 "design_app_icon_inverse" = "Invertido";
 "design_app_icon_dark" = "Oscuro";
-"design_app_icon_blueprint" = "Blueprint";
-"design_app_icon_pride" = "Pride";
+"design_app_icon_blueprint" = "Plano";
+"design_app_icon_pride" = "Orgullo";
 "design_theme" = "Tema";
 "design_system_setting" = "Utilizar la configuración del sistema";
 "design_always_lightmode" = "Siempre en modo claro";
@@ -516,8 +516,8 @@
 "rocketscience_tipjar_thankyou" = "¡Gracias!";
 "rocketscience_my_other_apps" = "Mis otras aplicaciones";
 "rocketscience_piholeremote_subtitle" = "Tu Pi-hole bajo control.";
-"rocketscience_mango_subtitle" = "A clean Anime & Manga tracker app, using the MyAnimeList API.";
-"rocketscience_energieradar_subtitle" = "Monitor real-time electricity and gas prices in The Netherlands.";
+"rocketscience_mango_subtitle" = "Una aplicación para hacer seguimiento de tu Manga y Anime preferidos, utilizando la API de MyAnimeList.";
+"rocketscience_energieradar_subtitle" = "Monitoriza en tiempo real los precios de la electricidad y el gas en los Paises Bajos.";
 "rocketscience_acknoledgements" = "Agradecimientos especiales a";
 
 // MARK: Tip Jar
@@ -590,5 +590,5 @@
 "widget_dashboard_description" = "Muestra las estadísticas de tu AdGuard Home.";
 
 // MARK: Apple Watch
-"loading_instances_icloud" = "Loading instances from iCloud...";
-"watch_stuck_reinstall" = "This can take a while. If the app is stuck on this spinner, please try a reinstall of the app. Sorry for the inconvenience!";
+"loading_instances_icloud" = "Cargando instancias desde iCloud...";
+"watch_stuck_reinstall" = "Esto puede tardar un rato. Si la aplicación se queda permanentemente cargando, prueba a reinstalarla. ¡Sentimos las molestias!";

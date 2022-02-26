@@ -23,6 +23,7 @@ Funcionalidades:
 - Gestión de las reescrituras DNS (PRO)
 - Soporte para múltiples instancias (PRO)
 - Widgets
+- Sincronización via iCloud entre iOS y iPadOS
 - Esquema de colores e icono personalizable
 - Soporta iOS, iPadOS, macOS y watchOS
 - Diseño moderno 100% SwiftUI
