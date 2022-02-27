@@ -20,7 +20,7 @@
 "dashboard_top-clients" = "Top Clients";
 "dashboard_top-queried" = "Top angefragte Domains";
 "dashboard_top-blocked" = "Top gesperrte Domains";
-"dashboard_avg_ms_%@" = "durchschnittlich %@ms";
+"dashboard_avg_ms_%@" = "Ø %@ms";
 "dashboard_confirmation_enable_%@" = "'%@' aktivieren?";
 "dashboard_confirmation_enable_button" = "Aktivieren";
 "dashboard_confirmation_disable_%@" = "'%@' deaktivieren?";
@@ -92,7 +92,7 @@
 "querydetail_protocol" = "Protokoll";
 "querydetail_response_details" = "Antwortdetails";
 "querydetail_validated_with_dnssec" = "Validiert mit DNSSEC";
-"querydetail_served_from_cache" = "Aus dem Zwischenspeicher abgerufen";
+"querydetail_served_from_cache" = "Aus dem Cache abgerufen";
 "querydetail_response_code" = "Code";
 "querydetail_response_time" = "Zeit";
 "querydetail_upstream" = "Upstream";
@@ -155,7 +155,7 @@
 "clients_disallowed_footer" = "AdGuard Home verwirft alle DNS-Anfragen dieser Clients.";
 "clients_disallowed_placeholder" = "Geben Sie einen IP- oder CIDR-Bereich ein";
 "clients_disallowed_add_client" = "Zu verbotenen Clients hinzufügen";
-"clients_name" = "Clientnamen eingeben";
+"clients_name" = "Clientname";
 "clients_identifiers" = "Bezeichner";
 "clients_identifiers_copy" = "Kopieren";
 "clients_identifiers_placeholder" = "IP, CIDR, MAC, ClientID";
@@ -165,7 +165,7 @@
 "clients_edit_use_filter_blocking" = "Filter-/Hostsperren anwenden";
 "clients_edit_use_safe_browsing" = "Internetsicherheit anwenden";
 "clients_edit_use_parental_filtering" = "Kindersicherung anwenden";
-"clients_edit_use_safe_search" = "SafeSearch erzwingen";
+"clients_edit_use_safe_search" = "Sichere Suche erzwingen";
 "clients_pro_required" = "Remote Pro ist erforderlich, um Clients zu verwalten.";
 "services" = "Dienste";
 "blocked_services" = "Gesperrte Dienste";
@@ -202,7 +202,7 @@
 "filtering_addfilter_allowlist_new" = "Neue Freigabeliste";
 "filtering_addfilter_name" = "Name";
 "filtering_addfilter_url" = "URL";
-"filtering_addfilter_url_placeholder" = "URL oder absoluten Pfad";
+"filtering_addfilter_url_placeholder" = "URL oder absoluter Pfad";
 // Custom Rules
 "filtering_rules_custom" = "Benutzerdefinierte Filterregeln";
 "filtering_rules_custom_new" = "Neue eigene Regel";
@@ -244,35 +244,35 @@
 "dhcp_status" = "Status";
 "dhcp_enable" = "DHCP-Server aktivieren";
 "dhcp_interface" = "Benutzeroberfläche";
-"dhcp_interface_details" = "Einzelheiten";
+"dhcp_interface_details" = "Details";
 "dhcp_interface_gateway_ip" = "Gateway-IP";
 "dhcp_interface_hardware_address" = "Hardware-Adresse";
 "dhcp_interface_ip_addresses" = "IP-Adressen";
 "dhcp_interface_flags" = "Flags";
 "dhcp_ipv4_settings" = "IPv4-Einstellungen";
 "dhcp_gateway_ip" = "Gateway-IP";
-"dhcp_subnet_mask" = "Subnetz-Maske";
+"dhcp_subnet_mask" = "Subnetzmaske";
 "dhcp_ip_range" = "Bereich von IP-Adressen";
-"dhcp_ip_range_start" = "start";
-"dhcp_ip_range_end" = "ende";
-"dhcp_lease_time" = "Leasingdauer";
+"dhcp_ip_range_start" = "von";
+"dhcp_ip_range_end" = "bis";
+"dhcp_lease_time" = "Gültigkeitsdauer";
 "dhcp_lease_time_in_seconds" = "in Sekunden";
 "dhcp_ipv6_settings" = "IPv6-Einstellungen";
-"dhcp_ipv6_settings_unsupported" = "Interface does not support IPv6.";
+"dhcp_ipv6_settings_unsupported" = "Dieses Interface unterstützt kein IPv6.";
 "dhcp_range_start" = "Bereich von IP-Adressen";
-"dhcp_static_leases" = "statische Leases";
+"dhcp_static_leases" = "statische Zuweisung";
 "dhcp_remove_lease" = "Lease entfernen";
-"dhcp_leases" = "Leases";
-"dhcp_lease_create" = "Statischen Lease hinzufügen";
+"dhcp_leases" = "Zuweisungen";
+"dhcp_lease_create" = "statische Lease hinzufügen";
 "dhcp_add_client_with_ip" = "Neuer Client (mit IP)";
 "dhcp_add_client_with_mac" = "Neuer Client (mit MAC)";
-"dhcp_reset_all_leases" = "Setzen Sie alle Leases zurück";
-"dhcp_reset_all_leases_footer" = "Entfernt alle aktuellen Leases, ohne die Lease-Konfiguration zu löschen.";
-"dhcp_reset_all_leases_alert_title" = "Setzen Sie alle Leases zurück";
+"dhcp_reset_all_leases" = "Alle Leases zurücksetzen";
+"dhcp_reset_all_leases_footer" = "Entfernt alle aktuellen Zuweisungen, ohne die Lease-Konfiguration zu löschen.";
+"dhcp_reset_all_leases_alert_title" = "Alle Leases zurücksetzen";
 "dhcp_reset_all_leases_alert_body" = "Möchten Sie wirklich alle Leases zurücksetzen?";
-"dhcp_reset_dhcp_config" = "Reset DHCP configuration";
-"dhcp_reset_dhcp_config_footer" = "Resets all DHCP settings.";
-"dhcp_reset_dhcp_config_alert_body" = "Are you sure you want to reset the DHCP configuration?";
+"dhcp_reset_dhcp_config" = "DHCP-Einstellungen zurücksetzen";
+"dhcp_reset_dhcp_config_footer" = "Setzt alle DHCP-Einstellungen zurück.";
+"dhcp_reset_dhcp_config_alert_body" = "Sind Sie sicher, dass Sie die DHCP-Einstellungen zurücksetzen wollen?";
 "dhcp_pro_required" = "Remote Pro ist erforderlich, um die DHCP-Einstellungen zu verwalten.";
 // New Static Lease
 "dhcp_staticlease_new" = "Statischen Lease hinzufügen";
@@ -509,7 +509,7 @@
 // MARK: RocketScience
 "settings_rocketscience" = "Entwickelt von RocketScience";
 "rocketscience_hi_title" = "Hi, ich bin Joost!";
-"rocketscience_hi_subtitle" = "Im Juni 2020 habe ich begonnen, meine eigenen Apps als unabhängiger Entwickler unter dem Namen 'RocketScience IT' zu entwickeln.\n\nMein Hauptziel ist es, mich in den Bereichen Design, Entwicklung, Testen, Support und Promotion (vielleicht sogar bald mehr) stetig zu verbessern und in diesen weiter zu lernen.\n\nMomentan habe ich drei weitere
+"rocketscience_hi_subtitle" = "Im Juni 2020 habe ich begonnen, meine eigenen Apps als unabhängiger Entwickler unter dem Namen 'RocketScience IT' zu entwickeln.\n\nMein Hauptziel ist es, mich in den Bereichen Design, Entwicklung, Testen, Support und Promotion (vielleicht sogar bald mehr) stetig zu verbessern und in diesen weiter zu lernen.\n\nMomentan habe ich vier weitere
 Apps, welche ich ebenfalls kontinuierlich verbessere, im AppStore veröffentlicht. Außerdem habe ich auch bereits viele Ideen für weitere Apps, die ich zukünftig entwickeln möchte.";
 "rocketscience_website" = "Webseite";
 "rocketscience_twitter" = "Twitter";
@@ -517,7 +517,7 @@ Apps, welche ich ebenfalls kontinuierlich verbessere, im AppStore veröffentlich
 "rocketscience_tipjar_thankyou" = "Vielen Dank!";
 "rocketscience_my_other_apps" = "Meine anderen Apps";
 "rocketscience_piholeremote_subtitle" = "Alles über Pi-hole an einem Ort.";
-"rocketscience_mango_subtitle" = "A clean Anime & Manga tracker app, using the MyAnimeList API.";
+"rocketscience_mango_subtitle" = "Eine übersichtliche Anime- & Manga-Tracker-App, welche die MyAnimeList API verwendet.";
 "rocketscience_energieradar_subtitle" = "Überwache Strom- & Gaspreise in den Niederlanden in Echtzeit.";
 "rocketscience_acknoledgements" = "Besonderer Dank geht an";
 
