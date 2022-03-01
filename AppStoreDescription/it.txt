@@ -1,37 +1,37 @@
-AdGuard Home Remote makes managing your AdGuard Home quick and easy. Quickly enable/disable blocking features, as well as view statistics such as top clients and top domains. Manage your clients, filters, DNS rewrites, and more.
+AdGuard Home Remote rende la gestione del tuo AdGuard Home semplice e veloce. Abilita/disabilita velocemente le funzionalità di filtraggio, ed inoltre, visualizza le statistiche dei clients principali e i domini più richiesti. Gestisci i clients, filtri, riscritture DNS e altro.
 
-*Control Blocking*
-You can quickly enable or disable filtering & safe browsing/search. You can even manage specific settings for your clients!
+*Controllo filtraggio*
+Puoi abilitare o disabilitare velocemente il filtraggio e la navigazione/ricerca sicura. Puoi anche gestire impostazioni specifiche per i tuoi clients!
 
-*Statistics*
-View graphs of your queries as well as top clients and domains. Search through your queries in the Query Log with detailed request and response info.
+*Statistiche*
+Guarda i grafici delle richieste così come i clients e domini principali. Cerca le tue richieste nel Registro con dettagli su richieste e risposte.
 
-*Manage Settings*
-Add or edit your clients, add some new filters or maybe disable them for a while, update your filters, edit blocked services, manage DHCP and DNS settings, create new DNS rules, or edit your Query Log settings.
+*Gestisci impostazioni*
+Aggiungi o rimuovi i tuoi clients, aggiungi nuovi filtri o disabilitali per un po', aggiorna i filtri, modifica i servizi bloccati, gestisci il DHCP e le impostazioni DNS, crea nuove regole DNS, o modifica le tue impostazioni per il Registro richieste.
 
 ==
 
-Features:
-- Control Filtering & Safe Browsing/Search
-- View basic & advanced statistics
-- Query Log with search and filters
-- Live Log showing a log of queries while they happen in real-time (requires Pro)
-- Manage Clients, including filtering settings, blocked services, and tags (requires Pro)
-- Manage Filters, including block- & allowlists and custom filtering rules (requires Pro)
-- Manage DHCP settings, including static leases (requires Pro)
-- Manage DNS settings (requires Pro)
-- Manage DNS Rewrites (requires Pro)
-- Support for multiple instances (requires Pro)
+Funzionalità:
+- Controlla il filtraggio e la navigazione/ricerca sicura
+- Visualizza le statistiche base e avanzate
+- Registro richieste con ricerca e filtri
+- Registro live che mostra le richieste in tempo reale (richiede Pro)
+- Gestisci i clients, impostazioni di filtraggio, servizi bloccati e tags (richiede Pro)
+- Gestisci i filtri, liste nera e bianca, regole di filtraggio personalizzate (richiede Pro)
+- Gestisci le impostazioni DHCP e le assegnazioni statiche degli indirizzi IP (richiede Pro)
+- Gestisci le impostazioni DNS (richiede Pro)
+- Gestisci le riscritture DNS (richiede Pro)
+- Supporto per istanze multiple (richiede Pro)
 - Widgets
-- iCloud sync between iPhone, iPad, and Apple Watch
-- Customisable color schemes and app icons
-- Support for iOS, iPadOS, macOS, watchOS
-- Clean and modern 100% SwiftUI design
+- Sincronizzazione iCloud tra iPhone, iPad, ed Apple Watch
+- Colori e icone dell'app personalizzabili
+- Supporto per iOS, iPadOS, macOS e watchOS
+- Un design moderno e pulito, 100% SwiftUI
 
 * AdGuard Home Remote Pro:
-Additional features are unlocked with a one-time purchase which will also support future development.
+Le funzionalità aggiuntive sono sbloccate con un acquisto singolo che supporterà anche i futuri sviluppi.
 
 ==
 
-Note: 
-AdGuard Home Remote is a third-party app and is not directly affiliated to AdGuard. For more information about AdGuard Home, visit https://adguard.com/adguard-home/overview.html.
+Nota:
+AdGuard Home Remote è un'app di terze parti, non direttamente affiliata ad AdGuard. Per più informazioni riguardo AdGuard Home, visita https://adguard.com/adguard-home/overview.html.

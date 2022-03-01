@@ -1,47 +1,47 @@
-"0foAlr-1ekF7R" = "Just to confirm, you wanted ‘Dark (Pure Black)’?";
+"0foAlr-1ekF7R" = "Solo per conferma, vuoi veramente ‘Scuro (nero puro)’";
 
-"0foAlr-JOGSFQ" = "Just to confirm, you wanted ‘Light’?";
+"0foAlr-JOGSFQ" = "Solo per conferma, vuoi veramente ‘Chiaro’?";
 
-"0foAlr-W38Flm" = "Just to confirm, you wanted ‘Dark’?";
+"0foAlr-W38Flm" = "Solo per conferma, vuoi veramente ‘Scuro’?";
 
-"0foAlr-ZyGBsF" = "Just to confirm, you wanted ‘System’?";
+"0foAlr-ZyGBsF" = "Solo per conferma, vuoi veramente ‘Sistema’?";
 
-"0foAlr-g0CJBh" = "Just to confirm, you wanted ‘System (Pure Black)’?";
+"0foAlr-g0CJBh" = "Solo per conferma, vuoi veramente ‘Sistema (nero puro)’?";
 
-"1ekF7R" = "Dark (Pure Black)";
+"1ekF7R" = "Scuro (nero puro)";
 
-"9m7HE0" = "Appearance";
+"9m7HE0" = "Aspetto";
 
-"JOGSFQ" = "Light";
+"JOGSFQ" = "Chiaro";
 
-"MtnrjZ" = "What instance to display?";
+"MtnrjZ" = "Quale istanza mostrare?";
 
-"VA4ap6" = "Instance";
+"VA4ap6" = "Istanza";
 
-"W38Flm" = "Dark";
+"W38Flm" = "Scuro";
 
-"ZyGBsF" = "System";
+"ZyGBsF" = "Sistema";
 
-"bfm6TG" = "Just to confirm, you wanted ‘${instance}’?";
+"bfm6TG" = "Solo per conferma, vuoi veramente ‘${instance}’?";
 
-"g0CJBh" = "System (Pure Black)";
+"g0CJBh" = "Sistema (nero puro)";
 
-"gpCwrM" = "Dashboard Widget";
+"gpCwrM" = "Widget pannello di controllo";
 
-"l8C2oo" = "There are ${count} options matching ‘${instance}’.";
+"l8C2oo" = "Ci sono ${count} opzioni corrispondenti ‘${instance}’.";
 
-"tVvJ9c" = "Dashboard Widget";
+"tVvJ9c" = "Widget pannello di controllo";
 
-"v1RflJ" = "Instance";
+"v1RflJ" = "Istanza";
 
-"veGZYz-1ekF7R" = "There are ${count} options matching ‘Dark (Pure Black)’.";
+"veGZYz-1ekF7R" = "Ci sono ${count} opzioni corrispondenti ‘Scuro (nero puro)’.";
 
-"veGZYz-JOGSFQ" = "There are ${count} options matching ‘Light’.";
+"veGZYz-JOGSFQ" = "Ci sono ${count} opzioni corrispondenti ‘Chiaro’.";
 
-"veGZYz-W38Flm" = "There are ${count} options matching ‘Dark’.";
+"veGZYz-W38Flm" = "Ci sono ${count} opzioni corrispondenti ‘Scuro’.";
 
-"veGZYz-ZyGBsF" = "There are ${count} options matching ‘System’.";
+"veGZYz-ZyGBsF" = "Ci sono ${count} opzioni corrispondenti ‘Sistema’.";
 
-"veGZYz-g0CJBh" = "There are ${count} options matching ‘System (Pure Black)’.";
+"veGZYz-g0CJBh" = "Ci sono ${count} opzioni corrispondenti ‘Sistema (nero puro)’.";
 
-"xq4Ojz" = "Appearance";
+"xq4Ojz" = "Aspetto";
