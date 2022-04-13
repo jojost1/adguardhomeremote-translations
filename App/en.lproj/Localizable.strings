@@ -77,7 +77,7 @@
 "query_copy_client_ip" = "Copy client IP";
 "query_copy_client_id" = "Copy client ID";
 "query_view_queries_to_hostname" = "View queries to hostname";
-"query_view_queries_from_client" = "View queries to client";
+"query_view_queries_from_client" = "View queries from client";
 "query_visit_domain" = "Visit domain";
 
 // MARK: Query Detail
@@ -517,7 +517,7 @@
 "rocketscience_my_other_apps" = "My Other Apps";
 "rocketscience_piholeremote_subtitle" = "Everything Pi-hole in one place.";
 "rocketscience_mango_subtitle" = "A clean Anime & Manga tracker app, using the MyAnimeList API.";
-"rocketscience_energieradar_subtitle" = "Monitor real-time electricity and gas prices in The Netherlands.";
+"rocketscience_energieradar_subtitle" = "Monitor real-time electricity and gas prices in many European countries.";
 "rocketscience_acknoledgements" = "Special thanks to";
 
 // MARK: Tip Jar
