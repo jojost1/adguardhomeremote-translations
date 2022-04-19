@@ -174,6 +174,7 @@
 // MARK: Filtering
 "filtering_settings" = "필터 설정";
 "filtering_status" = "상태";
+"filtering_enabled" = "사용";
 "filtering_disabled" = "비활성화";
 "filtering_disable_filter" = "필터 비활성화";
 "filtering_enable_filter" = "필터 활성화";
@@ -187,7 +188,9 @@
 "filtering_dns_allowlists" = "DNS 허용 목록";
 "filtering_update_allowlists" = "업데이트 확인";
 "filtering_updated_count_%@" = "%@개 업데이트됨";
+"filtering_rules" = "규칙";
 "filtering_rules_%@" = "규칙: %@";
+"filtering_last_updated" = "마지막 업데이트";
 "filtering_last_updated_%@" = "마지막 업데이트: %@";
 "filtering_global_blocked_services" = "차단된 글로벌 서비스";
 "filtering_custom_filtering_rules" = "커스텀 필터링 규칙";

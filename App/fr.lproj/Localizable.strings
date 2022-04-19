@@ -174,10 +174,11 @@
 // MARK: Filtering
 "filtering_settings" = "Paramètres de filtrage";
 "filtering_status" = "Statut";
+"filtering_enabled" = "Activé";
 "filtering_disabled" = "Désactivé";
 "filtering_disable_filter" = "Désactiver le filtre";
 "filtering_enable_filter" = "Activer le filtre";
-"filtering_edit_filter" = "Edit Filter";
+"filtering_edit_filter" = "Éditer le filtre";
 "filtering_edit_filter_name" = "Nom";
 "filtering_edit_filter_url" = "URL";
 "filtering_enable_filtering" = "Activer le filtrage";
@@ -187,7 +188,9 @@
 "filtering_dns_allowlists" = "Listes d’autorisations DNS";
 "filtering_update_allowlists" = "Mettre à jour la liste d’autorisations";
 "filtering_updated_count_%@" = "%@ mis à jour";
+"filtering_rules" = "Règles";
 "filtering_rules_%@" = "Règles : %@";
+"filtering_last_updated" = "Dernière mise à jour";
 "filtering_last_updated_%@" = "Dernière mise à jour : %@";
 "filtering_global_blocked_services" = "Services bloqués";
 "filtering_custom_filtering_rules" = "Règles de filtrage personnalisées";

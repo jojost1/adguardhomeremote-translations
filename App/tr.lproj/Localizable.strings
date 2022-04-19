@@ -174,6 +174,7 @@
 // MARK: Filtering
 "filtering_settings" = "Filtreleme Ayarları";
 "filtering_status" = "Durum";
+"filtering_enabled" = "Etkin";
 "filtering_disabled" = "Etkisiz";
 "filtering_disable_filter" = "Filtreyi etkisizleştir";
 "filtering_enable_filter" = "Filtreyi etkinleştir";
@@ -187,7 +188,9 @@
 "filtering_dns_allowlists" = "DNS İzin Listeleri";
 "filtering_update_allowlists" = "İzin Listelerini güncelle";
 "filtering_updated_count_%@" = "%@ güncellendi";
+"filtering_rules" = "Kurallar";
 "filtering_rules_%@" = "Kurallar: %@";
+"filtering_last_updated" = "En son güncellendi";
 "filtering_last_updated_%@" = "En son güncellendi: %@";
 "filtering_global_blocked_services" = "Küresel Engellenen Hizmetler";
 "filtering_custom_filtering_rules" = "Özel Filtreleme Kuralları";
