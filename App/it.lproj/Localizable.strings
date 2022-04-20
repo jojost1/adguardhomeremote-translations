@@ -398,6 +398,7 @@
 "preferences_lock_unlock_button" = "Sblocca";
 "preferences_lock_unlock_footnote_tap" = "Fai tap sopra per sbloccare AdGuard Home Remote";
 "preferences_lock_unlock_footnote_click" = "Fai click sopra per sbloccare AdGuard Home Remote";
+"preferences_lock_unlock_system_alert" = "unlock the app";
 
 // MARK: Help
 "help_callout" = "Serve aiuto?";

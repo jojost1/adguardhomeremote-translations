@@ -397,7 +397,8 @@
 "preferences_lock_require_1hour" = "Na 1 uur";
 "preferences_lock_unlock_button" = "Ontgrendel";
 "preferences_lock_unlock_footnote_tap" = "Tik hier om AdGuard Home Remote te ontgrendelen";
-"preferences_other_lock_unlock_footnote_click" = "Klik hier om AdGuard Home Remote te ontgrendelen";
+"preferences_lock_unlock_footnote_click" = "Klik hier om AdGuard Home Remote te ontgrendelen";
+"preferences_lock_unlock_system_alert" = "de app te ontgrendelen";
 
 // MARK: Help
 "help_callout" = "Hulp nodig?";

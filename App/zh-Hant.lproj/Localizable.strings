@@ -398,6 +398,7 @@
 "preferences_lock_unlock_button" = "解鎖";
 "preferences_lock_unlock_footnote_tap" = "輕觸上面以解鎖 AdGuard Home Remote";
 "preferences_lock_unlock_footnote_click" = "點擊上面以解鎖 AdGuard Home Remote";
+"preferences_lock_unlock_system_alert" = "unlock the app";
 
 // MARK: Help
 "help_callout" = "需要幫助嗎？";
