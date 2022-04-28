@@ -174,7 +174,7 @@
 // MARK: Filtering
 "filtering_settings" = "過濾設定";
 "filtering_status" = "狀態";
-"filtering_enabled" = "啟用";
+"filtering_enabled" = "已啟用";
 "filtering_disabled" = "已禁用";
 "filtering_disable_filter" = "禁用過濾器";
 "filtering_enable_filter" = "啟用過濾器";
@@ -247,21 +247,21 @@
 "dhcp_status" = "狀態";
 "dhcp_enable" = "啟用 DHCP 伺服器";
 "dhcp_interface" = "介面";
-"dhcp_interface_details" = "Details";
-"dhcp_interface_gateway_ip" = "Gateway IP";
-"dhcp_interface_hardware_address" = "Hardware address";
-"dhcp_interface_ip_addresses" = "IP addresses";
-"dhcp_interface_flags" = "Flags";
+"dhcp_interface_details" = "細節";
+"dhcp_interface_gateway_ip" = "閘道 IP";
+"dhcp_interface_hardware_address" = "硬體位址";
+"dhcp_interface_ip_addresses" = "IP 位址";
+"dhcp_interface_flags" = "旗標";
 "dhcp_ipv4_settings" = "IPv4 設定";
 "dhcp_gateway_ip" = "閘道 IP";
 "dhcp_subnet_mask" = "子網路遮罩";
 "dhcp_ip_range" = "IP 範圍";
-"dhcp_ip_range_start" = "start";
-"dhcp_ip_range_end" = "end";
+"dhcp_ip_range_start" = "開始";
+"dhcp_ip_range_end" = "結束";
 "dhcp_lease_time" = "租約時間";
 "dhcp_lease_time_in_seconds" = "以秒數";
 "dhcp_ipv6_settings" = "IPv6 設定";
-"dhcp_ipv6_settings_unsupported" = "Interface does not support IPv6.";
+"dhcp_ipv6_settings_unsupported" = "介面不支援 IPv6。";
 "dhcp_range_start" = "起始範圍";
 "dhcp_static_leases" = "靜態租約";
 "dhcp_remove_lease" = "移除租約";
@@ -273,9 +273,9 @@
 "dhcp_reset_all_leases_footer" = "移除所有現行的租約而沒清除租約配置。";
 "dhcp_reset_all_leases_alert_title" = "重置租約";
 "dhcp_reset_all_leases_alert_body" = "您確定您想要重置所有的租約嗎？";
-"dhcp_reset_dhcp_config" = "Reset DHCP configuration";
-"dhcp_reset_dhcp_config_footer" = "Resets all DHCP settings.";
-"dhcp_reset_dhcp_config_alert_body" = "Are you sure you want to reset the DHCP configuration?";
+"dhcp_reset_dhcp_config" = "重置 DHCP 配置";
+"dhcp_reset_dhcp_config_footer" = "重置所有的 DHCP 設定。";
+"dhcp_reset_dhcp_config_alert_body" = "您確定您想要重置該 DHCP 配置嗎？";
 "dhcp_pro_required" = "Remote Pro 是必須的以管理 DHCP 設定。";
 // New Static Lease
 "dhcp_staticlease_new" = "新的靜態租約";
@@ -398,7 +398,7 @@
 "preferences_lock_unlock_button" = "解鎖";
 "preferences_lock_unlock_footnote_tap" = "輕觸上面以解鎖 AdGuard Home Remote";
 "preferences_lock_unlock_footnote_click" = "點擊上面以解鎖 AdGuard Home Remote";
-"preferences_lock_unlock_system_alert" = "unlock the app";
+"preferences_lock_unlock_system_alert" = "解鎖此應用程式";
 
 // MARK: Help
 "help_callout" = "需要幫助嗎？";
@@ -520,7 +520,7 @@
 "rocketscience_tipjar_thankyou" = "感謝您！";
 "rocketscience_my_other_apps" = "我的其它應用程式";
 "rocketscience_piholeremote_subtitle" = "Pi-hole 的一切在一個地方。";
-"rocketscience_mango_subtitle" = "A clean Anime & Manga tracker app, using the MyAnimeList API.";
+"rocketscience_mango_subtitle" = "一款乾淨的動漫 & 漫畫追蹤器應用程式，使用 MyAnimeList 應用程式介面。";
 "rocketscience_energieradar_subtitle" = "關注在荷蘭的即時電價和天然氣價格。";
 "rocketscience_acknoledgements" = "對以下的特別感謝";
 
