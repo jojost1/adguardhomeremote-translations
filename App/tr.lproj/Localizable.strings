@@ -190,6 +190,7 @@
 "filtering_updated_count_%@" = "%@ güncellendi";
 "filtering_rules" = "Kurallar";
 "filtering_rules_%@" = "Kurallar: %@";
+"filtering_type" = "Yaz";
 "filtering_last_updated" = "En son güncellendi";
 "filtering_last_updated_%@" = "En son güncellendi: %@";
 "filtering_global_blocked_services" = "Küresel Engellenen Hizmetler";

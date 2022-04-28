@@ -190,6 +190,7 @@
 "filtering_updated_count_%@" = "%@ 已更新";
 "filtering_rules" = "規則";
 "filtering_rules_%@" = "規則：%@";
+"filtering_type" = "類型";
 "filtering_last_updated" = "最近已更新";
 "filtering_last_updated_%@" = "最近已更新：%@";
 "filtering_global_blocked_services" = "全域已封鎖的服務";

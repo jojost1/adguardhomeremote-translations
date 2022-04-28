@@ -190,6 +190,7 @@
 "filtering_updated_count_%@" = "Listas actualizadas: %@";
 "filtering_rules" = "Reglas";
 "filtering_rules_%@" = "Reglas: %@";
+"filtering_type" = "Tipo";
 "filtering_last_updated" = "Última actualización";
 "filtering_last_updated_%@" = "Última actualización: %@";
 "filtering_global_blocked_services" = "Servicios bloqueados";

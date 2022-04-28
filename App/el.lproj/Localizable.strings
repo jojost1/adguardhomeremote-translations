@@ -190,6 +190,7 @@
 "filtering_updated_count_%@" = "%@ ενημερώθηκαν";
 "filtering_rules" = "Κανόνες";
 "filtering_rules_%@" = "Κανόνες: %@";
+"filtering_type" = "Τύπος";
 "filtering_last_updated" = "Τελευταία ενημέρωση";
 "filtering_last_updated_%@" = "Τελευταία ενημέρωση: %@";
 "filtering_global_blocked_services" = "Γενικά αποκλεισμένες υπηρεσίες";

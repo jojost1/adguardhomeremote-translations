@@ -190,6 +190,7 @@
 "filtering_updated_count_%@" = "%@개 업데이트됨";
 "filtering_rules" = "규칙";
 "filtering_rules_%@" = "규칙: %@";
+"filtering_type" = "유형";
 "filtering_last_updated" = "마지막 업데이트";
 "filtering_last_updated_%@" = "마지막 업데이트: %@";
 "filtering_global_blocked_services" = "차단된 글로벌 서비스";

@@ -190,6 +190,7 @@
 "filtering_updated_count_%@" = "%@ geüpdatet";
 "filtering_rules" = "Regels";
 "filtering_rules_%@" = "Regels: %@";
+"filtering_type" = "Type";
 "filtering_last_updated" = "Laatst geüpdatet";
 "filtering_last_updated_%@" = "Laatst geüpdatet: %@";
 "filtering_global_blocked_services" = "Globaal Geblokkeerde Services";
@@ -513,7 +514,7 @@
 // MARK: RocketScience
 "settings_rocketscience" = "Gemaakt door RocketScience";
 "rocketscience_hi_title" = "Hi, ik ben Joost!";
-"rocketscience_hi_subtitle" = "In juni 2020 ben ik begonnen met het maken van m'n eigen apps als indie ontwikkelaar, onder de naam 'RocketScience IT'.\n\nMijn doel is om te leren: onwerpen, ontwikkelen, testen, support, marketing - misschien nog wel meer! Op dit moment heb ik drie apps in de App Store die ik continue verbeter. Daarnaast heb ik nog veel ideeën voor andere apps die ik wil maken in de toekomst!";
+"rocketscience_hi_subtitle" = "In juni 2020 ben ik begonnen met het maken van m'n eigen apps als indie ontwikkelaar, onder de naam 'RocketScience IT'.\n\nMijn doel is om te leren: onwerpen, ontwikkelen, testen, support, marketing - misschien nog wel meer! Op dit moment heb ik een aantal apps in de App Store die ik continue verbeter. Daarnaast heb ik nog veel ideeën voor andere apps die ik wil maken in de toekomst!";
 "rocketscience_website" = "Website";
 "rocketscience_twitter" = "Twitter";
 "rocketscience_tipjar" = "Fooienpot";
