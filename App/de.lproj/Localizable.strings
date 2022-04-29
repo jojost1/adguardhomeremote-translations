@@ -174,7 +174,7 @@
 // MARK: Filtering
 "filtering_settings" = "Filtereinstellungen";
 "filtering_status" = "Status";
-"filtering_enabled" = "Aktiv";
+"filtering_enabled" = "Aktiviert";
 "filtering_disabled" = "Deaktiviert";
 "filtering_disable_filter" = "Filter deaktivieren";
 "filtering_enable_filter" = "Filter aktivieren";
@@ -399,7 +399,7 @@
 "preferences_lock_unlock_button" = "Entsperren";
 "preferences_lock_unlock_footnote_tap" = "Tippen Sie oben, um AdGuard Home Remote zu entsperren";
 "preferences_lock_unlock_footnote_click" = "Klicken Sie oben, um AdGuard Home Remote zu entsperren";
-"preferences_lock_unlock_system_alert" = "unlock the app";
+"preferences_lock_unlock_system_alert" = "App entsperren";
 
 // MARK: Help
 "help_callout" = "Hilfe benötigt?";
@@ -523,7 +523,7 @@ Apps, welche ich ebenfalls kontinuierlich verbessere, im AppStore veröffentlich
 "rocketscience_my_other_apps" = "Meine anderen Apps";
 "rocketscience_piholeremote_subtitle" = "Alles über Pi-hole an einem Ort.";
 "rocketscience_mango_subtitle" = "Eine übersichtliche Anime- & Manga-Tracker-App, welche die MyAnimeList API verwendet.";
-"rocketscience_energieradar_subtitle" = "Überwache Strom- & Gaspreise in den Niederlanden in Echtzeit.";
+"rocketscience_energieradar_subtitle" = "Überwache Strom- & Gaspreise in zahlreichen europäischen Ländern in Echtzeit.";
 "rocketscience_acknoledgements" = "Besonderer Dank geht an";
 
 // MARK: Tip Jar
