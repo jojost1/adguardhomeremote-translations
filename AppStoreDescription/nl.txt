@@ -23,6 +23,7 @@ Functies:
 - Beheer DNS herschrijvingen (Pro vereist)
 - Ondersteuning voor meerdere instanties (Pro vereist)
 - Widgets
+- Siri Shortcuts
 - Synchronisatie via iCloud tussen iPhone, iPad, Apple Watch
 - Aanpasbaar kleurenschema en app icoon
 - Ondersteuning voor iOS, iPadOS, macOS, watchOS

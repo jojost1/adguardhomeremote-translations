@@ -210,7 +210,7 @@
 // Custom Rules
 "filtering_rules_custom" = "Aangepaste Regels";
 "filtering_rules_custom_new" = "Nieuwe Regel";
-"filtering_rules_add" = "Voeg Regel Toe";
+"filtering_rules_add" = "Voeg regel toe";
 "filtering_rules_no_rules_found" = "Geen regels gevonden.";
 "filtering_rules_delete_and_edit" = "Verwijder regel & bewerk";
 "filtering_rules_rule" = "Regel";

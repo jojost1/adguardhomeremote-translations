@@ -23,6 +23,7 @@ Features:
 - Manage DNS Rewrites (requires Pro)
 - Support for multiple instances (requires Pro)
 - Widgets
+- Siri Shortcuts
 - iCloud sync between iPhone, iPad, and Apple Watch
 - Customisable color schemes and app icons
 - Support for iOS, iPadOS, macOS, watchOS

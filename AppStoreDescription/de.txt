@@ -23,6 +23,7 @@ Funktionen:
 - DNS-Umschreibungen verwalten (erfordert Remote Pro)
 - Unterstützung mehrerer Instanzen (erfordert Remote Pro)
 - Widgets
+- Siri Shortcuts
 - iCloud-Synchronisierung zwischen iPhone, iPad und Apple Watch
 - Anpassbare Farbschemen und App-Icons
 - Unterstützt iOS, iPadOS, macOS und watchOS
