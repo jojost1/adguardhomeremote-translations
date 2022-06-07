@@ -1,0 +1,208 @@
+"0sDcS3" = "Toggle Safe Search";
+
+"3Durlk" = "Please enter all parameters.";
+
+"3T3UWX" = "State";
+
+"4I0pc3" = "Instance";
+
+"4LxUTN-CWx6QY" = "There are ${count} options matching ‘1 hour’.";
+
+"4LxUTN-ECN7Y1" = "There are ${count} options matching ‘3 days’.";
+
+"4LxUTN-Gf4br7" = "There are ${count} options matching ‘24 hours’.";
+
+"4LxUTN-JqNGJ8" = "There are ${count} options matching ‘Do not change’.";
+
+"4LxUTN-MkFh12" = "There are ${count} options matching ‘Disabled’.";
+
+"4LxUTN-WKsGR1" = "There are ${count} options matching ‘12 hours’.";
+
+"4LxUTN-uRUSUr" = "There are ${count} options matching ‘7 days’.";
+
+"4tw4w8" = "State";
+
+"8G4ZBi" = "${error}";
+
+"8cdAa5" = "No connection to the instance.";
+
+"AAqbi0" = "State";
+
+"BesiYj" = "Error";
+
+"CWx6QY" = "1 hour";
+
+"DbVhnY" = "Please enter a state.";
+
+"E5Bm3b" = "Toggle Safe Search of ${instance} to ${state}";
+
+"EBncxh" = "State";
+
+"ECN7Y1" = "3 days";
+
+"EkjPRr" = "${error}";
+
+"FCiMUY" = "Safe Browsing";
+
+"Ges3nN" = "What instance?";
+
+"Gf4br7" = "24 hours";
+
+"IO5auI-FCiMUY" = "There are ${count} options matching ‘Safe Browsing’.";
+
+"IO5auI-T13oiI" = "There are ${count} options matching ‘Protection’.";
+
+"IO5auI-X1wU5Q" = "There are ${count} options matching ‘Rule Filtering’.";
+
+"IO5auI-iiMFx1" = "There are ${count} options matching ‘Safe Search’.";
+
+"IO5auI-rJGEwo" = "There are ${count} options matching ‘Parental Filtering’.";
+
+"IigqZS-CWx6QY" = "Just to confirm, you wanted ‘1 hour’?";
+
+"IigqZS-ECN7Y1" = "Just to confirm, you wanted ‘3 days’?";
+
+"IigqZS-Gf4br7" = "Just to confirm, you wanted ‘24 hours’?";
+
+"IigqZS-JqNGJ8" = "Just to confirm, you wanted ‘Do not change’?";
+
+"IigqZS-MkFh12" = "Just to confirm, you wanted ‘Disabled’?";
+
+"IigqZS-WKsGR1" = "Just to confirm, you wanted ‘12 hours’?";
+
+"IigqZS-uRUSUr" = "Just to confirm, you wanted ‘7 days’?";
+
+"IpgchX" = "Error";
+
+"JN0Z6t" = "Error";
+
+"JqNGJ8" = "Do not change";
+
+"Jvuy08" = "${error}";
+
+"KiM47T" = "Protection Type";
+
+"LNrgDh" = "Instance";
+
+"LbaWtP" = "Please enter a state.";
+
+"LhNoaz" = "Instance";
+
+"LoLpHl" = "Toggle Safe Browsing of ${instance} to ${state}";
+
+"MkFh12" = "Disabled";
+
+"Mlxu08" = "Get ${protectionType} state of ${instance}";
+
+"O2T0f7" = "State";
+
+"ONefKj" = "Protection Type";
+
+"PbZOOO" = "State";
+
+"QerxrF" = "Toggle Protection for your AdGuard Home instance.";
+
+"QwDBjM" = "Toggle Protection of ${instance} to ${state}";
+
+"QwVZrZ" = "Toggle Safe Search for your AdGuard Home instance.";
+
+"SPW7Ph" = "disabled";
+
+"SYTUDy" = "${error}";
+
+"SuBp9w-FCiMUY" = "Just to confirm, you wanted ‘Safe Browsing’?";
+
+"SuBp9w-T13oiI" = "Just to confirm, you wanted ‘Protection’?";
+
+"SuBp9w-X1wU5Q" = "Just to confirm, you wanted ‘Rule Filtering’?";
+
+"SuBp9w-iiMFx1" = "Just to confirm, you wanted ‘Safe Search’?";
+
+"SuBp9w-rJGEwo" = "Just to confirm, you wanted ‘Parental Filtering’?";
+
+"T13oiI" = "Protection";
+
+"VMNE7g" = "Get the current state of your AdGuard Home instance (protection, rule filtering, safe browsing, parental filtering, or safe search). Returns 1 if enabled, 0 if disabled.";
+
+"Vw3w9H" = "Instance";
+
+"WEdaQb" = "Toggle Rule Filtering of ${instance} to ${state}";
+
+"WKsGR1" = "12 hours";
+
+"X1wU5Q" = "Rule Filtering";
+
+"X9hKeL" = "Instance";
+
+"XpmLse" = "enabled";
+
+"YG3bix" = "Toggle Safe Browsing for your AdGuard Home instance.";
+
+"Z6sRub" = "State";
+
+"ZU7kXl" = "Error";
+
+"aidFLf" = "disabled";
+
+"bM4PiE" = "Toggle Safe Browsing";
+
+"biCCg0" = "Toggle Rule Filtering for your AdGuard Home instance.";
+
+"cZ3FL9" = "State";
+
+"d8FFvQ" = "${error}";
+
+"daRBcb" = "No connection to the instance.";
+
+"dfBdG7" = "${error}";
+
+"e3Hm4U" = "State";
+
+"fFF0c3" = "${error}";
+
+"gsheLN" = "Error";
+
+"gtjTiQ" = "Filter Update Interval";
+
+"ic0mgN" = "State";
+
+"iiMFx1" = "Safe Search";
+
+"jqY0f3" = "enabled";
+
+"ksPJFh" = "Filter Update Interval";
+
+"m5dDcF" = "Error";
+
+"nhAjxR" = "Instance";
+
+"nvu30k" = "Toggle Parental Filtering for your AdGuard Home instance.";
+
+"ojbzRl" = "Current State";
+
+"rJGEwo" = "Parental Filtering";
+
+"rsrRAm" = "Get Current State";
+
+"s7BFrT" = "No connection to the instance.";
+
+"sAMjhv" = "${error}";
+
+"sAh3Wm" = "State";
+
+"teQcvL" = "Toggle Parental Filtering of ${instance} to ${state}";
+
+"uRUSUr" = "7 days";
+
+"vj7cDW" = "Toggle Rule Filtering of ${instance} to ${state}";
+
+"vmAS67" = "Toggle Protection";
+
+"xnRmnx" = "Toggle Parental Filtering";
+
+"yKIHVq" = "Instance";
+
+"z3ea70" = "What instance?";
+
+"ztb6U1" = "Toggle Rule Filtering";
+
