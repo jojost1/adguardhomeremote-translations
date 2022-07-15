@@ -597,3 +597,7 @@
 // MARK: Apple Watch
 "loading_instances_icloud" = "正在從 iCloud 載入實例…";
 "watch_stuck_reinstall" = "這可能需要一段時間。如果此應用程式卡在轉盤上，請嘗試重新安裝它。為該不便而抱歉！";
+
+// MARK: Home Screen Quick Actions
+"enable_protection" = "Enable Protection";
+"disable_protection" = "Disable Protection";

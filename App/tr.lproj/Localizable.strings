@@ -597,3 +597,7 @@
 // MARK: Apple Watch
 "loading_instances_icloud" = "iCloud'dan örnekler yükleniyor...";
 "watch_stuck_reinstall" = "Bu biraz zaman alabilir. Uygulama bu döndürücüde takılı kalırsa, lütfen uygulamayı yeniden yüklemeyi deneyin. Rahatsızlıktan dolayı özür dileriz!";
+
+// MARK: Home Screen Quick Actions
+"enable_protection" = "Enable Protection";
+"disable_protection" = "Disable Protection";

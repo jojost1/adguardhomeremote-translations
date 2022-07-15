@@ -597,3 +597,7 @@
 // MARK: Apple Watch
 "loading_instances_icloud" = "Instanties ophalen uit iCloud...";
 "watch_stuck_reinstall" = "Dit kan even duren. Als de app vast zit op de spinner, probeer de app opnieuw te installeren. Sorry voor het ongemak!";
+
+// MARK: Home Screen Quick Actions
+"enable_protection" = "Bescherming aan";
+"disable_protection" = "Bescherming uit";

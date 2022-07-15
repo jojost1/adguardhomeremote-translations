@@ -598,3 +598,7 @@ Apps, welche ich ebenfalls kontinuierlich verbessere, im AppStore veröffentlich
 // MARK: Apple Watch
 "loading_instances_icloud" = "Lädt Instanzen aus iCloud...";
 "watch_stuck_reinstall" = "Dies kann eine Weile dauern. Wenn die App bei diesem Vorgang stecken bleibt, versuchen Sie bitte eine App-Neuinstallation.";
+
+// MARK: Home Screen Quick Actions
+"enable_protection" = "Enable Protection";
+"disable_protection" = "Disable Protection";

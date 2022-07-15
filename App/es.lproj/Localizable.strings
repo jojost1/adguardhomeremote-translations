@@ -597,3 +597,7 @@
 // MARK: Apple Watch
 "loading_instances_icloud" = "Cargando instancias desde iCloud...";
 "watch_stuck_reinstall" = "Esto puede tardar un rato. Si la aplicación se queda permanentemente cargando, prueba a reinstalarla. ¡Sentimos las molestias!";
+
+// MARK: Home Screen Quick Actions
+"enable_protection" = "Enable Protection";
+"disable_protection" = "Disable Protection";
