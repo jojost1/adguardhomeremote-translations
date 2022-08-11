@@ -399,7 +399,7 @@
 "preferences_lock_unlock_button" = "解锁";
 "preferences_lock_unlock_footnote_tap" = "点击上方解锁 AdGuard Home Remote";
 "preferences_lock_unlock_footnote_click" = "点击上方解锁 AdGuard Home Remote";
-"preferences_lock_unlock_system_alert" = "unlock the app";
+"preferences_lock_unlock_system_alert" = "解锁应用";
 
 // MARK: Help
 "help_callout" = "需要帮助？";
@@ -599,5 +599,5 @@
 "watch_stuck_reinstall" = "这可能需要一段时间。如果程序长时间卡在此旋转图标处，请尝试重新安装本程序。为此不便深表歉意！";
 
 // MARK: Home Screen Quick Actions
-"enable_protection" = "Enable Protection";
-"disable_protection" = "Disable Protection";
+"enable_protection" = "启用保护";
+"disable_protection" = "禁用保护";
