@@ -599,5 +599,5 @@
 "watch_stuck_reinstall" = "這可能需要一段時間。如果此應用程式卡在轉盤上，請嘗試重新安裝它。為該不便而抱歉！";
 
 // MARK: Home Screen Quick Actions
-"enable_protection" = "Enable Protection";
-"disable_protection" = "Disable Protection";
+"enable_protection" = "啟用防護";
+"disable_protection" = "禁用防護";
