@@ -6,19 +6,19 @@
 
 "4I0pc3" = "Instància";
 
-"4LxUTN-CWx6QY" = "Hi han ${count} opcions coincidents amb ‘1 hora’.";
+"4LxUTN-CWx6QY" = "Hi ha ${count} opcions coincidents amb ‘1 hora’.";
 
-"4LxUTN-ECN7Y1" = "Hi han ${count} opcions coincidents amb ‘3 dies’.";
+"4LxUTN-ECN7Y1" = "Hi ha ${count} opcions coincidents amb ‘3 dies’.";
 
-"4LxUTN-Gf4br7" = "Hi han ${count} opcions coincidents amb ‘24 hores’.";
+"4LxUTN-Gf4br7" = "Hi ha ${count} opcions coincidents amb ‘24 hores’.";
 
-"4LxUTN-JqNGJ8" = "Hi han ${count} opcions coincidents amb ‘No canviar’.";
+"4LxUTN-JqNGJ8" = "Hi ha ${count} opcions coincidents amb ‘No canviar’.";
 
-"4LxUTN-MkFh12" = "Hi han ${count} opcions coincidents amb ‘Desactivat’.";
+"4LxUTN-MkFh12" = "Hi ha ${count} opcions coincidents amb ‘Desactivat’.";
 
-"4LxUTN-WKsGR1" = "Hi han ${count} opcions coincidents amb ‘12 hores’.";
+"4LxUTN-WKsGR1" = "Hi ha ${count} opcions coincidents amb ‘12 hores’.";
 
-"4LxUTN-uRUSUr" = "Hi han ${count} opcions coincidents amb ‘7 dies’.";
+"4LxUTN-uRUSUr" = "Hi ha ${count} opcions coincidents amb ‘7 dies’.";
 
 "4tw4w8" = "Estat";
 
@@ -48,15 +48,15 @@
 
 "Gf4br7" = "24 hores";
 
-"IO5auI-FCiMUY" = "Hi han ${count} opcions coincidents amb ‘Navegació Segura’.";
+"IO5auI-FCiMUY" = "Hi ha ${count} opcions coincidents amb ‘Navegació Segura’.";
 
-"IO5auI-T13oiI" = "Hi han ${count} opcions coincidents amb ‘Protecció’.";
+"IO5auI-T13oiI" = "Hi ha ${count} opcions coincidents amb ‘Protecció’.";
 
-"IO5auI-X1wU5Q" = "Hi han ${count} opcions coincidents amb ‘Regles de Filtratge’.";
+"IO5auI-X1wU5Q" = "Hi ha ${count} opcions coincidents amb ‘Regles de Filtratge’.";
 
-"IO5auI-iiMFx1" = "Hi han ${count} opcions coincidents amb ‘Cerca Segura’.";
+"IO5auI-iiMFx1" = "Hi ha ${count} opcions coincidents amb ‘Cerca Segura’.";
 
-"IO5auI-rJGEwo" = "Hi han ${count} opcions coincidents amb ‘Control Parental’.";
+"IO5auI-rJGEwo" = "Hi ha ${count} opcions coincidents amb ‘Control Parental’.";
 
 "IigqZS-CWx6QY" = "Només per confirmar, volies ‘1 hora’?";
 
