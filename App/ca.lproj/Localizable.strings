@@ -399,7 +399,7 @@
 "preferences_lock_unlock_button" = "Desbloquejar";
 "preferences_lock_unlock_footnote_tap" = "Prem per desbloquejar AdGuard Home Remote";
 "preferences_lock_unlock_footnote_click" = "Fes clic per desbloquejar AdGuard Home Remote";
-"preferences_lock_unlock_system_alert" = "unlock the app";
+"preferences_lock_unlock_system_alert" = "desbloqueja l'aplicació";
 
 // MARK: Help
 "help_callout" = "Necessites ajuda?";
@@ -464,7 +464,7 @@
 "changelog_view_full" = "Veure totes les novetats";
 "changelog_show_feature_promo" = "Novetats destacables";
 "changelog_show_on_app_update" = "Mostrar la llista de canvis al actualitzar l'aplicació";
-"changelog_show_on_app_update_footer" = "El llista de canvis només es mostrarà quan s'incorporin noves funcionalitats.";
+"changelog_show_on_app_update_footer" = "El llistat de canvis només es mostrarà quan s'incorporin noves funcionalitats.";
 "changelog_settings" = "Ajustos";
 
 // MARK: - Pro
@@ -599,5 +599,5 @@
 "watch_stuck_reinstall" = "Això pot trigar una estona. Si l'aplicació es queda permanentment carregant, prova de reinstal·lar l'aplicació. Sentim les molèsties!";
 
 // MARK: Home Screen Quick Actions
-"enable_protection" = "Enable Protection";
-"disable_protection" = "Disable Protection";
+"enable_protection" = "Activar Protecció";
+"disable_protection" = "Desactivar Protecció";
