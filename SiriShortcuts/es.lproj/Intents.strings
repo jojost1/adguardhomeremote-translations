@@ -1,208 +1,208 @@
-"0sDcS3" = "Toggle Safe Search";
+"0sDcS3" = "Cambia Búsqueda Segura";
 
-"3Durlk" = "Please enter all parameters.";
+"3Durlk" = "Por favor introduce todos los parámetros.";
 
-"3T3UWX" = "State";
+"3T3UWX" = "Estado";
 
-"4I0pc3" = "Instance";
+"4I0pc3" = "Instancia";
 
-"4LxUTN-CWx6QY" = "There are ${count} options matching ‘1 hour’.";
+"4LxUTN-CWx6QY" = "Hay ${count} opciones coincidentes con ‘1 hora’.";
 
-"4LxUTN-ECN7Y1" = "There are ${count} options matching ‘3 days’.";
+"4LxUTN-ECN7Y1" = "Hay ${count} opciones coincidentes con ‘3 días’.";
 
-"4LxUTN-Gf4br7" = "There are ${count} options matching ‘24 hours’.";
+"4LxUTN-Gf4br7" = "Hay ${count} opciones coincidentes con ‘24 horas’.";
 
-"4LxUTN-JqNGJ8" = "There are ${count} options matching ‘Do not change’.";
+"4LxUTN-JqNGJ8" = "Hay ${count} opciones coincidentes con ‘No cambiar’.";
 
-"4LxUTN-MkFh12" = "There are ${count} options matching ‘Disabled’.";
+"4LxUTN-MkFh12" = "Hay ${count} opciones coincidentes con ‘Desactivado’.";
 
-"4LxUTN-WKsGR1" = "There are ${count} options matching ‘12 hours’.";
+"4LxUTN-WKsGR1" = "Hay ${count} opciones coincidentes con ‘12 horas’.";
 
-"4LxUTN-uRUSUr" = "There are ${count} options matching ‘7 days’.";
+"4LxUTN-uRUSUr" = "Hay ${count} opciones coincidentes con ‘7 días’.";
 
-"4tw4w8" = "State";
+"4tw4w8" = "Estado";
 
 "8G4ZBi" = "${error}";
 
-"8cdAa5" = "No connection to the instance.";
+"8cdAa5" = "Sin conexión a la instáncia.";
 
-"AAqbi0" = "State";
+"AAqbi0" = "Estado";
 
 "BesiYj" = "Error";
 
-"CWx6QY" = "1 hour";
+"CWx6QY" = "1 hora";
 
-"DbVhnY" = "Please enter a state.";
+"DbVhnY" = "Por favor introduce un estado.";
 
-"E5Bm3b" = "Toggle Safe Search of ${instance} to ${state}";
+"E5Bm3b" = "Cambia Búsqueda Segura of ${instance} to ${state}";
 
-"EBncxh" = "State";
+"EBncxh" = "Estado";
 
-"ECN7Y1" = "3 days";
+"ECN7Y1" = "3 días";
 
 "EkjPRr" = "${error}";
 
-"FCiMUY" = "Safe Browsing";
+"FCiMUY" = "Navegación Segura";
 
-"Ges3nN" = "What instance?";
+"Ges3nN" = "¿Qué Instancia?";
 
-"Gf4br7" = "24 hours";
+"Gf4br7" = "24 horas";
 
-"IO5auI-FCiMUY" = "There are ${count} options matching ‘Safe Browsing’.";
+"IO5auI-FCiMUY" = "Hay ${count} opciones coincidentes ‘Navegación Segura’.";
 
-"IO5auI-T13oiI" = "There are ${count} options matching ‘Protection’.";
+"IO5auI-T13oiI" = "Hay ${count} opciones coincidentes ‘Protección’.";
 
-"IO5auI-X1wU5Q" = "There are ${count} options matching ‘Rule Filtering’.";
+"IO5auI-X1wU5Q" = "Hay ${count} opciones coincidentes ‘Reglas de Filtrado’.";
 
-"IO5auI-iiMFx1" = "There are ${count} options matching ‘Safe Search’.";
+"IO5auI-iiMFx1" = "Hay ${count} opciones coincidentes ‘Búsqueda Segura’.";
 
-"IO5auI-rJGEwo" = "There are ${count} options matching ‘Parental Filtering’.";
+"IO5auI-rJGEwo" = "Hay ${count} opciones coincidentes ‘Control Parental’.";
 
-"IigqZS-CWx6QY" = "Just to confirm, you wanted ‘1 hour’?";
+"IigqZS-CWx6QY" = "Solo para confirmar, ¿querías ‘1 hora’?";
 
-"IigqZS-ECN7Y1" = "Just to confirm, you wanted ‘3 days’?";
+"IigqZS-ECN7Y1" = "Solo para confirmar, ¿querías ‘3 días’?";
 
-"IigqZS-Gf4br7" = "Just to confirm, you wanted ‘24 hours’?";
+"IigqZS-Gf4br7" = "Solo para confirmar, ¿querías ‘24 horas’?";
 
-"IigqZS-JqNGJ8" = "Just to confirm, you wanted ‘Do not change’?";
+"IigqZS-JqNGJ8" = "Solo para confirmar, ¿querías ‘No cambiar’?";
 
-"IigqZS-MkFh12" = "Just to confirm, you wanted ‘Disabled’?";
+"IigqZS-MkFh12" = "Solo para confirmar, ¿querías ‘Desactivado’?";
 
-"IigqZS-WKsGR1" = "Just to confirm, you wanted ‘12 hours’?";
+"IigqZS-WKsGR1" = "Solo para confirmar, ¿querías ‘12 horas’?";
 
-"IigqZS-uRUSUr" = "Just to confirm, you wanted ‘7 days’?";
+"IigqZS-uRUSUr" = "Solo para confirmar, ¿querías ‘7 días’?";
 
 "IpgchX" = "Error";
 
 "JN0Z6t" = "Error";
 
-"JqNGJ8" = "Do not change";
+"JqNGJ8" = "No cambiar";
 
 "Jvuy08" = "${error}";
 
-"KiM47T" = "Protection Type";
+"KiM47T" = "Tipo de Protección";
 
-"LNrgDh" = "Instance";
+"LNrgDh" = "Instancia";
 
-"LbaWtP" = "Please enter a state.";
+"LbaWtP" = "Por favor introduce un estado.";
 
-"LhNoaz" = "Instance";
+"LhNoaz" = "Instancia";
 
-"LoLpHl" = "Toggle Safe Browsing of ${instance} to ${state}";
+"LoLpHl" = "Cambiar Navegación Segura de ${instance} a ${state}";
 
-"MkFh12" = "Disabled";
+"MkFh12" = "Desactivado";
 
-"Mlxu08" = "Get ${protectionType} state of ${instance}";
+"Mlxu08" = "Obtén el estado de ${protectionType} en ${instance}";
 
-"O2T0f7" = "State";
+"O2T0f7" = "Estado";
 
-"ONefKj" = "Protection Type";
+"ONefKj" = "Tipo Protección";
 
-"PbZOOO" = "State";
+"PbZOOO" = "Estado";
 
-"QerxrF" = "Toggle Protection for your AdGuard Home instance.";
+"QerxrF" = "Cambia la Protección de tu instancia de AdGuard Home.";
 
-"QwDBjM" = "Toggle Protection of ${instance} to ${state}";
+"QwDBjM" = "Cambia la Protección de ${instance} a ${state}";
 
-"QwVZrZ" = "Toggle Safe Search for your AdGuard Home instance.";
+"QwVZrZ" = "Cambia la Búsqueda Segura de tu Instancia de AdGuard Home.";
 
-"SPW7Ph" = "disabled";
+"SPW7Ph" = "desactivado";
 
 "SYTUDy" = "${error}";
 
-"SuBp9w-FCiMUY" = "Just to confirm, you wanted ‘Safe Browsing’?";
+"SuBp9w-FCiMUY" = "Solo para confirmar, ¿querías Navegación Segura’?";
 
-"SuBp9w-T13oiI" = "Just to confirm, you wanted ‘Protection’?";
+"SuBp9w-T13oiI" = "Solo para confirmar, ¿querías ‘Protección’?";
 
-"SuBp9w-X1wU5Q" = "Just to confirm, you wanted ‘Rule Filtering’?";
+"SuBp9w-X1wU5Q" = "Solo para confirmar, ¿querías ‘Reglas de Filtrado’?";
 
-"SuBp9w-iiMFx1" = "Just to confirm, you wanted ‘Safe Search’?";
+"SuBp9w-iiMFx1" = "Solo para confirmar, ¿querías ‘Búsqueda Segura’?";
 
-"SuBp9w-rJGEwo" = "Just to confirm, you wanted ‘Parental Filtering’?";
+"SuBp9w-rJGEwo" = "Solo para confirmar, ¿querías ‘Control Parental’?";
 
-"T13oiI" = "Protection";
+"T13oiI" = "Protección";
 
-"VMNE7g" = "Get the current state of your AdGuard Home instance (protection, rule filtering, safe browsing, parental filtering, or safe search). Returns 1 if enabled, 0 if disabled.";
+"VMNE7g" = "Obtén el estado actual de tu instancia de Adguard Home (protección, reglas de filtrado, navegación segura, control parental o búsqueda segura). Devuelve 1 si está activado y 0 si está desactivado.";
 
-"Vw3w9H" = "Instance";
+"Vw3w9H" = "Instancia";
 
-"WEdaQb" = "Toggle Rule Filtering of ${instance} to ${state}";
+"WEdaQb" = "Cambia Reglas de Filtrado of ${instance} to ${state}";
 
-"WKsGR1" = "12 hours";
+"WKsGR1" = "12 horas";
 
-"X1wU5Q" = "Rule Filtering";
+"X1wU5Q" = "Reglas de Filtrado";
 
-"X9hKeL" = "Instance";
+"X9hKeL" = "Instancia";
 
-"XpmLse" = "enabled";
+"XpmLse" = "activado";
 
-"YG3bix" = "Toggle Safe Browsing for your AdGuard Home instance.";
+"YG3bix" = "Cambia la Navegación Segura de tu instancia de AdGuard Home.";
 
-"Z6sRub" = "State";
+"Z6sRub" = "Estado";
 
 "ZU7kXl" = "Error";
 
-"aidFLf" = "disabled";
+"aidFLf" = "desactivado";
 
-"bM4PiE" = "Toggle Safe Browsing";
+"bM4PiE" = "Cambia Navegación Segura";
 
-"biCCg0" = "Toggle Rule Filtering for your AdGuard Home instance.";
+"biCCg0" = "Cambia las Reglas de Filtrado de tu instancia de AdGuard Home.";
 
-"cZ3FL9" = "State";
+"cZ3FL9" = "Estado";
 
 "d8FFvQ" = "${error}";
 
-"daRBcb" = "No connection to the instance.";
+"daRBcb" = "Sin conexión con la instancia.";
 
 "dfBdG7" = "${error}";
 
-"e3Hm4U" = "State";
+"e3Hm4U" = "Estado";
 
 "fFF0c3" = "${error}";
 
 "gsheLN" = "Error";
 
-"gtjTiQ" = "Filter Update Interval";
+"gtjTiQ" = "Intervalo de actualización de filtros";
 
-"ic0mgN" = "State";
+"ic0mgN" = "Estado";
 
-"iiMFx1" = "Safe Search";
+"iiMFx1" = "Búsqueda Segura";
 
-"jqY0f3" = "enabled";
+"jqY0f3" = "activado";
 
-"ksPJFh" = "Filter Update Interval";
+"ksPJFh" = "Intervalo de actualización de filtros";
 
 "m5dDcF" = "Error";
 
-"nhAjxR" = "Instance";
+"nhAjxR" = "Instancia";
 
-"nvu30k" = "Toggle Parental Filtering for your AdGuard Home instance.";
+"nvu30k" = "Cambia el Control Parental de tu instancia de AdGuard Home.";
 
-"ojbzRl" = "Current State";
+"ojbzRl" = "Estado Actual";
 
-"rJGEwo" = "Parental Filtering";
+"rJGEwo" = "Control Parental";
 
-"rsrRAm" = "Get Current State";
+"rsrRAm" = "Obtener Estado Actual";
 
-"s7BFrT" = "No connection to the instance.";
+"s7BFrT" = "Sin conexión con la instancia.";
 
 "sAMjhv" = "${error}";
 
-"sAh3Wm" = "State";
+"sAh3Wm" = "Estado";
 
-"teQcvL" = "Toggle Parental Filtering of ${instance} to ${state}";
+"teQcvL" = "Cambia el Control Parental de ${instance} a ${state}";
 
-"uRUSUr" = "7 days";
+"uRUSUr" = "7 días";
 
-"vj7cDW" = "Toggle Rule Filtering of ${instance} to ${state}";
+"vj7cDW" = "Cambia las Reglas de Filtrado de ${instance}a ${state}";
 
-"vmAS67" = "Toggle Protection";
+"vmAS67" = "Cambia Protección";
 
-"xnRmnx" = "Toggle Parental Filtering";
+"xnRmnx" = "Cambia Control Parental";
 
-"yKIHVq" = "Instance";
+"yKIHVq" = "Instancia";
 
-"z3ea70" = "What instance?";
+"z3ea70" = "¿Qué instancia?";
 
-"ztb6U1" = "Toggle Rule Filtering";
+"ztb6U1" = "Cambia Reglas de Filtrado";
 

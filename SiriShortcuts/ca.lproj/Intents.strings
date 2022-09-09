@@ -1,208 +1,208 @@
-"0sDcS3" = "Toggle Safe Search";
+"0sDcS3" = "Canvía la Cerca Segura";
 
-"3Durlk" = "Please enter all parameters.";
+"3Durlk" = "Introdueix tots els paràmetres.";
 
-"3T3UWX" = "State";
+"3T3UWX" = "Estat";
 
-"4I0pc3" = "Instance";
+"4I0pc3" = "Instància";
 
-"4LxUTN-CWx6QY" = "There are ${count} options matching ‘1 hour’.";
+"4LxUTN-CWx6QY" = "Hi ha ${count} opcions coincidents amb ‘1 hora’.";
 
-"4LxUTN-ECN7Y1" = "There are ${count} options matching ‘3 days’.";
+"4LxUTN-ECN7Y1" = "Hi ha ${count} opcions coincidents amb ‘3 dies’.";
 
-"4LxUTN-Gf4br7" = "There are ${count} options matching ‘24 hours’.";
+"4LxUTN-Gf4br7" = "Hi ha ${count} opcions coincidents amb ‘24 hores’.";
 
-"4LxUTN-JqNGJ8" = "There are ${count} options matching ‘Do not change’.";
+"4LxUTN-JqNGJ8" = "Hi ha ${count} opcions coincidents amb ‘No canviar’.";
 
-"4LxUTN-MkFh12" = "There are ${count} options matching ‘Disabled’.";
+"4LxUTN-MkFh12" = "Hi ha ${count} opcions coincidents amb ‘Desactivat’.";
 
-"4LxUTN-WKsGR1" = "There are ${count} options matching ‘12 hours’.";
+"4LxUTN-WKsGR1" = "Hi ha ${count} opcions coincidents amb ‘12 hores’.";
 
-"4LxUTN-uRUSUr" = "There are ${count} options matching ‘7 days’.";
+"4LxUTN-uRUSUr" = "Hi ha ${count} opcions coincidents amb ‘7 dies’.";
 
-"4tw4w8" = "State";
+"4tw4w8" = "Estat";
 
 "8G4ZBi" = "${error}";
 
-"8cdAa5" = "No connection to the instance.";
+"8cdAa5" = "Sense connexió amb l'instància.";
 
-"AAqbi0" = "State";
+"AAqbi0" = "Estat";
 
 "BesiYj" = "Error";
 
-"CWx6QY" = "1 hour";
+"CWx6QY" = "1 hora";
 
-"DbVhnY" = "Please enter a state.";
+"DbVhnY" = "Entra un estat.";
 
-"E5Bm3b" = "Toggle Safe Search of ${instance} to ${state}";
+"E5Bm3b" = "Canvía la Cerca Segura de ${instance}a ${state}";
 
-"EBncxh" = "State";
+"EBncxh" = "Estat";
 
-"ECN7Y1" = "3 days";
+"ECN7Y1" = "3 dies";
 
 "EkjPRr" = "${error}";
 
-"FCiMUY" = "Safe Browsing";
+"FCiMUY" = "Navegació Segura";
 
-"Ges3nN" = "What instance?";
+"Ges3nN" = "Quina instància?";
 
-"Gf4br7" = "24 hours";
+"Gf4br7" = "24 hores";
 
-"IO5auI-FCiMUY" = "There are ${count} options matching ‘Safe Browsing’.";
+"IO5auI-FCiMUY" = "Hi ha ${count} opcions coincidents amb ‘Navegació Segura’.";
 
-"IO5auI-T13oiI" = "There are ${count} options matching ‘Protection’.";
+"IO5auI-T13oiI" = "Hi ha ${count} opcions coincidents amb ‘Protecció’.";
 
-"IO5auI-X1wU5Q" = "There are ${count} options matching ‘Rule Filtering’.";
+"IO5auI-X1wU5Q" = "Hi ha ${count} opcions coincidents amb ‘Regles de Filtratge’.";
 
-"IO5auI-iiMFx1" = "There are ${count} options matching ‘Safe Search’.";
+"IO5auI-iiMFx1" = "Hi ha ${count} opcions coincidents amb ‘Cerca Segura’.";
 
-"IO5auI-rJGEwo" = "There are ${count} options matching ‘Parental Filtering’.";
+"IO5auI-rJGEwo" = "Hi ha ${count} opcions coincidents amb ‘Control Parental’.";
 
-"IigqZS-CWx6QY" = "Just to confirm, you wanted ‘1 hour’?";
+"IigqZS-CWx6QY" = "Només per confirmar, volies ‘1 hora’?";
 
-"IigqZS-ECN7Y1" = "Just to confirm, you wanted ‘3 days’?";
+"IigqZS-ECN7Y1" = "Només per confirmar, volies ‘3 dies’?";
 
-"IigqZS-Gf4br7" = "Just to confirm, you wanted ‘24 hours’?";
+"IigqZS-Gf4br7" = "Només per confirmar, volies ‘24 hores’?";
 
-"IigqZS-JqNGJ8" = "Just to confirm, you wanted ‘Do not change’?";
+"IigqZS-JqNGJ8" = "Només per confirmar, volies ‘No canviar’?";
 
-"IigqZS-MkFh12" = "Just to confirm, you wanted ‘Disabled’?";
+"IigqZS-MkFh12" = "Només per confirmar, volies ‘Desactivat’?";
 
-"IigqZS-WKsGR1" = "Just to confirm, you wanted ‘12 hours’?";
+"IigqZS-WKsGR1" = "Només per confirmar, volies ‘12 hores’?";
 
-"IigqZS-uRUSUr" = "Just to confirm, you wanted ‘7 days’?";
+"IigqZS-uRUSUr" = "Només per confirmar, volies ‘7 dies’?";
 
 "IpgchX" = "Error";
 
 "JN0Z6t" = "Error";
 
-"JqNGJ8" = "Do not change";
+"JqNGJ8" = "No canviar";
 
 "Jvuy08" = "${error}";
 
-"KiM47T" = "Protection Type";
+"KiM47T" = "Tipus de Protecció";
 
-"LNrgDh" = "Instance";
+"LNrgDh" = "Instància";
 
-"LbaWtP" = "Please enter a state.";
+"LbaWtP" = "Introdueix un estat.";
 
-"LhNoaz" = "Instance";
+"LhNoaz" = "Instància";
 
-"LoLpHl" = "Toggle Safe Browsing of ${instance} to ${state}";
+"LoLpHl" = "Canvía la Navegació Segura de ${instance} a ${state}";
 
-"MkFh12" = "Disabled";
+"MkFh12" = "Desactivat";
 
-"Mlxu08" = "Get ${protectionType} state of ${instance}";
+"Mlxu08" = "Obté l'estat de ${protectionType} de ${instance}";
 
-"O2T0f7" = "State";
+"O2T0f7" = "Estat";
 
-"ONefKj" = "Protection Type";
+"ONefKj" = "Tipus Protecció";
 
-"PbZOOO" = "State";
+"PbZOOO" = "Estat";
 
-"QerxrF" = "Toggle Protection for your AdGuard Home instance.";
+"QerxrF" = "Canvía l'estat de la Protecció de la teva instància de AdGuard Home.";
 
-"QwDBjM" = "Toggle Protection of ${instance} to ${state}";
+"QwDBjM" = "Canvía l'estat de la Protecció de ${instance}a ${state}";
 
-"QwVZrZ" = "Toggle Safe Search for your AdGuard Home instance.";
+"QwVZrZ" = "Canvía l'estat de la Cerca Segura de la teva instància AdGuard Home.";
 
-"SPW7Ph" = "disabled";
+"SPW7Ph" = "desactivat";
 
 "SYTUDy" = "${error}";
 
-"SuBp9w-FCiMUY" = "Just to confirm, you wanted ‘Safe Browsing’?";
+"SuBp9w-FCiMUY" = "Només per confirmar, volies ‘Navegació Segura’?";
 
-"SuBp9w-T13oiI" = "Just to confirm, you wanted ‘Protection’?";
+"SuBp9w-T13oiI" = "Només per confirmar, volies ‘Protecció’?";
 
-"SuBp9w-X1wU5Q" = "Just to confirm, you wanted ‘Rule Filtering’?";
+"SuBp9w-X1wU5Q" = "Només per confirmar, volies ‘Regles de Filtratge’?";
 
-"SuBp9w-iiMFx1" = "Just to confirm, you wanted ‘Safe Search’?";
+"SuBp9w-iiMFx1" = "Només per confirmar, volies ‘Cerca Segura’?";
 
-"SuBp9w-rJGEwo" = "Just to confirm, you wanted ‘Parental Filtering’?";
+"SuBp9w-rJGEwo" = "Només per confirmar, volies ‘Control Parental’?";
 
-"T13oiI" = "Protection";
+"T13oiI" = "Protecció";
 
-"VMNE7g" = "Get the current state of your AdGuard Home instance (protection, rule filtering, safe browsing, parental filtering, or safe search). Returns 1 if enabled, 0 if disabled.";
+"VMNE7g" = "Obté l'estat actual de la teva instància de AdGuard Home (protecció, regles de filtratge, navegació segura, control parental, cerca segura). Retorna 1 si està activat i 0 si està desactivat.";
 
-"Vw3w9H" = "Instance";
+"Vw3w9H" = "Instància";
 
-"WEdaQb" = "Toggle Rule Filtering of ${instance} to ${state}";
+"WEdaQb" = "Canvía les Regles de Filtratge de ${instance}a ${state}";
 
-"WKsGR1" = "12 hours";
+"WKsGR1" = "12 hores";
 
-"X1wU5Q" = "Rule Filtering";
+"X1wU5Q" = "Regles de Filtratge";
 
-"X9hKeL" = "Instance";
+"X9hKeL" = "Instància";
 
 "XpmLse" = "enabled";
 
-"YG3bix" = "Toggle Safe Browsing for your AdGuard Home instance.";
+"YG3bix" = "Canvía l'estat de la Navegació Segura de la teva instància de AdGuard Home.";
 
-"Z6sRub" = "State";
+"Z6sRub" = "Estat";
 
 "ZU7kXl" = "Error";
 
-"aidFLf" = "disabled";
+"aidFLf" = "desactivat";
 
-"bM4PiE" = "Toggle Safe Browsing";
+"bM4PiE" = "Canvía la Navegació Segura";
 
-"biCCg0" = "Toggle Rule Filtering for your AdGuard Home instance.";
+"biCCg0" = "Canvía l'estat de les Regles de Filtratge de la teva instància de AdGuard Home.";
 
-"cZ3FL9" = "State";
+"cZ3FL9" = "Estat";
 
 "d8FFvQ" = "${error}";
 
-"daRBcb" = "No connection to the instance.";
+"daRBcb" = "Sense connexió amb l'instància.";
 
 "dfBdG7" = "${error}";
 
-"e3Hm4U" = "State";
+"e3Hm4U" = "Estat";
 
 "fFF0c3" = "${error}";
 
 "gsheLN" = "Error";
 
-"gtjTiQ" = "Filter Update Interval";
+"gtjTiQ" = "Interval d'actualització de filtres";
 
-"ic0mgN" = "State";
+"ic0mgN" = "Estat";
 
-"iiMFx1" = "Safe Search";
+"iiMFx1" = "Cerca Segura";
 
 "jqY0f3" = "enabled";
 
-"ksPJFh" = "Filter Update Interval";
+"ksPJFh" = "Interval d'actualització de filtres";
 
 "m5dDcF" = "Error";
 
-"nhAjxR" = "Instance";
+"nhAjxR" = "Instància";
 
-"nvu30k" = "Toggle Parental Filtering for your AdGuard Home instance.";
+"nvu30k" = "Canvía l'estat del Control Parental de la teva instància de AdGuard Home.";
 
-"ojbzRl" = "Current State";
+"ojbzRl" = "Estat Actual";
 
-"rJGEwo" = "Parental Filtering";
+"rJGEwo" = "Control Parental";
 
-"rsrRAm" = "Get Current State";
+"rsrRAm" = "Obté l'estat actual";
 
-"s7BFrT" = "No connection to the instance.";
+"s7BFrT" = "Sense connexió amb l'instància.";
 
 "sAMjhv" = "${error}";
 
-"sAh3Wm" = "State";
+"sAh3Wm" = "Estat";
 
-"teQcvL" = "Toggle Parental Filtering of ${instance} to ${state}";
+"teQcvL" = "Canvía el Control Parental de ${instance} a ${state}";
 
-"uRUSUr" = "7 days";
+"uRUSUr" = "7 dies";
 
-"vj7cDW" = "Toggle Rule Filtering of ${instance} to ${state}";
+"vj7cDW" = "Canvía les Regles de Filtratge de ${instance} a ${state}";
 
-"vmAS67" = "Toggle Protection";
+"vmAS67" = "Canvía la Protecció";
 
-"xnRmnx" = "Toggle Parental Filtering";
+"xnRmnx" = "Canvía el Control Parental";
 
-"yKIHVq" = "Instance";
+"yKIHVq" = "Instància";
 
-"z3ea70" = "What instance?";
+"z3ea70" = "Quina instància?";
 
-"ztb6U1" = "Toggle Rule Filtering";
+"ztb6U1" = "Canvía les Regles de Filtratge";
 
