@@ -272,7 +272,6 @@
 "dhcp_add_client_with_mac" = "Nuevo Cliente (con MAC)";
 "dhcp_reset_all_leases" = "Restablecer todas las asignaciones";
 "dhcp_reset_all_leases_footer" = "Elimina todas las asignaciones actuales sin eliminar las opciones configuradas.";
-"dhcp_reset_all_leases_alert_title" = "Restablecer asignaciones";
 "dhcp_reset_all_leases_alert_body" = "¿Estás seguro de que deseas restablecer todas las asignaciones?";
 "dhcp_reset_dhcp_config" = "Restablecer configuración DHCP";
 "dhcp_reset_dhcp_config_footer" = "Restablece todos los parámetros del servidor DHCP";
@@ -521,6 +520,7 @@
 "rocketscience_tipjar_thankyou" = "¡Gracias!";
 "rocketscience_my_other_apps" = "Mis otras aplicaciones";
 "rocketscience_piholeremote_subtitle" = "Tu Pi-hole bajo control.";
+"rocketscience_adguarddns_subtitle" = "Rather use AdGuard DNS? I've got you covered.";
 "rocketscience_mango_subtitle" = "Una aplicación para hacer seguimiento de tu Manga y Anime preferidos, utilizando la API de MyAnimeList.";
 "rocketscience_energieradar_subtitle" = "Monitoriza en tiempo real los precios de la electricidad y el gas en los Paises Bajos.";
 "rocketscience_acknoledgements" = "Agradecimientos especiales a";

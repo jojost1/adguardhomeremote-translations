@@ -272,7 +272,6 @@
 "dhcp_add_client_with_mac" = "Neuer Client (mit MAC)";
 "dhcp_reset_all_leases" = "Alle Leases zurücksetzen";
 "dhcp_reset_all_leases_footer" = "Entfernt alle aktuellen Zuweisungen, ohne die Lease-Konfiguration zu löschen.";
-"dhcp_reset_all_leases_alert_title" = "Alle Leases zurücksetzen";
 "dhcp_reset_all_leases_alert_body" = "Möchten Sie wirklich alle Leases zurücksetzen?";
 "dhcp_reset_dhcp_config" = "DHCP-Einstellungen zurücksetzen";
 "dhcp_reset_dhcp_config_footer" = "Setzt alle DHCP-Einstellungen zurück.";
@@ -522,6 +521,7 @@ Apps, welche ich ebenfalls kontinuierlich verbessere, im AppStore veröffentlich
 "rocketscience_tipjar_thankyou" = "Vielen Dank!";
 "rocketscience_my_other_apps" = "Meine anderen Apps";
 "rocketscience_piholeremote_subtitle" = "Alles über Pi-hole an einem Ort.";
+"rocketscience_adguarddns_subtitle" = "Rather use AdGuard DNS? I've got you covered.";
 "rocketscience_mango_subtitle" = "Eine übersichtliche Anime- & Manga-Tracker-App, welche die MyAnimeList API verwendet.";
 "rocketscience_energieradar_subtitle" = "Überwache Strom- & Gaspreise in zahlreichen europäischen Ländern in Echtzeit.";
 "rocketscience_acknoledgements" = "Besonderer Dank geht an";

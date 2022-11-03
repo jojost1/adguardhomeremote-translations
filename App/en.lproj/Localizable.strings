@@ -270,10 +270,9 @@
 "dhcp_lease_create" = "Create Static Lease";
 "dhcp_add_client_with_ip" = "New Client (with IP)";
 "dhcp_add_client_with_mac" = "New Client (with MAC)";
-"dhcp_reset_all_leases" = "Reset all leases";
-"dhcp_reset_all_leases_footer" = "Removes all current leases without erasing the lease configuration.";
-"dhcp_reset_all_leases_alert_title" = "Reset Leases";
-"dhcp_reset_all_leases_alert_body" = "Are you sure you want to reset all leases?";
+"dhcp_reset_all_leases" = "Reset lease configuration";
+"dhcp_reset_all_leases_footer" = "Resets all current static & dynamic leases and lease configuration, without erasing the DHCP configuration.";
+"dhcp_reset_all_leases_alert_body" = "Are you sure you want to remove all leases and reset the lease configuration?";
 "dhcp_reset_dhcp_config" = "Reset DHCP configuration";
 "dhcp_reset_dhcp_config_footer" = "Resets all DHCP settings.";
 "dhcp_reset_dhcp_config_alert_body" = "Are you sure you want to reset the DHCP configuration?";
@@ -521,6 +520,7 @@
 "rocketscience_tipjar_thankyou" = "Thank you!";
 "rocketscience_my_other_apps" = "My Other Apps";
 "rocketscience_piholeremote_subtitle" = "Everything Pi-hole in one place.";
+"rocketscience_adguarddns_subtitle" = "Rather use AdGuard DNS? I've got you covered.";
 "rocketscience_mango_subtitle" = "A clean Anime & Manga tracker app, using the MyAnimeList API.";
 "rocketscience_energieradar_subtitle" = "Monitor real-time electricity and gas prices in many European countries.";
 "rocketscience_acknoledgements" = "Special thanks to";

@@ -272,7 +272,6 @@
 "dhcp_add_client_with_mac" = "Yeni müşteri (with MAC)";
 "dhcp_reset_all_leases" = "Bütün kiralamaları sıfırla";
 "dhcp_reset_all_leases_footer" = "Kiralama yapılandırmalarını silmeden mevcut bütün kiralamaları sıfırla.";
-"dhcp_reset_all_leases_alert_title" = "Kiralamaları sıfırla";
 "dhcp_reset_all_leases_alert_body" = "Bütün kiralamaları sıfırlamak istediğinize emin misiniz?";
 "dhcp_reset_dhcp_config" = "Reset DHCP configuration";
 "dhcp_reset_dhcp_config_footer" = "Resets all DHCP settings.";
@@ -521,6 +520,7 @@
 "rocketscience_tipjar_thankyou" = "Teşekkürler!";
 "rocketscience_my_other_apps" = "Diğer uygulamalarım";
 "rocketscience_piholeremote_subtitle" = "Her şey Pi-deliği tek bir yerde.";
+"rocketscience_adguarddns_subtitle" = "Rather use AdGuard DNS? I've got you covered.";
 "rocketscience_mango_subtitle" = "MyAnimeList API'sini kullanan temiz bir Anime ve Manga izleme uygulaması.";
 "rocketscience_energieradar_subtitle" = "Hollanda'daki gerçek zamanlı elektrik ve benzin fiyatlarını görüntüle.";
 "rocketscience_acknoledgements" = "Özel teşekkürler";

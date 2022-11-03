@@ -272,7 +272,6 @@
 "dhcp_add_client_with_mac" = "New Client (with MAC)";
 "dhcp_reset_all_leases" = "Réinitialiser tous les baux";
 "dhcp_reset_all_leases_footer" = "Removes all current leases without erasing the lease configuration.";
-"dhcp_reset_all_leases_alert_title" = "Réinitialiser tous les baux";
 "dhcp_reset_all_leases_alert_body" = "Voulez-vous vraiment réinitialiser tous les baux DHCP?";
 "dhcp_reset_dhcp_config" = "Reset DHCP configuration";
 "dhcp_reset_dhcp_config_footer" = "Resets all DHCP settings.";
@@ -521,6 +520,7 @@
 "rocketscience_tipjar_thankyou" = "Merci !";
 "rocketscience_my_other_apps" = "Mes autres apps";
 "rocketscience_piholeremote_subtitle" = "Tout Pi-hole en un seul endroit.";
+"rocketscience_adguarddns_subtitle" = "Rather use AdGuard DNS? I've got you covered.";
 "rocketscience_mango_subtitle" = "A clean Anime & Manga tracker app, using the MyAnimeList API.";
 "rocketscience_energieradar_subtitle" = "Monitor real-time electricity and gas prices in many European countries.";
 "rocketscience_acknoledgements" = "Remerciements particuliers";

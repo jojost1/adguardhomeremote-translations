@@ -272,7 +272,6 @@
 "dhcp_add_client_with_mac" = "新的用戶端（以 MAC）";
 "dhcp_reset_all_leases" = "重置所有的租約";
 "dhcp_reset_all_leases_footer" = "移除所有現行的租約而沒清除租約配置。";
-"dhcp_reset_all_leases_alert_title" = "重置租約";
 "dhcp_reset_all_leases_alert_body" = "您確定您想要重置所有的租約嗎？";
 "dhcp_reset_dhcp_config" = "重置 DHCP 配置";
 "dhcp_reset_dhcp_config_footer" = "重置所有的 DHCP 設定。";
@@ -521,6 +520,7 @@
 "rocketscience_tipjar_thankyou" = "感謝您！";
 "rocketscience_my_other_apps" = "我的其它應用程式";
 "rocketscience_piholeremote_subtitle" = "Pi-hole 的一切在一個地方。";
+"rocketscience_adguarddns_subtitle" = "Rather use AdGuard DNS? I've got you covered.";
 "rocketscience_mango_subtitle" = "一款乾淨的動漫 & 漫畫追蹤器應用程式，使用 MyAnimeList 應用程式介面。";
 "rocketscience_energieradar_subtitle" = "關注在荷蘭的即時電價和天然氣價格。";
 "rocketscience_acknoledgements" = "對以下的特別感謝";

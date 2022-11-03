@@ -270,9 +270,8 @@
 "dhcp_lease_create" = "Nieuwe Lease";
 "dhcp_add_client_by_ip" = "Nieuwe cliënt (met IP)";
 "dhcp_add_client_by_mac" = "Nieuwe cliënt (met MAC)";
-"dhcp_reset_all_leases" = "Alle leases resetten";
-"dhcp_reset_all_leases_footer" = "Verwijder alle leases zonder de lease configuratie te wissen.";
-"dhcp_reset_all_leases_alert_title" = "Reset Leases";
+"dhcp_reset_all_leases" = "Reset lease configuratie";
+"dhcp_reset_all_leases_footer" = "Reset alle leases en de lease configuratie, zonder de DHCP configuratie te wissen.";
 "dhcp_reset_all_leases_alert_body" = "Weet je zeker dat je alle leases wilt resetten?";
 "dhcp_reset_dhcp_config" = "Reset DHCP configuratie";
 "dhcp_reset_dhcp_config_footer" = "Reset alle DHCP instellingen.";
@@ -521,6 +520,7 @@
 "rocketscience_tipjar_thankyou" = "Bedankt!";
 "rocketscience_my_other_apps" = "Mijn Andere Apps";
 "rocketscience_piholeremote_subtitle" = "Alles voor Pi-hole op één plek.";
+"rocketscience_adguarddns_subtitle" = "Gebruik je liever AdGuard DNS? Daar is ook een app voor.";
 "rocketscience_mango_subtitle" = "Een Anime & Manga tracking app die gebruik maakt van de MyAnimeList API.";
 "rocketscience_energieradar_subtitle" = "Real-time inzicht in stroom- en gasprijzen in Nederland en andere Europese landen.";
 "rocketscience_acknoledgements" = "Met dank aan";

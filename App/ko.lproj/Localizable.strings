@@ -272,7 +272,6 @@
 "dhcp_add_client_with_mac" = "New Client (with MAC)";
 "dhcp_reset_all_leases" = "모든 임대 초기화";
 "dhcp_reset_all_leases_footer" = "임대 구성을 지우지 않고 현재 임대를 모두 제거합니다.";
-"dhcp_reset_all_leases_alert_title" = "임대 초기화";
 "dhcp_reset_all_leases_alert_body" = "모든 임대를 초기화하시겠습니까?";
 "dhcp_reset_dhcp_config" = "Reset DHCP configuration";
 "dhcp_reset_dhcp_config_footer" = "Resets all DHCP settings.";
@@ -521,6 +520,7 @@
 "rocketscience_tipjar_thankyou" = "감사합니다!";
 "rocketscience_my_other_apps" = "다른 앱";
 "rocketscience_piholeremote_subtitle" = "모든 Pi-hole을 한 곳에서.";
+"rocketscience_adguarddns_subtitle" = "Rather use AdGuard DNS? I've got you covered.";
 "rocketscience_mango_subtitle" = "A clean Anime & Manga tracker app, using the MyAnimeList API.";
 "rocketscience_energieradar_subtitle" = "네덜란드의 실시간 전기 및 가스 비용을 모니터링합니다.";
 "rocketscience_acknoledgements" = "특별히 감사함";
