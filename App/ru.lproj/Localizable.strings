@@ -55,7 +55,7 @@
 "querylog_status-rewritten" = "Переписанные";
 "querylog_status-safe_search" = "Безопасный поиск";
 "querylog_clear-filtered" = "Сбросить фильтры";
-"querylog_show_queries_status" = "Просмотр запросов с состоянием";
+"querylog_show_queries_status" = "Просмотр запросов с статусом";
 
 // MARK: Queries
 "query_status_NotFilteredNotFound" = "Обработан";
