@@ -51,7 +51,7 @@
 "querylog_status-blocked_services" = "Заблокированные сервисы";
 "querylog_status-blocked_safebrowsing" = "Заблокировано угроз";
 "querylog_status-blocked_parental" = "Заблокировано Родительским контролем";
-"querylog_status-whitelisted" = "Заблокировано угроз";
+"querylog_status-whitelisted" = "Разрешённые";
 "querylog_status-rewritten" = "Переписанные";
 "querylog_status-safe_search" = "Безопасный поиск";
 "querylog_clear-filtered" = "Сбросить фильтры";
