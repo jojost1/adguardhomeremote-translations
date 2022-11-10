@@ -20,12 +20,12 @@
 "dashboard_top-clients" = "Частые клиенты";
 "dashboard_top-queried" = "Часто запрашиваемые домены";
 "dashboard_top-blocked" = "Часто блокируемые домены";
-"dashboard_avg_ms_%@" = "в среднем %@ms";
+"dashboard_avg_ms_%@" = "сред. %@ms";
 "dashboard_confirmation_enable_%@" = "Вы уверены, что хотите включить %@?";
 "dashboard_confirmation_enable_button" = "Включить";
 "dashboard_confirmation_disable_%@" = "Вы уверены, что хотите отключить %@?";
 "dashboard_confirmation_disable_button" = "Отключить";
-"dashboard_jump_to_instance" = "Аккаунт";
+"dashboard_jump_to_instance" = "Сервер";
 
 // MARK: - Query Log
 "querylog_tabbar" = "Журнал";
@@ -108,9 +108,9 @@
 "settings_tabbar" = "Настройки";
 
 // MARK: Add/Edit Instance
-"instance_add" = "Добавить аккаунт";
-"instance_new" = "Новый аккаунт";
-"settings_edit_instance" = "Редактировать аккаунт";
+"instance_add" = "Добавить сервер";
+"instance_new" = "Новый сервер";
+"settings_edit_instance" = "Редактировать сервер";
 "instance_display_name" = "Отображаемое название";
 "instance_display_name_placeholder" = "AdGuard Home";
 "instance_ip_hostname" = "IP или Имя хоста";
@@ -121,15 +121,15 @@
 "instance_authentication_username_placeholder" = "Имя пользователя";
 "instance_authentication_password_placeholder" = "Пароль";
 "instance_other" = "Другое";
-"instance_hide" = "Скрыть аккаунт";
+"instance_hide" = "Скрыть сервер";
 "instance_test_connection" = "Проверить соединение";
-"instance_remove" = "Удалить аккаунт";
-"instance_remove_alert_title" = "Удаление AdGuard Home аккаунта";
-"instance_remove_alert_body" = "Вы уверены, что хотите удалить этот аккаунт?";
+"instance_remove" = "Удалить сервер";
+"instance_remove_alert_title" = "Удаление AdGuard Home сервера";
+"instance_remove_alert_body" = "Вы уверены, что хотите удалить этот сервер?";
 "settings_validation_port" = "Пожалуйста, укажите корректный порт.";
 
 // MARK: Instance Settings
-"settings_add-instance" = "Добавить аккаунт";
+"settings_add-instance" = "Добавить сервер";
 "settings_edit-instance" = "Редактировать";
 "settings_clients" = "Клиенты";
 "settings_filtering" = "Фильтрация";
@@ -498,7 +498,7 @@
 "pro_manage_dhcp" = "Управляйте настройками DHCP";
 "pro_manage_dns" = "Управляйте настройками DNS";
 "pro_manage_rewrites" = "Управляйте перезаписями DNS";
-"pro_support_multiple_instances" = "Поддержка 2+ аккаунтов";
+"pro_support_multiple_instances" = "Поддержка 2 и более серверов";
 "pro_alternative_icons" = "Альтернативные значки приложений";
 "pro_beta_access" = "Доступ к бета-версии TestFlight";
 
@@ -538,8 +538,8 @@
 "tipjar_description_thankyou" = "Спасибо за вашу поддержку.\n- Joost";
 "tipjar_thankyou_tip" = "Спасибо вам за ваши щедрые чаевые!";
 "tipjar_thankyou_tips" = "Спасибо вам за ваши щедрые чаевые!";
-"tipjar_love" = "Я люблю тебя! ❤️";
-"tipjar_love_alert" = "Большое вам спасибо, я действительно ценю тот факт, что вам так нравится приложение, что вы готовы дать чаевые. Это также чрезвычайно мотивирует меня. Я люблю тебя!\n\nJoost";
+"tipjar_love" = "Я люблю Вас! ❤️";
+"tipjar_love_alert" = "Большое вам спасибо, я действительно ценю тот факт, что вам так нравится приложение, что вы готовы дать чаевые. Это также чрезвычайно мотивирует меня. Я люблю Вас!\n\nJoost";
 "tipjar_blush" = "*смущается*";
 "tipjar_payment_success" = "Платеж прошел успешно";
 "tipjar_testflight_explainer" = "Примечание: вы запускаете сборку TestFlight, поэтому платежи выполняются в режиме "песочницы" и фактически не обрабатываются.\n\nЕсли вы хотите оставить чаевые, пожалуйста, скачайте приложение из App Store! После этого вы можете снова загрузить бета-версию. Спасибо!";
@@ -559,14 +559,14 @@
 "reset" = "Сбросить";
 "refresh" = "Обновить";
 "settings" = "Настройки";
-"cannot_reach_instance" = "Не удается связаться с аккаунтом.";
+"cannot_reach_instance" = "Не удается связаться с данным сервером.";
 "not_responding" = "Не отвечает";
 "something_went_wrong" = "Что-то пошло не так.";
 "something_went_wrong_alert" = "Что-то пошло не так";
 "error" = "Ошибка";
 "unknown_error" = "Неизвестная ошибка";
 "unknown" = "Неизвестно";
-"instance" = "Аккаунт";
+"instance" = "Сервер";
 "ms" = "мс";
 "select_all" = "Выбрать все";
 "deselect_all" = "Убрать выделение со всего";
@@ -597,7 +597,7 @@
 "widget_dashboard_description" = "Просмотрите статистику своей панели мониторинга.";
 
 // MARK: Apple Watch
-"loading_instances_icloud" = "Загрузка аккаунтов из iCloud...";
+"loading_instances_icloud" = "Загрузка ваших серверов из iCloud...";
 "watch_stuck_reinstall" = "Это может занять некоторое время. Если приложение зависло на этом экране, пожалуйста, попробуйте переустановить его. Приносим извинения за причиненные неудобства!";
 
 // MARK: Home Screen Quick Actions
