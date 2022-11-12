@@ -1,38 +1,38 @@
-AdGuard Home Remote makes managing your AdGuard Home quick and easy. Quickly enable/disable blocking features, as well as view statistics such as top clients and top domains. Manage your clients, filters, DNS rewrites, and more.
+AdGuard Home Remote позволяет быстро и легко управлять вашим сервером AdGuard Home. Быстро включайте/отключайте различные функции, а также просматривайте статистику, такую как самые популярные клиенты и самые запрашиваемые домены. Управляйте своими клиентами, фильтрами, настройками DNS и многим другим.
 
-*Control Blocking*
-You can quickly enable or disable filtering & safe browsing/search. You can even manage specific settings for your clients!
+*Управление блокировкой*
+Вы можете быстро включить или отключить фильтрацию и безопасный просмотр/поиск. Вы даже можете управлять настройками отдельно для каждого из клиентов!
 
-*Statistics*
-View graphs of your queries as well as top clients and domains. Search through your queries in the Query Log with detailed request and response info.
+*Статистика*
+Просматривайте графики ваших запросов, а также самых популярных клиентов и доменов. Выполняйте поиск в журнале запросов с подробной информацией о запросах и ответах.
 
-*Manage Settings*
-Add or edit your clients, add some new filters or maybe disable them for a while, update your filters, edit blocked services, manage DHCP and DNS settings, create new DNS rules, or edit your Query Log settings.
+*Управление настройками*
+Добавляйте или редактируйте своих клиентов, добавляйте новые фильтры или отключайте их, обновляйте свои фильтры, редактируйте заблокированные сервисы, управляйте настройками DHCP и DNS, создавайте новые правила DNS или редактируйте настройки журнала запросов.
 
 ==
 
-Features:
-- Control Filtering & Safe Browsing/Search
-- View basic & advanced statistics
-- Query Log with search and filters
-- Live Log showing a log of queries while they happen in real-time (requires Pro)
-- Manage Clients, including filtering settings, blocked services, and tags (requires Pro)
-- Manage Filters, including block- & allowlists and custom filtering rules (requires Pro)
-- Manage DHCP settings, including static leases (requires Pro)
-- Manage DNS settings (requires Pro)
-- Manage DNS Rewrites (requires Pro)
-- Support for multiple instances (requires Pro)
-- Widgets
-- Siri Shortcuts
-- iCloud sync between iPhone, iPad, and Apple Watch
-- Customisable color schemes and app icons
-- Support for iOS, iPadOS, macOS, watchOS
-- Clean and modern 100% SwiftUI design
+Функции:
+- Управление фильтрацией и безопасным просмотром/поиском
+- Просмотр базовой и расширенной статистики
+- Журнал запросов с поиском и фильтрами
+- Просмотр журнала запросов в режиме реального времени (требуется Pro)
+- Управление клиентами, включая настройками фильтрации, заблокированными сервисами и тегами (требуется Pro)
+- Управление фильтрами, включая списки блокировок и разрешенных адресов, а также настраиваемые правила фильтрации (требуется Pro)
+- Управление настройками DHCP, включая статическую аренду (требуется Pro)
+- Управление настройками DNS (требуется Pro)
+- Управление перезаписью DNS (требуется Pro)
+- Поддержка нескольких подключений к серверам Adguard Home (требуется Pro)
+- Виджеты
+- Быстрые команды Siri
+- Синхронизация iCloud между iPhone, iPad и Apple Watch
+- Настраиваемые цветовые схемы и значки приложения
+- Поддержка iOS, iPadOS, macOS, watchOS
+- Чистый и современный дизайн 100% SwiftUI
 
 * AdGuard Home Remote Pro:
-Additional features are unlocked with a one-time purchase which will also support future development.
+Дополнительные функции разблокируются после единоразовой покупки, которая также будет поддерживать дальнейшее обновление и развитие.
 
 ==
 
-Note: 
-AdGuard Home Remote is a third-party app and is not directly affiliated to AdGuard. For more information about AdGuard Home, visit https://adguard.com/adguard-home/overview.html.
+Примечание:
+AdGuard Home Remote является сторонним приложением и не имеет прямого отношения к AdGuard. Для получения дополнительной информации об AdGuard Home посетите официальный сайт https://adguard.com/adguard-home/overview.html.
