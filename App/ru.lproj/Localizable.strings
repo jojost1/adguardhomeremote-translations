@@ -329,7 +329,7 @@
 "dnsrewrites_no_entries" = "Не найдено правил перезаписи.";
 "dnsrewrites_new" = "Новое правило перезаписи DNS";
 "dnsrewrites_domain" = "Домен";
-"dnsrewrites_domain_placeholder" = "Домен or Wildcard";
+"dnsrewrites_domain_placeholder" = "Домен или Wildcard";
 "dnsrewrites_answer" = "Ответ";
 "dnsrewrites_answer_placeholder" = "IP или имя домена";
 "dnsrewrites_pro_required" = "Remote Pro необходим для управления перезаписями DNS.";
