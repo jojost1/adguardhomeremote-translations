@@ -1,208 +1,208 @@
-"0sDcS3" = "Toggle Safe Search";
+"0sDcS3" = "Включить безопасный поиск";
 
-"3Durlk" = "Please enter all parameters.";
+"3Durlk" = "Укажите все параметры.";
 
-"3T3UWX" = "State";
+"3T3UWX" = "Состояние";
 
-"4I0pc3" = "Instance";
+"4I0pc3" = "Сервер";
 
-"4LxUTN-CWx6QY" = "There are ${count} options matching ‘1 hour’.";
+"4LxUTN-CWx6QY" = "Есть варианты ${count}, соответствующие параметру ‘1 час’.";
 
-"4LxUTN-ECN7Y1" = "There are ${count} options matching ‘3 days’.";
+"4LxUTN-ECN7Y1" = "Есть варианты ${count}, соответствующие параметру ‘3 дня’.";
 
-"4LxUTN-Gf4br7" = "There are ${count} options matching ‘24 hours’.";
+"4LxUTN-Gf4br7" = "Есть варианты ${count}, соответствующие параметру ‘24 часа’.";
 
-"4LxUTN-JqNGJ8" = "There are ${count} options matching ‘Do not change’.";
+"4LxUTN-JqNGJ8" = "Есть варианты ${count}, соответствующие параметру «Не изменять».";
 
-"4LxUTN-MkFh12" = "There are ${count} options matching ‘Disabled’.";
+"4LxUTN-MkFh12" = "Есть варианты: ${count}, соответствующие параметру «Отключен».";
 
-"4LxUTN-WKsGR1" = "There are ${count} options matching ‘12 hours’.";
+"4LxUTN-WKsGR1" = "Есть варианты ${count}, соответствующие параметру ‘12 часов’.";
 
-"4LxUTN-uRUSUr" = "There are ${count} options matching ‘7 days’.";
+"4LxUTN-uRUSUr" = "Есть варианты ${count}, соответствующие параметру ‘7 дней’.";
 
-"4tw4w8" = "State";
+"4tw4w8" = "Состояние";
 
 "8G4ZBi" = "${error}";
 
-"8cdAa5" = "No connection to the instance.";
+"8cdAa5" = "Нет связи с сервером.";
 
-"AAqbi0" = "State";
+"AAqbi0" = "Состояние";
 
-"BesiYj" = "Error";
+"BesiYj" = "Ошибка";
 
-"CWx6QY" = "1 hour";
+"CWx6QY" = "1 час";
 
-"DbVhnY" = "Please enter a state.";
+"DbVhnY" = "Укажите состояние.";
 
-"E5Bm3b" = "Toggle Safe Search of ${instance} to ${state}";
+"E5Bm3b" = "Переключить безопасный поиск ${instance} на ${state}";
 
-"EBncxh" = "State";
+"EBncxh" = "Состояние";
 
-"ECN7Y1" = "3 days";
+"ECN7Y1" = "3 дня";
 
 "EkjPRr" = "${error}";
 
-"FCiMUY" = "Safe Browsing";
+"FCiMUY" = "Безопасный просмотр";
 
-"Ges3nN" = "What instance?";
+"Ges3nN" = "Какой экземпляр?";
 
-"Gf4br7" = "24 hours";
+"Gf4br7" = "24 часа";
 
-"IO5auI-FCiMUY" = "There are ${count} options matching ‘Safe Browsing’.";
+"IO5auI-FCiMUY" = "Есть варианты, соответствующие параметру "Безопасный просмотр": ${count}.";
 
-"IO5auI-T13oiI" = "There are ${count} options matching ‘Protection’.";
+"IO5auI-T13oiI" = "Есть варианты ${count}, соответствующие параметру «Защита».";
 
-"IO5auI-X1wU5Q" = "There are ${count} options matching ‘Rule Filtering’.";
+"IO5auI-X1wU5Q" = "Есть варианты ${count}, соответствующие параметру ‘Правила фильтрации’.";
 
-"IO5auI-iiMFx1" = "There are ${count} options matching ‘Safe Search’.";
+"IO5auI-iiMFx1" = "Есть ${count} вариантов, соответствующих параметру "Безопасный поиск".";
 
-"IO5auI-rJGEwo" = "There are ${count} options matching ‘Parental Filtering’.";
+"IO5auI-rJGEwo" = "Есть варианты ${count}, соответствующие параметру «Родительский фильтр».";
 
-"IigqZS-CWx6QY" = "Just to confirm, you wanted ‘1 hour’?";
+"IigqZS-CWx6QY" = "Подтвердите, вы хотели "1 час"?";
 
-"IigqZS-ECN7Y1" = "Just to confirm, you wanted ‘3 days’?";
+"IigqZS-ECN7Y1" = "Подтвердите, вы хотели "3 дня"?";
 
-"IigqZS-Gf4br7" = "Just to confirm, you wanted ‘24 hours’?";
+"IigqZS-Gf4br7" = "Подтвердите, вы хотели "24 часа"?";
 
-"IigqZS-JqNGJ8" = "Just to confirm, you wanted ‘Do not change’?";
+"IigqZS-JqNGJ8" = "Подтвердите, вы хотели "Не изменять"?";
 
-"IigqZS-MkFh12" = "Just to confirm, you wanted ‘Disabled’?";
+"IigqZS-MkFh12" = "Подтвердите, вы хотели "Отключить"?";
 
-"IigqZS-WKsGR1" = "Just to confirm, you wanted ‘12 hours’?";
+"IigqZS-WKsGR1" = "Подтвердите, вы хотели "12 часов"?";
 
-"IigqZS-uRUSUr" = "Just to confirm, you wanted ‘7 days’?";
+"IigqZS-uRUSUr" = "Подтвердите, вы хотели "7 дней"?";
 
-"IpgchX" = "Error";
+"IpgchX" = "Ошибка";
 
-"JN0Z6t" = "Error";
+"JN0Z6t" = "Ошибка";
 
-"JqNGJ8" = "Do not change";
+"JqNGJ8" = "Не изменять";
 
 "Jvuy08" = "${error}";
 
-"KiM47T" = "Protection Type";
+"КиМ47Т" = "Тип защиты";
 
-"LNrgDh" = "Instance";
+"LNrgDh" = "Сервер";
 
-"LbaWtP" = "Please enter a state.";
+"LbaWtP" = "Введите состояние.";
 
-"LhNoaz" = "Instance";
+"LhNoaz" = "Сервер";
 
-"LoLpHl" = "Toggle Safe Browsing of ${instance} to ${state}";
+"LoLpHl" = "Переключить безопасный просмотр ${instance} на ${state}";
 
-"MkFh12" = "Disabled";
+"MkFh12" = "Отключено";
 
-"Mlxu08" = "Get ${protectionType} state of ${instance}";
+"Mlxu08" = "Получить состояние ${protectionType} для ${instance}";
 
-"O2T0f7" = "State";
+"O2T0f7" = "Состояние";
 
-"ONefKj" = "Protection Type";
+"ONefKj" = "Тип защиты";
 
-"PbZOOO" = "State";
+"PbZOOO" = "Состояние";
 
-"QerxrF" = "Toggle Protection for your AdGuard Home instance.";
+"QerxrF" = "Переключить защиту для вашего сервера AdGuard Home.";
 
-"QwDBjM" = "Toggle Protection of ${instance} to ${state}";
+"QwDBjM" = "Переключить защиту ${instance} на ${state}";
 
-"QwVZrZ" = "Toggle Safe Search for your AdGuard Home instance.";
+"QwVZrZ" = "Переключить безопасный поиск для вашего экземпляра AdGuard Home.";
 
-"SPW7Ph" = "disabled";
+"SPW7Ph" = "отключено";
 
 "SYTUDy" = "${error}";
 
-"SuBp9w-FCiMUY" = "Just to confirm, you wanted ‘Safe Browsing’?";
+"SuBp9w-FCiMUY" = "Подтвердите, вам нужна "Безопасный просмотр"?";
 
-"SuBp9w-T13oiI" = "Just to confirm, you wanted ‘Protection’?";
+"SuBp9w-T13oiI" = "Подтвердите, вам нужна "Защита"?";
 
-"SuBp9w-X1wU5Q" = "Just to confirm, you wanted ‘Rule Filtering’?";
+"SuBp9w-X1wU5Q" = "Подтвердите, вам нужна ‘Правила фильтрации’?»;
 
-"SuBp9w-iiMFx1" = "Just to confirm, you wanted ‘Safe Search’?";
+"SuBp9w-iiMFx1" = "Подтвердите, вам нужен "Безопасный поиск"?";
 
-"SuBp9w-rJGEwo" = "Just to confirm, you wanted ‘Parental Filtering’?";
+"SuBp9w-rJGEwo" = "Подтвердите, вам нужен "Родительский контроль"?";
 
-"T13oiI" = "Protection";
+"T13oiI" = "Защита";
 
-"VMNE7g" = "Get the current state of your AdGuard Home instance (protection, rule filtering, safe browsing, parental filtering, or safe search). Returns 1 if enabled, 0 if disabled.";
+"VMNE7g" = "Получить текущее состояние вашего сервера AdGuard Home (защита, правила фильтрации, безопасный просмотр, родительский контроль или безопасный поиск). Возвращает 1 - если включено, 0 - если отключено.";
 
-"Vw3w9H" = "Instance";
+"Vw3w9H" = "Сервер";
 
-"WEdaQb" = "Toggle Rule Filtering of ${instance} to ${state}";
+"WEdaQb" = "Переключить использование правил фильтрации для ${instance} на ${state}";
 
-"WKsGR1" = "12 hours";
+"WKsGR1" = "12 часов";
 
-"X1wU5Q" = "Rule Filtering";
+"X1wU5Q" = "Правила фильтрации";
 
-"X9hKeL" = "Instance";
+"X9hKeL" = "Сервер";
 
-"XpmLse" = "enabled";
+"XpmLse" = "включено";
 
-"YG3bix" = "Toggle Safe Browsing for your AdGuard Home instance.";
+"YG3bix" = "Переключить безопасный просмотр для вашего сервера AdGuard Home.";
 
-"Z6sRub" = "State";
+"Z6sRub" = "Состояние";
 
-"ZU7kXl" = "Error";
+"ZU7kXl" = "Ошибка";
 
-"aidFLf" = "disabled";
+"aidFLf" = "отключено";
 
-"bM4PiE" = "Toggle Safe Browsing";
+"bM4PiE" = "Включить безопасный просмотр";
 
-"biCCg0" = "Toggle Rule Filtering for your AdGuard Home instance.";
+"biCCg0" = "Переключить использование правил фильтрации для вашего сервера AdGuard Home.";
 
-"cZ3FL9" = "State";
+"cZ3FL9" = "Состояние";
 
 "d8FFvQ" = "${error}";
 
-"daRBcb" = "No connection to the instance.";
+"daRBcb" = "Нет связи с сервером.";
 
 "dfBdG7" = "${error}";
 
-"e3Hm4U" = "State";
+"e3Hm4U" = "Состояние";
 
 "fFF0c3" = "${error}";
 
-"gsheLN" = "Error";
+"gsheLN" = "Ошибка";
 
-"gtjTiQ" = "Filter Update Interval";
+"gtjTiQ" = "Интервал обновления фильтров";
 
-"ic0mgN" = "State";
+"ic0mgN" = "Состояние";
 
-"iiMFx1" = "Safe Search";
+"iiMFx1" = "Безопасный поиск";
 
-"jqY0f3" = "enabled";
+"jqY0f3" = "включено";
 
-"ksPJFh" = "Filter Update Interval";
+"gtjTiQ" = "Интервал обновления фильтров";
 
-"m5dDcF" = "Error";
+"m5dDcF" = "Ошибка";
 
-"nhAjxR" = "Instance";
+"nhAjxR" = "Сервер";
 
-"nvu30k" = "Toggle Parental Filtering for your AdGuard Home instance.";
+"nvu30k" = "Переключить родительский контроль для вашего сервера AdGuard Home.";
 
-"ojbzRl" = "Current State";
+"ojbzRl" = "Текущее состояние";
 
-"rJGEwo" = "Parental Filtering";
+"rJGEwo" = "Родительский контроль";
 
-"rsrRAm" = "Get Current State";
+"rsrRAM" = "Получить текущее состояние";
 
-"s7BFrT" = "No connection to the instance.";
+"s7BFrT" = "Нет связи с сервером";
 
 "sAMjhv" = "${error}";
 
-"sAh3Wm" = "State";
+"sAh3Wm" = "Состояние";
 
-"teQcvL" = "Toggle Parental Filtering of ${instance} to ${state}";
+"teQcvL" = "Переключить родительский контроль для ${instance} на ${state}";
 
-"uRUSUr" = "7 days";
+"uRUSUr" = "7 дней";
 
-"vj7cDW" = "Toggle Rule Filtering of ${instance} to ${state}";
+"vj7cDW" = "Переключить использование правил фильтрации ${instance} на ${state}";
 
-"vmAS67" = "Toggle Protection";
+"vmAS67" = "Включить защиту";
 
-"xnRmnx" = "Toggle Parental Filtering";
+"xnRmnx" = "Включить Родительский контроль";
 
-"yKIHVq" = "Instance";
+"yKIHVq" = "Сервер";
 
-"z3ea70" = "What instance?";
+"z3ea70" = "Выберите сервер";
 
-"ztb6U1" = "Toggle Rule Filtering";
+"ztb6U1" = "Переключить использование правил фильтрации";
 
