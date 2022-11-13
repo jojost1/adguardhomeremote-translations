@@ -72,7 +72,7 @@
 "query_status_RewriteRule" = "Переписаний | Правило";
 "query_status_Unknown" = "Невідомий";
 "query_copy" = "Скопіювавши";
-"query_copy_domain" = "Скопіювати домен;
+"query_copy_domain" = "Скопіювати домен";
 "query_copy_client_name" = "Скопіювати ім'я клієнта";
 "query_copy_client_ip" = "Скопіювати IP клієнта";
 "query_copy_client_id" = "Скопіювати ID клієнта";
@@ -179,7 +179,7 @@
 "filtering_disable_filter" = "Вимкнути фільтр";
 "filtering_enable_filter" = "Включити фільтр";
 "filtering_edit_filter" = "Редагувати фільтр";
-"filtering_edit_filter_name" = "Назва;
+"filtering_edit_filter_name" = "Назва";
 "filtering_edit_filter_url" = "URL";
 "filtering_enable_filtering" = "Увімкнути фільтрацію";
 "filtering_update_interval" = "Інтервал оновлення";
@@ -253,14 +253,14 @@
 "dhcp_interface_hardware_address" = "Апаратна адреса";
 "dhcp_interface_ip_addresses" = "IP-адреси";
 "dhcp_interface_flags" = "Прапори";
-"dhcp_ipv4_settings" = "Установки IPv4;
+"dhcp_ipv4_settings" = "Установки IPv4";
 "dhcp_gateway_ip" = "IP-адреса шлюзу";
 "dhcp_subnet_mask" = "Маска підмережі";
 "dhcp_ip_range" = "Діапазон IP-адрес";
 "dhcp_ip_range_start" = "початок";
 "dhcp_ip_range_end" = "кінець";
 "dhcp_lease_time" = "Час оренди";
-"dhcp_lease_time_in_seconds" = "за секунди;
+"dhcp_lease_time_in_seconds" = "за секунди";
 "dhcp_ipv6_settings" = "Установки IPv6";
 "dhcp_ipv6_settings_unsupported" = "Інтерфейс не підтримує IPv6.";
 "dhcp_range_start" = "Початок діапазону";
@@ -339,7 +339,7 @@
 "querylog_settings_status" = "Статус";
 "querylog_settings_enable" = "Увімкнути журнал";
 "querylog_settings_options" = "Опції";
-"querylog_settings_options_footer" = "Увімкнення функції "Анонімізувати IP-адресу клієнта" вимкне збереження повної IP-адреси клієнтів у журналах та статистиці.";
+"querylog_settings_options_footer" = "Увімкнення функції 'Анонімізувати IP-адресу клієнта' вимкне збереження повної IP-адреси клієнтів у журналах та статистиці.";
 "querylog_settings_anonymize" = "Анонімізувати IP-адресу клієнта";
 "querylog_settings_log_retention" = "Збереження журналу";
 "querylog_settings_clear" = "Очистити журнал запитів";
@@ -387,7 +387,7 @@
 "preferences_other" = "Інше";
 "preferences_language" = "Мова";
 "preferences_language_macos_alert" = "Змінити мову";
-"preferences_language_macos_alert_body" = "Щоб настроїти мову програми на macOS, перейдіть до "Системні установки" > "Мова та регіон" > "Програми", додайте програму та виберіть мову.";
+"preferences_language_macos_alert_body" = "Щоб настроїти мову програми на macOS, перейдіть до 'Системні установки' > 'Мова та регіон' > 'Програми', додайте програму та виберіть мову.";
 "preferences_lock_password" = "Блокування паролем";
 "preferences_lock_faceid" = "Блокування Face ID";
 "preferences_lock_touchid" = "Блокування Touch ID";
@@ -407,7 +407,7 @@
 "settings_help" = "Допомога & Зворотній зв'язок";
 "settings_help_navbar" = "Підтримка";
 "settings_help_contact" = "Зв'язатися зі мною";
-"settings_help_contact_footer" = "Будь ласка, скористайтесь англійською мовою для запитів підтримки!;
+"settings_help_contact_footer" = "Будь ласка, скористайтесь англійською мовою для запитів підтримки!";
 "settings_help_actions" = "Дії";
 "settings_help_logs" = "Журнали";
 "settings_help_logs_footer" = "Журнали записуються локально і ніколи не залишають ваш пристрій. Проведіть пальцем вниз, щоб вийти з перегляду журналів.";
@@ -479,7 +479,7 @@
 "pro_description" = "Розблокуйте додаткові функції та підтримайте майбутнє розробки за допомогою одноразової покупки.";
 "pro_purchased_date_%@" = "Придбано %@.";
 "pro_features" = "Pro Можливості";
-"pro_family_sharing" = "Підтримує "Сімейний доступ"";
+"pro_family_sharing" = "Підтримує 'Сімейний доступ'";
 "pro_restore_purchase" = "Відновити покупку";
 "pro_restored" = "Pro Відновлено!";
 "pro_restore_failed" = "Відновити не вдалося";
@@ -487,7 +487,7 @@
 "pro_testflight" = "TestFlight";
 "pro_beta_access_button" = "Запросити доступ до бета-версії";
 "pro_testflight_alert" = "Я бачу, що у вас немає активного поштового клієнта на вашому пристрої, будь ласка, напишіть мені з проханням приєднатися до TestFlight, включаючи скріншот цього екрану Pro, щоб я міг побачити, що ви придбали Pro.\n\nБудь ласка, надішліть листа на адресу developer@rocketscience-it.nl!";
-"pro_testflight_explainer" = "Примітка: Ви запускаєте тестове складання програми, тому платежі виконуються в режимі "пісочниці" і фактично не обробляються.\n\nA Pro 'ліцензія' анулюватиметься кожні кілька днів під час складання TestFlight. Якщо ви хочете придбати Pro і використовувати програму без цієї незручності, будь ласка, скачайте програму з App Store. Дякую!";
+"pro_testflight_explainer" = "Примітка: Ви запускаєте тестове складання програми, тому платежі виконуються в режимі 'пісочниці' і фактично не обробляються.\n\nA Pro 'ліцензія' анулюватиметься кожні кілька днів під час складання TestFlight. Якщо ви хочете придбати Pro і використовувати програму без цієї незручності, будь ласка, скачайте програму з App Store. Дякую!";
 
 // MARK: Pro Features
 "pro_view_queries" = "Переглядайте 25+ запитів та встановлюйте фільтри";
@@ -542,7 +542,7 @@
 "tipjar_love_alert" = "Щиро дякую, я дуже ціную той факт, що вам так подобається додаток, що ви готові дати чайові. Це також надзвичайно мотивує мене. Я кохаю вас!\n\nJoost";
 "tipjar_blush" = "*ніяковіє*";
 "tipjar_payment_success" = "Платіж пройшов успішно";
-"tipjar_testflight_explainer" = "Примітка: ви запускаєте збірку TestFlight, тому платежі виконуються в режимі "пісочниці" і фактично не обробляються.\n\nЯкщо ви хочете залишити чайові, будь ласка, скачайте додаток з App Store! Після цього ви можете знову завантажити бета-версію. Дякую!";
+"tipjar_testflight_explainer" = "Примітка: ви запускаєте збірку TestFlight, тому платежі виконуються в режимі 'пісочниці' і фактично не обробляються.\n\nЯкщо ви хочете залишити чайові, будь ласка, скачайте додаток з App Store! Після цього ви можете знову завантажити бета-версію. Дякую!";
 
 // MARK: - Other
 "loading" = "Завантаження";
