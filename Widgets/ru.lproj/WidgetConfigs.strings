@@ -1,47 +1,47 @@
-"0foAlr-1ekF7R" = "Just to confirm, you wanted ‘Dark (Pure Black)’?";
+"0foAlr-1ekF7R" = "Подтвердите, вы хотите выбрать ‘Чёрный’?”;
 
-"0foAlr-JOGSFQ" = "Just to confirm, you wanted ‘Light’?";
+"0foAlr-JOGSFQ" = "Подтвердите, вы хотите выбрать ‘Светлый‘?";
 
-"0foAlr-W38Flm" = "Just to confirm, you wanted ‘Dark’?";
+"0foAlr-W38Flm" = "Подтвердите, вы хотите выбрать ‘Темный‘?";
 
-"0foAlr-ZyGBsF" = "Just to confirm, you wanted ‘System’?";
+"0foAlr-ZyGBsF" = "Подтвердите, вы хотите выбрать ‘Как в системе‘?";
 
-"0foAlr-g0CJBh" = "Just to confirm, you wanted ‘System (Pure Black)’?";
+"0foAlr-g0CJBh" = "Подтвердите, вы хотите выбрать ‘Как в системе (Чёрный)’?”;
 
-"1ekF7R" = "Dark (Pure Black)";
+«1ekF7R» = "Чёрный";
 
-"9m7HE0" = "Appearance";
+"9m7HE0" = "Внешний вид";
 
-"JOGSFQ" = "Light";
+"JOGSFQ" = "Светлый";
 
-"MtnrjZ" = "What instance to display?";
+"MtnrjZ" = "Какой сервер отображать?";
 
-"VA4ap6" = "Instance";
+"VA4ap6" = "Сервер";
 
-"W38Flm" = "Dark";
+"W38Flm" = "Темный";
 
-"ZyGBsF" = "System";
+"ZyGBsF" = "Как в системе";
 
-"bfm6TG" = "Just to confirm, you wanted ‘${instance}’?";
+"bfm6TG" = "Подтвердите, вам нужен ‘${instance}’?";
 
-"g0CJBh" = "System (Pure Black)";
+"g0CJBh" = "Как в системе (Чёрный)";
 
-"gpCwrM" = "Dashboard Widget";
+"gpCwrM" = "Виджет Мониторинга";
 
-"l8C2oo" = "There are ${count} options matching ‘${instance}’.";
+"l8C2oo" = "Существует ${count} вариантов, соответствующих ‘${instance}’.";
 
-"tVvJ9c" = "Dashboard Widget";
+"tvvJ9c" = "Виджет Мониторинга";
 
-"v1RflJ" = "Instance";
+"v1RflJ" = "Сервер";
 
-"veGZYz-1ekF7R" = "There are ${count} options matching ‘Dark (Pure Black)’.";
+"veGZYz-1ekF7R" = "Существует ${count} вариантов, соответствующих параметру "Чёрный".";
 
-"veGZYz-JOGSFQ" = "There are ${count} options matching ‘Light’.";
+"veGZYz-JOGSFQ" = "Существует ${count} вариантов, соответствующих варианту "Светлый".";
 
-"veGZYz-W38Flm" = "There are ${count} options matching ‘Dark’.";
+"veGZYz-W38Flm" = "Существует ${count} вариантов, соответствующих варианту "Темный".";
 
-"veGZYz-ZyGBsF" = "There are ${count} options matching ‘System’.";
+"veGZYz-ZyGBsF" = "Есть варианты ${count}, соответствующие ‘Как в системе’.";
 
-"veGZYz-g0CJBh" = "There are ${count} options matching ‘System (Pure Black)’.";
+"veGZYz-g0CJBh" = "Есть ${count} вариантов, соответствующих параметру "Как в системе (Чёрный)".";
 
-"xq4Ojz" = "Appearance";
+"xq4Ojz" = "Внешний вид";
