@@ -20,7 +20,7 @@
 "dashboard_top-clients" = "Найактивніші клієнти";
 "dashboard_top-queried" = "Найчастіші запити доменів";
 "dashboard_top-blocked" = "Найчастіше блоковані домени";
-"dashboard_avg_ms_%@" = "в середньому %@ms";
+"dashboard_avg_ms_%@" = "в середньому %@мс";
 "dashboard_confirmation_enable_%@" = "Ви впевнені, що хочете включити %@?";
 "dashboard_confirmation_enable_button" = "Включать";
 "dashboard_confirmation_disable_%@" = "Ви впевнені, що хочете відключити %@?";
@@ -43,7 +43,7 @@
 "querylog_filtered" = "Відфільтрований";
 "querylog_number-of-queries" = "Кількість запитів";
 "querylog_show_extra_detail" = "Розширене відображення";
-"querylog_status" = "Статус";
+"querylog_status" = "Статус запитів";
 "querylog_status-all" = "Всі запити";
 "querylog_status-filtered" = "Відфільтрований";
 "querylog_status-processed" = "Оброблений";
@@ -196,7 +196,7 @@
 "filtering_global_blocked_services" = "Глобально заблоковані сервіси";
 "filtering_custom_filtering_rules" = "Користувальницькі правила фільтрації";
 "filtering_rule_count_%@" = "%@ правил";
-"filtering_check_filtered" = "Перевірте фільтрацію імені хоста";
+"filtering_check_filtered" = "Протестувати фільтрацію імені хоста";
 "filtering_pro_required" = "Для управління фільтрами потрібен Remote Pro.";
 // Add Filter
 "filtering_addfilter_list" = "Список";
@@ -208,8 +208,8 @@
 "filtering_addfilter_url" = "URL";
 "filtering_addfilter_url_placeholder" = "URL або абсолютний шлях";
 // Custom Rules
-"filtering_rules_custom" = "Користувальницькі правила";
-"filtering_rules_custom_new" = "Нове користувальницьке правило";
+"filtering_rules_custom" = "Користуваль. правила";
+"filtering_rules_custom_new" = "Нове користуваль. правило";
 "filtering_rules_add" = "Додати правило";
 "filtering_rules_no_rules_found" = "Правила не знайдено.";
 "filtering_rules_delete_and_edit" = "Видалити & редагувати правила";
@@ -218,8 +218,8 @@
 "filtering_rules_blocking_mode" = "Режим блокування";
 "filtering_rules_blocking_mode_block" = "Заблокувати";
 "filtering_rules_blocking_mode_unblock" = "Розблокувати";
-"filtering_rules_blocking_mode_custom" = "Користувальницький";
-"filtering_rules_final_rule" = "Фінальне правило";
+"filtering_rules_blocking_mode_custom" = "Своє";
+"filtering_rules_final_rule" = "Остаточний вигляд";
 "filtering_rules_rule_placeholder" = "Введіть домен тут...";
 "filtering_rules_examples" = "Приклади";
 "filtering_rules_examples_block_title" = "||example.org^";
@@ -236,9 +236,9 @@
 "filtering_rules_examples_regex_title" = "/REGEX/";
 "filtering_rules_examples_regex_subtitle" = "блокувати доступ до доменів, що відповідають заданому регулярному виразу";
 // Check Hostname
-"filtering_check_hostname" = "Перевірити фільтрацію";
+"filtering_check_hostname" = "Тестувати фільтрацію";
 "filtering_check_hostname_placeholder" = "Введіть ім'я хоста...";
-"filtering_check_hostname_check" = "Перевірити";
+"filtering_check_hostname_check" = "Тестувати";
 "filtering_check_hostname_result" = "Результат";
 "filtering_check_hostname_cname" = "CNAME";
 "filtering_check_hostname_IP" = "IP";
@@ -262,23 +262,23 @@
 "dhcp_lease_time" = "Час оренди";
 "dhcp_lease_time_in_seconds" = "за секунди";
 "dhcp_ipv6_settings" = "Установки IPv6";
-"dhcp_ipv6_settings_unsupported" = "Інтерфейс не підтримує IPv6.";
+"dhcp_ipv6_settings_unsupported" = "Інтерфейс не підтримує IPv6";
 "dhcp_range_start" = "Початок діапазону";
-"dhcp_static_leases" = "Статичні оренди";
-"dhcp_remove_lease" = "Видалити оренду";
-"dhcp_leases" = "Оренда";
-"dhcp_lease_create" = "Додати статичну оренду";
+"dhcp_static_leases" = "Статичні адреси";
+"dhcp_remove_lease" = "Видалити адресу";
+"dhcp_leases" = "Список клієнтів DHCP";
+"dhcp_lease_create" = "Додати статичну адресу";
 "dhcp_add_client_with_ip" = "Новий клієнт (з IP)";
 "dhcp_add_client_with_mac" = "Новий клієнт (з MAC)";
 "dhcp_reset_all_leases" = "Скинути конфігурацію оренди";
-"dhcp_reset_all_leases_footer" = "Скинути всі поточні статичні та динамічні оренди та конфігурацію оренди без видалення конфігурації DHCP.";
-"dhcp_reset_all_leases_alert_body" = "Ви впевнені, що хочете видалити всі оренди та скинути конфігурацію оренди?";
+"dhcp_reset_all_leases_footer" = "Скинути всі поточні статичні та динамічні адреси та їх конфігурацію без видалення конфігурації DHCP.";
+"dhcp_reset_all_leases_alert_body" = "Ви впевнені, що хочете видалити всі адреси та скинути конфігурацію?";
 "dhcp_reset_dhcp_config" = "Скинути конфігурацію DHCP";
 "dhcp_reset_dhcp_config_footer" = "Скинути всі налаштування DHCP.";
 "dhcp_reset_dhcp_config_alert_body" = "Ви впевнені, що хочете скинути конфігурацію DHCP?";
 "dhcp_pro_required" = "Remote Pro необхідний для керування налаштуваннями DHCP.";
 // New Static Lease
-"dhcp_staticlease_new" = "Нова статична оренда";
+"dhcp_staticlease_new" = "Статична резервація";
 "dhcp_staticlease_mac" = "MAC адреса";
 "dhcp_staticlease_mac_placeholder" = "aa:0b:cd:e1:f2:34";
 "dhcp_staticlease_ip" = "IP адреса";
@@ -327,7 +327,7 @@
 "dnsrewrites_settings" = "Перезапис DNS запитів";
 "dnsrewrites_entries" = "Записи";
 "dnsrewrites_no_entries" = "Не знайдено правил перезапису.";
-"dnsrewrites_new" = "Нове правило перезапису DNS";
+"dnsrewrites_new" = "Створити правило";
 "dnsrewrites_domain" = "Домен";
 "dnsrewrites_domain_placeholder" = "Домен або Wildcard";
 "dnsrewrites_answer" = "Відповідь";
@@ -353,11 +353,11 @@
 "more_statistics_clear" = "Очищення статистики";
 "more_statistics_clear_alert" = "Ви впевнені, що хочете очистити статистику? Це спричинить обнулення всієї статистики на панелі моніторингу.";
 "more_statistics_cleared" = "Очищено.";
-"more_version" = "Версія";
+"more_version" = "Версія вашого Adguard Home";
 "more_version_current_%@" = "Поточна версія: %@";
 "more_update_started" = "Почалося оновлення!";
 "more_update_to_%@" = "Оновлення до v%@";
-"more_checking_version" = "Перевірка версії...";
+"more_checking_version" = "Перевірка оновлення...";
 "more_up_to_date" = "AdGuard Home не потребує оновлення";
 
 // MARK: Preferences
@@ -382,7 +382,7 @@
 "preferences_dashboard_number_of_clients" = "Кількість клієнтів";
 "preferences_dashboard_number_of_domains" = "Кількість доменів";
 "preferences_dashboard_auto_refresh" = "Автоматичне оновлення щохвилини";
-"preferences_dashboard_extra_confirmation" = "Оповіщення про підтвердження для кнопок";
+"preferences_dashboard_extra_confirmation" = "Просити підтвердження для кнопок";
 "preferences_querylog_show_sidebar" = "Показувати бічну панель";
 "preferences_other" = "Інше";
 "preferences_language" = "Мова";
@@ -456,7 +456,7 @@
 
 // MARK: Changelog
 "changelog_just_updated" = "Щойно оновлено!";
-"changelog_current_version" = "Поточна";
+"changelog_current_version" = "Поточна версія";
 "changelog_whats_new" = "Що нового";
 "changelog_continue" = "Продовжити";
 "changelog_new" = "Нове";
@@ -466,7 +466,7 @@
 "changelog_show_feature_promo" = "Показати промо особливостей";
 "changelog_show_on_app_update" = "Показувати під час оновлення програми";
 "changelog_show_on_app_update_footer" = "Список змін відображатиметься лише для оновлень, які містять новий функціонал, а не для оновлень, що містять лише виправлення помилок.";
-"changelog_settings" = "Налаштування журналу оновлень";
+"changelog_settings" = "Журнал оновлень";
 
 // MARK: - Pro
 "pro" = "Pro";
@@ -491,15 +491,15 @@
 
 // MARK: Pro Features
 "pro_view_queries" = "Переглядайте 25+ запитів та встановлюйте фільтри";
-"pro_livelog" = "Перегляд журналу запитів у реальному часі";
+"pro_livelog" = "Переглядайте журнал запитів у реальному часі";
 "pro_manage_clients" = "Керуйте клієнтами";
-"pro_manage_filters" = "Керуйте фільтрами";
+"pro_manage_filters" = "Налаштуйте фільтри";
 "pro_manage_custom_filter_rules" = "Керуйте користувальницькими правилами фільтрації";
 "pro_manage_dhcp" = "Керуйте налаштуваннями DHCP";
 "pro_manage_dns" = "Керуйте налаштуваннями DNS";
 "pro_manage_rewrites" = "Керуйте перезаписами DNS";
 "pro_support_multiple_instances" = "Підтримка 2 і більше серверів";
-"pro_alternative_icons" = "Альтернативні піктограми програм";
+"pro_alternative_icons" = "Альтернативні піктограми програми";
 "pro_beta_access" = "Доступ до бета-версії TestFlight";
 
 // MARK: Purchase Flow
@@ -516,12 +516,12 @@
 "settings_rocketscience" = "Розроблено RocketScience";
 "rocketscience_hi_title" = "Привіт, я Joost!";
 "rocketscience_hi_subtitle" = "У червні 2020 року я почав створювати свої власні програми як незалежний розробник під назвою 'RocketScience IT'.\n\nМоя головна мета – навчитися: дизайну, розробці, тестуванню, підтримці, просуванню – можливо, навіть більшому! Прямо зараз у мене є кілька додатків в магазині, які я постійно вдосконалюю, і я маю багато ідей для інших додатків, які я, можливо, захочу створити в майбутньому.";
-"rocketscience_website" = "Вебсайт";
+"rocketscience_website" = "Мій вебсайт";
 "rocketscience_twitter" = "Twitter";
 "rocketscience_tipjar" = "Дати чайові";
 "rocketscience_tipjar_thankyou" = "Дякую!";
 "rocketscience_my_other_apps" = "Мої інші програми";
-"rocketscience_piholeremote_subtitle" = "Всі Pi-hole в одному місці.";
+"rocketscience_piholeremote_subtitle" = "Все з вашого Pi-hole в одному місці.";
 "rocketscience_adguarddns_subtitle" = "Вважаєте за краще використовувати AdGuard DNS? Давайте допоможу.";
 "rocketscience_mango_subtitle" = "Витончений додаток для відстеження аніме та манги, що використовує MyAnimeList API.";
 "rocketscience_energieradar_subtitle" = "Слідкуйте за цінами на електроенергію та газ у багатьох європейських країнах у режимі реального часу.";
