@@ -594,7 +594,7 @@
 
 // MARK: Widgets
 "widget_dashboard" = "Віджет інформаційної панелі";
-"widget_dashboard_description" = "Перегляньте статистику своєї інформаційної панелі.";
+"widget_dashboard_description" = "Перегляньте статистику своєї панелі моніторингу";
 
 // MARK: Apple Watch
 "loading_instances_icloud" = "Завантаження ваших серверів з iCloud...";
