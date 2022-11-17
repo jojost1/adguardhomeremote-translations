@@ -236,7 +236,7 @@
 "filtering_rules_examples_regex_title" = "/REGEX/";
 "filtering_rules_examples_regex_subtitle" = "блокувати доступ до доменів, що відповідають заданому регулярному виразу";
 // Check Hostname
-"filtering_check_hostname" = "Тестувати фільтрацію";
+"filtering_check_hostname" = "Тест фільтрації";
 "filtering_check_hostname_placeholder" = "Введіть ім'я хоста...";
 "filtering_check_hostname_check" = "Тестувати";
 "filtering_check_hostname_result" = "Результат";
