@@ -20,12 +20,12 @@
 "dashboard_top-clients" = "Частые клиенты";
 "dashboard_top-queried" = "Часто запрашиваемые домены";
 "dashboard_top-blocked" = "Часто блокируемые домены";
-"dashboard_avg_ms_%@" = "сред. %@ms";
+"dashboard_avg_ms_%@" = "сред. %@мс";
 "dashboard_confirmation_enable_%@" = "Вы уверены, что хотите включить %@?";
 "dashboard_confirmation_enable_button" = "Включить";
 "dashboard_confirmation_disable_%@" = "Вы уверены, что хотите отключить %@?";
 "dashboard_confirmation_disable_button" = "Отключить";
-"dashboard_jump_to_instance" = "Сервер";
+"dashboard_jump_to_instance" = "Выбрать сервер";
 
 // MARK: - Query Log
 "querylog_tabbar" = "Журнал";
@@ -43,7 +43,7 @@
 "querylog_filtered" = "Отфильтрованные";
 "querylog_number-of-queries" = "Количество запросов";
 "querylog_show_extra_detail" = "Расширенное отображение";
-"querylog_status" = "Статус";
+"querylog_status" = "Статус запросов";
 "querylog_status-all" = "Все запросы";
 "querylog_status-filtered" = "Отфильтрованные";
 "querylog_status-processed" = "Обработанные";
@@ -196,7 +196,7 @@
 "filtering_global_blocked_services" = "Глобально заблокированные сервисы";
 "filtering_custom_filtering_rules" = "Пользовательские правила фильтрации";
 "filtering_rule_count_%@" = "%@ правил";
-"filtering_check_filtered" = "Проверить фильтрацию имени хоста";
+"filtering_check_filtered" = "Протестировать фильтрацию имени хоста";
 "filtering_pro_required" = "Для управления фильтрами требуется Remote Pro.";
 // Add Filter
 "filtering_addfilter_list" = "Список";
@@ -208,8 +208,8 @@
 "filtering_addfilter_url" = "URL";
 "filtering_addfilter_url_placeholder" = "URL или абсолютный путь";
 // Custom Rules
-"filtering_rules_custom" = "Пользовательские правила";
-"filtering_rules_custom_new" = "Новое пользовательское правило";
+"filtering_rules_custom" = "Пользоват. правила";
+"filtering_rules_custom_new" = "Новое пользоват. правило";
 "filtering_rules_add" = "Добавить правило";
 "filtering_rules_no_rules_found" = "Правила не найдены.";
 "filtering_rules_delete_and_edit" = "Удалить & редактировать правила";
@@ -218,8 +218,8 @@
 "filtering_rules_blocking_mode" = "Режим блокировки";
 "filtering_rules_blocking_mode_block" = "Заблокировать";
 "filtering_rules_blocking_mode_unblock" = "Разблокировать";
-"filtering_rules_blocking_mode_custom" = "Пользовательский";
-"filtering_rules_final_rule" = "Финальное правило";
+"filtering_rules_blocking_mode_custom" = "Своё";
+"filtering_rules_final_rule" = "Окончательный вид";
 "filtering_rules_rule_placeholder" = "Введите домен здесь...";
 "filtering_rules_examples" = "Примеры";
 "filtering_rules_examples_block_title" = "||example.org^";
@@ -236,9 +236,9 @@
 "filtering_rules_examples_regex_title" = "/REGEX/";
 "filtering_rules_examples_regex_subtitle" = "блокировать доступ к доменам, соответствующим заданному регулярному выражению";
 // Check Hostname
-"filtering_check_hostname" = "Проверить фильтрацию";
+"filtering_check_hostname" = "Тестировать фильтрацию";
 "filtering_check_hostname_placeholder" = "Введите имя хоста...";
-"filtering_check_hostname_check" = "Проверить";
+"filtering_check_hostname_check" = "Тестировать";
 "filtering_check_hostname_result" = "Результат";
 "filtering_check_hostname_cname" = "CNAME";
 "filtering_check_hostname_IP" = "IP";
@@ -262,23 +262,23 @@
 "dhcp_lease_time" = "Время аренды";
 "dhcp_lease_time_in_seconds" = "в секундах";
 "dhcp_ipv6_settings" = "Настройки IPv6";
-"dhcp_ipv6_settings_unsupported" = "Интерфейс не поддерживает IPv6.";
+"dhcp_ipv6_settings_unsupported" = "Интерфейс не поддерживает IPv6";
 "dhcp_range_start" = "Начало диапазона";
-"dhcp_static_leases" = "Статические аренды";
-"dhcp_remove_lease" = "Удалить аренду";
-"dhcp_leases" = "Аренды";
-"dhcp_lease_create" = "Добавить статическую аренду";
+"dhcp_static_leases" = "Статические адреса";
+"dhcp_remove_lease" = "Удалить адрес";
+"dhcp_leases" = "Список клиентов DHCP";
+"dhcp_lease_create" = "Добавить статический адрес";
 "dhcp_add_client_with_ip" = "Новый клиент (с IP)";
 "dhcp_add_client_with_mac" = "Новый клиент (с MAC)";
 "dhcp_reset_all_leases" = "Сбросить конфигурацию аренды";
-"dhcp_reset_all_leases_footer" = "Сбросить все текущие статические и динамические аренды и конфигурацию аренды без удаления конфигурации DHCP.";
-"dhcp_reset_all_leases_alert_body" = "Вы уверены, что хотите удалить все аренды и сбросить конфигурацию аренды?";
+"dhcp_reset_all_leases_footer" = "Сбросить все текущие статические и динамические адреса, и их конфигурацию, без удаления конфигурации DHCP.";
+"dhcp_reset_all_leases_alert_body" = "Вы уверены, что хотите удалить все адреса и сбросить конфигурацию?";
 "dhcp_reset_dhcp_config" = "Сбросить DHCP конфигурацию";
 "dhcp_reset_dhcp_config_footer" = "Сбросить все настройки DHCP.";
 "dhcp_reset_dhcp_config_alert_body" = "Вы уверены, что хотите сбросить конфигурацию DHCP?";
 "dhcp_pro_required" = "Remote Pro необходим для управления настройками DHCP.";
 // New Static Lease
-"dhcp_staticlease_new" = "Новая статическая аренда";
+"dhcp_staticlease_new" = "Статическая резервация";
 "dhcp_staticlease_mac" = "MAC адрес";
 "dhcp_staticlease_mac_placeholder" = "aa:0b:cd:e1:f2:34";
 "dhcp_staticlease_ip" = "IP адрес";
@@ -327,7 +327,7 @@
 "dnsrewrites_settings" = "Перезапись DNS запросов";
 "dnsrewrites_entries" = "Записи";
 "dnsrewrites_no_entries" = "Не найдено правил перезаписи.";
-"dnsrewrites_new" = "Новое правило перезаписи DNS";
+"dnsrewrites_new" = "Создать правило";
 "dnsrewrites_domain" = "Домен";
 "dnsrewrites_domain_placeholder" = "Домен или Wildcard";
 "dnsrewrites_answer" = "Ответ";
@@ -353,11 +353,11 @@
 "more_statistics_clear" = "Очистка статистики";
 "more_statistics_clear_alert" = "Вы уверены, что хотите очистить статистику? Это приведет к обнулению всей статистики на панели мониторинга.";
 "more_statistics_cleared" = "Очищено.";
-"more_version" = "Версия";
+"more_version" = "Версия вашего Adguard Home";
 "more_version_current_%@" = "Текущая версия: %@";
 "more_update_started" = "Началось обновление!";
 "more_update_to_%@" = "Обновление до v%@";
-"more_checking_version" = "Проверка версии...";
+"more_checking_version" = "Проверка обновления...";
 "more_up_to_date" = "AdGuard Home не нуждается в обновлении";
 
 // MARK: Preferences
@@ -382,7 +382,7 @@
 "preferences_dashboard_number_of_clients" = "Количество клиентов";
 "preferences_dashboard_number_of_domains" = "Количество доменов";
 "preferences_dashboard_auto_refresh" = "Автоматическое обновление каждую минуту";
-"preferences_dashboard_extra_confirmation" = "Оповещение о подтверждении для кнопок";
+"preferences_dashboard_extra_confirmation" = "Просить подтверждения для кнопок";
 "preferences_querylog_show_sidebar" = "Показывать боковую панель";
 "preferences_other" = "Прочее";
 "preferences_language" = "Язык";
@@ -456,17 +456,17 @@
 
 // MARK: Changelog
 "changelog_just_updated" = "Только что обновлено!";
-"changelog_current_version" = "Текущая";
+"changelog_current_version" = "Текущая версия";
 "changelog_whats_new" = "Что нового";
 "changelog_continue" = "Продолжить";
 "changelog_new" = "Новое";
 "changelog_improved" = "Улучшено";
 "changelog_fixed" = "Исправлено";
-"changelog_view_full" = "Просмотреть полный список изменений";
+"changelog_view_full" = "Посмотреть полный список изменений";
 "changelog_show_feature_promo" = "Показать промо особенностей";
 "changelog_show_on_app_update" = "Показывать при обновлении приложения";
 "changelog_show_on_app_update_footer" = "Список изменений будет отображаться только для обновлений содержащих новый функционал, а не для обновлений, содержащих только исправления ошибок.";
-"changelog_settings" = "Настройки журнала обновлений";
+"changelog_settings" = "Журнал обновлений";
 
 // MARK: - Pro
 "pro" = "Pro";
@@ -491,15 +491,15 @@
 
 // MARK: Pro Features
 "pro_view_queries" = "Просматривайте 25+ запросов и устанавливайте фильтры";
-"pro_livelog" = "Просмотр журнала запросов в реальном времени";
+"pro_livelog" = "Просматривайте журнал запросов в реальном времени";
 "pro_manage_clients" = "Управляйте клиентами";
-"pro_manage_filters" = "Управляйте фильтрами";
-"pro_manage_custom_filter_rules" = "Управляйте пользовательскими правилами фильтрации";
+"pro_manage_filters" = "Настраивайте фильтры";
+"pro_manage_custom_filter_rules" = "Создавайте пользовательские правила фильтрации";
 "pro_manage_dhcp" = "Управляйте настройками DHCP";
 "pro_manage_dns" = "Управляйте настройками DNS";
 "pro_manage_rewrites" = "Управляйте перезаписями DNS";
 "pro_support_multiple_instances" = "Поддержка 2 и более серверов";
-"pro_alternative_icons" = "Альтернативные значки приложений";
+"pro_alternative_icons" = "Альтернативные значки приложения";
 "pro_beta_access" = "Доступ к бета-версии TestFlight";
 
 // MARK: Purchase Flow
@@ -516,12 +516,12 @@
 "settings_rocketscience" = "Разработано RocketScience";
 "rocketscience_hi_title" = "Привет, я Joost!";
 "rocketscience_hi_subtitle" = "В июне 2020 года я начал создавать свои собственные приложения в качестве независимого разработчика под названием 'RocketScience IT'.\n\nМоя главная цель - научиться: дизайну, разработке, тестированию, поддержке, продвижению - возможно, даже большему! Прямо сейчас у меня есть несколько приложений в магазине, которые я постоянно совершенствую, и у меня есть много идей для других приложений, которые я, возможно, захочу создать в будущем.";
-"rocketscience_website" = "Вебсайт";
+"rocketscience_website" = "Мой Вебсайт";
 "rocketscience_twitter" = "Twitter";
 "rocketscience_tipjar" = "Дать чаевые";
 "rocketscience_tipjar_thankyou" = "Спасибо!";
 "rocketscience_my_other_apps" = "Мои другие приложения";
-"rocketscience_piholeremote_subtitle" = "Все Pi-hole в одном месте.";
+"rocketscience_piholeremote_subtitle" = "Всё из вашего Pi-hole в одном месте.";
 "rocketscience_adguarddns_subtitle" = "Предпочитаете использовать AdGuard DNS? Давайте я помогу.";
 "rocketscience_mango_subtitle" = "Изящное приложение для отслеживания аниме и манги, использующее MyAnimeList API.";
 "rocketscience_energieradar_subtitle" = "Следите за ценами на электроэнергию и газ во многих европейских странах в режиме реального времени.";
@@ -577,7 +577,7 @@
 "custom" = "Пользовательские";
 "other" = "Другое";
 "name" = "Название";
-"none_dot" = "Ничего.";
+"none_dot" = "Ничего нет";
 "manage" = "Управлять";
 "tap_to_learn_more" = "Нажмите, чтобы узнать больше.";
 
@@ -594,7 +594,7 @@
 
 // MARK: Widgets
 "widget_dashboard" = "Виджет панели мониторинга";
-"widget_dashboard_description" = "Просмотрите статистику своей панели мониторинга.";
+"widget_dashboard_description" = "Просматривайте статистику своей панели мониторинга";
 
 // MARK: Apple Watch
 "loading_instances_icloud" = "Загрузка ваших серверов из iCloud...";
