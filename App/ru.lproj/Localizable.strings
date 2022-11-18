@@ -236,7 +236,7 @@
 "filtering_rules_examples_regex_title" = "/REGEX/";
 "filtering_rules_examples_regex_subtitle" = "блокировать доступ к доменам, соответствующим заданному регулярному выражению";
 // Check Hostname
-"filtering_check_hostname" = "Тестировать фильтрацию";
+"filtering_check_hostname" = "Тест фильтрации";
 "filtering_check_hostname_placeholder" = "Введите имя хоста...";
 "filtering_check_hostname_check" = "Тестировать";
 "filtering_check_hostname_result" = "Результат";
@@ -326,7 +326,7 @@
 // MARK: DNS Rewrites
 "dnsrewrites_settings" = "Перезапись DNS запросов";
 "dnsrewrites_entries" = "Записи";
-"dnsrewrites_no_entries" = "Не найдено правил перезаписи.";
+"dnsrewrites_no_entries" = "Не найдено правил перезаписи";
 "dnsrewrites_new" = "Создать правило";
 "dnsrewrites_domain" = "Домен";
 "dnsrewrites_domain_placeholder" = "Домен или Wildcard";
@@ -344,7 +344,7 @@
 "querylog_settings_log_retention" = "Сохранение журнала";
 "querylog_settings_clear" = "Очистить журнал запросов";
 "querylog_settings_clear_alert" = "Вы уверены, что хотите очистить весь журнал запросов?";
-"querylog_settings_cleared" = "Очищено.";
+"querylog_settings_cleared" = "Очищено";
 
 // MARK: More
 "more_statistics" = "Статистика";
@@ -352,7 +352,7 @@
 "more_statistics_retention" = "Сохранение статистики";
 "more_statistics_clear" = "Очистка статистики";
 "more_statistics_clear_alert" = "Вы уверены, что хотите очистить статистику? Это приведет к обнулению всей статистики на панели мониторинга.";
-"more_statistics_cleared" = "Очищено.";
+"more_statistics_cleared" = "Очищено";
 "more_version" = "Версия вашего Adguard Home";
 "more_version_current_%@" = "Текущая версия: %@";
 "more_update_started" = "Началось обновление!";
@@ -477,7 +477,7 @@
 "pro_learn-more" = "Узнать подробнее...";
 "pro_title" = "AdGuard Home\nRemote Pro";
 "pro_description" = "Разблокируйте дополнительные функции и поддержите будущее разработки с помощью одноразовой покупки.";
-"pro_purchased_date_%@" = "Куплено %@.";
+"pro_purchased_date_%@" = "Куплено %@";
 "pro_features" = "Pro Возможности";
 "pro_family_sharing" = "Поддерживает «Семейный доступ»";
 "pro_restore_purchase" = "Восстановить покупку";
@@ -559,9 +559,9 @@
 "reset" = "Сбросить";
 "refresh" = "Обновить";
 "settings" = "Настройки";
-"cannot_reach_instance" = "Не удается связаться с данным сервером.";
+"cannot_reach_instance" = "Не удается связаться с данным сервером";
 "not_responding" = "Не отвечает";
-"something_went_wrong" = "Что-то пошло не так.";
+"something_went_wrong" = "Что-то пошло не так";
 "something_went_wrong_alert" = "Что-то пошло не так";
 "error" = "Ошибка";
 "unknown_error" = "Неизвестная ошибка";
@@ -579,7 +579,7 @@
 "name" = "Название";
 "none_dot" = "Ничего нет";
 "manage" = "Управлять";
-"tap_to_learn_more" = "Нажмите, чтобы узнать больше.";
+"tap_to_learn_more" = "Нажмите, чтобы узнать больше";
 
 // Durations
 "disabled" = "Выключено";
