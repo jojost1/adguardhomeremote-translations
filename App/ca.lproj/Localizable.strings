@@ -318,6 +318,7 @@
 "dns_cache_size_in_bytes" = "en bytes";
 "dns_cache_optimistic" = "Optimista";
 "dns_cache_optimistic_explainer" = "Fes que AdGuard Home contesti des de la memòria cau encara que les entrades estiguin expirades a la vegada que intenta actualitzar-les.";
+"dns_cache_clear" = "Clear cache";
 "dns_override_minimum_ttl" = "TTL mínim";
 "dns_override_maximum_ttl" = "TTL màxim";
 "dns_override_in_seconds" = "en segons";

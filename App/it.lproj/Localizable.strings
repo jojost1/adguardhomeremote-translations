@@ -318,6 +318,7 @@
 "dns_cache_size_in_bytes" = "in bytes";
 "dns_cache_optimistic" = "Caching ottimistico";
 "dns_cache_optimistic_explainer" = "Fa si che AdGuard Home risponda dalla cache anche se le voci sono scadute e cerca anche di aggiornarle.";
+"dns_cache_clear" = "Cancella cache";
 "dns_override_minimum_ttl" = "Sovrascrivi il TTL minimo";
 "dns_override_maximum_ttl" = "Sovrascrivi il TTL massimo";
 "dns_override_in_seconds" = "in secondi";

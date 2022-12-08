@@ -318,6 +318,7 @@
 "dns_cache_size_in_bytes" = "in bytes";
 "dns_cache_optimistic" = "Optimistisch cachen";
 "dns_cache_optimistic_explainer" = "Laat AdGuard Home reageren vanuit de cache, zelfs als de vermeldingen zijn verlopen en probeer deze ook te vernieuwen.";
+"dns_cache_clear" = "Cache wissen";
 "dns_override_minimum_ttl" = "Minimale TTL overschrijven";
 "dns_override_maximum_ttl" = "Maximale TTL overschrijven";
 "dns_override_in_seconds" = "in seconden";

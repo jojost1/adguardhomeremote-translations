@@ -318,6 +318,7 @@
 "dns_cache_size_in_bytes" = "in Bytes";
 "dns_cache_optimistic" = "Optimistisches Zwischenspeichern";
 "dns_cache_optimistic_explainer" = "Sorgt dafür, dass AdGuard Home auch dann aus dem Zwischenspeicher antwortet, wenn die Einträge abgelaufen sind, und versucht zudem, diese zu aktualisieren.";
+"dns_cache_clear" = "Cache leeren";
 "dns_override_minimum_ttl" = "TTL-Minimalwert überschreiben";
 "dns_override_maximum_ttl" = "TTL-Höchstwert überschreiben";
 "dns_override_in_seconds" = "in Sekunden";

@@ -318,6 +318,7 @@
 "dns_cache_size_in_bytes" = "byte halinde";
 "dns_cache_optimistic" = "İyimser önbellekleme";
 "dns_cache_optimistic_explainer" = "AdGuard Evin girişlerin sona ermiş olmasına rağmen önbellekten cevap vermesine ayrıca yenilemesine izin ver.";
+"dns_cache_clear" = "Önbelleği temizle";
 "dns_override_minimum_ttl" = "Geçersiz kıl minimum TTL";
 "dns_override_maximum_ttl" = "Geçersiz kıl maksimum TTL";
 "dns_override_in_seconds" = "saniyeler içinde";

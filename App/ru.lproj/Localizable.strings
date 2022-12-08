@@ -318,6 +318,7 @@
 "dns_cache_size_in_bytes" = "в байтах";
 "dns_cache_optimistic" = "Оптимистическое кеширование";
 "dns_cache_optimistic_explainer" = "AdGuard Home будет отвечать из кеша, даже если ответы в нём неактуальны, и попытается обновить их.";
+"dns_cache_clear" = "Очистить кеш";
 "dns_override_minimum_ttl" = "Переопределить минимальный TTL";
 "dns_override_maximum_ttl" = "Переопределить максимальный TTL";
 "dns_override_in_seconds" = "в секундах";

@@ -318,6 +318,7 @@
 "dns_cache_size_in_bytes" = "바이트";
 "dns_cache_optimistic" = "옵티미스틱 캐시";
 "dns_cache_optimistic_explainer" = "세션이 만료되었거나 새로고침을 시도하는 경우에도 AdGuard Home이 캐시를 기반으로 응답하도록 합니다.";
+"dns_cache_clear" = "캐시 지우기";
 "dns_override_minimum_ttl" = "최소 TTL (초) 무시";
 "dns_override_maximum_ttl" = "최대 TTL (초) 무시";
 "dns_override_in_seconds" = "초";

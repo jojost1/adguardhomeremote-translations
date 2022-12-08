@@ -318,6 +318,7 @@
 "dns_cache_size_in_bytes" = "以位元組";
 "dns_cache_optimistic" = "樂觀快取";
 "dns_cache_optimistic_explainer" = "即使當項目為已到期的，從快取使 AdGuard Home 回覆，並還嘗試重新整理它們。";
+"dns_cache_clear" = "Clear cache";
 "dns_override_minimum_ttl" = "覆寫最小的存活時間（TTL）";
 "dns_override_maximum_ttl" = "覆寫最大的存活時間（TTL）";
 "dns_override_in_seconds" = "以秒數";

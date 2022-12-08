@@ -318,6 +318,7 @@
 "dns_cache_size_in_bytes" = "en bytes";
 "dns_cache_optimistic" = "Optimiste";
 "dns_cache_optimistic_explainer" = "Faites en sorte qu'AdGuard Home réponde à partir du cache même lorsque les entrées ont expiré et essayez également de les actualiser.";
+"dns_cache_clear" = "Vider le cache";
 "dns_override_minimum_ttl" = "Remplacer le TTL minimum";
 "dns_override_maximum_ttl" = "Remplacer le TTL maximum";
 "dns_override_in_seconds" = "en secondes";

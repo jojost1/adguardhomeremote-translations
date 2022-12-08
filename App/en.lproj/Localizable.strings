@@ -318,6 +318,7 @@
 "dns_cache_size_in_bytes" = "in bytes";
 "dns_cache_optimistic" = "Optimistic caching";
 "dns_cache_optimistic_explainer" = "Make AdGuard Home respond from the cache even when the entries are expired and also try to refresh them.";
+"dns_cache_clear" = "Clear cache";
 "dns_override_minimum_ttl" = "Override minimum TTL";
 "dns_override_maximum_ttl" = "Override maximum TTL";
 "dns_override_in_seconds" = "in seconds";
