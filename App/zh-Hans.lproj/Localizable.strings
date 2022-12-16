@@ -318,7 +318,7 @@
 "dns_cache_size_in_bytes" = "单位：字节";
 "dns_cache_optimistic" = "乐观缓存";
 "dns_cache_optimistic_explainer" = "即使条目已过期，也让 AdGuard Home 从缓存中响应，并尝试刷新它们。";
-"dns_cache_clear" = "Clear cache";
+"dns_cache_clear" = "清除缓存";
 "dns_override_minimum_ttl" = "覆盖最小 TTL 值";
 "dns_override_maximum_ttl" = "覆盖最大 TTL 值";
 "dns_override_in_seconds" = "秒";
