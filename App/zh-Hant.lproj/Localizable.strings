@@ -318,7 +318,7 @@
 "dns_cache_size_in_bytes" = "以位元組";
 "dns_cache_optimistic" = "樂觀快取";
 "dns_cache_optimistic_explainer" = "即使當項目為已到期的，從快取使 AdGuard Home 回覆，並還嘗試重新整理它們。";
-"dns_cache_clear" = "Clear cache";
+"dns_cache_clear" = "清除快取";
 "dns_override_minimum_ttl" = "覆寫最小的存活時間（TTL）";
 "dns_override_maximum_ttl" = "覆寫最大的存活時間（TTL）";
 "dns_override_in_seconds" = "以秒數";
@@ -521,7 +521,7 @@
 "rocketscience_tipjar_thankyou" = "感謝您！";
 "rocketscience_my_other_apps" = "我的其它應用程式";
 "rocketscience_piholeremote_subtitle" = "Pi-hole 的一切在一個地方。";
-"rocketscience_adguarddns_subtitle" = "寧可使用 AdGuard DNS？我已涵蓋您的需求。";
+"rocketscience_adguarddns_subtitle" = "寧可使用 AdGuard DNS 嗎？我已涵蓋您的需求。";
 "rocketscience_mango_subtitle" = "一款乾淨的動漫 & 漫畫追蹤器應用程式，使用 MyAnimeList 應用程式介面。";
 "rocketscience_energieradar_subtitle" = "關注在荷蘭的即時電價和天然氣價格。";
 "rocketscience_acknoledgements" = "對以下的特別感謝";
