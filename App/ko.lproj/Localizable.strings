@@ -352,6 +352,13 @@
 "more_statistics_clear" = "통계 초기화";
 "more_statistics_clear_alert" = "통계를 지우시겠습니까? 이렇게 하면 대시보드의 모든 통계가 0으로 재설정됩니다.";
 "more_statistics_cleared" = "지워짐";
+"more_webinterface" = "Web interface";
+"more_webinterface_username" = "Username";
+"more_webinterface_language" = "Language";
+"more_webinterface_theme" = "Theme";
+"more_webinterface_theme_auto" = "Auto";
+"more_webinterface_theme_dark" = "Dark";
+"more_webinterface_theme_light" = "Light";
 "more_version" = "버전";
 "more_version_current_%@" = "현재 버전: %@";
 "more_update_started" = "업데이트 시작됨!";

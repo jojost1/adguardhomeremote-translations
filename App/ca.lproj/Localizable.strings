@@ -352,6 +352,13 @@
 "more_statistics_clear" = "Esborrar estadístiques";
 "more_statistics_clear_alert" = "Estàs segur de que vols esborrar les estadístiques?";
 "more_statistics_cleared" = "Esborrades";
+"more_webinterface" = "Web interface";
+"more_webinterface_username" = "Username";
+"more_webinterface_language" = "Language";
+"more_webinterface_theme" = "Theme";
+"more_webinterface_theme_auto" = "Auto";
+"more_webinterface_theme_dark" = "Dark";
+"more_webinterface_theme_light" = "Light";
 "more_version" = "Versió";
 "more_version_current_%@" = "Versió actual: %@";
 "more_update_started" = "S'ha iniciat l'actualització!";

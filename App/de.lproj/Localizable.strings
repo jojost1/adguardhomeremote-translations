@@ -352,6 +352,13 @@
 "more_statistics_clear" = "Statistiken leeren";
 "more_statistics_clear_alert" = "Möchten Sie die Statistiken wirklich löschen? Dadurch werden alle Statistiken im Dashboard auf Null gesetzt.";
 "more_statistics_cleared" = "Statistiken wurden erfolgreich gelöscht";
+"more_webinterface" = "Web interface";
+"more_webinterface_username" = "Username";
+"more_webinterface_language" = "Language";
+"more_webinterface_theme" = "Theme";
+"more_webinterface_theme_auto" = "Auto";
+"more_webinterface_theme_dark" = "Dunkel";
+"more_webinterface_theme_light" = "Hell";
 "more_version" = "Version";
 "more_version_current_%@" = "Aktuelle Version: %@";
 "more_update_started" = "Bitte warten Sie, AdGuard Home wird aktualisiert…";

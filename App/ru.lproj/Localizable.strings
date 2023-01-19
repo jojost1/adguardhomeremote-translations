@@ -354,6 +354,13 @@
 "more_statistics_clear" = "Очистка статистики";
 "more_statistics_clear_alert" = "Вы уверены, что хотите очистить статистику? Это приведет к обнулению всей статистики на панели мониторинга.";
 "more_statistics_cleared" = "Очищено";
+"more_webinterface" = "Web interface";
+"more_webinterface_username" = "Username";
+"more_webinterface_language" = "Language";
+"more_webinterface_theme" = "Theme";
+"more_webinterface_theme_auto" = "Auto";
+"more_webinterface_theme_dark" = "Dark";
+"more_webinterface_theme_light" = "Light";
 "more_version" = "Версия вашего Adguard Home";
 "more_version_current_%@" = "Текущая версия: %@";
 "more_update_started" = "Началось обновление!";

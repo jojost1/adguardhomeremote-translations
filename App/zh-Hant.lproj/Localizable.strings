@@ -352,6 +352,13 @@
 "more_statistics_clear" = "清除統計資料";
 "more_statistics_clear_alert" = "您確定您想要清除統計資料嗎？這將重置在儀表板中的所有統計資料為零。";
 "more_statistics_cleared" = "已清除。";
+"more_webinterface" = "Web interface";
+"more_webinterface_username" = "Username";
+"more_webinterface_language" = "Language";
+"more_webinterface_theme" = "Theme";
+"more_webinterface_theme_auto" = "Auto";
+"more_webinterface_theme_dark" = "Dark";
+"more_webinterface_theme_light" = "Light";
 "more_version" = "版本";
 "more_version_current_%@" = "現行的版本：%@";
 "more_update_started" = "更新已開始！";

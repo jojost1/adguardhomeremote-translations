@@ -352,6 +352,13 @@
 "more_statistics_clear" = "Supprimer les statistiques";
 "more_statistics_clear_alert" = "Êtes-vous sûr de vouloir supprimer les statistiques ? Cela remettra toutes les statistiques du tableau de bord à zéro.";
 "more_statistics_cleared" = "Effacé.";
+"more_webinterface" = "Web interface";
+"more_webinterface_username" = "Username";
+"more_webinterface_language" = "Language";
+"more_webinterface_theme" = "Theme";
+"more_webinterface_theme_auto" = "Auto";
+"more_webinterface_theme_dark" = "Dark";
+"more_webinterface_theme_light" = "Light";
 "more_version" = "Version";
 "more_version_current_%@" = "Version actuelle : %@";
 "more_update_started" = "La mise à jour a commencé !";

@@ -352,6 +352,13 @@
 "more_statistics_clear" = "Εκκαθάριση στατιστικών";
 "more_statistics_clear_alert" = "Θέλετε σίγουρα να καθαρίσετε τα στατιστικά; Αυτό θα επαναφέρει όλα τα στατιστικά στον πίνακα ελέγχου σε μηδενικά.";
 "more_statistics_cleared" = "Καθαρίστηκε.";
+"more_webinterface" = "Web interface";
+"more_webinterface_username" = "Username";
+"more_webinterface_language" = "Language";
+"more_webinterface_theme" = "Theme";
+"more_webinterface_theme_auto" = "Auto";
+"more_webinterface_theme_dark" = "Dark";
+"more_webinterface_theme_light" = "Light";
 "more_version" = "Έκδοση";
 "more_version_current_%@" = "Τρέχουσα έκδοση: %@";
 "more_update_started" = "Η ενημέρωση ξεκίνησε!";

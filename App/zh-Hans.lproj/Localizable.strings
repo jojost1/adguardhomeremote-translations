@@ -352,6 +352,13 @@
 "more_statistics_clear" = "清除统计数据";
 "more_statistics_clear_alert" = "您确定要清除统计数据? 这将会使仪表盘内所有统计数据重置为零。";
 "more_statistics_cleared" = "已清除";
+"more_webinterface" = "Web interface";
+"more_webinterface_username" = "Username";
+"more_webinterface_language" = "Language";
+"more_webinterface_theme" = "Theme";
+"more_webinterface_theme_auto" = "Auto";
+"more_webinterface_theme_dark" = "Dark";
+"more_webinterface_theme_light" = "Light";
 "more_version" = "版本";
 "more_version_current_%@" = "当前版本: %@";
 "more_update_started" = "开始更新!";

@@ -352,6 +352,13 @@
 "more_statistics_clear" = "Wis statistieken";
 "more_statistics_clear_alert" = "Weet je het zeker dat je de statistieken wil wissen? Dit reset alle statistieken in het Dashboard naar nul.";
 "more_statistics_cleared" = "Gewist.";
+"more_webinterface" = "Web interface";
+"more_webinterface_username" = "Gebruikersnaam";
+"more_webinterface_language" = "Taal";
+"more_webinterface_theme" = "Thema";
+"more_webinterface_theme_auto" = "Auto";
+"more_webinterface_theme_dark" = "Donker";
+"more_webinterface_theme_light" = "Licht";
 "more_version" = "Versie";
 "more_version_current_%@" = "Huidige Versie: %@";
 "more_update_started" = "Update gestart!";

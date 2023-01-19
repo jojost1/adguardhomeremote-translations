@@ -352,6 +352,13 @@
 "more_statistics_clear" = "İstatistikleri temizle";
 "more_statistics_clear_alert" = "İstatistikleri temizlemek istediğinize emin misiniz? Bu gösterge panelindeki bütün istatistikleri sıfırlara ayarlayacaktır.";
 "more_statistics_cleared" = "Temizlendi.";
+"more_webinterface" = "Web interface";
+"more_webinterface_username" = "Username";
+"more_webinterface_language" = "Language";
+"more_webinterface_theme" = "Theme";
+"more_webinterface_theme_auto" = "Auto";
+"more_webinterface_theme_dark" = "Dark";
+"more_webinterface_theme_light" = "Light";
 "more_version" = "Versiyon";
 "more_version_current_%@" = "Mevcut Versiyon: %@";
 "more_update_started" = "Güncelleme başladı!";

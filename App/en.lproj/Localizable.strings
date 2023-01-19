@@ -352,6 +352,13 @@
 "more_statistics_clear" = "Clear Statistics";
 "more_statistics_clear_alert" = "Are you sure you want to clear statistics? This will reset all statistics in the Dashboard to zeroes.";
 "more_statistics_cleared" = "Cleared.";
+"more_webinterface" = "Web interface";
+"more_webinterface_username" = "Username";
+"more_webinterface_language" = "Language";
+"more_webinterface_theme" = "Theme";
+"more_webinterface_theme_auto" = "Auto";
+"more_webinterface_theme_dark" = "Dark";
+"more_webinterface_theme_light" = "Light";
 "more_version" = "Version";
 "more_version_current_%@" = "Current Version: %@";
 "more_update_started" = "Update Started!";
