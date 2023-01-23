@@ -352,10 +352,10 @@
 "more_statistics_clear" = "Statistiken leeren";
 "more_statistics_clear_alert" = "Möchten Sie die Statistiken wirklich löschen? Dadurch werden alle Statistiken im Dashboard auf Null gesetzt.";
 "more_statistics_cleared" = "Statistiken wurden erfolgreich gelöscht";
-"more_webinterface" = "Web interface";
-"more_webinterface_username" = "Username";
-"more_webinterface_language" = "Language";
-"more_webinterface_theme" = "Theme";
+"more_webinterface" = "Web-Schnittstelle";
+"more_webinterface_username" = "Benutzername";
+"more_webinterface_language" = "Sprache (Language)";
+"more_webinterface_theme" = "Darstellung";
 "more_webinterface_theme_auto" = "Auto";
 "more_webinterface_theme_dark" = "Dunkel";
 "more_webinterface_theme_light" = "Hell";
@@ -521,7 +521,7 @@
 // MARK: RocketScience
 "settings_rocketscience" = "Entwickelt von RocketScience";
 "rocketscience_hi_title" = "Hi, ich bin Joost!";
-"rocketscience_hi_subtitle" = "Im Juni 2020 habe ich begonnen, meine eigenen Apps als unabhängiger Entwickler unter dem Namen 'RocketScience IT' zu entwickeln.\n\nMein Hauptziel ist es, mich in den Bereichen Design, Entwicklung, Testen, Support und Promotion (vielleicht sogar bald mehr) stetig zu verbessern und in diesen weiter zu lernen.\n\nMomentan habe ich vier weitere
+"rocketscience_hi_subtitle" = "Im Juni 2020 habe ich begonnen, meine eigenen Apps als unabhängiger Entwickler unter dem Namen 'RocketScience IT' zu entwickeln.\n\nMein Hauptziel ist es, mich in den Bereichen Design, Entwicklung, Testen, Support und Promotion (vielleicht sogar bald mehr) stetig zu verbessern und in diesen weiter zu lernen.\n\nMomentan habe ich sechs weitere
 Apps, welche ich ebenfalls kontinuierlich verbessere, im AppStore veröffentlicht. Außerdem habe ich auch bereits viele Ideen für weitere Apps, die ich zukünftig entwickeln möchte.";
 "rocketscience_website" = "Webseite";
 "rocketscience_twitter" = "Twitter";
@@ -529,7 +529,7 @@ Apps, welche ich ebenfalls kontinuierlich verbessere, im AppStore veröffentlich
 "rocketscience_tipjar_thankyou" = "Vielen Dank!";
 "rocketscience_my_other_apps" = "Meine anderen Apps";
 "rocketscience_piholeremote_subtitle" = "Alles über Pi-hole an einem Ort.";
-"rocketscience_adguarddns_subtitle" = "Rather use AdGuard DNS? I've got you covered.";
+"rocketscience_adguarddns_subtitle" = "Möchten Sie lieber AdGuard DNS verwenden? Dann sind Sie hiermit bedient.";
 "rocketscience_mango_subtitle" = "Eine übersichtliche Anime- & Manga-Tracker-App, welche die MyAnimeList API verwendet.";
 "rocketscience_energieradar_subtitle" = "Überwache Strom- & Gaspreise in zahlreichen europäischen Ländern in Echtzeit.";
 "rocketscience_acknoledgements" = "Besonderer Dank geht an";
