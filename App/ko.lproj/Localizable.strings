@@ -13,6 +13,7 @@
 "dashboard_parental-filtering" = "자녀\n보호 필터링";
 "dashboard_safe-browsing" = "세이프\n브라우징";
 "dashboard_safe-search" = "세이프\n서치";
+"dashboard_date" = "Date";
 "dashboard_queries" = "DNS 쿼리";
 "dashboard_blocked-filters" = "필터에 의해 차단됨";
 "dashboard_blocked-malware" = "차단된 멀웨어/피싱";

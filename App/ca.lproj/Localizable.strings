@@ -13,6 +13,7 @@
 "dashboard_parental-filtering" = "Control\nparental";
 "dashboard_safe-browsing" = "Navegació\nsegura";
 "dashboard_safe-search" = "Cerca\nsegura";
+"dashboard_date" = "Date";
 "dashboard_queries" = "Consultes DNS";
 "dashboard_blocked-filters" = "Peticions filtrades";
 "dashboard_blocked-malware" = "Malware/phishing bloquejat";

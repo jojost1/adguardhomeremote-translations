@@ -13,6 +13,7 @@
 "dashboard_parental-filtering" = "Γονικό\nφιλτράρισμα";
 "dashboard_safe-browsing" = "Ασφαλής\nπεριήγηση";
 "dashboard_safe-search" = "Ασφαλής\nαναζήτηση";
+"dashboard_date" = "Date";
 "dashboard_queries" = "Ερωτήματα DNS";
 "dashboard_blocked-filters" = "Αποκλεισμένα από φίλτρα";
 "dashboard_blocked-malware" = "Αποκλεισμένα malware/phishing";

@@ -13,6 +13,7 @@
 "dashboard_parental-filtering" = "Filtre parental";
 "dashboard_safe-browsing" = "Sécurité de navigation";
 "dashboard_safe-search" = "Recherche sécurisée";
+"dashboard_date" = "Date";
 "dashboard_queries" = "Journal des requêtes";
 "dashboard_blocked-filters" = "Bloqué par les filtres";
 "dashboard_blocked-malware" = "Menaces bloquées";

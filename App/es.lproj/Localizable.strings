@@ -13,6 +13,7 @@
 "dashboard_parental-filtering" = "Control\nParental";
 "dashboard_safe-browsing" = "Navegación\nSegura";
 "dashboard_safe-search" = "Búsqueda\nSegura";
+"dashboard_date" = "Date";
 "dashboard_queries" = "Consultas DNS";
 "dashboard_blocked-filters" = "Bloqueos por filtros";
 "dashboard_blocked-malware" = "Malware/phishing bloqueado";

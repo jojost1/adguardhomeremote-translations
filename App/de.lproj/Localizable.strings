@@ -13,6 +13,7 @@
 "dashboard_parental-filtering" = "Jugendgefährdend";
 "dashboard_safe-browsing" = "Internetsicherheit";
 "dashboard_safe-search" = "Sichere Suche";
+"dashboard_date" = "Date";
 "dashboard_queries" = "DNS-Anfragen";
 "dashboard_blocked-filters" = "Durch Filter gesperrt";
 "dashboard_blocked-malware" = "Gesperrte Schädliche/Phishing-Webseiten";

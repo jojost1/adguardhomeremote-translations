@@ -13,6 +13,7 @@
 "dashboard_parental-filtering" = "Батьківський\nконтроль";
 "dashboard_safe-browsing" = "Безпека\nперегляду";
 "dashboard_safe-search" = "Безпечний\nпошук";
+"dashboard_date" = "Date";
 "dashboard_queries" = "DNS запити";
 "dashboard_blocked-filters" = "Заблоковано фільтрами";
 "dashboard_blocked-malware" = "Заблоковано зловмисних/шахрайських програм";

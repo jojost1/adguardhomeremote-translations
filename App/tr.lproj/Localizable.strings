@@ -13,6 +13,7 @@
 "dashboard_parental-filtering" = "Ebeveynsel\nFiltreleme";
 "dashboard_safe-browsing" = "Güvenli\nTarama";
 "dashboard_safe-search" = "Güvenli\nArama";
+"dashboard_date" = "Date";
 "dashboard_queries" = "DNS Sorgular";
 "dashboard_blocked-filters" = "Filtreler Tarafından Engellendi";
 "dashboard_blocked-malware" = "Kötü Amaçlı Yazılım/Kimlik Avı Engellendi";

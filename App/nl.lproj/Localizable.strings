@@ -13,6 +13,7 @@
 "dashboard_parental-filtering" = "Ouderlijk\nToezicht";
 "dashboard_safe-browsing" = "Veilig\nBrowsen";
 "dashboard_safe-search" = "Veilig\nZoeken";
+"dashboard_date" = "Datum";
 "dashboard_queries" = "DNS-queries";
 "dashboard_blocked-filters" = "Geblokkeerd door filters";
 "dashboard_blocked-malware" = "Geblokkeerde malware/phishing";
