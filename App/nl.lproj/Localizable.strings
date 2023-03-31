@@ -306,6 +306,8 @@
 "dns_server_configuration" = "DNS-server configuratie";
 "dns_rate_limit" = "Ratio limiet";
 "dns_edns_client_subnet" = "EDNS client subnet";
+"dns_edns_use_custom_ip" = "Aangepast IP-adres gebruiken voor EDNS";
+"dns_edns_use_custom_ip_placeholder" = "Vul IP in";
 "dns_dnssec" = "DNSSEC";
 "dns_disable_ipv6" = "Zet IPv6 uit";
 "dns_blocking_mode" = "Blocking modus";

@@ -306,6 +306,8 @@
 "dns_server_configuration" = "DNS-Serverkonfiguration";
 "dns_rate_limit" = "Begrenzungswert";
 "dns_edns_client_subnet" = "EDNS Client Subnetz aktivieren";
+"dns_edns_use_custom_ip" = "Benutzerdefinierte IP für EDNS verwenden";
+"dns_edns_use_custom_ip_placeholder" = "IP-Adresse eingeben";
 "dns_dnssec" = "DNSSEC aktivieren";
 "dns_disable_ipv6" = "IPv6 deaktivieren";
 "dns_blocking_mode" = "Sperrmodus";

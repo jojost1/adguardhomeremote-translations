@@ -306,6 +306,8 @@
 "dns_server_configuration" = "Configuració del servidor DNS de AdGuard";
 "dns_rate_limit" = "Límit de peticions per segon";
 "dns_edns_client_subnet" = "Subxarxa de client EDNS";
+"dns_edns_use_custom_ip" = "Use custom IP for EDNS";
+"dns_edns_use_custom_ip_placeholder" = "Enter IP";
 "dns_dnssec" = "DNSSEC";
 "dns_disable_ipv6" = "Desactivar IPv6";
 "dns_blocking_mode" = "Mode de bloqueig";

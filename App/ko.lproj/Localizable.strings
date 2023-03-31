@@ -306,6 +306,8 @@
 "dns_server_configuration" = "DNS 서버 구성";
 "dns_rate_limit" = "한도 제한";
 "dns_edns_client_subnet" = "EDNS 클라이언트 서브넷";
+"dns_edns_use_custom_ip" = "Use custom IP for EDNS";
+"dns_edns_use_custom_ip_placeholder" = "Enter IP";
 "dns_dnssec" = "DNSSEC";
 "dns_disable_ipv6" = "IPv6 주소 확인 비활성화";
 "dns_blocking_mode" = "차단 모드";

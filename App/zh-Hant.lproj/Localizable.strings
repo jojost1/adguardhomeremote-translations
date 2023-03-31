@@ -306,6 +306,8 @@
 "dns_server_configuration" = "DNS 伺服器配置";
 "dns_rate_limit" = "速率限制";
 "dns_edns_client_subnet" = "對於 DNS 的擴充機制（EDNS）用戶端子網路";
+"dns_edns_use_custom_ip" = "Use custom IP for EDNS";
+"dns_edns_use_custom_ip_placeholder" = "Enter IP";
 "dns_dnssec" = "網域名稱系統安全性擴充功能（DNSSEC）";
 "dns_disable_ipv6" = "禁用 IPv6";
 "dns_blocking_mode" = "封鎖模式";

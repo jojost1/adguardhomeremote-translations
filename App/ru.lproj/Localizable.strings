@@ -306,6 +306,8 @@
 "dns_server_configuration" = "Настройки DNS-сервера";
 "dns_rate_limit" = "Rate limit";
 "dns_edns_client_subnet" = "EDNS client subnet";
+"dns_edns_use_custom_ip" = "Use custom IP for EDNS";
+"dns_edns_use_custom_ip_placeholder" = "Enter IP";
 "dns_dnssec" = "DNSSEC";
 "dns_disable_ipv6" = "Отключить IPv6";
 "dns_blocking_mode" = "Режим блокировки";
