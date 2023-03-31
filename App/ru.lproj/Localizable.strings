@@ -383,6 +383,10 @@
 "preferences_dashboard_graph_line" = "Линейный график";
 "preferences_dashboard_graph_bar" = "Гистограмма";
 "preferences_dashboard_graph_hide" = "Скрыть график";
+"preferences_dashboard_line_type" = "Line type";
+"preferences_dashboard_line_type_smooth" = "Smooth";
+"preferences_dashboard_line_type_linear" = "Linear";
+"preferences_dashboard_line_type_steps" = "Steps";
 "preferences_dashboard_graph_dnsqueries" = "DNS запросы";
 "preferences_dashboard_graph_blockedbyfilters" = "Заблокировано фильтрами";
 "preferences_dashboard_graph_blockedmalware" = "Заблокированные вредоносные/фишинговые сайты";

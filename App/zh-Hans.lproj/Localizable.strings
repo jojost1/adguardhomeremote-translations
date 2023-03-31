@@ -381,6 +381,10 @@
 "preferences_dashboard_graph_line" = "线形图";
 "preferences_dashboard_graph_bar" = "条状图";
 "preferences_dashboard_graph_hide" = "隐藏图表";
+"preferences_dashboard_line_type" = "Line type";
+"preferences_dashboard_line_type_smooth" = "Smooth";
+"preferences_dashboard_line_type_linear" = "Linear";
+"preferences_dashboard_line_type_steps" = "Steps";
 "preferences_dashboard_graph_dnsqueries" = "DNS 查询";
 "preferences_dashboard_graph_blockedbyfilters" = "已被过滤器拦截";
 "preferences_dashboard_graph_blockedmalware" = "被拦截的恶意/钓鱼网站";

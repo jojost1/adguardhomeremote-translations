@@ -381,6 +381,10 @@
 "preferences_dashboard_graph_line" = "Graphique linéaire";
 "preferences_dashboard_graph_bar" = "Graphique à barres";
 "preferences_dashboard_graph_hide" = "Hide graph";
+"preferences_dashboard_line_type" = "Line type";
+"preferences_dashboard_line_type_smooth" = "Smooth";
+"preferences_dashboard_line_type_linear" = "Linear";
+"preferences_dashboard_line_type_steps" = "Steps";
 "preferences_dashboard_graph_dnsqueries" = "Requêtes DNS";
 "preferences_dashboard_graph_blockedbyfilters" = "Bloqué par les filtres";
 "preferences_dashboard_graph_blockedmalware" = "Malware/Phishing bloqués";

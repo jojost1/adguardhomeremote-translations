@@ -381,6 +381,10 @@
 "preferences_dashboard_graph_line" = "Çizgi-grafiği";
 "preferences_dashboard_graph_bar" = "Çubuk-grafiği";
 "preferences_dashboard_graph_hide" = "Grafiği gizle";
+"preferences_dashboard_line_type" = "Line type";
+"preferences_dashboard_line_type_smooth" = "Smooth";
+"preferences_dashboard_line_type_linear" = "Linear";
+"preferences_dashboard_line_type_steps" = "Steps";
 "preferences_dashboard_graph_dnsqueries" = "DNS Sorguları";
 "preferences_dashboard_graph_blockedbyfilters" = "Filtreler tarafından engellendi";
 "preferences_dashboard_graph_blockedmalware" = "Kötü Amaçlı Yazılım/Kimlik Avı Engellendi";
