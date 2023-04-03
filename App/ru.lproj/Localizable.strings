@@ -13,7 +13,7 @@
 "dashboard_parental-filtering" = "Родительский\nконтроль";
 "dashboard_safe-browsing" = "Безопасная\nнавигация";
 "dashboard_safe-search" = "Безопасный\nпоиск";
-"dashboard_date" = "Date";
+"dashboard_date" = "Дата";
 "dashboard_queries" = "DNS запросы";
 "dashboard_blocked-filters" = "Заблокировано фильтрами";
 "dashboard_blocked-malware" = "Заблокированные вредоносные/фишинговые сайты";
@@ -271,7 +271,7 @@
 "dhcp_lease_create" = "Добавить статический адрес";
 "dhcp_add_client_with_ip" = "Новый клиент (с IP)";
 "dhcp_add_client_with_mac" = "Новый клиент (с MAC)";
-"dhcp_reset_all_leases" = "Сбросить конфигурацию аренды";
+"dhcp_reset_all_leases" = "Сбросить конфигурацию";
 "dhcp_reset_all_leases_footer" = "Сбросить все текущие статические и динамические адреса, и их конфигурацию, без удаления конфигурации DHCP.";
 "dhcp_reset_all_leases_alert_body" = "Вы уверены, что хотите удалить все адреса и сбросить конфигурацию?";
 "dhcp_reset_dhcp_config" = "Сбросить DHCP конфигурацию";
@@ -306,8 +306,8 @@
 "dns_server_configuration" = "Настройки DNS-сервера";
 "dns_rate_limit" = "Rate limit";
 "dns_edns_client_subnet" = "EDNS client subnet";
-"dns_edns_use_custom_ip" = "Use custom IP for EDNS";
-"dns_edns_use_custom_ip_placeholder" = "Enter IP";
+"dns_edns_use_custom_ip" = "Использовать указанный IP для EDNS";
+"dns_edns_use_custom_ip_placeholder" = "Введите IP";
 "dns_dnssec" = "DNSSEC";
 "dns_disable_ipv6" = "Отключить IPv6";
 "dns_blocking_mode" = "Режим блокировки";
@@ -385,10 +385,10 @@
 "preferences_dashboard_graph_line" = "Линейный график";
 "preferences_dashboard_graph_bar" = "Гистограмма";
 "preferences_dashboard_graph_hide" = "Скрыть график";
-"preferences_dashboard_line_type" = "Line type";
-"preferences_dashboard_line_type_smooth" = "Smooth";
-"preferences_dashboard_line_type_linear" = "Linear";
-"preferences_dashboard_line_type_steps" = "Steps";
+"preferences_dashboard_line_type" = "Тип линии";
+"preferences_dashboard_line_type_smooth" = "Плавная";
+"preferences_dashboard_line_type_linear" = "Линейная";
+"preferences_dashboard_line_type_steps" = "Ступенчатая";
 "preferences_dashboard_graph_dnsqueries" = "DNS запросы";
 "preferences_dashboard_graph_blockedbyfilters" = "Заблокировано фильтрами";
 "preferences_dashboard_graph_blockedmalware" = "Заблокированные вредоносные/фишинговые сайты";
