@@ -13,7 +13,7 @@
 "dashboard_parental-filtering" = "Батьківський\nконтроль";
 "dashboard_safe-browsing" = "Безпека\nперегляду";
 "dashboard_safe-search" = "Безпечний\nпошук";
-"dashboard_date" = "Date";
+"dashboard_date" = "Дата";
 "dashboard_queries" = "DNS запити";
 "dashboard_blocked-filters" = "Заблоковано фільтрами";
 "dashboard_blocked-malware" = "Заблоковано зловмисних/шахрайських програм";
@@ -271,7 +271,7 @@
 "dhcp_lease_create" = "Додати статичну адресу";
 "dhcp_add_client_with_ip" = "Новий клієнт (з IP)";
 "dhcp_add_client_with_mac" = "Новий клієнт (з MAC)";
-"dhcp_reset_all_leases" = "Скинути конфігурацію оренди";
+"dhcp_reset_all_leases" = "Скинути конфігурацію";
 "dhcp_reset_all_leases_footer" = "Скинути всі поточні статичні та динамічні адреси та їх конфігурацію без видалення конфігурації DHCP.";
 "dhcp_reset_all_leases_alert_body" = "Ви впевнені, що хочете видалити всі адреси та скинути конфігурацію?";
 "dhcp_reset_dhcp_config" = "Скинути конфігурацію DHCP";
@@ -306,8 +306,8 @@
 "dns_server_configuration" = "Установки DNS-сервера";
 "dns_rate_limit" = "Rate limit";
 "dns_edns_client_subnet" = "EDNS client subnet";
-"dns_edns_use_custom_ip" = "Use custom IP for EDNS";
-"dns_edns_use_custom_ip_placeholder" = "Enter IP";
+"dns_edns_use_custom_ip" = "Використовувати вказаний IP для EDNS";
+"dns_edns_use_custom_ip_placeholder" = "Введіть IP";
 "dns_dnssec" = "DNSSEC";
 "dns_disable_ipv6" = "Вимкнути IPv6";
 "dns_blocking_mode" = "Режим блокування";
@@ -385,10 +385,10 @@
 "preferences_dashboard_graph_line" = "Лінійний графік";
 "preferences_dashboard_graph_bar" = "Гістограма";
 "preferences_dashboard_graph_hide" = "Приховати графік";
-"preferences_dashboard_line_type" = "Line type";
-"preferences_dashboard_line_type_smooth" = "Smooth";
-"preferences_dashboard_line_type_linear" = "Linear";
-"preferences_dashboard_line_type_steps" = "Steps";
+"preferences_dashboard_line_type" = "Тип лінії";
+"preferences_dashboard_line_type_smooth" = "Плавна";
+"preferences_dashboard_line_type_linear" = "Лінійна";
+"preferences_dashboard_line_type_steps" = "Ступенева";
 "preferences_dashboard_graph_dnsqueries" = "DNS запити";
 "preferences_dashboard_graph_blockedbyfilters" = "Заблоковано фільтрами";
 "preferences_dashboard_graph_blockedmalware" = "Заблоковано зловмисних/шахрайських програм";
