@@ -126,7 +126,7 @@
 "instance_test_connection" = "Verbindung testen";
 "instance_remove" = "Instanz entfernen";
 "instance_remove_alert_title" = "AdGuard Home Instanz entfernen";
-"instance_remove_alert_body" = "Sind Sie sicher, dass Sie diese Instanz entfernen möchten?";
+"instance_remove_alert_body" = "Bist du dir sicher, dass Du diese Instanz entfernen möchten?";
 "settings_validation_port" = "Bitte geben Sie eine gültige Portnummer ein.";
 
 // MARK: Instance Settings
