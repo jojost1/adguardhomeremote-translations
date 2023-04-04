@@ -21,7 +21,7 @@
 "dashboard_top-clients" = "Найактивніші клієнти";
 "dashboard_top-queried" = "Найчастіші запити доменів";
 "dashboard_top-blocked" = "Найчастіше блоковані домени";
-"dashboard_avg_ms_%@" = "в середньому %@мс";
+"dashboard_avg_ms_%@" = "серед. %@мс";
 "dashboard_confirmation_enable_%@" = "Ви впевнені, що хочете включити %@?";
 "dashboard_confirmation_enable_button" = "Включать";
 "dashboard_confirmation_disable_%@" = "Ви впевнені, що хочете відключити %@?";
