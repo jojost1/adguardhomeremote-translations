@@ -13,7 +13,7 @@
 "dashboard_parental-filtering" = "Jugendgefährdend";
 "dashboard_safe-browsing" = "Internetsicherheit";
 "dashboard_safe-search" = "Sichere Suche";
-"dashboard_date" = "Date";
+"dashboard_date" = "Datum";
 "dashboard_queries" = "DNS-Anfragen";
 "dashboard_blocked-filters" = "Durch Filter gesperrt";
 "dashboard_blocked-malware" = "Gesperrte Schädliche/Phishing-Webseiten";
@@ -126,8 +126,8 @@
 "instance_test_connection" = "Verbindung testen";
 "instance_remove" = "Instanz entfernen";
 "instance_remove_alert_title" = "AdGuard Home Instanz entfernen";
-"instance_remove_alert_body" = "Sind Sie sicher, dass Sie diese Instanz entfernen möchten?";
-"settings_validation_port" = "Bitte geben Sie eine gültige Portnummer ein.";
+"instance_remove_alert_body" = "Bist Du Dir sicher, dass Du diese Instanz entfernen möchtest?";
+"settings_validation_port" = "Bitte gib eine gültige Portnummer ein.";
 
 // MARK: Instance Settings
 "settings_add-instance" = "Instanz hinzufügen";
@@ -145,7 +145,7 @@
 "client_new" = "Neuer Client";
 "client_edit" = "Client bearbeiten";
 "client_remove" = "Client entfernen";
-"client_remove_alert_body" = "Sind Sie sicher, dass Sie diesen Client entfernen möchten?";
+"client_remove_alert_body" = "Bist Du Dir sicher, dass Du diesen Client entfernen möchtest?";
 "clients" = "Clients";
 "clients_settings_label" = "Einstellungen: ";
 "clients_services_label" = "Gesperrte Dienste: ";
@@ -154,7 +154,7 @@
 "clients_runtime_footer" = "Diese Clients verwenden AdGuard Home ohne spezielle Konfiguration.";
 "clients_disallowed" = "Verbotene Clients";
 "clients_disallowed_footer" = "AdGuard Home verwirft alle DNS-Anfragen dieser Clients.";
-"clients_disallowed_placeholder" = "Geben Sie einen IP- oder CIDR-Bereich ein";
+"clients_disallowed_placeholder" = "Gib eine IP- oder einen CIDR-Bereich ein";
 "clients_disallowed_add_client" = "Zu verbotenen Clients hinzufügen";
 "clients_name" = "Clientname";
 "clients_identifiers" = "Bezeichner";
@@ -240,7 +240,7 @@
 "filtering_check_hostname" = "Filterung überprüfen";
 "filtering_check_hostname_placeholder" = "Gerätenamen eingeben";
 "filtering_check_hostname_check" = "Prüfen";
-"filtering_check_hostname_result" = "Auswertungsergebnis";
+"filtering_check_hostname_result" = "Ergebnis";
 "filtering_check_hostname_cname" = "CNAME";
 "filtering_check_hostname_IP" = "IP";
 
@@ -273,10 +273,10 @@
 "dhcp_add_client_with_mac" = "Neuer Client (mit MAC)";
 "dhcp_reset_all_leases" = "Alle Leases zurücksetzen";
 "dhcp_reset_all_leases_footer" = "Entfernt alle aktuellen Zuweisungen, ohne die Lease-Konfiguration zu löschen.";
-"dhcp_reset_all_leases_alert_body" = "Möchten Sie wirklich alle Leases zurücksetzen?";
+"dhcp_reset_all_leases_alert_body" = "Möchtest Du wirklich alle Leases zurücksetzen?";
 "dhcp_reset_dhcp_config" = "DHCP-Einstellungen zurücksetzen";
 "dhcp_reset_dhcp_config_footer" = "Setzt alle DHCP-Einstellungen zurück.";
-"dhcp_reset_dhcp_config_alert_body" = "Sind Sie sicher, dass Sie die DHCP-Einstellungen zurücksetzen wollen?";
+"dhcp_reset_dhcp_config_alert_body" = "Bist Du Dir sicher, dass Du die DHCP-Einstellungen zurücksetzen willst?";
 "dhcp_pro_required" = "Remote Pro ist erforderlich, um die DHCP-Einstellungen zu verwalten.";
 // New Static Lease
 "dhcp_staticlease_new" = "Statischen Lease hinzufügen";
@@ -296,13 +296,13 @@
 "dns_upstream_mode_parralel" = "Parallele Anfragen";
 "dns_upstream_mode_fastest" = "Schnellste IP-Adresse";
 "dns_bootstrap_dns_servers" = "Bootstrap DNS-Server";
-"dns_bootstrap_dns_servers_footer" = "Bootstrap-DNS-Server werden verwendet, um IP-Adressen der DoH/DoT-Resolver aufzulösen, die Sie als Upstreams angeben.";
+"dns_bootstrap_dns_servers_footer" = "Bootstrap-DNS-Server werden verwendet, um IP-Adressen der DoH/DoT-Resolver aufzulösen, die Du als Upstreams angibst.";
 "dns_private_dns_servers" = "Eigene DNS-Server";
 "dns_private_dns_servers_footer" = "Die DNS-Server, die AdGuard Home für lokale PTR-Anfragen verwendet.";
 "dns_use_private_dns_resolvers" = "Private Reverse-DNS-Resolver verwenden";
-"dns_use_private_dns_resolvers_help" = "Führen Sie mithilfe dieser Upstream-Server Reverse DNS-Lookups für lokal bereitgestellte Adressen durch. Wenn diese Option deaktiviert ist, antwortet AdGuard Home mit NXDOMAIN auf alle derartigen PTR-Anfragen mit Ausnahme von Clients, die von DHCP, /etc/hosts usw. bekannt sind.";
+"dns_use_private_dns_resolvers_help" = "Führe mithilfe dieser Upstream-Server Reverse DNS-Lookups für lokal bereitgestellte Adressen durch. Wenn diese Option deaktiviert ist, antwortet AdGuard Home mit NXDOMAIN auf alle derartigen PTR-Anfragen mit Ausnahme von Clients, die von DHCP, /etc/hosts usw. bekannt sind.";
 "dns_reverse_resolve" = "Hostnamenauflösung der Clients aktivieren";
-"dns_reverse_resolve_help" = "Lösen Sie die IP-Adressen der Clients umgekehrt in ihre Hostnamen auf, indem Sie PTR-Anfragen an entsprechende Resolver senden (private DNS-Server für lokale Clients, Upstream-Server für Clients mit öffentlichen IP-Adressen).";
+"dns_reverse_resolve_help" = "Löse die IP-Adressen der Clients umgekehrt in ihre Hostnamen auf, indem Du PTR-Anfragen an entsprechende Resolver sendest (private DNS-Server für lokale Clients, Upstream-Server für Clients mit öffentlichen IP-Adressen).";
 "dns_server_configuration" = "DNS-Serverkonfiguration";
 "dns_rate_limit" = "Begrenzungswert";
 "dns_edns_client_subnet" = "EDNS Client Subnetz aktivieren";
@@ -345,7 +345,7 @@
 "querylog_settings_anonymize" = "Client-IP anonymisieren";
 "querylog_settings_log_retention" = "Anfrageprotokolle aufbewahren";
 "querylog_settings_clear" = "Anfrageprotokolle leeren";
-"querylog_settings_clear_alert" = "Möchten Sie wirklich das Anfrageprotokoll vollständig löschen?";
+"querylog_settings_clear_alert" = "Möchtest Du wirklich das Anfrageprotokoll vollständig löschen?";
 "querylog_settings_cleared" = "Das Anfrageprotokoll wurde erfolgreich gelöscht";
 
 // MARK: More
@@ -353,7 +353,7 @@
 "more_statistics_footer" = "Das Ändern der Einstellung für die Statistikaufbewahrung erfordert einen App-Neustart.";
 "more_statistics_retention" = "Speicherzeitraum";
 "more_statistics_clear" = "Statistiken leeren";
-"more_statistics_clear_alert" = "Möchten Sie die Statistiken wirklich löschen? Dadurch werden alle Statistiken im Dashboard auf Null gesetzt.";
+"more_statistics_clear_alert" = "Möchtest Du die Statistiken wirklich löschen? Dadurch werden alle Statistiken im Dashboard auf Null gesetzt.";
 "more_statistics_cleared" = "Statistiken wurden erfolgreich gelöscht";
 "more_webinterface" = "Web-Schnittstelle";
 "more_webinterface_username" = "Benutzername";
@@ -364,7 +364,7 @@
 "more_webinterface_theme_light" = "Hell";
 "more_version" = "Version";
 "more_version_current_%@" = "Aktuelle Version: %@";
-"more_update_started" = "Bitte warten Sie, AdGuard Home wird aktualisiert…";
+"more_update_started" = "Bitte warte, AdGuard Home wird aktualisiert…";
 "more_update_to_%@" = "Auf v%@ updaten";
 "more_checking_version" = "Version wird geprüft...";
 "more_up_to_date" = "AdGuard Home ist aktuell";
@@ -383,10 +383,10 @@
 "preferences_dashboard_graph_line" = "Liniendiagramm";
 "preferences_dashboard_graph_bar" = "Balkendiagramm";
 "preferences_dashboard_graph_hide" = "Diagramme verstecken";
-"preferences_dashboard_line_type" = "Line type";
+"preferences_dashboard_line_type" = "Linientyp";
 "preferences_dashboard_line_type_smooth" = "Smooth";
 "preferences_dashboard_line_type_linear" = "Linear";
-"preferences_dashboard_line_type_steps" = "Steps";
+"preferences_dashboard_line_type_steps" = "Schritte";
 "preferences_dashboard_graph_dnsqueries" = "DNS-Anfragen";
 "preferences_dashboard_graph_blockedbyfilters" = "Durch Filter gesperrt";
 "preferences_dashboard_graph_blockedmalware" = "Gesperrte Schädliche/Phishing-Webseiten";
@@ -400,19 +400,19 @@
 "preferences_other" = "Sonstiges";
 "preferences_language" = "Sprache (Language)";
 "preferences_language_macos_alert" = "Sprache wechseln";
-"preferences_language_macos_alert_body" = "Um die App-Sprache unter macOS zu ändern, öffnen Sie 'Systemeinstellungen > Sprache & Region > Apps' und fügen Sie die App dort hinzu.";
+"preferences_language_macos_alert_body" = "Um die App-Sprache unter macOS zu ändern, öffne 'Systemeinstellungen > Sprache & Region > Apps' und füge die App dort hinzu.";
 "preferences_lock_password" = "Per Passwort sperren";
 "preferences_lock_faceid" = "Per Face ID sperren";
 "preferences_lock_touchid" = "Per Touch ID sperren";
-"preferences_lock_footer" = "Wenn aktiviert, wird AdGuard Home Remote gesperrt, sobald Sie die App schließen. Beim Neuaufruf werden Sie aufgefordert, sich zu authentifizieren.";
+"preferences_lock_footer" = "Wenn aktiviert, wird AdGuard Home Remote gesperrt, sobald Du die App schließt. Beim Neuaufruf wirst Du dazu aufgefordert, Dich erneut zu authentifizieren.";
 "preferences_lock_require" = "Erforderlich";
 "preferences_lock_require_immediately" = "Sofort";
 "preferences_lock_require_1min" = "Nach 1 Minute";
 "preferences_lock_require_5min" = "Nach 5 Minuten";
 "preferences_lock_require_1hour" = "Nach 1 Stunde";
 "preferences_lock_unlock_button" = "Entsperren";
-"preferences_lock_unlock_footnote_tap" = "Tippen Sie oben, um AdGuard Home Remote zu entsperren";
-"preferences_lock_unlock_footnote_click" = "Klicken Sie oben, um AdGuard Home Remote zu entsperren";
+"preferences_lock_unlock_footnote_tap" = "Tippe oben, um AdGuard Home Remote zu entsperren";
+"preferences_lock_unlock_footnote_click" = "Klicke oben, um AdGuard Home Remote zu entsperren";
 "preferences_lock_unlock_system_alert" = "App entsperren";
 
 // MARK: Help
@@ -420,13 +420,13 @@
 "settings_help" = "Support & Feedback";
 "settings_help_navbar" = "Support";
 "settings_help_contact" = "Mich kontaktieren";
-"settings_help_contact_footer" = "Bitte verwenden Sie Englisch für Supportanfragen! (Please use English for support requests!)";
+"settings_help_contact_footer" = "Bitte verwende Englisch für Supportanfragen! (Please use English for support requests!)";
 "settings_help_actions" = "Aktionen";
 "settings_help_logs" = "Protokolle";
-"settings_help_logs_footer" = "Protokolle werden lokal aufgezeichnet und verlassen nicht Ihr Gerät. Wischen Sie nach unten, um die Protokollanzeige zu verlassen.";
+"settings_help_logs_footer" = "Protokolle werden lokal aufgezeichnet und verlassen nicht Dein Gerät. Wische nach unten, um die Protokollanzeige zu verlassen.";
 "settings_help_logs_button" = "Protokolle anzeigen";
 "settings_give_feedback_alert_title" = "Feedback geben";
-"settings_give_feedback_alert_body" = "Bitte senden Sie mir eine E-Mail mit Feedback bezüglich Fehlern oder Verbesserungen an developer@rocketscience-it.nl!";
+"settings_give_feedback_alert_body" = "Bitte sende mir eine E-Mail mit Feedback bezüglich Fehlern oder Verbesserungen an developer@rocketscience-it.nl!";
 "settings_copy_email" = "E-Mail-Adresse kopieren";
 
 // MARK: Other Settings
@@ -478,7 +478,7 @@
 "changelog_view_full" = "Alle Neuerungen anzeigen";
 "changelog_show_feature_promo" = "Feature-Vorschau anzeigen";
 "changelog_show_on_app_update" = "Bei App-Update anzeigen";
-"changelog_show_on_app_update_footer" = "Die Neuerungen werden nur bei Feature-Updates angezeigt und nicht bei ausschließlichen Bugfixes.";
+"changelog_show_on_app_update_footer" = "Die Neuerungen werden nur bei Feature-Updates angezeigt und nicht bei ausschließlichen Fehlerbehebungen.";
 "changelog_settings" = "Neuerungen";
 
 // MARK: - Pro
@@ -489,7 +489,7 @@
 "pro_thankyou_heart" = "Vielen Dank! ❤️";
 "pro_learn-more" = "Mehr erfahren...";
 "pro_title" = "AdGuard Home\nRemote Pro";
-"pro_description" = "Schalten Sie mit einem einmaligen Kauf leistungsstarke Funktionen frei und unterstützen Sie die zukünftige Entwicklung!";
+"pro_description" = "Schalte mit einem einmaligen Kauf leistungsstarke Funktionen frei und unterstütze die zukünftige Entwicklung!";
 "pro_purchased_date_%@" = "Gekauft am %@.";
 "pro_features" = "Pro Funktionen";
 "pro_family_sharing" = "Teilen mit der Familie möglich";
@@ -499,8 +499,8 @@
 "pro_restore_nothing" = "Nichts zum Wiederherstellen";
 "pro_testflight" = "TestFlight";
 "pro_beta_access_button" = "Beta-Zugang anfragen";
-"pro_testflight_alert" = "Es wurde kein gültiger E-Mail-Client auf Ihrem Gerät gefunden.\n\nBitte senden Sie mir Ihre Testflight-Anfrage mit einem Screenshot von diesem Pro-Bereich an developer@rocketscience-it.nl!";
-"pro_testflight_explainer" = "Beachte: Sie verwenden den TestFlight-Build. Daher laufen die Zahlungen im 'Sandbox-Modus' und werden nicht tatsächlich berechnet.\n\nDie 'Pro-Lizenz' läuft nach ein paar Tagen im TestFlight-Build ab. Wenn Sie Remote Pro kaufen und diesem Problem entgehen wollen, laden Sie bitte die App im App-Store herunter. Danke!";
+"pro_testflight_alert" = "Es wurde kein gültiger E-Mail-Client auf Deinem Gerät gefunden.\n\nBitte sende mir Deine Testflight-Anfrage mit einem Screenshot von diesem Pro-Bereich an developer@rocketscience-it.nl!";
+"pro_testflight_explainer" = "Beachte: Du verwendest den TestFlight-Build. Daher laufen die Zahlungen im 'Sandbox-Modus' und werden nicht tatsächlich berechnet.\n\nDie 'Pro-Lizenz' läuft nach ein paar Tagen im TestFlight-Build ab. Wenn Du Remote Pro kaufen und diesem Problem entgehen willst, lade Dir bitte die App im App-Store herunter. Danke!";
 
 // MARK: Pro Features
 "pro_view_queries" = "25+ Anfragen sehen & Filter setzen";
@@ -516,10 +516,10 @@
 "pro_beta_access" = "TestFlight Beta-Zugang";
 
 // MARK: Purchase Flow
-"purchase_unknown_error" = "Unbekannter Fehler. Bitte kontaktieren Sie mich unter developer@rocketscience-it.nl.";
+"purchase_unknown_error" = "Unbekannter Fehler. Bitte kontaktiere mich unter developer@rocketscience-it.nl.";
 "purchase_not_allowed" = "Nicht berechtigt, Zahlungen zu tätigen.";
 "purchase_invalid_id" = "Ungültige Zahlung.";
-"purchase_not_allowed" = "Das Gerät ist nicht berechtigt, Zahlungen zu tätigen.";
+"purchase_not_allowed" = "Das Gerät ist nicht berechtigt Zahlungen zu tätigen.";
 "purchase_not_available" = "Dieses Produkt ist aktuell nicht im Store verfügbar.";
 "purchase_cloud_permission_denied" = "Nicht berechtigt, auf den Cloud-Dienst zuzugreifen.";
 "purchase_connection_error" = "Es konnte keine Verbindung zum Netzwerk hergestellt werden.";
@@ -536,7 +536,7 @@ Apps, welche ich ebenfalls kontinuierlich verbessere, im AppStore veröffentlich
 "rocketscience_tipjar_thankyou" = "Vielen Dank!";
 "rocketscience_my_other_apps" = "Meine anderen Apps";
 "rocketscience_piholeremote_subtitle" = "Alles über Pi-hole an einem Ort.";
-"rocketscience_adguarddns_subtitle" = "Möchten Sie lieber AdGuard DNS verwenden? Dann sind Sie hiermit bedient.";
+"rocketscience_adguarddns_subtitle" = "Möchtest Du lieber AdGuard DNS verwenden? Dann bist Du hiermit bedient.";
 "rocketscience_mango_subtitle" = "Eine übersichtliche Anime- & Manga-Tracker-App, welche die MyAnimeList API verwendet.";
 "rocketscience_energieradar_subtitle" = "Überwache Strom- & Gaspreise in zahlreichen europäischen Ländern in Echtzeit.";
 "rocketscience_acknoledgements" = "Besonderer Dank geht an";
@@ -544,19 +544,19 @@ Apps, welche ich ebenfalls kontinuierlich verbessere, im AppStore veröffentlich
 // MARK: Tip Jar
 "tipjar_navbar" = "Spenden";
 "tipjar_title" = "Spenden helfen, AdGuard Home Remote am Laufen zu halten und unterstützt gleichzeitig  die Entwicklung großartiger Funktionen und Verbesserungen.";
-"tipjar_description" = "Wenn Sie diese App gerne benutzen und einen Indie-Entwickler (hi! 👋) unterstützen wollen, können Sie mir gerne ein Trinkgeld geben. Ich weiß dies wirklich sehr zu schätzen!";
+"tipjar_description" = "Wenn Du diese App gerne benutzt und einen Indie-Entwickler (hi! 👋) unterstützen willst, kannst Du mir gerne ein Trinkgeld geben. Ich weiß dies wirklich sehr zu schätzen!";
 "tipjar_coffee_tip" = "Kaffee ausgeben";
 "tipjar_whiskey_tip" = "Whiskey ausgeben";
 "tipjar_ramen_tip" = "Ramen ausgeben";
 "tipjar_sushi_tip" = "Sushi ausgeben";
-"tipjar_description_thankyou" = "Danke für Ihre Unterstützung!\n- Joost";
-"tipjar_thankyou_tip" = "Danke für Ihre großzügige Spende!";
-"tipjar_thankyou_tips" = "Danke für Ihre großzügige Spenden!";
-"tipjar_love" = "Ich liebe Sie! ❤️";
-"tipjar_love_alert" = "Vielen lieben Dank, ich schätze es sehr, dass Ihnen diese App so sehr gefällt, dass Sie mir ein Trinkgeld hinterlassen haben. Dies ist auch sehr motivierend für mich. I liebe Sie!\n\nJoost";
+"tipjar_description_thankyou" = "Danke für Deine Unterstützung!\n- Joost";
+"tipjar_thankyou_tip" = "Danke für Deine großzügige Spende!";
+"tipjar_thankyou_tips" = "Danke für Deine großzügige Spenden!";
+"tipjar_love" = "Ich liebe Dich! ❤️";
+"tipjar_love_alert" = "Vielen lieben Dank, ich schätze es sehr, dass Dir diese App so sehr gefällt, dass Du mir ein Trinkgeld hinterlassen hast. Dies ist auch sehr motivierend für mich. Ich liebe Dich!\n\nJoost";
 "tipjar_blush" = "*errötet*";
 "tipjar_payment_success" = "Zahlung erfolgreich";
-"tipjar_testflight_explainer" = "Beachte: Sie verwenden den TestFlight-Build. Daher laufen die Zahlungen im 'Sandbox-Modus' und werden nicht tatsächlich berechnet.\n\nWenn Sie Remote Pro kaufen bzw. spenden wollen, laden Sie bitte die App im App-Store herunter. Danach können Sie den Testflight-Build erneut herunterladen. Danke!";
+"tipjar_testflight_explainer" = "Beachte: Du verwendest den TestFlight-Build. Daher laufen die Zahlungen im 'Sandbox-Modus' und werden nicht tatsächlich berechnet.\n\nWenn Du Remote Pro kaufen bzw. spenden willst, lade Dir bitte die App im App-Store herunter. Danach kannst Du Dir den Testflight-Build erneut herunterladen. Danke!";
 
 // MARK: - Other
 "loading" = "Lädt";
@@ -593,7 +593,7 @@ Apps, welche ich ebenfalls kontinuierlich verbessere, im AppStore veröffentlich
 "name" = "Name";
 "none_dot" = "Es wurde nichts gefunden.";
 "manage" = "Bearbeiten";
-"tap_to_learn_more" = "Tippen, um mehr zu erfahren.";
+"tap_to_learn_more" = "Tippen um mehr zu erfahren.";
 
 // Durations
 "disabled" = "Aus";
@@ -608,11 +608,11 @@ Apps, welche ich ebenfalls kontinuierlich verbessere, im AppStore veröffentlich
 
 // MARK: Widgets
 "widget_dashboard" = "Übersichtswidget";
-"widget_dashboard_description" = "Ihre Statistiken anzeigen.";
+"widget_dashboard_description" = "Deine Statistiken anzeigen.";
 
 // MARK: Apple Watch
 "loading_instances_icloud" = "Lädt Instanzen aus iCloud...";
-"watch_stuck_reinstall" = "Dies kann eine Weile dauern. Wenn die App bei diesem Vorgang stecken bleibt, versuchen Sie bitte eine App-Neuinstallation.";
+"watch_stuck_reinstall" = "Dies kann eine Weile dauern. Wenn die App bei diesem Vorgang stecken bleibt, versuche bitte eine App-Neuinstallation.";
 
 // MARK: Home Screen Quick Actions
 "enable_protection" = " Schutz aktivieren";
