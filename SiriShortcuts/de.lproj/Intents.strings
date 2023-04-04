@@ -122,7 +122,7 @@
 
 "T13oiI" = "Schutz";
 
-"VMNE7g" = "Ermittle den aktuellen Zustand deiner AdGuard Home Instanz (Schutz, Rollen Filterung, sicheres browsen, elterliche Filterung, oder sichere Suche). Gibt 1 zurück, wenn aktiviert, 0, wenn deaktiviert.";
+"VMNE7g" = "Ermittle den aktuellen Zustand Deiner AdGuard Home Instanz (Schutz, Rollen Filterung, sicheres browsen, elterliche Filterung, oder sichere Suche). Gibt 1 zurück, wenn aktiviert, 0, wenn deaktiviert.";
 
 "Vw3w9H" = "Instanz";
 
@@ -136,7 +136,7 @@
 
 "XpmLse" = "aktiviert";
 
-"YG3bix" = "Toggle Safe Browsing for your AdGuard Home Instanz.";
+"YG3bix" = "Sicheres Browsen für Deine AdGuard Home Instanz umschalten.";
 
 "Z6sRub" = "Zustand";
 
