@@ -615,5 +615,5 @@ Apps, welche ich ebenfalls kontinuierlich verbessere, im AppStore veröffentlich
 "watch_stuck_reinstall" = "Dies kann eine Weile dauern. Wenn die App bei diesem Vorgang stecken bleibt, versuche bitte eine App-Neuinstallation.";
 
 // MARK: Home Screen Quick Actions
-"enable_protection" = " Schutz aktivieren";
+"enable_protection" = "Schutz aktivieren";
 "disable_protection" = "Schutz deaktivieren";
