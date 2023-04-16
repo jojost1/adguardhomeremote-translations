@@ -350,6 +350,7 @@
 
 // MARK: More
 "more_statistics" = "Estadísticas";
+"more_statistics_enable" = "Habilitar estadísticas";
 "more_statistics_footer" = "Cambiar el tiempo de retención de las estadísticas requiere reiniciar AdGuard Home.";
 "more_statistics_retention" = "Tiempo de retención";
 "more_statistics_clear" = "Borrar estadísticas";
@@ -494,6 +495,7 @@
 "pro_features" = "Funcionalidades Pro";
 "pro_family_sharing" = "Soporta 'En Familia'";
 "pro_restore_purchase" = "Restaurar Compra";
+"pro_restore_purchase_footer" = "Use this if you've purchased Remote Pro before on a different device, or your Pro license doesn't show up after purchasing Remote Pro.";
 "pro_restored" = "¡Pro activado!";
 "pro_restore_failed" = "La activación de Pro ha fallado";
 "pro_restore_nothing" = "Nada a restaurar";

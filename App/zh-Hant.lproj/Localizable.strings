@@ -350,6 +350,7 @@
 
 // MARK: More
 "more_statistics" = "統計資料";
+"more_statistics_enable" = "Enable Statistics";
 "more_statistics_footer" = "變更統計資料保留設定需要應用程式重啟。";
 "more_statistics_retention" = "統計資料保留";
 "more_statistics_clear" = "清除統計資料";
@@ -494,6 +495,7 @@
 "pro_features" = "Pro 功能";
 "pro_family_sharing" = "支援家庭共享";
 "pro_restore_purchase" = "回復購買";
+"pro_restore_purchase_footer" = "Use this if you've purchased Remote Pro before on a different device, or your Pro license doesn't show up after purchasing Remote Pro.";
 "pro_restored" = "Pro 已回復！";
 "pro_restore_failed" = "回復失敗";
 "pro_restore_nothing" = "無什麼要回復";

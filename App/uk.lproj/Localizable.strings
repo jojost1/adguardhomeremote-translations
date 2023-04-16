@@ -352,6 +352,7 @@
 
 // MARK: More
 "more_statistics" = "Статистика";
+"more_statistics_enable" = "Enable Statistics";
 "more_statistics_footer" = "Щоб змінити параметр збереження статистики, потрібно перезапустити програму.";
 "more_statistics_retention" = "Збереження статистики";
 "more_statistics_clear" = "Очищення статистики";
@@ -496,6 +497,7 @@
 "pro_features" = "Pro Можливості";
 "pro_family_sharing" = "Підтримує 'Сімейний доступ'";
 "pro_restore_purchase" = "Відновити покупку";
+"pro_restore_purchase_footer" = "Use this if you've purchased Remote Pro before on a different device, or your Pro license doesn't show up after purchasing Remote Pro.";
 "pro_restored" = "Pro Відновлено!";
 "pro_restore_failed" = "Відновити не вдалося";
 "pro_restore_nothing" = "Нема чого відновлювати";

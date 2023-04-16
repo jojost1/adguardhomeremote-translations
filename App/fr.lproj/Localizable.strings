@@ -350,6 +350,7 @@
 
 // MARK: More
 "more_statistics" = "Statistiques";
+"more_statistics_enable" = "Activer statistiques";
 "more_statistics_footer" = "La modification du paramètre de rétention des statistiques nécessite un redémarrage de l’application.";
 "more_statistics_retention" = "Rétention des statistiques";
 "more_statistics_clear" = "Supprimer les statistiques";
@@ -494,6 +495,7 @@
 "pro_features" = "Fonctionnalités Pro";
 "pro_family_sharing" = "Supporte le Partage Familial";
 "pro_restore_purchase" = "Restorer l’achat";
+"pro_restore_purchase_footer" = "Use this if you've purchased Remote Pro before on a different device, or your Pro license doesn't show up after purchasing Remote Pro.";
 "pro_restored" = "Version Pro restaurée !";
 "pro_restore_failed" = "Une erreur est survenue";
 "pro_restore_nothing" = "Rien à restaurer";

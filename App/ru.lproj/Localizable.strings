@@ -352,6 +352,7 @@
 
 // MARK: More
 "more_statistics" = "Статистика";
+"more_statistics_enable" = "Enable Statistics";
 "more_statistics_footer" = "Для изменения параметра сохранения статистики требуется перезапуск приложения.";
 "more_statistics_retention" = "Сохранение статистики";
 "more_statistics_clear" = "Очистка статистики";
@@ -496,6 +497,7 @@
 "pro_features" = "Pro Возможности";
 "pro_family_sharing" = "Поддерживает «Семейный доступ»";
 "pro_restore_purchase" = "Восстановить покупку";
+"pro_restore_purchase_footer" = "Use this if you've purchased Remote Pro before on a different device, or your Pro license doesn't show up after purchasing Remote Pro.";
 "pro_restored" = "Pro Восстановлена!";
 "pro_restore_failed" = "Восстановить не удалось";
 "pro_restore_nothing" = "Нечего восстанавливать";

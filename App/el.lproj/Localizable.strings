@@ -350,6 +350,7 @@
 
 // MARK: More
 "more_statistics" = "Στατιστικά";
+"more_statistics_enable" = "Ενεργοποίηση στατιστικών";
 "more_statistics_footer" = "Η αλλαγή της ρύθμισης διατήρησης στατιστικών απαιτεί επανεκκίνηση της εφαρμογής.";
 "more_statistics_retention" = "Διατήρηση στατιστικών";
 "more_statistics_clear" = "Εκκαθάριση στατιστικών";
@@ -494,6 +495,7 @@
 "pro_features" = "Δυνατότητες έκδοσης Pro";
 "pro_family_sharing" = "Υποστηρίζει Οικογενειακή κοινή χρήση";
 "pro_restore_purchase" = "Επαναφορά αγοράς";
+"pro_restore_purchase_footer" = "Use this if you've purchased Remote Pro before on a different device, or your Pro license doesn't show up after purchasing Remote Pro.";
 "pro_restored" = "Επαναφορά Pro!";
 "pro_restore_failed" = "Η επαναφορά απέτυχε";
 "pro_restore_nothing" = "Δεν υπάρχει τίποτα για επαναφορά";

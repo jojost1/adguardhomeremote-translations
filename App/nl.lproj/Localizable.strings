@@ -350,6 +350,7 @@
 
 // MARK: More
 "more_statistics" = "Statistieken";
+"more_statistics_enable" = "Statistieken inschakelen";
 "more_statistics_footer" = "Het aanpassen van de Retentie instelling vereist een restart van de app.";
 "more_statistics_retention" = "Retentie";
 "more_statistics_clear" = "Wis statistieken";
@@ -494,6 +495,7 @@
 "pro_features" = "Pro Functies";
 "pro_family_sharing" = "Ondersteunt Family Sharing";
 "pro_restore_purchase" = "Herstel aankoop";
+"pro_restore_purchase_footer" = "Gebruik dit als je Remote Pro eerder hebt aangeschaft op een ander apparaat of wanneer je Pro licensie niet verschijnt na het aanschaffen van Remote Pro.";
 "pro_restored" = "Pro hersteld!";
 "pro_restore_failed" = "Herstellen gefaald";
 "pro_restore_nothing" = "Niets om te herstellen";

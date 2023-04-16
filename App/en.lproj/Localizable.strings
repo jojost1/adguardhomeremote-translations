@@ -350,6 +350,7 @@
 
 // MARK: More
 "more_statistics" = "Statistics";
+"more_statistics_enable" = "Enable Statistics";
 "more_statistics_footer" = "Changing the Statistics Retention setting requires an app restart.";
 "more_statistics_retention" = "Statistics Retention";
 "more_statistics_clear" = "Clear Statistics";
@@ -494,6 +495,7 @@
 "pro_features" = "Pro Features";
 "pro_family_sharing" = "Supports Family Sharing";
 "pro_restore_purchase" = "Restore Purchase";
+"pro_restore_purchase_footer" = "Use this if you've purchased Remote Pro before on a different device, or your Pro license doesn't show up after purchasing Remote Pro.";
 "pro_restored" = "Pro Restored!";
 "pro_restore_failed" = "Restored Failed";
 "pro_restore_nothing" = "Nothing to Restore";

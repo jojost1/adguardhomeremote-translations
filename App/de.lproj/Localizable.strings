@@ -350,6 +350,7 @@
 
 // MARK: More
 "more_statistics" = "Statistikkonfiguration";
+"more_statistics_enable" = "Statistiken aktivieren";
 "more_statistics_footer" = "Das Ändern der Einstellung für die Statistikaufbewahrung erfordert einen App-Neustart.";
 "more_statistics_retention" = "Speicherzeitraum";
 "more_statistics_clear" = "Statistiken leeren";
@@ -494,6 +495,7 @@
 "pro_features" = "Pro Funktionen";
 "pro_family_sharing" = "Teilen mit der Familie möglich";
 "pro_restore_purchase" = "Kauf wiederherstellen";
+"pro_restore_purchase_footer" = "Verwenden Sie dies, wenn Sie Remote Pro zuvor auf einem anderen Gerät erworben haben oder wenn Ihre Pro-Lizenz nach dem Kauf von Remote Pro nicht angezeigt wird.";
 "pro_restored" = "Remote Pro wiederhergestellt!";
 "pro_restore_failed" = "Wiederherstellung fehlgeschlagen";
 "pro_restore_nothing" = "Nichts zum Wiederherstellen";

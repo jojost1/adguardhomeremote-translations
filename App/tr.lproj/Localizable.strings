@@ -350,6 +350,7 @@
 
 // MARK: More
 "more_statistics" = "İstatistikler";
+"more_statistics_enable" = "Enable Statistics";
 "more_statistics_footer" = "İstatistik Saklama ayarını değiştirmek, uygulamanın yeniden başlatılmasını gerektirir.";
 "more_statistics_retention" = "İstatistik Tutma";
 "more_statistics_clear" = "İstatistikleri temizle";
@@ -494,6 +495,7 @@
 "pro_features" = "Pro Özellikleri";
 "pro_family_sharing" = "Aile Paylaşımını Destekler";
 "pro_restore_purchase" = "Satın Alımı Geri Yükle";
+"pro_restore_purchase_footer" = "Use this if you've purchased Remote Pro before on a different device, or your Pro license doesn't show up after purchasing Remote Pro.";
 "pro_restored" = "Pro Geri Yüklendi!";
 "pro_restore_failed" = "Geri Yükleme Başarısız";
 "pro_restore_nothing" = "Geri Yüklenecek Bir Şey Yok";
