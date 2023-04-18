@@ -132,6 +132,7 @@
 // MARK: Instance Settings
 "settings_add-instance" = "인스턴스 추가";
 "settings_edit-instance" = "편집";
+"settings_general" = "General Settings";
 "settings_clients" = "클라이언트";
 "settings_filtering" = "필터";
 "settings_dhcp" = "DHCP";

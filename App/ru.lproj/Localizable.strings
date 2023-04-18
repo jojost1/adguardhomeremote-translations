@@ -132,6 +132,7 @@
 // MARK: Instance Settings
 "settings_add-instance" = "Добавить сервер";
 "settings_edit-instance" = "Редактировать";
+"settings_general" = "General Settings";
 "settings_clients" = "Клиенты";
 "settings_filtering" = "Фильтрация";
 "settings_dhcp" = "DHCP";

@@ -132,6 +132,7 @@
 // MARK: Instance Settings
 "settings_add-instance" = "Örnek ekle";
 "settings_edit-instance" = "Düzenle";
+"settings_general" = "General Settings";
 "settings_clients" = "Müşteriler";
 "settings_filtering" = "Filtereleme";
 "settings_dhcp" = "DHCP";

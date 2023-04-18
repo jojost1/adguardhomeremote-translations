@@ -132,6 +132,7 @@
 // MARK: Instance Settings
 "settings_add-instance" = "添加实例";
 "settings_edit-instance" = "编辑";
+"settings_general" = "General Settings";
 "settings_clients" = "客户端";
 "settings_filtering" = "过滤器";
 "settings_dhcp" = "DHCP";

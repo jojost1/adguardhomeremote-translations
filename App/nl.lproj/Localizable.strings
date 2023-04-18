@@ -132,12 +132,13 @@
 // MARK: Instance Settings
 "settings_add-instance" = "Voeg Instantie Toe";
 "settings_edit-instance" = "Bewerk";
+"settings_general" = "Algemene instellingen";
 "settings_clients" = "Cliënten";
 "settings_filtering" = "Filters";
 "settings_dhcp" = "DHCP";
 "settings_dns" = "DNS";
-"settings_dns_rewrites" = "DNS Herschrijvingen";
-"settings_query-log" = "Query Log";
+"settings_dns_rewrites" = "DNS herschrijvingen";
+"settings_query-log" = "Query log";
 "settings_more" = "Meer";
 
 // MARK: Clients
@@ -352,7 +353,7 @@
 "more_statistics" = "Statistieken";
 "more_statistics_enable" = "Statistieken inschakelen";
 "more_statistics_footer" = "Het aanpassen van de Retentie instelling vereist een restart van de app.";
-"more_statistics_retention" = "Retentie";
+"more_statistics_retention" = "Bewaartermijn";
 "more_statistics_clear" = "Wis statistieken";
 "more_statistics_clear_alert" = "Weet je het zeker dat je de statistieken wil wissen? Dit reset alle statistieken in het Dashboard naar nul.";
 "more_statistics_cleared" = "Gewist.";
