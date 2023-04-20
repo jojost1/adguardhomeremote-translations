@@ -132,7 +132,7 @@
 // MARK: Instance Settings
 "settings_add-instance" = "Instanz hinzufügen";
 "settings_edit-instance" = "Bearbeiten";
-"settings_general" = "General Settings";
+"settings_general" = "Allgemeine Einstellungen";
 "settings_clients" = "Clients";
 "settings_filtering" = "Filter";
 "settings_dhcp" = "DHCP";
