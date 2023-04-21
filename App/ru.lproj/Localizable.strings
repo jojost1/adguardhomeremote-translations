@@ -635,8 +635,8 @@
 "clients_edit_querylog_and_statistics" = "Журнал запросов и статистика";
 "clients_edit_ignore_querylog" = "Игнорировать этого клиента в журнале запросов";
 "clients_edit_ignore_statistics" = "Игнорировать этого клиента в статистике";
-"clients_visible_in_querylog" = "Visible in query log";
-"clients_visible_in_statistics" = "Visible in statistics";
+"clients_visible_in_querylog" = "Виден в журнале запросов";
+"clients_visible_in_statistics" = "Виден в статистике";
 "safe_search_bing" = "Bing";
 "safe_search_duckduckgo" = "DuckDuckGo";
 "safe_search_google" = "Google";
