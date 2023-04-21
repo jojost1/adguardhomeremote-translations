@@ -633,6 +633,8 @@
 "clients_edit_querylog_and_statistics" = "Query Log & Statistics";
 "clients_edit_ignore_querylog" = "Ignore this client in query log";
 "clients_edit_ignore_statistics" = "Ignore this client in statistics";
+"clients_visible_in_querylog" = "Visible in query log";
+"clients_visible_in_statistics" = "Visible in statistics";
 "safe_search_bing" = "Bing";
 "safe_search_duckduckgo" = "DuckDuckGo";
 "safe_search_google" = "Google";

@@ -634,6 +634,8 @@
 "clients_edit_querylog_and_statistics" = "Query Log & Statistieken";
 "clients_edit_ignore_querylog" = "Deze client negeren in query log";
 "clients_edit_ignore_statistics" = "Deze client negeren in statistieken";
+"clients_visible_in_querylog" = "Zichtbaar in query log";
+"clients_visible_in_statistics" = "Zichtbaar in statistics";
 // End
 "safe_search_bing" = "Bing";
 "safe_search_duckduckgo" = "DuckDuckGo";
