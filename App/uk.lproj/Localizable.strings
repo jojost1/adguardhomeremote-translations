@@ -132,7 +132,7 @@
 // MARK: Instance Settings
 "settings_add-instance" = "Додати сервер";
 "settings_edit-instance" = "Редагувати";
-"settings_general" = "General Settings";
+"settings_general" = "Основні налаштування";
 "settings_clients" = "Клієнти";
 "settings_filtering" = "Фільтрація";
 "settings_dhcp" = "DHCP";
@@ -353,9 +353,9 @@
 
 // MARK: More
 "more_statistics" = "Статистика";
-"more_statistics_enable" = "Enable Statistics";
+"more_statistics_enable" = "Увімкнення статистики";
 "more_statistics_footer" = "Щоб змінити параметр збереження статистики, потрібно перезапустити програму.";
-"more_statistics_retention" = "Збереження статистики";
+"more_statistics_retention" = "Зберігати статистику";
 "more_statistics_clear" = "Очищення статистики";
 "more_statistics_clear_alert" = "Ви впевнені, що хочете очистити статистику? Це спричинить обнулення всієї статистики на панелі моніторингу.";
 "more_statistics_cleared" = "Очищено.";
@@ -498,7 +498,7 @@
 "pro_features" = "Pro Можливості";
 "pro_family_sharing" = "Підтримує 'Сімейний доступ'";
 "pro_restore_purchase" = "Відновити покупку";
-"pro_restore_purchase_footer" = "Use this if you've purchased Remote Pro before on a different device, or your Pro license doesn't show up after purchasing Remote Pro.";
+"pro_restore_purchase_footer" = "Використовуйте це, якщо ви вже придбали Remote Pro на іншому пристрої, або ваша ліцензія Pro не відображається після придбання Remote Pro.";
 "pro_restored" = "Pro Відновлено!";
 "pro_restore_failed" = "Відновити не вдалося";
 "pro_restore_nothing" = "Нема чого відновлювати";
@@ -623,18 +623,18 @@
 "disable_protection" = "Вимкнути захист";
 
 // MARK: v3.0
-"dashboard_protection_disable" = "Disable protection";
-"for_%lld_seconds" = "For %lld seconds";
-"for_%lld_minute" = "For %lld minute";
-"for_%lld_minutes" = "For %lld minutes";
-"for_%lld_hour" = "For %lld hour";
-"for_%lld_hours" = "For %lld hours";
-"until_tomorrow" = "Until tomorrow";
-"dashboard_protection_enable" = "Enable protection";
-"dashboard_protection_enabled_in_%@" = "will be enabled in %@";
-"clients_edit_querylog_and_statistics" = "Query Log & Statistics";
-"clients_edit_ignore_querylog" = "Ignore this client in query log";
-"clients_edit_ignore_statistics" = "Ignore this client in statistics";
+"dashboard_protection_disable" = "Вимкнути захист";
+"for_%lld_seconds" = "На %lld секунд";
+"for_%lld_minute" = "На %lld хвилину";
+"for_%lld_minutes" = "На %lld хвилин";
+"for_%lld_hour" = "На %lld годину";
+"for_%lld_hours" = "На %lld годин";
+"until_tomorrow" = "До завтра";
+"dashboard_protection_enable" = "Увімкнути захист";
+"dashboard_protection_enabled_in_%@" = "буде увімкнено через %@";
+"clients_edit_querylog_and_statistics" = "Журнал запитів і статистика";
+"clients_edit_ignore_querylog" = "Ігнорувати цього клієнта в журналі запитів";
+"clients_edit_ignore_statistics" = "Ігнорувати цього клієнта в статистиці";
 "safe_search_bing" = "Bing";
 "safe_search_duckduckgo" = "DuckDuckGo";
 "safe_search_google" = "Google";
@@ -642,12 +642,12 @@
 "safe_search_yandex" = "Yandex";
 "safe_search_youtube" = "YouTube";
 // Start - the following strings can be found inside 'General Settings' on the web interface
-"settings_general_rulefiltering_explainer_title" = "Filters and hosts files";
-"settings_general_rulefiltering_explainer_message" = "You can setup blocking rules in the 'Filters' settings.";
-"settings_general_safebrowsing_explainer_title" = "AdGuard browsing security web service";
-"settings_general_safebrowsing_explainer_message" = "AdGuard Home will check if the domain is blocked by the browsing security web service. It will use privacy-friendly lookup API to perform the check: only a short prefix of the domain name SHA256 hash is sent to the server.";
-"settings_general_parentalfiltering_explainer_title" = "AdGuard parental control web service";
-"settings_general_parentalfiltering_explainer_message" = "AdGuard Home will check if domain contains adult materials. It uses the same privacy-friendly API as the browsing security web service.";
-"settings_general_safesearch_explainer_title" = "Safe Search";
-"settings_general_safesearch_explainer_message" = "AdGuard Home will enforce safe search in several search engines.";
+"settings_general_rulefiltering_explainer_title" = "Фільтри та файли хостів";
+"settings_general_rulefiltering_explainer_message" = "Ви можете налаштувати правила блокування в розділі Фільтри.";
+"settings_general_safebrowsing_explainer_title" = "Безпека перегляду AdGuard";
+"settings_general_safebrowsing_explainer_message" = "AdGuard Home перевірятиме, чи підлягає домен блокуванню завдяки вебслужбі «Безпека перегляду». Для перевірки буде використано безпечний API — на сервер надсилається лише короткий префікс хешу SHA256 доменного імені.";
+"settings_general_parentalfiltering_explainer_title" = "Батьківський контроль AdGuard";
+"settings_general_parentalfiltering_explainer_message" = "AdGuard Home перевірить, чи містить домен матеріали для дорослих. Буде використано той же безпечний API, що й для «Безпеки перегляду» AdGuard.";
+"settings_general_safesearch_explainer_title" = "Безпечний пошук";
+"settings_general_safesearch_explainer_message" = "AdGuard Home забезпечить безпечний пошук у кількох пошукових системах.";
 // End
