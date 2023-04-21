@@ -619,3 +619,35 @@
 // MARK: Home Screen Quick Actions
 "enable_protection" = "Bescherming aan";
 "disable_protection" = "Bescherming uit";
+
+// MARK: v3.0
+"dashboard_protection_disable" = "Zet bescherming uit";
+"for_%lld_seconds" = "Voor %lld seconden";
+"for_%lld_minute" = "Voor %lld minuut";
+"for_%lld_minutes" = "Voor %lld minuten";
+"for_%lld_hour" = "Voor %lld uur";
+"for_%lld_hours" = "Voor %lld uur";
+"until_tomorrow" = "Tot morgen";
+"dashboard_protection_enable" = "Zet bescherming aan";
+"dashboard_protection_enabled_in_%@" = "wordt ingeschakeld over %@";
+// Start - the following strings can be found inside 'Client Settings > Add Client' on the web interface
+"clients_edit_querylog_and_statistics" = "Query Log & Statistieken";
+"clients_edit_ignore_querylog" = "Deze client negeren in query log";
+"clients_edit_ignore_statistics" = "Deze client negeren in statistieken";
+// End
+"safe_search_bing" = "Bing";
+"safe_search_duckduckgo" = "DuckDuckGo";
+"safe_search_google" = "Google";
+"safe_search_pixabay" = "Pixabay";
+"safe_search_yandex" = "Yandex";
+"safe_search_youtube" = "YouTube";
+// Start - the following strings can be found inside 'General Settings' on the web interface
+"settings_general_rulefiltering_explainer_title" = "Filters en host-bestanden";
+"settings_general_rulefiltering_explainer_message" = "Je kan blokkeringsregels toevoegen in de 'Filters' instellingen.";
+"settings_general_safebrowsing_explainer_title" = "AdGuard browsing security web service";
+"settings_general_safebrowsing_explainer_message" = "AdGuard Home controleert of het domein in de blokkeerlijst voorkomt dmv Browsing Security web service. Dit gebeurt dmv een privacy vriendelijk API verzoek:een korte prefix van de domein naam met SHA256 hash wordt verzonden naar de server.";
+"settings_general_parentalfiltering_explainer_title" = "AdGuard ouderlijk toezicht web service";
+"settings_general_parentalfiltering_explainer_message" = "AdGuard Home controleert of het domein 18+ content bevat. Dit gebeurt dmv dezelfde privacy vriendelijke API als de Browsing Security web service.";
+"settings_general_safesearch_explainer_title" = "Veilig zoeken";
+"settings_general_safesearch_explainer_message" = "AdGuard Home kan veilig zoeken forceren voor verschillende zoekmachines.";
+// End

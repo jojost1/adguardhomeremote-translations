@@ -619,3 +619,33 @@
 // MARK: Home Screen Quick Actions
 "enable_protection" = "Activar Protecció";
 "disable_protection" = "Desactivar Protecció";
+
+// MARK: v3.0
+"dashboard_protection_disable" = "Disable protection";
+"for_%lld_seconds" = "For %lld seconds";
+"for_%lld_minute" = "For %lld minute";
+"for_%lld_minutes" = "For %lld minutes";
+"for_%lld_hour" = "For %lld hour";
+"for_%lld_hours" = "For %lld hours";
+"until_tomorrow" = "Until tomorrow";
+"dashboard_protection_enable" = "Enable protection";
+"dashboard_protection_enabled_in_%@" = "will be enabled in %@";
+"clients_edit_querylog_and_statistics" = "Query Log & Statistics";
+"clients_edit_ignore_querylog" = "Ignore this client in query log";
+"clients_edit_ignore_statistics" = "Ignore this client in statistics";
+"safe_search_bing" = "Bing";
+"safe_search_duckduckgo" = "DuckDuckGo";
+"safe_search_google" = "Google";
+"safe_search_pixabay" = "Pixabay";
+"safe_search_yandex" = "Yandex";
+"safe_search_youtube" = "YouTube";
+// Start - the following strings can be found inside 'General Settings' on the web interface
+"settings_general_rulefiltering_explainer_title" = "Filters and hosts files";
+"settings_general_rulefiltering_explainer_message" = "You can setup blocking rules in the 'Filters' settings.";
+"settings_general_safebrowsing_explainer_title" = "AdGuard browsing security web service";
+"settings_general_safebrowsing_explainer_message" = "AdGuard Home will check if the domain is blocked by the browsing security web service. It will use privacy-friendly lookup API to perform the check: only a short prefix of the domain name SHA256 hash is sent to the server.";
+"settings_general_parentalfiltering_explainer_title" = "AdGuard parental control web service";
+"settings_general_parentalfiltering_explainer_message" = "AdGuard Home will check if domain contains adult materials. It uses the same privacy-friendly API as the browsing security web service.";
+"settings_general_safesearch_explainer_title" = "Safe Search";
+"settings_general_safesearch_explainer_message" = "AdGuard Home will enforce safe search in several search engines.";
+// End
