@@ -622,20 +622,20 @@ Apps, welche ich ebenfalls kontinuierlich verbessere, im AppStore veröffentlich
 "disable_protection" = "Schutz deaktivieren";
 
 // MARK: v3.0
-"dashboard_protection_disable" = "Disable protection";
-"for_%lld_seconds" = "For %lld seconds";
-"for_%lld_minute" = "For %lld minute";
-"for_%lld_minutes" = "For %lld minutes";
-"for_%lld_hour" = "For %lld hour";
-"for_%lld_hours" = "For %lld hours";
-"until_tomorrow" = "Until tomorrow";
-"dashboard_protection_enable" = "Enable protection";
-"dashboard_protection_enabled_in_%@" = "will be enabled in %@";
-"clients_edit_querylog_and_statistics" = "Query Log & Statistics";
-"clients_edit_ignore_querylog" = "Ignore this client in query log";
-"clients_edit_ignore_statistics" = "Ignore this client in statistics";
-"clients_visible_in_querylog" = "Visible in query log";
-"clients_visible_in_statistics" = "Visible in statistics";
+"dashboard_protection_disable" = "Schutz deaktivieren";
+"for_%lld_seconds" = "Für %lld Sekunden";
+"for_%lld_minute" = "Für %lld Minute";
+"for_%lld_minutes" = "Für %lld Minuten";
+"for_%lld_hour" = "Für %lld Stunde";
+"for_%lld_hours" = "Für %lld Stunden";
+"until_tomorrow" = "Bis morgen";
+"dashboard_protection_enable" = "Schutz aktivieren";
+"dashboard_protection_enabled_in_%@" = "wird aktiviert in %@";
+"clients_edit_querylog_and_statistics" = "Query Log & Statistiken";
+"clients_edit_ignore_querylog" = "Ignoriere diesen Client im query log";
+"clients_edit_ignore_statistics" = "Ignoriere diesen Client in den Statistiken";
+"clients_visible_in_querylog" = "Sichtbar im query log";
+"clients_visible_in_statistics" = "Sichtbar in den Statistiken";
 "safe_search_bing" = "Bing";
 "safe_search_duckduckgo" = "DuckDuckGo";
 "safe_search_google" = "Google";
@@ -643,12 +643,12 @@ Apps, welche ich ebenfalls kontinuierlich verbessere, im AppStore veröffentlich
 "safe_search_yandex" = "Yandex";
 "safe_search_youtube" = "YouTube";
 // Start - the following strings can be found inside 'General Settings' on the web interface
-"settings_general_rulefiltering_explainer_title" = "Filters and hosts files";
-"settings_general_rulefiltering_explainer_message" = "You can setup blocking rules in the 'Filters' settings.";
-"settings_general_safebrowsing_explainer_title" = "AdGuard browsing security web service";
-"settings_general_safebrowsing_explainer_message" = "AdGuard Home will check if the domain is blocked by the browsing security web service. It will use privacy-friendly lookup API to perform the check: only a short prefix of the domain name SHA256 hash is sent to the server.";
-"settings_general_parentalfiltering_explainer_title" = "AdGuard parental control web service";
-"settings_general_parentalfiltering_explainer_message" = "AdGuard Home will check if domain contains adult materials. It uses the same privacy-friendly API as the browsing security web service.";
-"settings_general_safesearch_explainer_title" = "Safe Search";
-"settings_general_safesearch_explainer_message" = "AdGuard Home will enforce safe search in several search engines.";
+"settings_general_rulefiltering_explainer_title" = "Filter und hosts Dateien";
+"settings_general_rulefiltering_explainer_message" = "Du kannst in den 'Filter' Einstellungen Regeln für die Sperrung festlegen.";
+"settings_general_safebrowsing_explainer_title" = "AdGuard Webdienst für sicheres Surfen;
+"settings_general_safebrowsing_explainer_message" = "AdGuard Home prüft, ob die Domain durch den Webdienst für Browsing-Sicherheit blockiert ist. Es verwendet die datenschutzfreundliche Lookup-API, um die Prüfung durchzuführen: nur ein kurzes Präfix des Domainnamens SHA256-Hash wird an den Server gesendet.";
+"settings_general_parentalfiltering_explainer_title" = "AdGuard Webdienst für elterliche Kontrolle";
+"settings_general_parentalfiltering_explainer_message" = "AdGuard Home prüft, ob eine Domain nicht jugendfreie Inhalte enthält. Es verwendet dieselbe datenschutzfreundliche Lookup-API wie der Webdienst für sicheres Surfen.";
+"settings_general_safesearch_explainer_title" = "Sichere Suche";
+"settings_general_safesearch_explainer_message" = "AdGuard Home erzwingt eine sichere Suche in verschiedenen Suchmaschinen.";
 // End
