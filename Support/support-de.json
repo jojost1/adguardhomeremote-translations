@@ -2,7 +2,7 @@
     "headerItems": [
         {
             "id": 5,
-            "title": "Füge deine Instanz hinzu",
+            "title": "Füge Deine Instanz hinzu",
             "subtitle": "Einfach!",
             "imageName": "server.rack",
             "color": 2,
@@ -186,7 +186,7 @@
                 {
                     "id": 0,
                     "title": "Ich bekomme sofort eine Fehlermeldung, Hilfe!",
-                    "text": "AVerwendest Du die neueste Version von AdGuard Home und AdGuard Home Remote? Hast Du in den iOS-Einstellungen die Erlaubnis für 'Lokalen Netzwerkzugriff' gewährt? Kannst Du es mit der IP-Adresse anstelle des Hostnamens oder andersherum versuchen? Kannst Du Deine Anmeldedaten noch einmal überprüfen?"
+                    "text": "Verwendest Du die neueste Version von AdGuard Home und AdGuard Home Remote? Hast Du in den iOS-Einstellungen die Erlaubnis für 'Lokalen Netzwerkzugriff' gewährt? Kannst Du es mit der IP-Adresse anstelle des Hostnamens oder andersherum versuchen? Kannst Du Deine Anmeldedaten noch einmal überprüfen?"
                 },
                 {
                     "id": 1,
@@ -226,7 +226,7 @@
                 {
                     "id": 1,
                     "title": "Ich möchte helfen, die App in meine Sprache zu übersetzen!",
-                    "text": "Noice! Bitte kontaktiere mich über die Buttons unten 😊."
+                    "text": "Noice! Bitte kontaktiere mich über die Buttons unten 😊"
                 }
             ]
         }
