@@ -645,7 +645,7 @@ Apps, welche ich ebenfalls kontinuierlich verbessere, im AppStore veröffentlich
 // Start - the following strings can be found inside 'General Settings' on the web interface
 "settings_general_rulefiltering_explainer_title" = "Filter und hosts Dateien";
 "settings_general_rulefiltering_explainer_message" = "Du kannst in den 'Filter' Einstellungen Regeln für die Sperrung festlegen.";
-"settings_general_safebrowsing_explainer_title" = "AdGuard Webdienst für sicheres Surfen;
+"settings_general_safebrowsing_explainer_title" = "AdGuard Webdienst für sicheres Surfen";
 "settings_general_safebrowsing_explainer_message" = "AdGuard Home prüft, ob die Domain durch den Webdienst für Browsing-Sicherheit blockiert ist. Es verwendet die datenschutzfreundliche Lookup-API, um die Prüfung durchzuführen: nur ein kurzes Präfix des Domainnamens SHA256-Hash wird an den Server gesendet.";
 "settings_general_parentalfiltering_explainer_title" = "AdGuard Webdienst für elterliche Kontrolle";
 "settings_general_parentalfiltering_explainer_message" = "AdGuard Home prüft, ob eine Domain nicht jugendfreie Inhalte enthält. Es verwendet dieselbe datenschutzfreundliche Lookup-API wie der Webdienst für sicheres Surfen.";
