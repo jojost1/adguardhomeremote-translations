@@ -9,7 +9,7 @@
 // MARK: - Dashboard
 "dashboard_tabbar" = "Панель управління";
 "dashboard_protection" = "Захист";
-"dashboard_rule-filtering" = "Правила\nфильтрации";
+"dashboard_rule-filtering" = "Правила\nфільтрації";
 "dashboard_parental-filtering" = "Батьківський\nконтроль";
 "dashboard_safe-browsing" = "Безпека\nперегляду";
 "dashboard_safe-search" = "Безпечний\nпошук";
