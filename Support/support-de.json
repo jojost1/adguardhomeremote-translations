@@ -205,7 +205,7 @@
                 },
                 {
                     "id": 4,
-                    "title": "Ich verwende den Home Assistant. Wie richte ich die App ein?,
+                    "title": "Ich verwende den Home Assistant. Wie richte ich die App ein?",
                     "text": "In Home Assistant > Konfiguration > Add-ons, Backups & Supervisor > AdGuard Home > Konfiguration gibt es ein Feld für 'Netzwerk-Host'. Weise dort eine Port-Nummer für das Web-Interface zu und trage diese in die App ein."
                 },
                 {
