@@ -7,7 +7,7 @@
 */
 
 // MARK: - Dashboard
-"dashboard_tabbar" = "Мониторинг";
+"dashboard_tabbar" = "Панель управления";
 "dashboard_protection" = "Защита";
 "dashboard_rule-filtering" = "Правила\nфильтрации";
 "dashboard_parental-filtering" = "Родительский\nконтроль";
@@ -357,7 +357,7 @@
 "more_statistics_footer" = "Для изменения параметра сохранения статистики требуется перезапуск приложения.";
 "more_statistics_retention" = "Сохранять статистику";
 "more_statistics_clear" = "Очистка статистики";
-"more_statistics_clear_alert" = "Вы уверены, что хотите очистить статистику? Это приведет к обнулению всей статистики на панели мониторинга.";
+"more_statistics_clear_alert" = "Вы уверены, что хотите очистить статистику? Это приведет к обнулению всей статистики на панели управления.";
 "more_statistics_cleared" = "Очищено";
 "more_webinterface" = "Веб-интерфейс";
 "more_webinterface_username" = "Имя пользователя";
@@ -375,7 +375,7 @@
 
 // MARK: Preferences
 "settings_preferences" = "Персональные настройки";
-"settings_dashboard" = "Панель мониторинга";
+"settings_dashboard" = "Панель управления";
 "preferences_dashboard_statusbuttons" = "Кнопки статусов";
 "preferences_dashboard_protection" = "Защита";
 "preferences_dashboard_rulefiltering" = "Правила фильтрации";
@@ -611,8 +611,8 @@
 "90d" = "90 дней";
 
 // MARK: Widgets
-"widget_dashboard" = "Виджет панели мониторинга";
-"widget_dashboard_description" = "Просматривайте статистику своей панели мониторинга";
+"widget_dashboard" = "Виджет панели управления";
+"widget_dashboard_description" = "Просматривайте статистику своей панели управления";
 
 // MARK: Apple Watch
 "loading_instances_icloud" = "Загрузка ваших серверов из iCloud...";
