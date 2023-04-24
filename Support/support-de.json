@@ -191,7 +191,7 @@
                 {
                     "id": 1,
                     "title": "Warum werden die Daten nicht geladen, wenn ich nicht zu Hause bin?",
-                    "text": "Dein AdGuard Home ist wahrscheinlich nur von Deinem lokalen Netzwerk aus zugänglich (also wenn Du zu Hause sind). Die beste Möglichkeit, auf Dein AdGuard Home auch von außerhalb Deines Netzwerks zuzugreifen und ihn zu nutzen, ist die Verwendung eines VPN. Ich kann Dir [PiVPN] (https://pivpn.io) oder [Tailscale] (https://tailscale.com) empfehlen. Auf diese Weise kannst Du von überall aus sicher auf Dein AdGuard Home zugreifen!"
+                    "text": "Dein AdGuard Home ist wahrscheinlich nur von Deinem lokalen Netzwerk aus zugänglich (also wenn Du zu Hause bist). Die beste Möglichkeit, auf Dein AdGuard Home auch von außerhalb Deines Netzwerks zuzugreifen und ihn zu nutzen, ist die Verwendung eines VPN. Ich kann Dir [PiVPN] (https://pivpn.io) oder [Tailscale] (https://tailscale.com) empfehlen. Auf diese Weise kannst Du von überall aus sicher auf Dein AdGuard Home zugreifen!"
                 },
                 {
                     "id": 2,
@@ -221,7 +221,7 @@
             "items": [{
                     "id": 0,
                     "title": "Ich habe einen Vorschlag!",
-                    "text": "Ich würde gerne Deine Vorschläge hören! Viele der coolen Funktionen von AdGuard Home Remote gehen direkt auf das Feedback der Benutzer zurück. Bitte teile mir Deine Ideen über die unten stehenden Kontaktmöglichkeiten mit 😊"
+                    "text": "Ich würde gerne Deine Vorschläge hören! Viele der coolen Funktionen von AdGuard Home Remote gehen direkt auf das Feedback der Benutzerinnen und Benutzer zurück. Bitte teile mir Deine Ideen über die unten stehenden Kontaktmöglichkeiten mit 😊"
                 },
                 {
                     "id": 1,
