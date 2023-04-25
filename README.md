@@ -1,6 +1,9 @@
 # AdGuard Home Remote | Translations
 Repository tracking translations for AdGuard Home Remote
 
+## Priority
+Translations inside the App folder have the highest priority. After that, in order from most important to least important: InfoPlist, AppStoreDescription, Widgets, SiriShortcuts, Support.
+
 ## Adding a new language
 Please open an issue and I'll add the required files with prefilled EN translations. After that, you can create a pull request and commit translations.
 
