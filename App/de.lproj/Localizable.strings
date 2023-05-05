@@ -629,6 +629,7 @@ Apps, welche ich ebenfalls kontinuierlich verbessere, im AppStore veröffentlich
 "for_%lld_hour" = "Für %lld Stunde";
 "for_%lld_hours" = "Für %lld Stunden";
 "until_tomorrow" = "Bis morgen";
+"until_turned_back_on" = "Until turned back on";
 "dashboard_protection_enable" = "Schutz aktivieren";
 "dashboard_protection_enabled_in_%@" = "wird aktiviert in %@";
 "clients_edit_querylog_and_statistics" = "Query Log & Statistiken";

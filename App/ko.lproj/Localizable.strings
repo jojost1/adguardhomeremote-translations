@@ -628,6 +628,7 @@
 "for_%lld_hour" = "For %lld hour";
 "for_%lld_hours" = "For %lld hours";
 "until_tomorrow" = "Until tomorrow";
+"until_turned_back_on" = "Until turned back on";
 "dashboard_protection_enable" = "Enable protection";
 "dashboard_protection_enabled_in_%@" = "will be enabled in %@";
 "clients_edit_querylog_and_statistics" = "Query Log & Statistics";

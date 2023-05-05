@@ -630,6 +630,7 @@
 "for_%lld_hour" = "На %lld час";
 "for_%lld_hours" = "На %lld часов";
 "until_tomorrow" = "До завтра";
+"until_turned_back_on" = "Until turned back on";
 "dashboard_protection_enable" = "Включить защиту";
 "dashboard_protection_enabled_in_%@" = "будет включена через %@";
 "clients_edit_querylog_and_statistics" = "Журнал запросов и статистика";

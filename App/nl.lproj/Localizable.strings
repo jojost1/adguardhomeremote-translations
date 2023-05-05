@@ -628,6 +628,7 @@
 "for_%lld_hour" = "Voor %lld uur";
 "for_%lld_hours" = "Voor %lld uur";
 "until_tomorrow" = "Tot morgen";
+"until_turned_back_on" = "Tot weer aangezet";
 "dashboard_protection_enable" = "Zet bescherming aan";
 "dashboard_protection_enabled_in_%@" = "wordt ingeschakeld over %@";
 // Start - the following strings can be found inside 'Client Settings > Add Client' on the web interface
