@@ -158,6 +158,7 @@
 "clients_disallowed_placeholder" = "Entrez une plage IP, ID du client ou CIDR";
 "clients_disallowed_add_client" = "Ajouter aux clients non-autorisés";
 "clients_name" = "Nom du client";
+"clients_identifier" = "Identifiant";
 "clients_identifiers" = "Identifiants";
 "clients_identifiers_copy" = "Copier";
 "clients_identifiers_placeholder" = "IP, CIDR, adresse MAC, ID du client";

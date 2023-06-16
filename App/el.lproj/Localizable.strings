@@ -158,6 +158,7 @@
 "clients_disallowed_placeholder" = "Εισαγωγή IP ή εύρους CIDR";
 "clients_disallowed_add_client" = "Προσθήκη στους μη επιτρεπόμενους πελάτες";
 "clients_name" = "Όνομα πελάτη";
+"clients_identifier" = "Identifier";
 "clients_identifiers" = "Αναγνωριστικά";
 "clients_identifiers_copy" = "Αντιγραφή";
 "clients_identifiers_placeholder" = "IP, CIDR, MAC, ClientID";

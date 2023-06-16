@@ -158,6 +158,7 @@
 "clients_disallowed_placeholder" = "Typ een IP, ClientID of CIDR";
 "clients_disallowed_add_client" = "Voeg toe aan geblokkeerde cliënten";
 "clients_name" = "Cliënt Naam";
+"clients_identifier" = "ID";
 "clients_identifiers" = "Identificeer via";
 "clients_identifiers_copy" = "Kopieer";
 "clients_identifiers_placeholder" = "IP, CIDR, MAC, ClientID";
