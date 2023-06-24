@@ -614,8 +614,8 @@
 // MARK: Widgets
 "widget_dashboard" = "Віджет інформаційної панелі";
 "widget_dashboard_description" = "Перегляньте статистику своєї панелі управління";
-"widget_disable_buttons" = "Protection Widget";
-"widget_disable_buttons_description" = "Quickly toggle protection for a certain duration.";
+"widget_disable_buttons" = "Віджет керування захистом";
+"widget_disable_buttons_description" = "Швидке увімкнення захисту на певний час";
 "for_%lld_seconds_short" = "%lld секунд";
 "for_%lld_minute_short" = "%lld хвилину";
 "for_%lld_minutes_short" = "%lld хвилин";
