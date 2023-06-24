@@ -612,6 +612,13 @@
 // MARK: Widgets
 "widget_dashboard" = "Tauler de control";
 "widget_dashboard_description" = "Visualitza les estadístiques del teu AdGuard Home.";
+"widget_disable_buttons" = "Protection Widget";
+"widget_disable_buttons_description" = "Quickly toggle protection for a certain duration.";
+"for_%lld_seconds_short" = "%lld Sek";
+"for_%lld_minute_short" = "%lld Min";
+"for_%lld_minutes_short" = "%lld Min";
+"for_%lld_hour_short" = "%lld Stunde";
+"for_%lld_hours_short" = "%lld Stunden";
 
 // MARK: Apple Watch
 "loading_instances_icloud" = "Carregant instancies des de iCloud...";

@@ -612,6 +612,13 @@
 // MARK: Widgets
 "widget_dashboard" = "Dashboard Widget";
 "widget_dashboard_description" = "View your Dashboard statistics.";
+"widget_disable_buttons" = "Protection Widget";
+"widget_disable_buttons_description" = "Quickly toggle protection for a certain duration.";
+"for_%lld_seconds_short" = "%lld sec";
+"for_%lld_minute_short" = "%lld min";
+"for_%lld_minutes_short" = "%lld min";
+"for_%lld_hour_short" = "%lld hour";
+"for_%lld_hours_short" = "%lld hours";
 
 // MARK: Apple Watch
 "loading_instances_icloud" = "Loading instances from iCloud...";

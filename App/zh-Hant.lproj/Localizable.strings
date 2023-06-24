@@ -612,6 +612,13 @@
 // MARK: Widgets
 "widget_dashboard" = "儀表板小工具";
 "widget_dashboard_description" = "檢視您的儀表板統計資料。";
+"widget_disable_buttons" = "Protection Widget";
+"widget_disable_buttons_description" = "Quickly toggle protection for a certain duration.";
+"for_%lld_seconds_short" = "%lld sec";
+"for_%lld_minute_short" = "%lld min";
+"for_%lld_minutes_short" = "%lld min";
+"for_%lld_hour_short" = "%lld hour";
+"for_%lld_hours_short" = "%lld hours";
 
 // MARK: Apple Watch
 "loading_instances_icloud" = "正在從 iCloud 載入實例…";

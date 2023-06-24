@@ -158,7 +158,7 @@
 "clients_disallowed_placeholder" = "Введите IP, ID клиента или CIDR";
 "clients_disallowed_add_client" = "Добавить в запрещенные клиенты";
 "clients_name" = "Имя клиента";
-"clients_identifier" = "Identifier";
+"clients_identifier" = "Идентификатор";
 "clients_identifiers" = "Идентификаторы";
 "clients_identifiers_copy" = "Копировать";
 "clients_identifiers_placeholder" = "IP, CIDR, MAC, ID клиента";
@@ -614,6 +614,13 @@
 // MARK: Widgets
 "widget_dashboard" = "Виджет панели управления";
 "widget_dashboard_description" = "Просматривайте статистику своей панели управления";
+"widget_disable_buttons" = "Protection Widget";
+"widget_disable_buttons_description" = "Quickly toggle protection for a certain duration.";
+"for_%lld_seconds_short" = "%lld секунд";
+"for_%lld_minute_short" = "%lld минуту";
+"for_%lld_minutes_short" = "%lld минут";
+"for_%lld_hour_short" = "%lld час";
+"for_%lld_hours_short" = "%lld часов";
 
 // MARK: Apple Watch
 "loading_instances_icloud" = "Загрузка ваших серверов из iCloud...";
@@ -631,7 +638,7 @@
 "for_%lld_hour" = "На %lld час";
 "for_%lld_hours" = "На %lld часов";
 "until_tomorrow" = "До завтра";
-"until_turned_back_on" = "Until turned back on";
+"until_turned_back_on" = "Пока не включится снова";
 "dashboard_protection_enable" = "Включить защиту";
 "dashboard_protection_enabled_in_%@" = "будет включена через %@";
 "clients_edit_querylog_and_statistics" = "Журнал запросов и статистика";
