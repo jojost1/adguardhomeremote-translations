@@ -118,6 +118,7 @@
 "instance_ssl_label" = "http (default) yoksa https kullan?";
 "instance_ssl_http" = "http";
 "instance_ssl_https" = "https";
+"instance_connecting_to_%@" = "Connecting to: '%@'";
 "instance_authentication" = "Kimlik Doğrulama";
 "instance_authentication_username_placeholder" = "Kullanıcı Adı";
 "instance_authentication_password_placeholder" = "Şifre";

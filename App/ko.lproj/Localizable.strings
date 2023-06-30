@@ -118,6 +118,7 @@
 "instance_ssl_label" = "http(기본값) 또는 https를 사용하시겠습니까?";
 "instance_ssl_http" = "http";
 "instance_ssl_https" = "https";
+"instance_connecting_to_%@" = "Connecting to: '%@'";
 "instance_authentication" = "인증";
 "instance_authentication_username_placeholder" = "사용자 이름";
 "instance_authentication_password_placeholder" = "비밀번호";

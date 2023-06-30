@@ -118,6 +118,7 @@
 "instance_ssl_label" = "Gebruik http (standaard) of https?";
 "instance_ssl_http" = "http";
 "instance_ssl_https" = "https";
+"instance_connecting_to_%@" = "Hele hostname: '%@'";
 "instance_authentication" = "Authenticatie";
 "instance_authentication_username_placeholder" = "Gebruikersnaam";
 "instance_authentication_password_placeholder" = "Wachtwoord";

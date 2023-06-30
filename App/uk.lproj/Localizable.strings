@@ -118,6 +118,7 @@
 "instance_ssl_label" = "Використовувати http (за замовчуванням) або https?";
 "instance_ssl_http" = "http";
 "instance_ssl_https" = "https";
+"instance_connecting_to_%@" = "Connecting to: '%@'";
 "instance_authentication" = "Авторизація";
 "instance_authentication_username_placeholder" = "Ім'я користувача";
 "instance_authentication_password_placeholder" = "Пароль";

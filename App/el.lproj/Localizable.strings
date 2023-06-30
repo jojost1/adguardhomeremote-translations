@@ -118,6 +118,7 @@
 "instance_ssl_label" = "Χρήση http (προεπιλογή) ή https?";
 "instance_ssl_http" = "http";
 "instance_ssl_https" = "https";
+"instance_connecting_to_%@" = "Connecting to: '%@'";
 "instance_authentication" = "Έλεγχος ταυτότητας";
 "instance_authentication_username_placeholder" = "Όνομα χρήστη";
 "instance_authentication_password_placeholder" = "Κωδικός πρόσβασης";

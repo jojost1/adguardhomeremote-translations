@@ -118,6 +118,7 @@
 "instance_ssl_label" = "使用 http（預設）或 https？";
 "instance_ssl_http" = "http";
 "instance_ssl_https" = "https";
+"instance_connecting_to_%@" = "Connecting to: '%@'";
 "instance_authentication" = "驗證";
 "instance_authentication_username_placeholder" = "使用者名稱";
 "instance_authentication_password_placeholder" = "密碼";
