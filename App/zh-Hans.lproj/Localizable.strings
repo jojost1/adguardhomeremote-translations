@@ -334,6 +334,7 @@
 "dnsrewrites_entries" = "条目";
 "dnsrewrites_no_entries" = "未找到";
 "dnsrewrites_new" = "新建 DNS 重写";
+"dnsrewrites_edit" = "Edit DNS Rewrite";
 "dnsrewrites_domain" = "域名";
 "dnsrewrites_domain_placeholder" = "域名或通配符";
 "dnsrewrites_answer" = "应答";

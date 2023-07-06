@@ -334,6 +334,7 @@
 "dnsrewrites_entries" = "Καταχωρήσεις";
 "dnsrewrites_no_entries" = "Δεν βρέθηκαν καταχωρήσεις.";
 "dnsrewrites_new" = "Νέα επανεγγραφή DNS";
+"dnsrewrites_edit" = "Edit DNS Rewrite";
 "dnsrewrites_domain" = "Domain";
 "dnsrewrites_domain_placeholder" = "Domain ή μπαλαντέρ";
 "dnsrewrites_answer" = "Απάντηση";

@@ -334,6 +334,7 @@
 "dnsrewrites_entries" = "Voci";
 "dnsrewrites_no_entries" = "Nessuna voce trovata.";
 "dnsrewrites_new" = "Nuova riscrittura DNS";
+"dnsrewrites_edit" = "Edit DNS Rewrite";
 "dnsrewrites_domain" = "Dominio";
 "dnsrewrites_domain_placeholder" = "Dominio o wildcard";
 "dnsrewrites_answer" = "Risposta";

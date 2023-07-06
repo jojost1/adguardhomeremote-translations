@@ -334,6 +334,7 @@
 "dnsrewrites_entries" = "Substitucions DNS";
 "dnsrewrites_no_entries" = "No s'han trobat substitucions.";
 "dnsrewrites_new" = "Afegir substitució DNS";
+"dnsrewrites_edit" = "Edit DNS Rewrite";
 "dnsrewrites_domain" = "Domini";
 "dnsrewrites_domain_placeholder" = "Domini o comodí";
 "dnsrewrites_answer" = "Resposta";

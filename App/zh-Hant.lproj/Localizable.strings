@@ -334,6 +334,7 @@
 "dnsrewrites_entries" = "項目";
 "dnsrewrites_no_entries" = "無已發現之項目。";
 "dnsrewrites_new" = "新的 DNS 改寫";
+"dnsrewrites_edit" = "Edit DNS Rewrite";
 "dnsrewrites_domain" = "網域";
 "dnsrewrites_domain_placeholder" = "網域或萬用字元";
 "dnsrewrites_answer" = "回應";

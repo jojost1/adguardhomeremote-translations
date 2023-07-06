@@ -334,6 +334,7 @@
 "dnsrewrites_entries" = "Girişler";
 "dnsrewrites_no_entries" = "Giriş bulunmadı.";
 "dnsrewrites_new" = "Yeni DNS yeniden yaz";
+"dnsrewrites_edit" = "Edit DNS Rewrite";
 "dnsrewrites_domain" = "Alan";
 "dnsrewrites_domain_placeholder" = "Alan veya Joker Kart";
 "dnsrewrites_answer" = "Cevap ver";

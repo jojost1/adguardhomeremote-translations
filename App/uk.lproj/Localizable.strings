@@ -335,6 +335,7 @@
 "dnsrewrites_entries" = "Записи";
 "dnsrewrites_no_entries" = "Не знайдено правил перезапису.";
 "dnsrewrites_new" = "Створити правило";
+"dnsrewrites_edit" = "Edit DNS Rewrite";
 "dnsrewrites_domain" = "Домен";
 "dnsrewrites_domain_placeholder" = "Домен або Wildcard";
 "dnsrewrites_answer" = "Відповідь";

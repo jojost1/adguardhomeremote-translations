@@ -334,6 +334,7 @@
 "dnsrewrites_entries" = "DNS 변환 정보";
 "dnsrewrites_no_entries" = "항목을 찾을 수 없습니다.";
 "dnsrewrites_new" = "DNS 변환 정보 추가";
+"dnsrewrites_edit" = "Edit DNS Rewrite";
 "dnsrewrites_domain" = "도메인";
 "dnsrewrites_domain_placeholder" = "도메인 또는 와일드카드";
 "dnsrewrites_answer" = "응답";

@@ -334,6 +334,7 @@
 "dnsrewrites_entries" = "Reescrituras DNS";
 "dnsrewrites_no_entries" = "No se han encontrado reescrituras.";
 "dnsrewrites_new" = "Añadir reescritura DNS";
+"dnsrewrites_edit" = "Edit DNS Rewrite";
 "dnsrewrites_domain" = "Dominio";
 "dnsrewrites_domain_placeholder" = "Dominio o comodín";
 "dnsrewrites_answer" = "Respuesta";

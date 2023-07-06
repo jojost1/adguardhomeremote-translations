@@ -334,6 +334,7 @@
 "dnsrewrites_entries" = "Umschreibungen";
 "dnsrewrites_no_entries" = "Keine Umschreibungen gefunden.";
 "dnsrewrites_new" = "DNS-Umschreibung hinzufügen";
+"dnsrewrites_edit" = "Edit DNS Rewrite";
 "dnsrewrites_domain" = "Domain";
 "dnsrewrites_domain_placeholder" = "Domain oder Wildcard";
 "dnsrewrites_answer" = "Antwort";

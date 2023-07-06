@@ -334,6 +334,7 @@
 "dnsrewrites_entries" = "Herschrijvingen";
 "dnsrewrites_no_entries" = "Geen herschrijvingen gevonden.";
 "dnsrewrites_new" = "Nieuwe DNS Herschrijving";
+"dnsrewrites_edit" = "Bewerk DNS Herschrijving";
 "dnsrewrites_domain" = "Domein";
 "dnsrewrites_domain_placeholder" = "Domein of Wildcard";
 "dnsrewrites_answer" = "Antwoord";
