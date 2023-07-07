@@ -599,6 +599,8 @@
 "none_dot" = "Hiç.";
 "manage" = "Yönet";
 "tap_to_learn_more" = "Daha fazla öğrenmek için tıklayınız.";
+"sort" = "Sort";
+"sort_by" = "Sort by";
 
 // Durations
 "disabled" = "Etkisiz";

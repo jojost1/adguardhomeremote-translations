@@ -599,6 +599,8 @@
 "none_dot" = "Nessuno.";
 "manage" = "Imposta";
 "tap_to_learn_more" = "Fai tap per saperne di più.";
+"sort" = "Sort";
+"sort_by" = "Sort by";
 
 // Durations
 "disabled" = "Disabilitato";

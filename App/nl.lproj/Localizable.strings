@@ -599,6 +599,8 @@
 "none_dot" = "Geen.";
 "manage" = "Beheer";
 "tap_to_learn_more" = "Tik voor meer info.";
+"sort" = "Sorteer";
+"sort_by" = "Sorteer op";
 
 // Durations
 "disabled" = "Uitgeschakeld";

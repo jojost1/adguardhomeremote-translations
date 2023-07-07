@@ -599,6 +599,8 @@
 "none_dot" = "無。";
 "manage" = "管理";
 "tap_to_learn_more" = "輕觸以了解更多。";
+"sort" = "Sort";
+"sort_by" = "Sort by";
 
 // Durations
 "disabled" = "已禁用";

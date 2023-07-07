@@ -601,6 +601,8 @@
 "none_dot" = "Нічого немає";
 "manage" = "Керувати";
 "tap_to_learn_more" = "Натисніть, щоб дізнатися більше.";
+"sort" = "Sort";
+"sort_by" = "Sort by";
 
 // Durations
 "disabled" = "Вимкнений";

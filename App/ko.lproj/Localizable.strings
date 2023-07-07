@@ -599,6 +599,8 @@
 "none_dot" = "없음.";
 "manage" = "관리";
 "tap_to_learn_more" = "자세히 보려면 탭 하기";
+"sort" = "Sort";
+"sort_by" = "Sort by";
 
 // Durations
 "disabled" = "비활성됨";

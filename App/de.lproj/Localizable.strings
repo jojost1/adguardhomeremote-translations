@@ -600,6 +600,8 @@ Apps, welche ich ebenfalls kontinuierlich verbessere, im AppStore veröffentlich
 "none_dot" = "Es wurde nichts gefunden.";
 "manage" = "Bearbeiten";
 "tap_to_learn_more" = "Tippen um mehr zu erfahren.";
+"sort" = "Sortieren";
+"sort_by" = "Sortieren nach";
 
 // Durations
 "disabled" = "Aus";
