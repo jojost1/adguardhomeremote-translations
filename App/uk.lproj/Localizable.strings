@@ -118,7 +118,7 @@
 "instance_ssl_label" = "Використовувати http (за замовчуванням) або https?";
 "instance_ssl_http" = "http";
 "instance_ssl_https" = "https";
-"instance_connecting_to_%@" = "Connecting to: '%@'";
+"instance_connecting_to_%@" = "Підключення до: '%@'";
 "instance_authentication" = "Авторизація";
 "instance_authentication_username_placeholder" = "Ім'я користувача";
 "instance_authentication_password_placeholder" = "Пароль";
@@ -335,7 +335,7 @@
 "dnsrewrites_entries" = "Записи";
 "dnsrewrites_no_entries" = "Не знайдено правил перезапису.";
 "dnsrewrites_new" = "Створити правило";
-"dnsrewrites_edit" = "Edit DNS Rewrite";
+"dnsrewrites_edit" = "Змінити перезапис DNS";
 "dnsrewrites_domain" = "Домен";
 "dnsrewrites_domain_placeholder" = "Домен або Wildcard";
 "dnsrewrites_answer" = "Відповідь";
@@ -601,8 +601,8 @@
 "none_dot" = "Нічого немає";
 "manage" = "Керувати";
 "tap_to_learn_more" = "Натисніть, щоб дізнатися більше.";
-"sort" = "Sort";
-"sort_by" = "Sort by";
+"sort" = "Сортування";
+"sort_by" = "Сортувати за";
 
 // Durations
 "disabled" = "Вимкнений";
