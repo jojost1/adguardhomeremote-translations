@@ -118,7 +118,7 @@
 "instance_ssl_label" = "Использовать http (По умолчанию) или https?";
 "instance_ssl_http" = "http";
 "instance_ssl_https" = "https";
-"instance_connecting_to_%@" = "Connecting to: '%@'";
+"instance_connecting_to_%@" = "Подключение к: '%@'";
 "instance_authentication" = "Авторизация";
 "instance_authentication_username_placeholder" = "Имя пользователя";
 "instance_authentication_password_placeholder" = "Пароль";
@@ -335,7 +335,7 @@
 "dnsrewrites_entries" = "Записи";
 "dnsrewrites_no_entries" = "Не найдено правил перезаписи";
 "dnsrewrites_new" = "Создать правило";
-"dnsrewrites_edit" = "Edit DNS Rewrite";
+"dnsrewrites_edit" = "Изменить DNS перезапись";
 "dnsrewrites_domain" = "Домен";
 "dnsrewrites_domain_placeholder" = "Домен или Wildcard";
 "dnsrewrites_answer" = "Ответ";
@@ -601,8 +601,8 @@
 "none_dot" = "Ничего нет";
 "manage" = "Управлять";
 "tap_to_learn_more" = "Нажмите, чтобы узнать больше";
-"sort" = "Sort";
-"sort_by" = "Sort by";
+"sort" = "Сортировка";
+"sort_by" = "Сортировать по";
 
 // Durations
 "disabled" = "Выключено";
