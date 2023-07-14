@@ -619,7 +619,7 @@
 "widget_dashboard" = "Виджет панели управления";
 "widget_dashboard_description" = "Просматривайте статистику своей панели управления";
 "widget_disable_buttons" = "Виджет управления защитой";
-"widget_disable_buttons_description" = "Быстрое переключение защиты на определенное время";
+"widget_disable_buttons_description" = "Приостановка защиты на определенное время";
 "for_%lld_seconds_short" = "%lld секунд";
 "for_%lld_minute_short" = "%lld минуту";
 "for_%lld_minutes_short" = "%lld минут";
