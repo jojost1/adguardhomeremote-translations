@@ -118,7 +118,7 @@
 "instance_ssl_label" = "使用 http（預設）或 https？";
 "instance_ssl_http" = "http";
 "instance_ssl_https" = "https";
-"instance_connecting_to_%@" = "Connecting to: '%@'";
+"instance_connecting_to_%@" = "連線到：'%@'";
 "instance_authentication" = "驗證";
 "instance_authentication_username_placeholder" = "使用者名稱";
 "instance_authentication_password_placeholder" = "密碼";
@@ -133,7 +133,7 @@
 // MARK: Instance Settings
 "settings_add-instance" = "新增實例";
 "settings_edit-instance" = "編輯";
-"settings_general" = "General Settings";
+"settings_general" = "一般設定";
 "settings_clients" = "用戶端";
 "settings_filtering" = "過濾";
 "settings_dhcp" = "DHCP";
@@ -159,7 +159,7 @@
 "clients_disallowed_placeholder" = "輸入一組 IP 或無類別網域間路由（CIDR）範圍";
 "clients_disallowed_add_client" = "加至未被允許的用戶端";
 "clients_name" = "用戶端名稱";
-"clients_identifier" = "Identifier";
+"clients_identifier" = "識別碼";
 "clients_identifiers" = "識別碼";
 "clients_identifiers_copy" = "複製";
 "clients_identifiers_placeholder" = "IP、無類別網域間路由（CIDR）、媒體存取控制（MAC）、用戶端 ID";
@@ -224,7 +224,7 @@
 "filtering_rules_blocking_mode_unblock" = "解除封鎖";
 "filtering_rules_blocking_mode_custom" = "自訂的";
 "filtering_rules_final_rule" = "最終的規則";
-"filtering_rules_rule_placeholder" = "於此輸入一個網域…";
+"filtering_rules_rule_placeholder" = "於此輸入一個網域...";
 "filtering_rules_examples" = "實例";
 "filtering_rules_examples_block_title" = "||example.org^";
 "filtering_rules_examples_block_subtitle" = "封鎖 example.org 和所有它的子網域";
@@ -241,7 +241,7 @@
 "filtering_rules_examples_regex_subtitle" = "封鎖與該已明確指定的規則運算式（Regular Expression）相符的網域";
 // Check Hostname
 "filtering_check_hostname" = "檢查主機名稱";
-"filtering_check_hostname_placeholder" = "輸入主機名稱…";
+"filtering_check_hostname_placeholder" = "輸入主機名稱...";
 "filtering_check_hostname_check" = "檢查";
 "filtering_check_hostname_result" = "結果";
 "filtering_check_hostname_cname" = "正規名稱（CNAME）";
@@ -309,8 +309,8 @@
 "dns_server_configuration" = "DNS 伺服器配置";
 "dns_rate_limit" = "速率限制";
 "dns_edns_client_subnet" = "對於 DNS 的擴充機制（EDNS）用戶端子網路";
-"dns_edns_use_custom_ip" = "Use custom IP for EDNS";
-"dns_edns_use_custom_ip_placeholder" = "Enter IP";
+"dns_edns_use_custom_ip" = "允許為 EDNS 使用自訂的 IP";
+"dns_edns_use_custom_ip_placeholder" = "輸入 IP";
 "dns_dnssec" = "網域名稱系統安全性擴充功能（DNSSEC）";
 "dns_disable_ipv6" = "禁用 IPv6";
 "dns_blocking_mode" = "封鎖模式";
@@ -499,7 +499,7 @@
 "pro_features" = "Pro 功能";
 "pro_family_sharing" = "支援家庭共享";
 "pro_restore_purchase" = "回復購買";
-"pro_restore_purchase_footer" = "Use this if you've purchased Remote Pro before on a different device, or your Pro license doesn't show up after purchasing Remote Pro.";
+"pro_restore_purchase_footer" = "若您之前在其他裝置上購買了 Remote Pro，或在購買之後您的 Pro 授權並未正確顯示，請按一下這裡。";
 "pro_restored" = "Pro 已回復！";
 "pro_restore_failed" = "回復失敗";
 "pro_restore_nothing" = "無什麼要回復";
@@ -599,8 +599,8 @@
 "none_dot" = "無。";
 "manage" = "管理";
 "tap_to_learn_more" = "輕觸以了解更多。";
-"sort" = "Sort";
-"sort_by" = "Sort by";
+"sort" = "排序";
+"sort_by" = "排序依";
 
 // Durations
 "disabled" = "已禁用";
@@ -616,13 +616,13 @@
 // MARK: Widgets
 "widget_dashboard" = "儀表板小工具";
 "widget_dashboard_description" = "檢視您的儀表板統計資料。";
-"widget_disable_buttons" = "Protection Widget";
-"widget_disable_buttons_description" = "Quickly toggle protection for a certain duration.";
-"for_%lld_seconds_short" = "%lld sec";
-"for_%lld_minute_short" = "%lld min";
-"for_%lld_minutes_short" = "%lld min";
-"for_%lld_hour_short" = "%lld hour";
-"for_%lld_hours_short" = "%lld hours";
+"widget_disable_buttons" = "防護小工具";
+"widget_disable_buttons_description" = "在一定時間內快速切換防護。";
+"for_%lld_seconds_short" = "%lld 秒";
+"for_%lld_minute_short" = "%lld 分鐘";
+"for_%lld_minutes_short" = "%lld 分鐘";
+"for_%lld_hour_short" = "%lld 小時";
+"for_%lld_hours_short" = "%lld 小時";
 
 // MARK: Apple Watch
 "loading_instances_icloud" = "正在從 iCloud 載入實例…";
@@ -633,21 +633,21 @@
 "disable_protection" = "禁用防護";
 
 // MARK: v3.0
-"dashboard_protection_disable" = "Disable protection";
-"for_%lld_seconds" = "For %lld seconds";
-"for_%lld_minute" = "For %lld minute";
-"for_%lld_minutes" = "For %lld minutes";
-"for_%lld_hour" = "For %lld hour";
-"for_%lld_hours" = "For %lld hours";
-"until_tomorrow" = "Until tomorrow";
-"until_turned_back_on" = "Until turned back on";
-"dashboard_protection_enable" = "Enable protection";
-"dashboard_protection_enabled_in_%@" = "will be enabled in %@";
-"clients_edit_querylog_and_statistics" = "Query Log & Statistics";
-"clients_edit_ignore_querylog" = "Ignore this client in query log";
-"clients_edit_ignore_statistics" = "Ignore this client in statistics";
-"clients_visible_in_querylog" = "Visible in query log";
-"clients_visible_in_statistics" = "Visible in statistics";
+"dashboard_protection_disable" = "禁用防護";
+"for_%lld_seconds" = "%lld 秒";
+"for_%lld_minute" = "%lld 分鐘";
+"for_%lld_minutes" = "%lld 分鐘";
+"for_%lld_hour" = "%lld 小時";
+"for_%lld_hours" = "%lld 小時";
+"until_tomorrow" = "直到明天";
+"until_turned_back_on" = "直到再次啟用";
+"dashboard_protection_enable" = "啟用防護";
+"dashboard_protection_enabled_in_%@" = "將在 %@ 後啟用";
+"clients_edit_querylog_and_statistics" = "查詢日誌與統計資料";
+"clients_edit_ignore_querylog" = "查詢日誌中忽略本用戶端";
+"clients_edit_ignore_statistics" = "統計資料中忽略本用戶端";
+"clients_visible_in_querylog" = "查詢日誌中可見";
+"clients_visible_in_statistics" = "統計資料中可見";
 "safe_search_bing" = "Bing";
 "safe_search_duckduckgo" = "DuckDuckGo";
 "safe_search_google" = "Google";
@@ -655,12 +655,12 @@
 "safe_search_yandex" = "Yandex";
 "safe_search_youtube" = "YouTube";
 // Start - the following strings can be found inside 'General Settings' on the web interface
-"settings_general_rulefiltering_explainer_title" = "Filters and hosts files";
-"settings_general_rulefiltering_explainer_message" = "You can setup blocking rules in the 'Filters' settings.";
-"settings_general_safebrowsing_explainer_title" = "AdGuard browsing security web service";
-"settings_general_safebrowsing_explainer_message" = "AdGuard Home will check if the domain is blocked by the browsing security web service. It will use privacy-friendly lookup API to perform the check: only a short prefix of the domain name SHA256 hash is sent to the server.";
-"settings_general_parentalfiltering_explainer_title" = "AdGuard parental control web service";
-"settings_general_parentalfiltering_explainer_message" = "AdGuard Home will check if domain contains adult materials. It uses the same privacy-friendly API as the browsing security web service.";
-"settings_general_safesearch_explainer_title" = "Safe Search";
-"settings_general_safesearch_explainer_message" = "AdGuard Home will enforce safe search in several search engines.";
+"settings_general_rulefiltering_explainer_title" = "過濾器和 Hosts 檔案";
+"settings_general_rulefiltering_explainer_message" = "您可以在 '過濾器' 設定中加入過濾規則。";
+"settings_general_safebrowsing_explainer_title" = "AdGuard 瀏覽安全網路服務";
+"settings_general_safebrowsing_explainer_message" = "AdGuard Home 將檢查該網域是否被瀏覽安全網路服務封鎖。它將使用友好的隱私查找應用程式介面（API）以執行檢查：僅域名 SHA256 雜湊的短前綴被傳送到該伺服器。";
+"settings_general_parentalfiltering_explainer_title" = "AdGuard 家長控制之網路服務";
+"settings_general_parentalfiltering_explainer_message" = "AdGuard Home 將檢查網域是否包含成人資料。它使用如同瀏覽安全網路服務一樣之友好的隱私應用程式介面（API）。";
+"settings_general_safesearch_explainer_title" = "安全搜尋";
+"settings_general_safesearch_explainer_message" = "AdGuard Home 將在下列的搜尋引擎：Google、YouTube、Bing、DuckDuckGo、Yandex 和 Pixabay 中強制執行安全搜尋。";
 // End
