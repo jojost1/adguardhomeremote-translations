@@ -293,6 +293,7 @@
 // MARK: DNS
 "dns_settings" = "DNS 设置";
 "dns_upstream_dns_servers" = "上游 DNS 服务器";
+"dns_upstream_configured_in_%@" = "Configured in %@";
 "dns_ip" = "IP 地址";
 "dns_upstream_mode" = "上游服务器模式";
 "dns_upstream_mode_loadbalancing" = "负载均衡";

@@ -293,6 +293,7 @@
 // MARK: DNS
 "dns_settings" = "Налаштування DNS";
 "dns_upstream_dns_servers" = "Upstream DNS сервери";
+"dns_upstream_configured_in_%@" = "Configured in %@";
 "dns_ip" = "IP";
 "dns_upstream_mode" = "Режим DNS";
 "dns_upstream_mode_loadbalancing" = "Розподіл навантаження";

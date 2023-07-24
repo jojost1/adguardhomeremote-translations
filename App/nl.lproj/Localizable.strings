@@ -293,6 +293,7 @@
 // MARK: DNS
 "dns_settings" = "DNS Instellingen";
 "dns_upstream_dns_servers" = "Upstream DNS-servers";
+"dns_upstream_configured_in_%@" = "Configured in %@";
 "dns_ip" = "IP";
 "dns_upstream_mode" = "Upstream modus";
 "dns_upstream_mode_loadbalancing" = "Volume balanceren";

@@ -293,6 +293,7 @@
 // MARK: DNS
 "dns_settings" = "DNS Ayarları";
 "dns_upstream_dns_servers" = "DNS ağlarını yukarı akışla";
+"dns_upstream_configured_in_%@" = "Configured in %@";
 "dns_ip" = "IP";
 "dns_upstream_mode" = "Yukarı akış modu";
 "dns_upstream_mode_loadbalancing" = "Yükle-dengeleme";

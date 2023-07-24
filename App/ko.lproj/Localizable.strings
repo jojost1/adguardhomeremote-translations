@@ -293,6 +293,7 @@
 // MARK: DNS
 "dns_settings" = "DNS 설정";
 "dns_upstream_dns_servers" = "업스트림 DNS 서버";
+"dns_upstream_configured_in_%@" = "Configured in %@";
 "dns_ip" = "IP";
 "dns_upstream_mode" = "업스트림 모드";
 "dns_upstream_mode_loadbalancing" = "로드 밸런싱";

@@ -293,6 +293,7 @@
 // MARK: DNS
 "dns_settings" = "網域名稱系統（DNS）設定";
 "dns_upstream_dns_servers" = "上游的 DNS 伺服器";
+"dns_upstream_configured_in_%@" = "Configured in %@";
 "dns_ip" = "IP";
 "dns_upstream_mode" = "上游模式";
 "dns_upstream_mode_loadbalancing" = "負載平衡";
