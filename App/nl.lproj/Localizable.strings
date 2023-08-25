@@ -518,6 +518,7 @@
 "pro_manage_dhcp" = "Beheer DHCP instellingen";
 "pro_manage_dns" = "Beheer DNS instellingen";
 "pro_manage_rewrites" = "Beheer DNS herschrijvingen";
+"pro_unlock_interactive_widgets" = "Unlock interactive widgets";
 "pro_support_multiple_instances" = "Support 2+ instanties";
 "pro_alternative_icons" = "Alternatieve app iconen";
 "pro_beta_access" = "TestFlight beta toegang";
@@ -619,6 +620,10 @@
 "widget_dashboard_description" = "Bekijk statistieken van het Dashboard.";
 "widget_disable_buttons" = "Protection Widget";
 "widget_disable_buttons_description" = "Een snelle manier om bescherming uit te zetten voor een korte periode.";
+"widget_enable" = "Inschakelen";
+"widget_enabled" = "Ingeschakeld";
+"widget_disable" = "Uitschakelen";
+"widget_disabled" = "Uitgeschakeld";
 "for_%lld_seconds_short" = "%lld sec";
 "for_%lld_minute_short" = "%lld min";
 "for_%lld_minutes_short" = "%lld min";
@@ -629,9 +634,17 @@
 "loading_instances_icloud" = "Instanties ophalen uit iCloud...";
 "watch_stuck_reinstall" = "Dit kan even duren. Als de app vast zit op de spinner, probeer de app opnieuw te installeren. Sorry voor het ongemak!";
 
-// MARK: Home Screen Quick Actions
+// MARK: App Intents, Shortcuts, Siri
 "enable_protection" = "Bescherming aan";
 "disable_protection" = "Bescherming uit";
+"enable_protection_allinstances_description" = "Schakel bescherming in voor alle instanties.";
+"disable_protection_allinstances_description" = "Schakel bescherming uit voor alle instanties.";
+"disable_protection_duration_${duration}" = "Schakel uit voor ${duration} minuten";
+"toggle_protection" = "Bescherming Aanpassen";
+"toggle_protection_allinstances_description" = "Bescherming aanpassen voor alle instanties.";
+"appintents_state" = "Status";
+"appintents_duration" = "Duur";
+"appintents_duration_explainer" = "Geeft aan hoe lang bescherming uitgeschakeld wordt (in minuten). Zet op '0' om bescherming voor onbepaalde tijd uit te schakelen.";
 
 // MARK: v3.0
 "dashboard_protection_disable" = "Zet bescherming uit";

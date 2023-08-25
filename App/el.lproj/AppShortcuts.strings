@@ -1,0 +1,12 @@
+/* 
+  AppShortcuts.strings
+  AdGuardHome
+
+  Created by Joost van den Akker on 18/08/2023.
+  
+*/
+
+// MARK: Protection Intents
+"Enable protection in ${applicationName}" = "Enable protection in ${applicationName}";
+"Disable protection in ${applicationName}" = "Disable protection in ${applicationName}";
+"Disable protection for ${duration} minutes in ${applicationName}" = "Disable protection for ${duration} minutes in ${applicationName}";

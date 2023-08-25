@@ -520,6 +520,7 @@
 "pro_manage_dhcp" = "Управляйте настройками DHCP";
 "pro_manage_dns" = "Управляйте настройками DNS";
 "pro_manage_rewrites" = "Управляйте перезаписями DNS";
+"pro_unlock_interactive_widgets" = "Unlock interactive widgets";
 "pro_support_multiple_instances" = "Поддержка 2 и более серверов";
 "pro_alternative_icons" = "Альтернативные значки приложения";
 "pro_beta_access" = "Доступ к бета-версии TestFlight";
@@ -621,6 +622,10 @@
 "widget_dashboard_description" = "Просматривайте статистику своей панели управления";
 "widget_disable_buttons" = "Виджет управления защитой";
 "widget_disable_buttons_description" = "Приостанавливайте работу защиты на определенное время";
+"widget_enable" = "Enable";
+"widget_enabled" = "Enabled";
+"widget_disable" = "Disable";
+"widget_disabled" = "Disabled";
 "for_%lld_seconds_short" = "%lld секунд";
 "for_%lld_minute_short" = "%lld минуту";
 "for_%lld_minutes_short" = "%lld минут";
@@ -631,9 +636,17 @@
 "loading_instances_icloud" = "Загрузка ваших серверов из iCloud...";
 "watch_stuck_reinstall" = "Это может занять некоторое время. Если приложение зависло на этом экране, пожалуйста, попробуйте переустановить его. Приносим извинения за причиненные неудобства!";
 
-// MARK: Home Screen Quick Actions
+// MARK: App Intents, Shortcuts, Siri
 "enable_protection" = "Включить защиту";
 "disable_protection" = "Отключить защиту";
+"enable_protection_allinstances_description" = "Enable Protection for all instances.";
+"disable_protection_allinstances_description" = "Disable Protection for all instances.";
+"disable_protection_duration_${duration}" = "Disable for ${duration} minutes";
+"toggle_protection" = "Toggle Protection";
+"toggle_protection_allinstances_description" = "Toggle Protection for all instances.";
+"appintents_state" = "State";
+"appintents_duration" = "Duration";
+"appintents_duration_explainer" = "Specifies the duration to disable for, in minutes. Set to '0' to disable indefinitely.";
 
 // MARK: v3.0
 "dashboard_protection_disable" = "Отключить защиту";

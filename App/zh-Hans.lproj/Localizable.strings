@@ -518,6 +518,7 @@
 "pro_manage_dhcp" = "管理 DHCP 设置";
 "pro_manage_dns" = "管理 DNS 设置";
 "pro_manage_rewrites" = "管理 DNS 重写";
+"pro_unlock_interactive_widgets" = "Unlock interactive widgets";
 "pro_support_multiple_instances" = "支持 2 组以上的实例";
 "pro_alternative_icons" = "可选 App 图标";
 "pro_beta_access" = "使用 TestFlight Beta 版本";
@@ -619,6 +620,10 @@
 "widget_dashboard_description" = "查看您的仪表盘统计数据。";
 "widget_disable_buttons" = "Protection Widget";
 "widget_disable_buttons_description" = "Quickly toggle protection for a certain duration.";
+"widget_enable" = "Enable";
+"widget_enabled" = "Enabled";
+"widget_disable" = "Disable";
+"widget_disabled" = "Disabled";
 "for_%lld_seconds_short" = "%lld 秒";
 "for_%lld_minute_short" = "%lld 分钟";
 "for_%lld_minutes_short" = "%lld 分钟";
@@ -629,9 +634,17 @@
 "loading_instances_icloud" = "正在从 iCloud 读取实例...";
 "watch_stuck_reinstall" = "这可能需要一段时间。如果程序长时间卡在此旋转图标处，请尝试重新安装本程序。为此不便深表歉意！";
 
-// MARK: Home Screen Quick Actions
+// MARK: App Intents, Shortcuts, Siri
 "enable_protection" = "启用保护";
 "disable_protection" = "禁用保护";
+"enable_protection_allinstances_description" = "Enable Protection for all instances.";
+"disable_protection_allinstances_description" = "Disable Protection for all instances.";
+"disable_protection_duration_${duration}" = "Disable for ${duration} minutes";
+"toggle_protection" = "Toggle Protection";
+"toggle_protection_allinstances_description" = "Toggle Protection for all instances.";
+"appintents_state" = "State";
+"appintents_duration" = "Duration";
+"appintents_duration_explainer" = "Specifies the duration to disable for, in minutes. Set to '0' to disable indefinitely.";
 
 // MARK: v3.0
 "dashboard_protection_disable" = "禁用保护";
