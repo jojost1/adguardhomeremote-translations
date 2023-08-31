@@ -518,7 +518,8 @@
 "pro_manage_dhcp" = "Beheer DHCP instellingen";
 "pro_manage_dns" = "Beheer DNS instellingen";
 "pro_manage_rewrites" = "Beheer DNS herschrijvingen";
-"pro_unlock_interactive_widgets" = "Unlock interactive widgets";
+"pro_unlock_interactive_widgets" = "Ontgrendel interactive widgets";
+"pro_unlock_interactive_widgets_description" = "Interactive widgets werken zonder dat de app geopend hoeft te worden, vanuit je home screen & lock screen. Ze komen in verschillende vormen en maten!";
 "pro_support_multiple_instances" = "Support 2+ instanties";
 "pro_alternative_icons" = "Alternatieve app iconen";
 "pro_beta_access" = "TestFlight beta toegang";

@@ -519,6 +519,7 @@
 "pro_manage_dns" = "DNS 설정 관리";
 "pro_manage_rewrites" = "DNS 변경 관리";
 "pro_unlock_interactive_widgets" = "Unlock interactive widgets";
+"pro_unlock_interactive_widgets_description" = "Interactive widgets do not open the app, but work straignt from your home screen & lock screen. They come in different shapes and sizes!";
 "pro_support_multiple_instances" = "2개 이상의 인스턴스 지원";
 "pro_alternative_icons" = "변경 가능한 앱 아이콘";
 "pro_beta_access" = "TestFlight 베타 액세스";

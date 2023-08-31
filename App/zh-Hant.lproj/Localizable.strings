@@ -519,6 +519,7 @@
 "pro_manage_dns" = "管理 DNS 設定";
 "pro_manage_rewrites" = "管理 DNS 改寫";
 "pro_unlock_interactive_widgets" = "Unlock interactive widgets";
+"pro_unlock_interactive_widgets_description" = "Interactive widgets do not open the app, but work straignt from your home screen & lock screen. They come in different shapes and sizes!";
 "pro_support_multiple_instances" = "支援 2+ 實例";
 "pro_alternative_icons" = "替代的應用程式圖像";
 "pro_beta_access" = "TestFlight 測試版存取";

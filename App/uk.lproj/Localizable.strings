@@ -521,6 +521,7 @@
 "pro_manage_dns" = "Керуйте налаштуваннями DNS";
 "pro_manage_rewrites" = "Керуйте перезаписами DNS";
 "pro_unlock_interactive_widgets" = "Unlock interactive widgets";
+"pro_unlock_interactive_widgets_description" = "Interactive widgets do not open the app, but work straignt from your home screen & lock screen. They come in different shapes and sizes!";
 "pro_support_multiple_instances" = "Підтримка 2 і більше серверів";
 "pro_alternative_icons" = "Альтернативні піктограми програми";
 "pro_beta_access" = "Доступ до бета-версії TestFlight";
