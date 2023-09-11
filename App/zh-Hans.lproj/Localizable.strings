@@ -519,7 +519,7 @@
 "pro_manage_dns" = "管理 DNS 设置";
 "pro_manage_rewrites" = "管理 DNS 重写";
 "pro_unlock_interactive_widgets" = "Unlock interactive widgets";
-"pro_unlock_interactive_widgets_description" = "Interactive widgets do not open the app, but work straignt from your home screen & lock screen. They come in different shapes and sizes!";
+"pro_unlock_interactive_widgets_description" = "Interactive widgets do not open the app, but work straight from your home screen & lock screen. They come in different shapes and sizes!";
 "pro_support_multiple_instances" = "支持 2 组以上的实例";
 "pro_alternative_icons" = "可选 App 图标";
 "pro_beta_access" = "使用 TestFlight Beta 版本";

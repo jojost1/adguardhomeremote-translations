@@ -519,7 +519,7 @@
 "pro_manage_dns" = "Gestisci le impostazioni DNS";
 "pro_manage_rewrites" = "Gestisci le riscritture DNS";
 "pro_unlock_interactive_widgets" = "Unlock interactive widgets";
-"pro_unlock_interactive_widgets_description" = "Interactive widgets do not open the app, but work straignt from your home screen & lock screen. They come in different shapes and sizes!";
+"pro_unlock_interactive_widgets_description" = "Interactive widgets do not open the app, but work straight from your home screen & lock screen. They come in different shapes and sizes!";
 "pro_support_multiple_instances" = "Supporta più di 2 istanze";
 "pro_alternative_icons" = "Icone app alternative";
 "pro_beta_access" = "Accesso beta TestFlight";

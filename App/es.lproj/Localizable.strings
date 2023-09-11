@@ -519,7 +519,7 @@
 "pro_manage_dns" = "Gestionar los ajustes DNS";
 "pro_manage_rewrites" = "Gestionar las reescrituras DNS";
 "pro_unlock_interactive_widgets" = "Unlock interactive widgets";
-"pro_unlock_interactive_widgets_description" = "Interactive widgets do not open the app, but work straignt from your home screen & lock screen. They come in different shapes and sizes!";
+"pro_unlock_interactive_widgets_description" = "Interactive widgets do not open the app, but work straight from your home screen & lock screen. They come in different shapes and sizes!";
 "pro_support_multiple_instances" = "Gestionar múltiples instancias de AdGuard Home";
 "pro_alternative_icons" = "Iconos alternativos";
 "pro_beta_access" = "Acceso a la versión Beta en TestFlight";
