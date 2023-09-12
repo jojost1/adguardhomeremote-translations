@@ -404,6 +404,7 @@
 "preferences_dashboard_extra_confirmation" = "Pedir confirmación en los botones";
 "preferences_querylog_show_sidebar" = "Muestra el panel lateral";
 "preferences_other" = "Otros";
+"preferences_live_activity" = "Live Activity";
 "preferences_language" = "Idioma";
 "preferences_language_macos_alert" = "Cambiar de idioma";
 "preferences_language_macos_alert_body" = "Para cambiar el idioma de la aplicación en macOS, abre 'Preferencias del sistema > Idioma y Región > Aplicaciones' y añade la aplicación.";

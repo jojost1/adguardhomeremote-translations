@@ -404,6 +404,7 @@
 "preferences_dashboard_extra_confirmation" = "增加操作确认提示";
 "preferences_querylog_show_sidebar" = "显示侧边栏";
 "preferences_other" = "其他";
+"preferences_live_activity" = "Live Activity";
 "preferences_language" = "语言";
 "preferences_language_macos_alert" = "更改语言";
 "preferences_language_macos_alert_body" = "要在 macOS 上更改程序语言，请打开 '系统偏好设置 > 语言与地区 > App' 并添加本程序。";

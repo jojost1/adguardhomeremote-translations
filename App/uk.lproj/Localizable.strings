@@ -406,6 +406,7 @@
 "preferences_dashboard_extra_confirmation" = "Просити підтвердження для кнопок";
 "preferences_querylog_show_sidebar" = "Показувати бічну панель";
 "preferences_other" = "Інше";
+"preferences_live_activity" = "Live Activity";
 "preferences_language" = "Мова";
 "preferences_language_macos_alert" = "Змінити мову";
 "preferences_language_macos_alert_body" = "Щоб настроїти мову програми на macOS, перейдіть до 'Системні установки' > 'Мова та регіон' > 'Програми', додайте програму та виберіть мову.";

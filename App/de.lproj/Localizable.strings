@@ -404,6 +404,7 @@
 "preferences_dashboard_extra_confirmation" = "Bestätigungsmeldung für Buttons";
 "preferences_querylog_show_sidebar" = "Sidebar anzeigen";
 "preferences_other" = "Sonstiges";
+"preferences_live_activity" = "Live Activity";
 "preferences_language" = "Sprache (Language)";
 "preferences_language_macos_alert" = "Sprache wechseln";
 "preferences_language_macos_alert_body" = "Um die App-Sprache unter macOS zu ändern, öffne 'Systemeinstellungen > Sprache & Region > Apps' und füge die App dort hinzu.";

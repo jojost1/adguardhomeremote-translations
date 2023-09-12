@@ -404,6 +404,7 @@
 "preferences_dashboard_extra_confirmation" = "Düğmeler için onay uyarısı";
 "preferences_querylog_show_sidebar" = "Kenar çubuğunu göster";
 "preferences_other" = "Diğer";
+"preferences_live_activity" = "Live Activity";
 "preferences_language" = "Dil";
 "preferences_language_macos_alert" = "Dili değiştir";
 "preferences_language_macos_alert_body" = "Bir uygulamanın dilini macOS'te özelleştirmek için 'Sistem Tercihleri > Dil ve Bölge > Uygulamalar' a gidin, uygulamayı ekleyin ve oradan bir dil seçin.";

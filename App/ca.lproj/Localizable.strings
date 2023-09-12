@@ -404,6 +404,7 @@
 "preferences_dashboard_extra_confirmation" = "Demanar confirmació per els botons";
 "preferences_querylog_show_sidebar" = "Mostra el panell lateral";
 "preferences_other" = "Altres";
+"preferences_live_activity" = "Live Activity";
 "preferences_language" = "Idioma";
 "preferences_language_macos_alert" = "Canviar d'idioma";
 "preferences_language_macos_alert_body" = "Per a canviar l'idioma de l'aplicació a macOS, obre 'Preferencies del sistema > Idioma i regió > Aplicacions' i afegeix l'aplicació.";

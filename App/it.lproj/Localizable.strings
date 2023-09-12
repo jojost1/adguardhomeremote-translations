@@ -404,6 +404,7 @@
 "preferences_dashboard_extra_confirmation" = "Messaggio di conferma per i bottoni";
 "preferences_querylog_show_sidebar" = "Mostra barra laterale";
 "preferences_other" = "Altro";
+"preferences_live_activity" = "Live Activity";
 "preferences_language" = "Lingua";
 "preferences_language_macos_alert" = "Cambia lingua";
 "preferences_language_macos_alert_body" = "Per personalizzare la lingua dell'app su macOS, vai su 'Preferenze di sistema > Lingua e zona > Applicazioni' e seleziona l'app scegliendo la lingua desiderata.";

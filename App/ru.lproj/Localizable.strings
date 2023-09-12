@@ -406,6 +406,7 @@
 "preferences_dashboard_extra_confirmation" = "Просить подтверждения для кнопок";
 "preferences_querylog_show_sidebar" = "Показывать боковую панель";
 "preferences_other" = "Прочее";
+"preferences_live_activity" = "Live Activity";
 "preferences_language" = "Язык";
 "preferences_language_macos_alert" = "Сменить язык";
 "preferences_language_macos_alert_body" = "Чтобы настроить язык приложения на macOS, перейдите в 'Системные настройки' > 'Язык и регион' > 'Приложения', добавьте приложение и выберите там язык.";
