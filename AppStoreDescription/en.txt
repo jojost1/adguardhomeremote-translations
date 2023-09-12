@@ -9,6 +9,12 @@ View graphs of your queries as well as top clients and domains. Search through y
 *Manage Settings*
 Add or edit your clients, add some new filters or maybe disable them for a while, update your filters, edit blocked services, manage DHCP and DNS settings, create new DNS rules, or edit your Query Log settings.
 
+*Live Activity & Interactive Widgets*
+The Live Activity as well as extensive support for Home Screen & Lock Screen widgets make controlling your AdGuard Home nice and easy!
+
+*iPhone, iPad, Mac, Watch*
+Specifically crafted to be the best app on every platform.
+
 ==
 
 Features:
@@ -22,7 +28,8 @@ Features:
 - Manage DNS settings (requires Pro)
 - Manage DNS Rewrites (requires Pro)
 - Support for multiple instances (requires Pro)
-- Widgets
+- Interactive Widgets
+- Live Activity
 - Siri Shortcuts
 - iCloud sync between iPhone, iPad, and Apple Watch
 - Customisable color schemes and app icons
