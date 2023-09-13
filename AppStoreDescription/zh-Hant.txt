@@ -9,6 +9,12 @@ AdGuard Home Remote 使管理您的 AdGuard Home 快速且簡單。快速地啟�
 *管理設定*
 新增或編輯您的用戶端，新增某些新的過濾器或也許暫時禁用它們，更新您的過濾器，編輯已封鎖的服務，管理 DHCP 和 DNS 設定，創建新的 DNS 規則，或編輯您的查詢記錄設定。
 
+*實況活動 & 互動的小工具*
+實況活動還有對主畫面 & 鎖定螢幕小工具的廣泛支援使控制您的 AdGuard Home 美好和容易！
+
+*iPhone、iPad、Mac、Watch*
+專門地被製作為於每個平台上最好的應用程式。
+
 ==
 
 功能：
@@ -22,7 +28,8 @@ AdGuard Home Remote 使管理您的 AdGuard Home 快速且簡單。快速地啟�
 - 管理 DNS 設定（需要 Pro）
 - 管理 DNS 改寫（需要 Pro）
 - 對於多個實例的支援（需要 Pro）
-- 小工具
+- 互動的小工具
+- 實況活動
 - Siri 捷徑
 - 在 iPhone、iPad 和 Apple Watch 之間的 iCloud 同步
 - 自訂的色彩配置和應用程式圖像
