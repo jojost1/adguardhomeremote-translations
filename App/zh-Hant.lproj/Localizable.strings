@@ -404,7 +404,7 @@
 "preferences_dashboard_extra_confirmation" = "作為按鈕的確認警報";
 "preferences_querylog_show_sidebar" = "顯示側邊欄";
 "preferences_other" = "其它";
-"preferences_live_activity" = "Live Activity";
+"preferences_live_activity" = "實況活動";
 "preferences_language" = "語言";
 "preferences_language_macos_alert" = "變更語言";
 "preferences_language_macos_alert_body" = "為了於 macOS 上自訂應用程式的語言，前往'系統偏好設定 > 語言 & 區域 > 應用程式'，在那新增此應用程式並選擇一種語言。";
@@ -646,7 +646,7 @@
 "toggle_protection_allinstances_description" = "對所有實例切換防護。";
 "appintents_state" = "狀態";
 "appintents_duration" = "期間";
-"appintents_duration_explainer" = "指定禁用的期間，以分鐘數。設定為'0'可無限期地禁用。";
+"appintents_duration_explainer" = "指定禁用的期間，以分鐘數。設定為'0'以無限期地禁用。";
 
 // MARK: v3.0
 "dashboard_protection_disable" = "禁用防護";
