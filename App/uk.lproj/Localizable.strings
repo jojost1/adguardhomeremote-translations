@@ -406,7 +406,7 @@
 "preferences_dashboard_extra_confirmation" = "Просити підтвердження для кнопок";
 "preferences_querylog_show_sidebar" = "Показувати бічну панель";
 "preferences_other" = "Інше";
-"preferences_live_activity" = "Live Activity";
+"preferences_live_activity" = "Дії Наживо";
 "preferences_language" = "Мова";
 "preferences_language_macos_alert" = "Змінити мову";
 "preferences_language_macos_alert_body" = "Щоб настроїти мову програми на macOS, перейдіть до 'Системні установки' > 'Мова та регіон' > 'Програми', додайте програму та виберіть мову.";
@@ -521,21 +521,21 @@
 "pro_manage_dhcp" = "Керуйте налаштуваннями DHCP";
 "pro_manage_dns" = "Керуйте налаштуваннями DNS";
 "pro_manage_rewrites" = "Керуйте перезаписами DNS";
-"pro_unlock_interactive_widgets" = "Unlock interactive widgets";
-"pro_unlock_interactive_widgets_description" = "Interactive widgets do not open the app, but work straight from your home screen & lock screen. They come in different shapes and sizes!";
+"pro_unlock_interactive_widgets" = "Розблокуйте інтерактивні віджети";
+"pro_unlock_interactive_widgets_description" = "Інтерактивні віджети не відкривають застосунок, а працюють прямо з домашнього екрана та екрана блокування. Вони бувають різних форм і розмірів!";
 "pro_support_multiple_instances" = "Підтримка 2 і більше серверів";
 "pro_alternative_icons" = "Альтернативні піктограми програми";
 "pro_beta_access" = "Доступ до бета-версії TestFlight";
 
 // MARK: Purchase Flow
-"purchase_unknown_error" = "Невідома помилка. Будь ласка, зв'яжіться зі мною на адресу developer@rocketscience-it.nl.";
-"purchase_not_allowed" = "Not allowed to make the payment.";
-"purchase_invalid_id" = "The purchase identifier was invalid.";
-"purchase_not_allowed" = "The device is not allowed to make the payment.";
-"purchase_not_available" = "The product is not available in the current storefront.";
-"purchase_cloud_permission_denied" = "Access to cloud service information is not allowed.";
+"purchase_unknown_error" = "Невідома помилка. Будь ласка, зв'яжіться зі мною за адресою developer@rocketscience-it.nl.";
+"purchase_not_allowed" = "Не дозволено здійснювати оплату.";
+"purchase_invalid_id" = "Ідентифікатор покупки виявився недійсним.";
+"purchase_not_allowed" = "Пристрій не має права здійснювати платежі.";
+"purchase_not_available" = "Товар не доступний у вашому регіоні AppStore.";
+"purchase_cloud_permission_denied" = "Доступ до інформації хмарних сервісів не дозволено.";
 "purchase_connection_error" = "Не вдалося підключитися до мережі.";
-"purchase_cloud_permission_revoked" = "User has revoked permission to use this cloud service.";
+"purchase_cloud_permission_revoked" = "Користувач відкликав дозвіл на використання даного хмарного сервісу.";
 
 // MARK: RocketScience
 "settings_rocketscience" = "Розроблено RocketScience";
@@ -624,10 +624,10 @@
 "widget_dashboard_description" = "Перегляньте статистику своєї панелі управління";
 "widget_disable_buttons" = "Віджет керування захистом";
 "widget_disable_buttons_description" = "Зупиняйте роботу захисту на певний час";
-"widget_enable" = "Enable";
-"widget_enabled" = "Enabled";
-"widget_disable" = "Disable";
-"widget_disabled" = "Disabled";
+"widget_enable" = "Увімкнути";
+"widget_enabled" = "Увімкнено";
+"widget_disable" = "Вимкнути";
+"widget_disabled" = "Вимкнено";
 "for_%lld_seconds_short" = "%lld секунд";
 "for_%lld_minute_short" = "%lld хвилину";
 "for_%lld_minutes_short" = "%lld хвилин";
@@ -639,16 +639,16 @@
 "watch_stuck_reinstall" = "Це може зайняти деякий час. Якщо додаток зависло на цьому екрані, будь ласка, спробуйте перевстановити його. Приносимо вибачення за заподіяні незручності!";
 
 // MARK: App Intents, Shortcuts, Siri
-"enable_protection" = "Включити захист";
+"enable_protection" = "Увімкнути захист";
 "disable_protection" = "Вимкнути захист";
-"enable_protection_allinstances_description" = "Enable Protection for all instances.";
-"disable_protection_allinstances_description" = "Disable Protection for all instances.";
-"disable_protection_duration_${duration}" = "Disable for ${duration} minutes";
-"toggle_protection" = "Toggle Protection";
-"toggle_protection_allinstances_description" = "Toggle Protection for all instances.";
-"appintents_state" = "State";
-"appintents_duration" = "Duration";
-"appintents_duration_explainer" = "Specifies the duration to disable for, in minutes. Set to '0' to disable indefinitely.";
+"enable_protection_allinstances_description" = "Увімкнути захист для всіх серверів";
+"disable_protection_allinstances_description" = "Вимкнути захист для всіх серверів";
+"disable_protection_duration_${duration}" = "Вимкнути на ${duration} хвилин";
+"toggle_protection" = "Перемкнути захист";
+"toggle_protection_allinstances_description" = "Перемкнути захист для всіх серверів";
+"appintents_state" = "Стан";
+"appintents_duration" = "Тривалість";
+"appintents_duration_explainer" = "Вказується тривалість вимкнення в хвилинах. Встановіть значення '0' для вимкнення на невизначений термін.";
 
 // MARK: v3.0
 "dashboard_protection_disable" = "Вимкнути захист";
