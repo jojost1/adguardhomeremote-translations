@@ -7,6 +7,6 @@
 */
 
 // MARK: Protection Intents
-"Enable protection in ${applicationName}" = "Enable protection in ${applicationName}";
-"Disable protection in ${applicationName}" = "Disable protection in ${applicationName}";
-"Disable protection for ${duration} minutes in ${applicationName}" = "Disable protection for ${duration} minutes in ${applicationName}";
+"Enable protection in ${applicationName}" = "Увімкнути захист у ${applicationName}";
+"Disable protection in ${applicationName}" = "Вимкнути захист у ${applicationName}";
+"Disable protection for ${duration} minutes in ${applicationName}" = "Вимкнути захист на ${тривалість} хвилин у ${applicationName}";
