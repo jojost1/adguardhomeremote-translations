@@ -7,6 +7,6 @@
 */
 
 // MARK: Protection Intents
-"Enable protection in ${applicationName}" = "Enable protection in ${applicationName}";
-"Disable protection in ${applicationName}" = "Disable protection in ${applicationName}";
-"Disable protection for ${duration} minutes in ${applicationName}" = "Disable protection for ${duration} minutes in ${applicationName}";
+"在 ${applicationName} 里启用保护" = "在 ${applicationName} 里启用保护";
+"在 ${applicationName} 里禁用保护" = "在 ${applicationName} 里禁用保护";
+"在 ${applicationName} 里禁用保护 ${duration} 分钟" = "在 ${applicationName} 里禁用保护 ${duration} 分钟";
