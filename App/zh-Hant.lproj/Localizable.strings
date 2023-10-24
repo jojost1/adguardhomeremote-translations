@@ -680,3 +680,10 @@
 "settings_general_safesearch_explainer_title" = "安全搜尋";
 "settings_general_safesearch_explainer_message" = "AdGuard Home 將在幾款搜尋引擎中強制執行安全搜尋。";
 // End
+
+// MARK: v4.1
+"dns_fallback_dns_servers" = "Fallback DNS servers";
+"dns_fallback_dns_servers_footer" = "List of fallback DNS servers used when upstream DNS servers are not responding.";
+"dns_blocked_response_ttl" = "Blocked response TTL";
+"dns_blocked_response_ttl_explainer" = "Specifies for how many seconds the clients should cache a filtered response";
+"querydetail_check_again" = "Check again";

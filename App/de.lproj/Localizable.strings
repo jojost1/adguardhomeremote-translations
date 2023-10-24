@@ -681,3 +681,10 @@ Apps, welche ich ebenfalls kontinuierlich verbessere, im AppStore veröffentlich
 "settings_general_safesearch_explainer_title" = "Sichere Suche";
 "settings_general_safesearch_explainer_message" = "AdGuard Home erzwingt eine sichere Suche in verschiedenen Suchmaschinen.";
 // End
+
+// MARK: v4.1
+"dns_fallback_dns_servers" = "Fallback DNS servers";
+"dns_fallback_dns_servers_footer" = "List of fallback DNS servers used when upstream DNS servers are not responding.";
+"dns_blocked_response_ttl" = "Blocked response TTL";
+"dns_blocked_response_ttl_explainer" = "Specifies for how many seconds the clients should cache a filtered response";
+"querydetail_check_again" = "Check again";
