@@ -682,8 +682,8 @@
 // End
 
 // MARK: v4.1
-"dns_fallback_dns_servers" = "Fallback DNS servers";
-"dns_fallback_dns_servers_footer" = "List of fallback DNS servers used when upstream DNS servers are not responding.";
-"dns_blocked_response_ttl" = "Blocked response TTL";
-"dns_blocked_response_ttl_explainer" = "Specifies for how many seconds the clients should cache a filtered response";
-"querydetail_check_again" = "Check again";
+"dns_fallback_dns_servers" = "應變 DNS 伺服器";
+"dns_fallback_dns_servers_footer" = "當上游 DNS 伺服器未回覆時被使用的應變 DNS 伺服器之清單。";
+"dns_blocked_response_ttl" = "已封鎖的回應之存活時間";
+"dns_blocked_response_ttl_explainer" = "對用戶端應快取受過濾的回應，指定多少秒數";
+"querydetail_check_again" = "再次檢查";
