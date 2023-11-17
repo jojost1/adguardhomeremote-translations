@@ -269,6 +269,7 @@
 "dhcp_ipv6_settings_unsupported" = "接口不支持 IPv6。";
 "dhcp_range_start" = "起始 IP 地址";
 "dhcp_static_leases" = "静态租约";
+"dhcp_edit_lease" = "Edit Lease";
 "dhcp_remove_lease" = "删除租约";
 "dhcp_leases" = "租约";
 "dhcp_lease_create" = "添加静态租约";
@@ -281,8 +282,9 @@
 "dhcp_reset_dhcp_config_footer" = "重置所有 DHCP 设置。";
 "dhcp_reset_dhcp_config_alert_body" = "您确定要重置 DHCP 设定吗？";
 "dhcp_pro_required" = "需要 Remote Pro 来管理 DHCP 设置";
-// New Static Lease
+// Static Leases
 "dhcp_staticlease_new" = "新建静态租约";
+"dhcp_staticlease_edit" = "Edit Static Lease";
 "dhcp_staticlease_mac" = "MAC 地址";
 "dhcp_staticlease_mac_placeholder" = "aa:0b:cd:e1:f2:34";
 "dhcp_staticlease_ip" = "IP 地址";
@@ -309,6 +311,7 @@
 "dns_reverse_resolve_help" = "通过发送 PTR 查询到对应的解析器 (本地客户端的私人 DNS 服务器，公共 IP 客户端的上游服务器) 将 IP 地址反向解析成其客户端主机名。";
 "dns_server_configuration" = "DNS 服务设定";
 "dns_rate_limit" = "速度限制";
+"dns_rate_limit_explainer" = "The number of requests per second allowed per client. Setting it to 0 means no limit.";
 "dns_edns_client_subnet" = "启用 EDNS 客户端子网";
 "dns_edns_use_custom_ip" = "为 EDNS 使用自定义 IP";
 "dns_edns_use_custom_ip_placeholder" = "输入 IP";

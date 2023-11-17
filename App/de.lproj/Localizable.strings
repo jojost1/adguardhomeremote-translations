@@ -268,7 +268,8 @@
 "dhcp_ipv6_settings" = "IPv6-Einstellungen";
 "dhcp_ipv6_settings_unsupported" = "Dieses Interface unterstützt kein IPv6.";
 "dhcp_range_start" = "Bereich von IP-Adressen";
-"dhcp_static_leases" = "statische Zuweisung";
+"dhcp_static_leases" = "Statische Zuweisung";
+"dhcp_edit_lease" = "Lease bearbeiten";
 "dhcp_remove_lease" = "Lease entfernen";
 "dhcp_leases" = "Zuweisungen";
 "dhcp_lease_create" = "statische Lease hinzufügen";
@@ -281,8 +282,9 @@
 "dhcp_reset_dhcp_config_footer" = "Setzt alle DHCP-Einstellungen zurück.";
 "dhcp_reset_dhcp_config_alert_body" = "Bist Du Dir sicher, dass Du die DHCP-Einstellungen zurücksetzen willst?";
 "dhcp_pro_required" = "Remote Pro ist erforderlich, um die DHCP-Einstellungen zu verwalten.";
-// New Static Lease
+// Static Leases
 "dhcp_staticlease_new" = "Statischen Lease hinzufügen";
+"dhcp_staticlease_edit" = "Statischen Lease bearbeiten";
 "dhcp_staticlease_mac" = "MAC";
 "dhcp_staticlease_mac_placeholder" = "aa:0b:cd:e1:f2:34";
 "dhcp_staticlease_ip" = "IP";
@@ -309,6 +311,7 @@
 "dns_reverse_resolve_help" = "Löse die IP-Adressen der Clients umgekehrt in ihre Hostnamen auf, indem Du PTR-Anfragen an entsprechende Resolver sendest (private DNS-Server für lokale Clients, Upstream-Server für Clients mit öffentlichen IP-Adressen).";
 "dns_server_configuration" = "DNS-Serverkonfiguration";
 "dns_rate_limit" = "Begrenzungswert";
+"dns_rate_limit_explainer" = "Die Anzahl der Anfragen pro Sekunde, die ein einzelner Client stellen darf. Das Setzen auf 0 bedeutet keine Begrenzung.";
 "dns_edns_client_subnet" = "EDNS Client Subnetz aktivieren";
 "dns_edns_use_custom_ip" = "Benutzerdefinierte IP für EDNS verwenden";
 "dns_edns_use_custom_ip_placeholder" = "IP-Adresse eingeben";
@@ -335,7 +338,7 @@
 "dnsrewrites_entries" = "Umschreibungen";
 "dnsrewrites_no_entries" = "Keine Umschreibungen gefunden.";
 "dnsrewrites_new" = "DNS-Umschreibung hinzufügen";
-"dnsrewrites_edit" = "Edit DNS Rewrite";
+"dnsrewrites_edit" = "DNS-Umschreibung bearbeiten";
 "dnsrewrites_domain" = "Domain";
 "dnsrewrites_domain_placeholder" = "Domain oder Wildcard";
 "dnsrewrites_answer" = "Antwort";

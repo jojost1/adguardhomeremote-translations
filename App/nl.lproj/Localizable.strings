@@ -269,6 +269,7 @@
 "dhcp_ipv6_settings_unsupported" = "Interface ondersteunt geen IPv6.";
 "dhcp_range_start" = "Range start";
 "dhcp_static_leases" = "Statische Leases";
+"dhcp_edit_lease" = "Bewerk lease";
 "dhcp_remove_lease" = "Verwijder lease";
 "dhcp_leases" = "Leases";
 "dhcp_lease_create" = "Nieuwe Lease";
@@ -281,8 +282,9 @@
 "dhcp_reset_dhcp_config_footer" = "Reset alle DHCP instellingen.";
 "dhcp_reset_dhcp_config_alert_body" = "Weet je zeker dat je de DHCP configuratie wilt resetten?";
 "dhcp_pro_required" = "Remote Pro is vereist om DHCP instellingen te beheren.";
-// New Static Lease
-"dhcp_staticlease_new" = "Nieuwe Statische Lease";
+// Static Leases
+"dhcp_staticlease_new" = "Nieuwe statische lease";
+"dhcp_staticlease_edit" = "Bewerk statische lease";
 "dhcp_staticlease_mac" = "MAC-adres";
 "dhcp_staticlease_mac_placeholder" = "aa:0b:cd:e1:f2:34";
 "dhcp_staticlease_ip" = "IP-adres";
@@ -309,6 +311,7 @@
 "dns_reverse_resolve_help" = "Indien ingeschakeld, zal AdGuard Home proberen om IP-adressen van apparaten te converteren in hun hostnamen door PTR-verzoeken te sturen naar overeenkomstige resolvers (privé-DNS-servers voor lokale apparaten, upstream-server voor apparaten met een openbaar IP-adres).";
 "dns_server_configuration" = "DNS-server configuratie";
 "dns_rate_limit" = "Ratio limiet";
+"dns_rate_limit_explainer" = "Het aantal verzoeken per seconde toegelaten per toestel. 0 betekent onbeperkt.";
 "dns_edns_client_subnet" = "EDNS client subnet";
 "dns_edns_use_custom_ip" = "Aangepast IP-adres gebruiken voor EDNS";
 "dns_edns_use_custom_ip_placeholder" = "Vul IP in";

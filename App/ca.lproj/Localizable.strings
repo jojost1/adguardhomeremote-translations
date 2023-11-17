@@ -269,6 +269,7 @@
 "dhcp_ipv6_settings_unsupported" = "La interfície no suporta IPv6.";
 "dhcp_range_start" = "Inici del rang";
 "dhcp_static_leases" = "Assignacions estàtiques";
+"dhcp_edit_lease" = "Edit Lease";
 "dhcp_remove_lease" = "Esborrar";
 "dhcp_leases" = "Assignacions";
 "dhcp_lease_create" = "Afegir assignació estàtica";
@@ -281,8 +282,9 @@
 "dhcp_reset_dhcp_config_footer" = "Restableix els paràmetres del servei DHCP.";
 "dhcp_reset_dhcp_config_alert_body" = "Estàs segur de que vols restablir la configuració del servei DHCP?";
 "dhcp_pro_required" = "Es necessari actualitzar a Remote Pro per a gestionar els ajustos del servei DHCP";
-// New Static Lease
+// Static Leases
 "dhcp_staticlease_new" = "Nova assignació estàtica";
+"dhcp_staticlease_edit" = "Edit Static Lease";
 "dhcp_staticlease_mac" = "Adreça MAC";
 "dhcp_staticlease_mac_placeholder" = "aa:0b:cd:e1:f2:34";
 "dhcp_staticlease_ip" = "Adreça IP";
@@ -309,6 +311,7 @@
 "dns_reverse_resolve_help" = "Resoldre les direccions IP dels clients als seus noms de host enviant consultes PTR als servidors DNS (privats per a clients locals, públics per a adreces públiques).";
 "dns_server_configuration" = "Configuració del servidor DNS de AdGuard";
 "dns_rate_limit" = "Límit de peticions per segon";
+"dns_rate_limit_explainer" = "The number of requests per second allowed per client. Setting it to 0 means no limit.";
 "dns_edns_client_subnet" = "Subxarxa de client EDNS";
 "dns_edns_use_custom_ip" = "Use custom IP for EDNS";
 "dns_edns_use_custom_ip_placeholder" = "Enter IP";

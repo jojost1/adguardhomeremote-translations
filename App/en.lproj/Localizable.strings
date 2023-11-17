@@ -269,6 +269,7 @@
 "dhcp_ipv6_settings_unsupported" = "Interface does not support IPv6.";
 "dhcp_range_start" = "Range Start";
 "dhcp_static_leases" = "Static Leases";
+"dhcp_edit_lease" = "Edit Lease";
 "dhcp_remove_lease" = "Remove Lease";
 "dhcp_leases" = "Leases";
 "dhcp_lease_create" = "Create Static Lease";
@@ -281,8 +282,9 @@
 "dhcp_reset_dhcp_config_footer" = "Resets all DHCP settings.";
 "dhcp_reset_dhcp_config_alert_body" = "Are you sure you want to reset the DHCP configuration?";
 "dhcp_pro_required" = "Remote Pro is required to manage DHCP settings.";
-// New Static Lease
+// Static Leases
 "dhcp_staticlease_new" = "New Static Lease";
+"dhcp_staticlease_edit" = "Edit Static Lease";
 "dhcp_staticlease_mac" = "MAC address";
 "dhcp_staticlease_mac_placeholder" = "aa:0b:cd:e1:f2:34";
 "dhcp_staticlease_ip" = "IP address";
@@ -309,6 +311,7 @@
 "dns_reverse_resolve_help" = "Reversely resolve clients' IP addresses into their hostnames by sending PTR queries to corresponding resolvers (private DNS servers for local clients, upstream servers for clients with public IP addresses).";
 "dns_server_configuration" = "DNS server configuration";
 "dns_rate_limit" = "Rate limit";
+"dns_rate_limit_explainer" = "The number of requests per second allowed per client. Setting it to 0 means no limit.";
 "dns_edns_client_subnet" = "EDNS client subnet";
 "dns_edns_use_custom_ip" = "Use custom IP for EDNS";
 "dns_edns_use_custom_ip_placeholder" = "Enter IP";

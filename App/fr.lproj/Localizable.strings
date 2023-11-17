@@ -269,6 +269,7 @@
 "dhcp_ipv6_settings_unsupported" = "Interface does not support IPv6.";
 "dhcp_range_start" = "Début de la plage";
 "dhcp_static_leases" = "Baux statiques DHCP";
+"dhcp_edit_lease" = "Modifier le bail";
 "dhcp_remove_lease" = "Supprimer le bail";
 "dhcp_leases" = "Baux";
 "dhcp_lease_create" = "Créer un bail statique";
@@ -281,8 +282,9 @@
 "dhcp_reset_dhcp_config_footer" = "Resets all DHCP settings.";
 "dhcp_reset_dhcp_config_alert_body" = "Are you sure you want to reset the DHCP configuration?";
 "dhcp_pro_required" = "Remote Pro est requis pour gérer les paramètres DHCP.";
-// New Static Lease
+// Static Leases
 "dhcp_staticlease_new" = "Nouveau bail statique";
+"dhcp_staticlease_edit" = "Modifier bail statique";
 "dhcp_staticlease_mac" = "Adresse MAC";
 "dhcp_staticlease_mac_placeholder" = "aa:0b:cd:e1:f2:34";
 "dhcp_staticlease_ip" = "Adresse IP";
@@ -309,6 +311,7 @@
 "dns_reverse_resolve_help" = "Résoudre inversement les adresses IP des clients en leurs noms d'hôtes en envoyant des requêtes PTR aux résolveurs correspondants (serveurs DNS privés pour les clients locaux, serveurs en amont pour les clients ayant une adresse IP publique).";
 "dns_server_configuration" = "Configuration du serveur DNS";
 "dns_rate_limit" = "Limite de taux";
+"dns_rate_limit_explainer" = "Le nombre de requêtes par seconde qu’un seul client est autorisé à faire. Le réglage 0 fait illimité.";
 "dns_edns_client_subnet" = "Sous-réseau du client EDNS";
 "dns_edns_use_custom_ip" = "Use custom IP for EDNS";
 "dns_edns_use_custom_ip_placeholder" = "Enter IP";
@@ -335,7 +338,7 @@
 "dnsrewrites_entries" = "Entrées";
 "dnsrewrites_no_entries" = "Aucune entrée trouvée.";
 "dnsrewrites_new" = "Ajouter une réécriture DNS";
-"dnsrewrites_edit" = "Edit DNS Rewrite";
+"dnsrewrites_edit" = "Modifier DNS Rewrite";
 "dnsrewrites_domain" = "Domaine";
 "dnsrewrites_domain_placeholder" = "Domaine ou caractère générique";
 "dnsrewrites_answer" = "Réponse";

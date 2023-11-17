@@ -269,6 +269,7 @@
 "dhcp_ipv6_settings_unsupported" = "La interfaz no soporta IPv6.";
 "dhcp_range_start" = "Inicio del rango";
 "dhcp_static_leases" = "Asignaciones estáticas";
+"dhcp_edit_lease" = "Edit Lease";
 "dhcp_remove_lease" = "Eliminar";
 "dhcp_leases" = "Asignaciones";
 "dhcp_lease_create" = "Añadir asignación estática";
@@ -281,8 +282,9 @@
 "dhcp_reset_dhcp_config_footer" = "Restablece todos los parámetros del servidor DHCP";
 "dhcp_reset_dhcp_config_alert_body" = "¿Estás seguro de que quieres restablecer la configuraciónd el servidor DHCP";
 "dhcp_pro_required" = "Es necesario actualizar a Remote Pro para gestionar los ajustes del servidor DHCP";
-// New Static Lease
+// Static Leases
 "dhcp_staticlease_new" = "Nueva asignación estática";
+"dhcp_staticlease_edit" = "Edit Static Lease";
 "dhcp_staticlease_mac" = "Dirección MAC";
 "dhcp_staticlease_mac_placeholder" = "aa:0b:cd:e1:f2:34";
 "dhcp_staticlease_ip" = "Dirección IP";
@@ -309,6 +311,7 @@
 "dns_reverse_resolve_help" = "Resolver las direcciones IP de los clientes a sus nombres de hosts enviando consultas PTR a los servidores DNS (DNS privados para clientes locales, DNS públicos para clientes con direcciones IP públicas).";
 "dns_server_configuration" = "Configuración del servidor DNS de AdGuard";
 "dns_rate_limit" = "Límite de peticiones por segundo";
+"dns_rate_limit_explainer" = "The number of requests per second allowed per client. Setting it to 0 means no limit.";
 "dns_edns_client_subnet" = "Subred de cliente EDNS";
 "dns_edns_use_custom_ip" = "Use custom IP for EDNS";
 "dns_edns_use_custom_ip_placeholder" = "Enter IP";

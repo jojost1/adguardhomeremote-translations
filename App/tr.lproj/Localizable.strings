@@ -269,6 +269,7 @@
 "dhcp_ipv6_settings_unsupported" = "Interface does not support IPv6.";
 "dhcp_range_start" = "Menzil başlat";
 "dhcp_static_leases" = "Statik kiralamalar";
+"dhcp_edit_lease" = "Edit Lease";
 "dhcp_remove_lease" = "Kiralamayı kaldır";
 "dhcp_leases" = "Kiralamalar";
 "dhcp_lease_create" = "Statik kiralama oluştur";
@@ -281,8 +282,9 @@
 "dhcp_reset_dhcp_config_footer" = "Resets all DHCP settings.";
 "dhcp_reset_dhcp_config_alert_body" = "Are you sure you want to reset the DHCP configuration?";
 "dhcp_pro_required" = "DHCP ayarlarını yönetmek için RemotePro gerekmektedir.";
-// New Static Lease
+// Static Leases
 "dhcp_staticlease_new" = "Yeni Statik Kiralama";
+"dhcp_staticlease_edit" = "Edit Static Lease";
 "dhcp_staticlease_mac" = "MAC adresi";
 "dhcp_staticlease_mac_placeholder" = "aa:0b:cd:e1:f2:34";
 "dhcp_staticlease_ip" = "IP adresi";
@@ -309,6 +311,7 @@
 "dns_reverse_resolve_help" = "Müşterilerin IP adreslerini ana bilgisayar adlarına, karşılık gelen çözücülere PTR sorguları göndererek ters çözümle (Yerel müşteriler için gizli DNS ağları, açık IP adresli müşteriler için yukarı akış ağları).";
 "dns_server_configuration" = "DNS ağ yapılandırması";
 "dns_rate_limit" = "Oran sınırı";
+"dns_rate_limit_explainer" = "The number of requests per second allowed per client. Setting it to 0 means no limit.";
 "dns_edns_client_subnet" = "EDNS müşteri alt ağı";
 "dns_edns_use_custom_ip" = "Use custom IP for EDNS";
 "dns_edns_use_custom_ip_placeholder" = "Enter IP";

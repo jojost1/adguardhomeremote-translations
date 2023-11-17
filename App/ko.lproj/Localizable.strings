@@ -269,6 +269,7 @@
 "dhcp_ipv6_settings_unsupported" = "Interface does not support IPv6.";
 "dhcp_range_start" = "범위 시작";
 "dhcp_static_leases" = "고정 임대";
+"dhcp_edit_lease" = "Edit Lease";
 "dhcp_remove_lease" = "임대 삭제";
 "dhcp_leases" = "임대";
 "dhcp_lease_create" = "고정 임대 추가";
@@ -281,8 +282,9 @@
 "dhcp_reset_dhcp_config_footer" = "Resets all DHCP settings.";
 "dhcp_reset_dhcp_config_alert_body" = "Are you sure you want to reset the DHCP configuration?";
 "dhcp_pro_required" = "DHCP 설정을 관리하려면 Pro 버전이 필요합니다.";
-// New Static Lease
+// Static Leases
 "dhcp_staticlease_new" = "새 고정 임대";
+"dhcp_staticlease_edit" = "Edit Static Lease";
 "dhcp_staticlease_mac" = "MAC 주소";
 "dhcp_staticlease_mac_placeholder" = "aa:0b:cd:e1:f2:34";
 "dhcp_staticlease_ip" = "IP 주소";
@@ -309,6 +311,7 @@
 "dns_reverse_resolve_help" = "해당 서버에 대한 PTR 쿼리를 통해 클라이언트의 도메인 이름을 정의합니다. (로컬 클라이언트의 경우 프라이빗 DNS 서버, 공용 IP 주소가 있는 클라이언트의 경우 업스트림 서버)";
 "dns_server_configuration" = "DNS 서버 구성";
 "dns_rate_limit" = "한도 제한";
+"dns_rate_limit_explainer" = "The number of requests per second allowed per client. Setting it to 0 means no limit.";
 "dns_edns_client_subnet" = "EDNS 클라이언트 서브넷";
 "dns_edns_use_custom_ip" = "Use custom IP for EDNS";
 "dns_edns_use_custom_ip_placeholder" = "Enter IP";

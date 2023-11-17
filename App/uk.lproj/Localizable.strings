@@ -269,6 +269,7 @@
 "dhcp_ipv6_settings_unsupported" = "Інтерфейс не підтримує IPv6";
 "dhcp_range_start" = "Початок діапазону";
 "dhcp_static_leases" = "Статичні адреси";
+"dhcp_edit_lease" = "Edit Lease";
 "dhcp_remove_lease" = "Видалити адресу";
 "dhcp_leases" = "Список клієнтів DHCP";
 "dhcp_lease_create" = "Додати статичну адресу";
@@ -281,8 +282,9 @@
 "dhcp_reset_dhcp_config_footer" = "Скинути всі налаштування DHCP.";
 "dhcp_reset_dhcp_config_alert_body" = "Ви впевнені, що хочете скинути конфігурацію DHCP?";
 "dhcp_pro_required" = "Remote Pro необхідний для керування налаштуваннями DHCP.";
-// New Static Lease
+// Static Leases
 "dhcp_staticlease_new" = "Статична резервація";
+"dhcp_staticlease_edit" = "Edit Static Lease";
 "dhcp_staticlease_mac" = "MAC адреса";
 "dhcp_staticlease_mac_placeholder" = "aa:0b:cd:e1:f2:34";
 "dhcp_staticlease_ip" = "IP адреса";
@@ -309,6 +311,7 @@
 "dns_reverse_resolve_help" = "Визначати доменні імена клієнтів через PTR-запити до відповідних серверів (приватні DNS-сервери для локальних клієнтів, upstream-сервер для клієнтів з публічною IP-адресою).";
 "dns_server_configuration" = "Установки DNS-сервера";
 "dns_rate_limit" = "Rate limit";
+"dns_rate_limit_explainer" = "The number of requests per second allowed per client. Setting it to 0 means no limit.";
 "dns_edns_client_subnet" = "EDNS client subnet";
 "dns_edns_use_custom_ip" = "Використовувати вказаний IP для EDNS";
 "dns_edns_use_custom_ip_placeholder" = "Введіть IP";
