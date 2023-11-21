@@ -269,7 +269,7 @@
 "dhcp_ipv6_settings_unsupported" = "介面不支援 IPv6。";
 "dhcp_range_start" = "起始範圍";
 "dhcp_static_leases" = "靜態租約";
-"dhcp_edit_lease" = "Edit Lease";
+"dhcp_edit_lease" = "編輯租約";
 "dhcp_remove_lease" = "移除租約";
 "dhcp_leases" = "租約";
 "dhcp_lease_create" = "創建靜態租約";
@@ -284,7 +284,7 @@
 "dhcp_pro_required" = "Remote Pro 是必須的以管理 DHCP 設定。";
 // Static Leases
 "dhcp_staticlease_new" = "新的靜態租約";
-"dhcp_staticlease_edit" = "Edit Static Lease";
+"dhcp_staticlease_edit" = "編輯靜態租約";
 "dhcp_staticlease_mac" = "MAC 位址";
 "dhcp_staticlease_mac_placeholder" = "aa:0b:cd:e1:f2:34";
 "dhcp_staticlease_ip" = "IP 位址";
@@ -311,7 +311,7 @@
 "dns_reverse_resolve_help" = "透過傳送指標（PTR）查詢到對應的解析器（私人 DNS 伺服器供區域的用戶端，上游的伺服器供有公共 IP 位址的用戶端），反向地解析用戶端的 IP 位址變為它們的主機名稱。";
 "dns_server_configuration" = "DNS 伺服器配置";
 "dns_rate_limit" = "速率限制";
-"dns_rate_limit_explainer" = "The number of requests per second allowed per client. Setting it to 0 means no limit.";
+"dns_rate_limit_explainer" = "每用戶端被允許的每秒請求之數量。設定其為 0 表示無限制。";
 "dns_edns_client_subnet" = "對於 DNS 的擴充機制（EDNS）用戶端子網路";
 "dns_edns_use_custom_ip" = "使用自訂的 IP 供 EDNS";
 "dns_edns_use_custom_ip_placeholder" = "輸入 IP";
