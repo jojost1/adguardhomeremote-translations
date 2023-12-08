@@ -312,6 +312,11 @@
 "dns_server_configuration" = "DNS-Serverkonfiguration";
 "dns_rate_limit" = "Begrenzungswert";
 "dns_rate_limit_explainer" = "Die Anzahl der Anfragen pro Sekunde, die ein einzelner Client stellen darf. Das Setzen auf 0 bedeutet keine Begrenzung.";
+"dns_rate_limit_subnet_length_ipv4" = "Subnet prefix length for IPv4 addresses";
+"dns_rate_limit_subnet_length_ipv6" = "Subnet prefix length for IPv6 addresses";
+"dns_rate_limit_allowlist" = "Rate limiting allowlist";
+"dns_rate_limit_allowlist_footer" = "IP addresses excluded from rate limiting.";
+"dns_rate_limiting" = "Rate Limiting";
 "dns_edns_client_subnet" = "EDNS Client Subnetz aktivieren";
 "dns_edns_use_custom_ip" = "Benutzerdefinierte IP für EDNS verwenden";
 "dns_edns_use_custom_ip_placeholder" = "IP-Adresse eingeben";

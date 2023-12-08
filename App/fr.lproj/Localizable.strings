@@ -312,6 +312,11 @@
 "dns_server_configuration" = "Configuration du serveur DNS";
 "dns_rate_limit" = "Limite de taux";
 "dns_rate_limit_explainer" = "Le nombre de requêtes par seconde qu’un seul client est autorisé à faire. Le réglage 0 fait illimité.";
+"dns_rate_limit_subnet_length_ipv4" = "Subnet prefix length for IPv4 addresses";
+"dns_rate_limit_subnet_length_ipv6" = "Subnet prefix length for IPv6 addresses";
+"dns_rate_limit_allowlist" = "Rate limiting allowlist";
+"dns_rate_limit_allowlist_footer" = "IP addresses excluded from rate limiting.";
+"dns_rate_limiting" = "Rate Limiting";
 "dns_edns_client_subnet" = "Sous-réseau du client EDNS";
 "dns_edns_use_custom_ip" = "Use custom IP for EDNS";
 "dns_edns_use_custom_ip_placeholder" = "Enter IP";

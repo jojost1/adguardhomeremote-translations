@@ -312,6 +312,11 @@
 "dns_server_configuration" = "DNS-server configuratie";
 "dns_rate_limit" = "Ratio limiet";
 "dns_rate_limit_explainer" = "Het aantal verzoeken per seconde toegelaten per toestel. 0 betekent onbeperkt.";
+"dns_rate_limit_subnet_length_ipv4" = "Lengte subnetvoorvoegsel voor IPv4-adressen";
+"dns_rate_limit_subnet_length_ipv6" = "Lengte subnetvoorvoegsel voor IPv6-adressen";
+"dns_rate_limit_allowlist" = "Toelatingslijst voor snelheidsbeperking";
+"dns_rate_limit_allowlist_footer" = "IP-adressen uitgesloten van snelheidsbeperking.";
+"dns_rate_limiting" = "Snelheidsbeperking";
 "dns_edns_client_subnet" = "EDNS client subnet";
 "dns_edns_use_custom_ip" = "Aangepast IP-adres gebruiken voor EDNS";
 "dns_edns_use_custom_ip_placeholder" = "Vul IP in";

@@ -312,6 +312,11 @@
 "dns_server_configuration" = "Configuración del servidor DNS de AdGuard";
 "dns_rate_limit" = "Límite de peticiones por segundo";
 "dns_rate_limit_explainer" = "The number of requests per second allowed per client. Setting it to 0 means no limit.";
+"dns_rate_limit_subnet_length_ipv4" = "Subnet prefix length for IPv4 addresses";
+"dns_rate_limit_subnet_length_ipv6" = "Subnet prefix length for IPv6 addresses";
+"dns_rate_limit_allowlist" = "Rate limiting allowlist";
+"dns_rate_limit_allowlist_footer" = "IP addresses excluded from rate limiting.";
+"dns_rate_limiting" = "Rate Limiting";
 "dns_edns_client_subnet" = "Subred de cliente EDNS";
 "dns_edns_use_custom_ip" = "Use custom IP for EDNS";
 "dns_edns_use_custom_ip_placeholder" = "Enter IP";
