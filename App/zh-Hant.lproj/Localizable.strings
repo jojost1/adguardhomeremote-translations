@@ -165,9 +165,9 @@
 "clients_identifiers_placeholder" = "IP、無類別網域間路由（CIDR）、媒體存取控制（MAC）、用戶端 ID";
 "clients_identifiers_explainer" = "用戶端可根據 IP 位址、無類別網域間路由（CIDR）、媒體存取控制（MAC）位址或特殊的用戶端 ID（可被用於 DoT/DoH/DoQ）被識別。只要 AdGuard Home 亦為 DHCP 伺服器，使用 MAC 作為識別碼是可能的。";
 "clients_upstreams" = "上游";
-"clients_upstream_dns_cache" = "Upstream DNS cache";
-"clients_dns_cache" = "DNS cache";
-"clients_upstream_dns_cache_enable" = "Enable DNS caching for this client's custom upstream configuration";
+"clients_upstream_dns_cache" = "上游 DNS 快取";
+"clients_dns_cache" = "DNS 快取";
+"clients_upstream_dns_cache_enable" = "啟用 DNS 快取供此用戶端自訂的上游配置";
 "clients_view_queries_from_%@" = "從 %@ 檢視查詢";
 "clients_edit_use_filter_blocking" = "使用過濾器封鎖";
 "clients_edit_use_safe_browsing" = "使用安全瀏覽";
