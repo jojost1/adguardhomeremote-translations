@@ -165,6 +165,9 @@
 "clients_identifiers_placeholder" = "IP, CIDR, MAC, ClientID";
 "clients_identifiers_explainer" = "Müşteriler IP adresi, CIDR, MAC adresi, veya özel bir müşteri ID'si ile tanımlanabilirler. (DoT/DoH/DoQ için kullanılabilir). MAC'i tanımlayıcı olarak kullanmak sadece AdGuard Ev'de bir DHCP ağı ise mümkündür.";
 "clients_upstreams" = "Yukarı akışlar";
+"clients_upstream_dns_cache" = "Upstream DNS cache";
+"clients_dns_cache" = "DNS cache";
+"clients_upstream_dns_cache_enable" = "Enable DNS caching for this client's custom upstream configuration";
 "clients_view_queries_from_%@" = "Sorgulara göz at %@";
 "clients_edit_use_filter_blocking" = "Filtre Engelleme kulan";
 "clients_edit_use_safe_browsing" = "Güvenli tarama kullan";

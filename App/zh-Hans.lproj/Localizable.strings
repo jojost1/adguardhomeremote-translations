@@ -165,6 +165,9 @@
 "clients_identifiers_placeholder" = "IP 地址, CIDR, MAC 地址, 客户端 ID";
 "clients_identifiers_explainer" = "客户端可通过 IP 地址、MAC 地址、CIDR 或特殊 ID（可用于 DoT/DoH/DoQ）被识别。使用 MAC 地址作为标识符需要 AdGuard Home 同时作为 DHCP 服务器。";
 "clients_upstreams" = "上游服务器";
+"clients_upstream_dns_cache" = "Upstream DNS cache";
+"clients_dns_cache" = "DNS cache";
+"clients_upstream_dns_cache_enable" = "Enable DNS caching for this client's custom upstream configuration";
 "clients_view_queries_from_%@" = "查看来自 %@ 的请求";
 "clients_edit_use_filter_blocking" = "使用规则过滤";
 "clients_edit_use_safe_browsing" = "使用浏览安全";

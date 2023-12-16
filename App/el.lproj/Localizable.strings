@@ -165,6 +165,9 @@
 "clients_identifiers_placeholder" = "IP, CIDR, MAC, ClientID";
 "clients_identifiers_explainer" = "Οι πελάτες μπορούν να ταυτοποιηθούν μέσω διεύθυνσης IP, CIDR, διεύθυνσης MAC ή ενός ειδικού ID πελάτη (μπορεί να χρησιμοποιηθεί για DoT/DoH/DoQ). Η χρήση της MAC σαν αναγνωριστικό είναι δυνατή μόνο αν το AdGuard Home είναι επίσης διακομιστής DHCP.";
 "clients_upstreams" = "Upstream";
+"clients_upstream_dns_cache" = "Upstream DNS cache";
+"clients_dns_cache" = "DNS cache";
+"clients_upstream_dns_cache_enable" = "Enable DNS caching for this client's custom upstream configuration";
 "clients_view_queries_from_%@" = "Εμφάνιση ερωτημάτων από %@";
 "clients_edit_use_filter_blocking" = "Χρήση φίλτρου αποκλεισμού";
 "clients_edit_use_safe_browsing" = "Χρήση ασφαλούς περιήγησης";

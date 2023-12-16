@@ -165,6 +165,9 @@
 "clients_identifiers_placeholder" = "IP, CIDR, MAC, ClientID";
 "clients_identifiers_explainer" = "Apparaten kunnen worden geïdentificeerd door hun IP-adres, CIDR, MAC-adres of een speciaal apparaat-ID (kan gebruikt worden voor DoT/DoH/DoQ). Het MAC-adres gebruiken kan alleen als AdGuard Home ook DHCP server is.";
 "clients_upstreams" = "Upstreams";
+"clients_upstream_dns_cache" = "Upstream DNS-cache";
+"clients_dns_cache" = "DNS-cache";
+"clients_upstream_dns_cache_enable" = "DNS-caching inschakelen voor de aangepaste upstream-configuratie van deze client";
 "clients_view_queries_from_%@" = "Laat queries zien van %@";
 "clients_edit_use_filter_blocking" = "Filters";
 "clients_edit_use_safe_browsing" = "Veilig Browsen";

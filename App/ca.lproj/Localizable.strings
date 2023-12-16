@@ -165,6 +165,9 @@
 "clients_identifiers_placeholder" = "IP, CIDR, MAC, ClientID";
 "clients_identifiers_explainer" = "Els clients es poden identificar mitjançant l'adreça IP, el CIDR, l'adreça MAC o un identificador especial de client (per a DoT/DoH/DoQ). Per a utilitzar adreces MAC es necessari habilitar el servei DHCP de AdGuard Home.";
 "clients_upstreams" = "Servidors DNS";
+"clients_upstream_dns_cache" = "Upstream DNS cache";
+"clients_dns_cache" = "DNS cache";
+"clients_upstream_dns_cache_enable" = "Enable DNS caching for this client's custom upstream configuration";
 "clients_view_queries_from_%@" = "Veure consultes DNS de %@";
 "clients_edit_use_filter_blocking" = "Habilitar filtratge";
 "clients_edit_use_safe_browsing" = "Habilitar navegació segura";

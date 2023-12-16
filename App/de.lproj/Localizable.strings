@@ -165,6 +165,9 @@
 "clients_identifiers_placeholder" = "IP, CIDR, MAC, ClientID";
 "clients_identifiers_explainer" = "Clients können durch die IP-Adresse, CIDR, MAC-Adresse oder eine spezielle Client-ID (können für DoT/DoH/DoQ verwendet werden) identifiziert werden. Die Verwendung der MAC als Bezeichner ist nur möglich, wenn AdGuard Home auch ein DHCP-Server ist.";
 "clients_upstreams" = "Upstreams";
+"clients_upstream_dns_cache" = "Upstream-DNS-Cache";
+"clients_dns_cache" = "DNS-Cache";
+"clients_upstream_dns_cache_enable" = "Caching für die benutzerdefinierte Upstream-Server-Konfiguration dieses Clients aktivieren";
 "clients_view_queries_from_%@" = "Anfragen von %@ anzeigen";
 "clients_edit_use_filter_blocking" = "Filter-/Hostsperren anwenden";
 "clients_edit_use_safe_browsing" = "Internetsicherheit anwenden";

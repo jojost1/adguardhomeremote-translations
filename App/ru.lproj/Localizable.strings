@@ -165,6 +165,9 @@
 "clients_identifiers_placeholder" = "IP, CIDR, MAC, ID клиента";
 "clients_identifiers_explainer" = "Клиенты могут быть идентифицированы по IP-адресу, CIDR, MAC-адресу или специальному ID клиента (может использоваться для DoT/DoH/Dog). Использование MAC в качестве идентификатора возможно только в том случае, если AdGuard Home является DHCP-сервером.";
 "clients_upstreams" = "DNS-серверы";
+"clients_upstream_dns_cache" = "Upstream DNS cache";
+"clients_dns_cache" = "DNS cache";
+"clients_upstream_dns_cache_enable" = "Enable DNS caching for this client's custom upstream configuration";
 "clients_view_queries_from_%@" = "Посмотреть запросы от %@";
 "clients_edit_use_filter_blocking" = "Использовать блокировку фильтрами";
 "clients_edit_use_safe_browsing" = "Использовать Безопасную навигацию";
