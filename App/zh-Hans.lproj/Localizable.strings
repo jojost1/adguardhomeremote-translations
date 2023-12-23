@@ -165,9 +165,9 @@
 "clients_identifiers_placeholder" = "IP 地址, CIDR, MAC 地址, 客户端 ID";
 "clients_identifiers_explainer" = "客户端可通过 IP 地址、MAC 地址、CIDR 或特殊 ID（可用于 DoT/DoH/DoQ）被识别。使用 MAC 地址作为标识符需要 AdGuard Home 同时作为 DHCP 服务器。";
 "clients_upstreams" = "上游服务器";
-"clients_upstream_dns_cache" = "Upstream DNS cache";
-"clients_dns_cache" = "DNS cache";
-"clients_upstream_dns_cache_enable" = "Enable DNS caching for this client's custom upstream configuration";
+"clients_upstream_dns_cache" = "上游 DNS 缓存";
+"clients_dns_cache" = "DNS 缓存";
+"clients_upstream_dns_cache_enable" = "为此客户端的自定义上游配置启用 DNS 缓存";
 "clients_view_queries_from_%@" = "查看来自 %@ 的请求";
 "clients_edit_use_filter_blocking" = "使用规则过滤";
 "clients_edit_use_safe_browsing" = "使用浏览安全";
@@ -287,7 +287,7 @@
 "dhcp_pro_required" = "需要 Remote Pro 来管理 DHCP 设置";
 // Static Leases
 "dhcp_staticlease_new" = "新建静态租约";
-"dhcp_staticlease_edit" = "Edit Static Lease";
+"dhcp_staticlease_edit" = "编辑静态租约";
 "dhcp_staticlease_mac" = "MAC 地址";
 "dhcp_staticlease_mac_placeholder" = "aa:0b:cd:e1:f2:34";
 "dhcp_staticlease_ip" = "IP 地址";
@@ -314,12 +314,12 @@
 "dns_reverse_resolve_help" = "通过发送 PTR 查询到对应的解析器 (本地客户端的私人 DNS 服务器，公共 IP 客户端的上游服务器) 将 IP 地址反向解析成其客户端主机名。";
 "dns_server_configuration" = "DNS 服务设定";
 "dns_rate_limit" = "速度限制";
-"dns_rate_limit_explainer" = "The number of requests per second allowed per client. Setting it to 0 means no limit.";
-"dns_rate_limit_subnet_length_ipv4" = "Subnet prefix length for IPv4 addresses";
-"dns_rate_limit_subnet_length_ipv6" = "Subnet prefix length for IPv6 addresses";
-"dns_rate_limit_allowlist" = "Rate limiting allowlist";
-"dns_rate_limit_allowlist_footer" = "IP addresses excluded from rate limiting.";
-"dns_rate_limiting" = "Rate Limiting";
+"dns_rate_limit_explainer" = "每个客户端每秒钟查询次数的限制。设置为 0 意味着不限制。";
+"dns_rate_limit_subnet_length_ipv4" = "IPv4 地址子网前缀长度";
+"dns_rate_limit_subnet_length_ipv6" = "IPv6 地址子网前缀长度";
+"dns_rate_limit_allowlist" = "速率限制白名单";
+"dns_rate_limit_allowlist_footer" = "排除在速率限制之外的 IP 地址";
+"dns_rate_limiting" = "速度限制中";
 "dns_edns_client_subnet" = "启用 EDNS 客户端子网";
 "dns_edns_use_custom_ip" = "为 EDNS 使用自定义 IP";
 "dns_edns_use_custom_ip_placeholder" = "输入 IP";
@@ -693,8 +693,8 @@
 // End
 
 // MARK: v4.1
-"dns_fallback_dns_servers" = "Fallback DNS servers";
-"dns_fallback_dns_servers_footer" = "List of fallback DNS servers used when upstream DNS servers are not responding.";
-"dns_blocked_response_ttl" = "Blocked response TTL";
-"dns_blocked_response_ttl_explainer" = "Specifies for how many seconds the clients should cache a filtered response";
-"querydetail_check_again" = "Check again";
+"dns_fallback_dns_servers" = "后备 DNS 服务器";
+"dns_fallback_dns_servers_footer" = "当上游 DNS 服务器没有响应时使用的后备 DNS 服务器列表。";
+"dns_blocked_response_ttl" = "屏蔽的 TTL 应答";
+"dns_blocked_response_ttl_explainer" = "指定客户端应缓存已过滤响应的秒数";
+"querydetail_check_again" = "再次检查";
