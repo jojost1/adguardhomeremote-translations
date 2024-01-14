@@ -13,7 +13,7 @@
 "dashboard_parental-filtering" = "家长\n控制";
 "dashboard_safe-browsing" = "浏览\n安全";
 "dashboard_safe-search" = "安全\n搜索";
-"dashboard_date" = "Date";
+"dashboard_date" = "日期";
 "dashboard_queries" = "DNS查询";
 "dashboard_blocked-filters" = "已被过滤器拦截";
 "dashboard_blocked-malware" = "被拦截的恶意/钓鱼网站";
@@ -272,7 +272,7 @@
 "dhcp_ipv6_settings_unsupported" = "接口不支持 IPv6。";
 "dhcp_range_start" = "起始 IP 地址";
 "dhcp_static_leases" = "静态租约";
-"dhcp_edit_lease" = "Edit Lease";
+"dhcp_edit_lease" = "编辑租约";
 "dhcp_remove_lease" = "删除租约";
 "dhcp_leases" = "租约";
 "dhcp_lease_create" = "添加静态租约";
@@ -346,7 +346,7 @@
 "dnsrewrites_entries" = "条目";
 "dnsrewrites_no_entries" = "未找到";
 "dnsrewrites_new" = "新建 DNS 重写";
-"dnsrewrites_edit" = "Edit DNS Rewrite";
+"dnsrewrites_edit" = "编辑 DNS 重写";
 "dnsrewrites_domain" = "域名";
 "dnsrewrites_domain_placeholder" = "域名或通配符";
 "dnsrewrites_answer" = "应答";
