@@ -131,6 +131,8 @@
 "settings_validation_port" = "Per favore inserisci un numero di porta valido.";
 
 // MARK: Instance Settings
+"settings_instances" = "Instances";
+"settings_reorder" = "Reorder";
 "settings_add-instance" = "Aggiungi istanza";
 "settings_edit-instance" = "Modifica";
 "settings_general" = "General Settings";
@@ -411,9 +413,11 @@
 "preferences_dashboard_show_section" = "Mostra sezione";
 "preferences_dashboard_number_of_clients" = "Numero di clients";
 "preferences_dashboard_number_of_domains" = "Numero di domini";
+"preferences_dashboard_show_hostnames" = "Show instance hostnames";
 "preferences_dashboard_auto_refresh" = "Aggiorna automaticamente ogni minuto";
 "preferences_dashboard_extra_confirmation" = "Messaggio di conferma per i bottoni";
 "preferences_querylog_show_sidebar" = "Mostra barra laterale";
+"preferences_querylog_show_live_log" = "Show Live Log";
 "preferences_other" = "Altro";
 "preferences_live_activity" = "Live Activity";
 "preferences_language" = "Lingua";

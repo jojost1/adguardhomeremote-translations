@@ -131,6 +131,8 @@
 "settings_validation_port" = "Παρακαλούμε εισάγετε έναν έγκυρο αριθμό θύρας.";
 
 // MARK: Instance Settings
+"settings_instances" = "Instances";
+"settings_reorder" = "Reorder";
 "settings_add-instance" = "Προσθήκη εκδοχής";
 "settings_edit-instance" = "Επεξεργασία";
 "settings_general" = "General Settings";
@@ -411,9 +413,11 @@
 "preferences_dashboard_show_section" = "Εμφάνιση ενότητας";
 "preferences_dashboard_number_of_clients" = "Αριθμός πελατών";
 "preferences_dashboard_number_of_domains" = "Αριθμός domain";
+"preferences_dashboard_show_hostnames" = "Show instance hostnames";
 "preferences_dashboard_auto_refresh" = "Auto-refresh every minute";
 "preferences_dashboard_extra_confirmation" = "Confirmation alert for buttons";
 "preferences_querylog_show_sidebar" = "Show sidebar";
+"preferences_querylog_show_live_log" = "Show Live Log";
 "preferences_other" = "Άλλα";
 "preferences_live_activity" = "Live Activity";
 "preferences_language" = "Γλώσσα";

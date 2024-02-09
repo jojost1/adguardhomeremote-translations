@@ -131,6 +131,8 @@
 "settings_validation_port" = "請輸入有效的連接埠號碼。";
 
 // MARK: Instance Settings
+"settings_instances" = "Instances";
+"settings_reorder" = "Reorder";
 "settings_add-instance" = "新增實例";
 "settings_edit-instance" = "編輯";
 "settings_general" = "一般設定";
@@ -411,9 +413,11 @@
 "preferences_dashboard_show_section" = "顯示區域";
 "preferences_dashboard_number_of_clients" = "用戶端之數量";
 "preferences_dashboard_number_of_domains" = "網域之數量";
+"preferences_dashboard_show_hostnames" = "Show instance hostnames";
 "preferences_dashboard_auto_refresh" = "每分鐘自動重新整理";
 "preferences_dashboard_extra_confirmation" = "作為按鈕的確認警報";
 "preferences_querylog_show_sidebar" = "顯示側邊欄";
+"preferences_querylog_show_live_log" = "Show Live Log";
 "preferences_other" = "其它";
 "preferences_live_activity" = "實況活動";
 "preferences_language" = "語言";

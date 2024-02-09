@@ -118,7 +118,7 @@
 "instance_ssl_label" = "Gebruik http (standaard) of https?";
 "instance_ssl_http" = "http";
 "instance_ssl_https" = "https";
-"instance_connecting_to_%@" = "Hele hostname: '%@'";
+"instance_connecting_to_%@" = "Hele hostnaam: '%@'";
 "instance_authentication" = "Authenticatie";
 "instance_authentication_username_placeholder" = "Gebruikersnaam";
 "instance_authentication_password_placeholder" = "Wachtwoord";
@@ -131,6 +131,8 @@
 "settings_validation_port" = "Vul een geldig poort-nummer in.";
 
 // MARK: Instance Settings
+"settings_instances" = "Instanties";
+"settings_reorder" = "Rangschikken";
 "settings_add-instance" = "Voeg Instantie Toe";
 "settings_edit-instance" = "Bewerk";
 "settings_general" = "Algemene instellingen";
@@ -411,9 +413,11 @@
 "preferences_dashboard_show_section" = "Toon onderdeel";
 "preferences_dashboard_number_of_clients" = "Aantal cliënten";
 "preferences_dashboard_number_of_domains" = "Aantal domeinen";
+"preferences_dashboard_show_hostnames" = "Hostnamen van instanties weergeven";
 "preferences_dashboard_auto_refresh" = "Ververs automatisch elke minuut";
 "preferences_dashboard_extra_confirmation" = "Extra bevestiging voor status knoppen";
 "preferences_querylog_show_sidebar" = "Toon zijbalk";
+"preferences_querylog_show_live_log" = "Toon Live Log";
 "preferences_other" = "Overig";
 "preferences_live_activity" = "Live Activity";
 "preferences_language" = "Taal";

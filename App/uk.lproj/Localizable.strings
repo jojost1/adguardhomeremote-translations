@@ -131,6 +131,8 @@
 "settings_validation_port" = "Будь ласка, вкажіть коректний порт.";
 
 // MARK: Instance Settings
+"settings_instances" = "Instances";
+"settings_reorder" = "Reorder";
 "settings_add-instance" = "Додати сервер";
 "settings_edit-instance" = "Редагувати";
 "settings_general" = "Основні налаштування";
@@ -413,9 +415,11 @@
 "preferences_dashboard_show_section" = "Показати розділ";
 "preferences_dashboard_number_of_clients" = "Кількість клієнтів";
 "preferences_dashboard_number_of_domains" = "Кількість доменів";
+"preferences_dashboard_show_hostnames" = "Show instance hostnames";
 "preferences_dashboard_auto_refresh" = "Автоматичне оновлення щохвилини";
 "preferences_dashboard_extra_confirmation" = "Просити підтвердження для кнопок";
 "preferences_querylog_show_sidebar" = "Показувати бічну панель";
+"preferences_querylog_show_live_log" = "Show Live Log";
 "preferences_other" = "Інше";
 "preferences_live_activity" = "Дії Наживо";
 "preferences_language" = "Мова";

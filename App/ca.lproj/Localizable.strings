@@ -131,6 +131,8 @@
 "settings_validation_port" = "Si us plau introdueix un número de port vàlid";
 
 // MARK: Instance Settings
+"settings_instances" = "Instances";
+"settings_reorder" = "Reorder";
 "settings_add-instance" = "Afegir servidor";
 "settings_edit-instance" = "Editar";
 "settings_general" = "General Settings";
@@ -411,9 +413,11 @@
 "preferences_dashboard_show_section" = "Visualitzar secció";
 "preferences_dashboard_number_of_clients" = "Número de clients";
 "preferences_dashboard_number_of_domains" = "Número de dominis";
+"preferences_dashboard_show_hostnames" = "Show instance hostnames";
 "preferences_dashboard_auto_refresh" = "Refresca automàticament cada minut";
 "preferences_dashboard_extra_confirmation" = "Demanar confirmació per els botons";
 "preferences_querylog_show_sidebar" = "Mostra el panell lateral";
+"preferences_querylog_show_live_log" = "Show Live Log";
 "preferences_other" = "Altres";
 "preferences_live_activity" = "Live Activity";
 "preferences_language" = "Idioma";

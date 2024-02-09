@@ -131,6 +131,8 @@
 "settings_validation_port" = "请输入有效的端口号";
 
 // MARK: Instance Settings
+"settings_instances" = "Instances";
+"settings_reorder" = "Reorder";
 "settings_add-instance" = "添加实例";
 "settings_edit-instance" = "编辑";
 "settings_general" = "常规设置";
@@ -411,9 +413,11 @@
 "preferences_dashboard_show_section" = "是否显示";
 "preferences_dashboard_number_of_clients" = "客户端数量";
 "preferences_dashboard_number_of_domains" = "域名数量";
+"preferences_dashboard_show_hostnames" = "Show instance hostnames";
 "preferences_dashboard_auto_refresh" = "每分钟自动刷新";
 "preferences_dashboard_extra_confirmation" = "增加操作确认提示";
 "preferences_querylog_show_sidebar" = "显示侧边栏";
+"preferences_querylog_show_live_log" = "Show Live Log";
 "preferences_other" = "其他";
 "preferences_live_activity" = "实时活动";
 "preferences_language" = "语言";

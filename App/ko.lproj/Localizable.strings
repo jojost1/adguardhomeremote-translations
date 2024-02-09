@@ -131,6 +131,8 @@
 "settings_validation_port" = "올바른 포트 번호를 입력하십시오.";
 
 // MARK: Instance Settings
+"settings_instances" = "Instances";
+"settings_reorder" = "Reorder";
 "settings_add-instance" = "인스턴스 추가";
 "settings_edit-instance" = "편집";
 "settings_general" = "General Settings";
@@ -411,9 +413,11 @@
 "preferences_dashboard_show_section" = "섹션 표시";
 "preferences_dashboard_number_of_clients" = "표시할 클라이언트 수";
 "preferences_dashboard_number_of_domains" = "표시할 도메인 수";
+"preferences_dashboard_show_hostnames" = "Show instance hostnames";
 "preferences_dashboard_auto_refresh" = "1분마다 자동 새로고침";
 "preferences_dashboard_extra_confirmation" = "버튼에 대한 확인 알림";
 "preferences_querylog_show_sidebar" = "사이드바 표시";
+"preferences_querylog_show_live_log" = "Show Live Log";
 "preferences_other" = "기타";
 "preferences_live_activity" = "Live Activity";
 "preferences_language" = "언어";
