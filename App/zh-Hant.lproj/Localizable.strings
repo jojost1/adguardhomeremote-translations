@@ -21,6 +21,7 @@
 "dashboard_top-clients" = "熱門用戶端";
 "dashboard_top-queried" = "熱門已查詢的網域";
 "dashboard_top-blocked" = "熱門已封鎖的網域";
+"dashboard_top-upstreams" = "Top Upstreams";
 "dashboard_avg_ms_%@" = "平均 %@ms";
 "dashboard_confirmation_enable_%@" = "您確定您想要啟用 %@ 嗎？";
 "dashboard_confirmation_enable_button" = "啟用";
@@ -415,6 +416,7 @@
 "preferences_dashboard_show_section" = "顯示區域";
 "preferences_dashboard_number_of_clients" = "用戶端之數量";
 "preferences_dashboard_number_of_domains" = "網域之數量";
+"preferences_dashboard_number_of_upstreams" = "Number of upstreams";
 "preferences_dashboard_show_hostnames" = "顯示實例主機名稱";
 "preferences_dashboard_auto_refresh" = "每分鐘自動重新整理";
 "preferences_dashboard_extra_confirmation" = "作為按鈕的確認警報";

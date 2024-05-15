@@ -21,6 +21,7 @@
 "dashboard_top-clients" = "클라이언트";
 "dashboard_top-queried" = "쿼리 도메인";
 "dashboard_top-blocked" = "차단된 도메인";
+"dashboard_top-upstreams" = "Top Upstreams";
 "dashboard_avg_ms_%@" = "평균 %@ms";
 "dashboard_confirmation_enable_%@" = "%@를 활성화 하시겠습니까?";
 "dashboard_confirmation_enable_button" = "활성화";
@@ -415,6 +416,7 @@
 "preferences_dashboard_show_section" = "섹션 표시";
 "preferences_dashboard_number_of_clients" = "표시할 클라이언트 수";
 "preferences_dashboard_number_of_domains" = "표시할 도메인 수";
+"preferences_dashboard_number_of_upstreams" = "Number of upstreams";
 "preferences_dashboard_show_hostnames" = "Show instance hostnames";
 "preferences_dashboard_auto_refresh" = "1분마다 자동 새로고침";
 "preferences_dashboard_extra_confirmation" = "버튼에 대한 확인 알림";

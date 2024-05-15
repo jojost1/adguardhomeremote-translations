@@ -21,6 +21,7 @@
 "dashboard_top-clients" = "Частые клиенты";
 "dashboard_top-queried" = "Часто запрашиваемые домены";
 "dashboard_top-blocked" = "Часто блокируемые домены";
+"dashboard_top-upstreams" = "Top Upstreams";
 "dashboard_avg_ms_%@" = "сред. %@мс";
 "dashboard_confirmation_enable_%@" = "Вы уверены, что хотите включить %@?";
 "dashboard_confirmation_enable_button" = "Включить";
@@ -417,6 +418,7 @@
 "preferences_dashboard_show_section" = "Показать раздел";
 "preferences_dashboard_number_of_clients" = "Количество клиентов";
 "preferences_dashboard_number_of_domains" = "Количество доменов";
+"preferences_dashboard_number_of_upstreams" = "Number of upstreams";
 "preferences_dashboard_show_hostnames" = "Show instance hostnames";
 "preferences_dashboard_auto_refresh" = "Автоматическое обновление каждую минуту";
 "preferences_dashboard_extra_confirmation" = "Просить подтверждения для кнопок";

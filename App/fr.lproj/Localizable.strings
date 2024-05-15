@@ -21,6 +21,7 @@
 "dashboard_top-clients" = "Meilleurs clients";
 "dashboard_top-queried" = "Domaines les plus recherchés";
 "dashboard_top-blocked" = "Domaines les plus fréquemment bloqués";
+"dashboard_top-upstreams" = "Top Upstreams";
 "dashboard_avg_ms_%@" = "Temps moyen : %@ms";
 "dashboard_confirmation_enable_%@" = "Êtes vous sur que vous voulez activer %@?";
 "dashboard_confirmation_enable_button" = "Activer";
@@ -415,6 +416,7 @@
 "preferences_dashboard_show_section" = "Afficher la section";
 "preferences_dashboard_number_of_clients" = "Nombre de clients";
 "preferences_dashboard_number_of_domains" = "Nombre de domaines";
+"preferences_dashboard_number_of_upstreams" = "Nombre de upstreams";
 "preferences_dashboard_show_hostnames" = "Show instance hostnames";
 "preferences_dashboard_auto_refresh" = "Rafraîchissement automatique toutes les minutes";
 "preferences_dashboard_extra_confirmation" = "Demande de confirmation pour les boutons";

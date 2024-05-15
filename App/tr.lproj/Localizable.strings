@@ -21,6 +21,7 @@
 "dashboard_top-clients" = "En İyi Müşteriler";
 "dashboard_top-queried" = "En Çok Sorgulanan Alanlar";
 "dashboard_top-blocked" = "En Çok Engellenen Alanlar";
+"dashboard_top-upstreams" = "Top Upstreams";
 "dashboard_avg_ms_%@" = "avg %@ms";
 "dashboard_confirmation_enable_%@" = "Etkinleştirmek istediğinize emin misiniz %@?";
 "dashboard_confirmation_enable_button" = "Etkinleştir";
@@ -415,6 +416,7 @@
 "preferences_dashboard_show_section" = "Bölümü göster";
 "preferences_dashboard_number_of_clients" = "Müşteri sayısı";
 "preferences_dashboard_number_of_domains" = "Alan sayısı";
+"preferences_dashboard_number_of_upstreams" = "Number of upstreams";
 "preferences_dashboard_show_hostnames" = "Show instance hostnames";
 "preferences_dashboard_auto_refresh" = "Her dakika otomatik yenileme";
 "preferences_dashboard_extra_confirmation" = "Düğmeler için onay uyarısı";

@@ -21,6 +21,7 @@
 "dashboard_top-clients" = "客户端排行";
 "dashboard_top-queried" = "请求域名排行";
 "dashboard_top-blocked" = "被拦截域名排行";
+"dashboard_top-upstreams" = "Top Upstreams";
 "dashboard_avg_ms_%@" = "平均耗时 %@ 毫秒";
 "dashboard_confirmation_enable_%@" = "您确定要启用 %@ 吗？";
 "dashboard_confirmation_enable_button" = "启用";
@@ -415,6 +416,7 @@
 "preferences_dashboard_show_section" = "是否显示";
 "preferences_dashboard_number_of_clients" = "客户端数量";
 "preferences_dashboard_number_of_domains" = "域名数量";
+"preferences_dashboard_number_of_upstreams" = "Number of upstreams";
 "preferences_dashboard_show_hostnames" = "Show instance hostnames";
 "preferences_dashboard_auto_refresh" = "每分钟自动刷新";
 "preferences_dashboard_extra_confirmation" = "增加操作确认提示";

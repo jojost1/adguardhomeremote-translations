@@ -21,6 +21,7 @@
 "dashboard_top-clients" = "Κορυφαίοι πελάτες";
 "dashboard_top-queried" = "Κορυφαία ζητούμενα domain";
 "dashboard_top-blocked" = "Κορυφαία αποκλεισμένα domain";
+"dashboard_top-upstreams" = "Top Upstreams";
 "dashboard_avg_ms_%@" = "μέσος όρος %@ms";
 "dashboard_confirmation_enable_%@" = "Are you sure you want to enable %@?";
 "dashboard_confirmation_enable_button" = "Enable";
@@ -415,6 +416,7 @@
 "preferences_dashboard_show_section" = "Εμφάνιση ενότητας";
 "preferences_dashboard_number_of_clients" = "Αριθμός πελατών";
 "preferences_dashboard_number_of_domains" = "Αριθμός domain";
+"preferences_dashboard_number_of_upstreams" = "Αριθμός upstreams";
 "preferences_dashboard_show_hostnames" = "Show instance hostnames";
 "preferences_dashboard_auto_refresh" = "Auto-refresh every minute";
 "preferences_dashboard_extra_confirmation" = "Confirmation alert for buttons";

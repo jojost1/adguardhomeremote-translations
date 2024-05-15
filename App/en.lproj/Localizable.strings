@@ -21,6 +21,7 @@
 "dashboard_top-clients" = "Top Clients";
 "dashboard_top-queried" = "Top Queried Domains";
 "dashboard_top-blocked" = "Top Blocked Domains";
+"dashboard_top-upstreams" = "Top Upstreams";
 "dashboard_avg_ms_%@" = "avg %@ms";
 "dashboard_confirmation_enable_%@" = "Are you sure you want to enable %@?";
 "dashboard_confirmation_enable_button" = "Enable";
@@ -415,6 +416,7 @@
 "preferences_dashboard_show_section" = "Show section";
 "preferences_dashboard_number_of_clients" = "Number of clients";
 "preferences_dashboard_number_of_domains" = "Number of domains";
+"preferences_dashboard_number_of_upstreams" = "Number of upstreams";
 "preferences_dashboard_show_hostnames" = "Show instance hostnames";
 "preferences_dashboard_auto_refresh" = "Auto-refresh every minute";
 "preferences_dashboard_extra_confirmation" = "Confirmation alert for buttons";
