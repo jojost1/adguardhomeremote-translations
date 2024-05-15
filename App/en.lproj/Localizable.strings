@@ -26,7 +26,9 @@
 "dashboard_confirmation_enable_button" = "Enable";
 "dashboard_confirmation_disable_%@" = "Are you sure you want to disable %@?";
 "dashboard_confirmation_disable_button" = "Disable";
-"dashboard_jump_to_instance" = "Instance";
+"dashboard_jump_to_instance" = "Jump to";
+"dashboard_disable_all" = "Disable all";
+"dashboard_enable_all" = "Enable all";
 
 // MARK: - Query Log
 "querylog_tabbar" = "Query Log";

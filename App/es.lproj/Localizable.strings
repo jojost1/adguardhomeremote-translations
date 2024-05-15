@@ -26,7 +26,9 @@
 "dashboard_confirmation_enable_button" = "Habilitar";
 "dashboard_confirmation_disable_%@" = "¿Estás seguro de que deseas deshabilitar %@?";
 "dashboard_confirmation_disable_button" = "Deshabilitar";
-"dashboard_jump_to_instance" = "Instancia";
+"dashboard_jump_to_instance" = "Jump to";
+"dashboard_disable_all" = "Disable all";
+"dashboard_enable_all" = "Enable all";
 
 // MARK: - Query Log
 "querylog_tabbar" = "Consultas DNS";

@@ -26,7 +26,9 @@
 "dashboard_confirmation_enable_button" = "Включить";
 "dashboard_confirmation_disable_%@" = "Вы уверены, что хотите отключить %@?";
 "dashboard_confirmation_disable_button" = "Отключить";
-"dashboard_jump_to_instance" = "Выбрать сервер";
+"dashboard_jump_to_instance" = "Jump to";
+"dashboard_disable_all" = "Disable all";
+"dashboard_enable_all" = "Enable all";
 
 // MARK: - Query Log
 "querylog_tabbar" = "Журнал";
