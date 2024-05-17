@@ -418,6 +418,8 @@
 "preferences_dashboard_number_of_domains" = "網域之數量";
 "preferences_dashboard_number_of_upstreams" = "Number of upstreams";
 "preferences_dashboard_show_hostnames" = "顯示實例主機名稱";
+"preferences_dashboard_show_multipleInstanceToolbar" = "Show bottom toolbar";
+"preferences_dashboard_show_multipleInstanceToolbar_subtitle" = "only visible if you have multiple instances";
 "preferences_dashboard_auto_refresh" = "每分鐘自動重新整理";
 "preferences_dashboard_extra_confirmation" = "作為按鈕的確認警報";
 "preferences_querylog_show_sidebar" = "顯示側邊欄";

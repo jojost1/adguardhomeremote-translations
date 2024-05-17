@@ -418,6 +418,8 @@
 "preferences_dashboard_number_of_domains" = "Número de dominios";
 "preferences_dashboard_number_of_upstreams" = "Número de upstreams";
 "preferences_dashboard_show_hostnames" = "Show instance hostnames";
+"preferences_dashboard_show_multipleInstanceToolbar" = "Show bottom toolbar";
+"preferences_dashboard_show_multipleInstanceToolbar_subtitle" = "only visible if you have multiple instances";
 "preferences_dashboard_auto_refresh" = "Actualiza automáticamente cada minuto";
 "preferences_dashboard_extra_confirmation" = "Pedir confirmación en los botones";
 "preferences_querylog_show_sidebar" = "Muestra el panel lateral";

@@ -418,6 +418,8 @@
 "preferences_dashboard_number_of_domains" = "표시할 도메인 수";
 "preferences_dashboard_number_of_upstreams" = "Number of upstreams";
 "preferences_dashboard_show_hostnames" = "Show instance hostnames";
+"preferences_dashboard_show_multipleInstanceToolbar" = "Show bottom toolbar";
+"preferences_dashboard_show_multipleInstanceToolbar_subtitle" = "only visible if you have multiple instances";
 "preferences_dashboard_auto_refresh" = "1분마다 자동 새로고침";
 "preferences_dashboard_extra_confirmation" = "버튼에 대한 확인 알림";
 "preferences_querylog_show_sidebar" = "사이드바 표시";

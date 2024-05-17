@@ -418,6 +418,8 @@
 "preferences_dashboard_number_of_domains" = "Aantal domeinen";
 "preferences_dashboard_number_of_upstreams" = "Aantal upstreams";
 "preferences_dashboard_show_hostnames" = "Hostnamen van instanties weergeven";
+"preferences_dashboard_show_multipleInstanceToolbar" = "Toolbar weergeven";
+"preferences_dashboard_show_multipleInstanceToolbar_subtitle" = "alleen zichtbaar als je meerdere instanties hebt";
 "preferences_dashboard_auto_refresh" = "Ververs automatisch elke minuut";
 "preferences_dashboard_extra_confirmation" = "Extra bevestiging voor status knoppen";
 "preferences_querylog_show_sidebar" = "Toon zijbalk";

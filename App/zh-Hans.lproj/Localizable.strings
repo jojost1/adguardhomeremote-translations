@@ -418,6 +418,8 @@
 "preferences_dashboard_number_of_domains" = "域名数量";
 "preferences_dashboard_number_of_upstreams" = "Number of upstreams";
 "preferences_dashboard_show_hostnames" = "Show instance hostnames";
+"preferences_dashboard_show_multipleInstanceToolbar" = "Show bottom toolbar";
+"preferences_dashboard_show_multipleInstanceToolbar_subtitle" = "only visible if you have multiple instances";
 "preferences_dashboard_auto_refresh" = "每分钟自动刷新";
 "preferences_dashboard_extra_confirmation" = "增加操作确认提示";
 "preferences_querylog_show_sidebar" = "显示侧边栏";

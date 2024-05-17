@@ -418,6 +418,8 @@
 "preferences_dashboard_number_of_domains" = "Alan sayısı";
 "preferences_dashboard_number_of_upstreams" = "Number of upstreams";
 "preferences_dashboard_show_hostnames" = "Show instance hostnames";
+"preferences_dashboard_show_multipleInstanceToolbar" = "Show bottom toolbar";
+"preferences_dashboard_show_multipleInstanceToolbar_subtitle" = "only visible if you have multiple instances";
 "preferences_dashboard_auto_refresh" = "Her dakika otomatik yenileme";
 "preferences_dashboard_extra_confirmation" = "Düğmeler için onay uyarısı";
 "preferences_querylog_show_sidebar" = "Kenar çubuğunu göster";

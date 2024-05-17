@@ -420,6 +420,8 @@
 "preferences_dashboard_number_of_domains" = "Количество доменов";
 "preferences_dashboard_number_of_upstreams" = "Number of upstreams";
 "preferences_dashboard_show_hostnames" = "Show instance hostnames";
+"preferences_dashboard_show_multipleInstanceToolbar" = "Show bottom toolbar";
+"preferences_dashboard_show_multipleInstanceToolbar_subtitle" = "only visible if you have multiple instances";
 "preferences_dashboard_auto_refresh" = "Автоматическое обновление каждую минуту";
 "preferences_dashboard_extra_confirmation" = "Просить подтверждения для кнопок";
 "preferences_querylog_show_sidebar" = "Показывать боковую панель";
