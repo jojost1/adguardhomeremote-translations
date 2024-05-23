@@ -461,7 +461,7 @@
 "settings_other" = "Autres";
 "settings_pro" = "Pro";
 "settings_leave_review" = "Laisser un commentaire";
-"settings_twitter" = "Suivre sur Twitter";
+"settings_x" = "Suivre sur X";
 "settings_changelog" = "Quoi de neuf";
 "settings_adguard-website" = "Site Web d’AdGuard";
 
@@ -561,7 +561,7 @@
 "rocketscience_hi_title" = "Bonjour, je suis Joost !";
 "rocketscience_hi_subtitle" = "En juin 2020 J’ai commencé à créer mes propres applications en tant que développeur indépendant, sous le nom de « RocketScience IT ».\n\nMon objectif principal est d’apprendre : la conception, le développement, les tests, le support, la promotion - peut-être même plus ! Pour le moment, j’ai deux applications sur l'App Store que j’améliore en permanence et j’ai de nombreuses idées pour d’autres applications que je pourrais vouloir créer à l’avenir.";
 "rocketscience_website" = "Site Web";
-"rocketscience_twitter" = "Twitter";
+"rocketscience_x" = "X";
 "rocketscience_tipjar" = "Pourboire";
 "rocketscience_tipjar_thankyou" = "Merci !";
 "rocketscience_my_other_apps" = "Mes autres apps";

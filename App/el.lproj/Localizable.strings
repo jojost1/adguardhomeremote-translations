@@ -461,7 +461,7 @@
 "settings_other" = "Άλλα";
 "settings_pro" = "Pro";
 "settings_leave_review" = "Αφήστε μια κριτική";
-"settings_twitter" = "Ακολουθήστε στο Twitter";
+"settings_x" = "Ακολουθήστε στο X";
 "settings_changelog" = "Τι νέο υπάρχει";
 "settings_adguard-website" = "Ιστοσελίδα AdGuard";
 
@@ -561,7 +561,7 @@
 "rocketscience_hi_title" = "Γεια, είμαι ο Joost!";
 "rocketscience_hi_subtitle" = "Τον Ιούνιο του 2020 ξεκίνησα να φτιάχνω τις δικές μου εφαρμογές σαν ανεξάρτητος προγραμματιστής, με το όνομα «RocketScience IT».\n\nΟ κύριος στόχος μου είναι να μάθω: σχεδιασμό, προγραμματισμό, δοκιμή, υποστήριξη, προώθηση - ίσως ακόμη περισσότερα! Αυτή τη στιγμή, έχω δύο εφαρμογές στο App Store τις οποίες συνεχώς βελτιώνω & έχω πολλές ιδέες για άλλες εφαρμογές που ίσως θέλω να φτιάξω στο μέλλον.";
 "rocketscience_website" = "Ιστοσελίδα";
-"rocketscience_twitter" = "Twitter";
+"rocketscience_x" = "X";
 "rocketscience_tipjar" = "Βάζο φιλοδωρημάτων";
 "rocketscience_tipjar_thankyou" = "Ευχαριστώ!";
 "rocketscience_my_other_apps" = "Οι άλλες εφαρμογές μου";

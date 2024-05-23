@@ -461,7 +461,7 @@
 "settings_other" = "Diğer";
 "settings_pro" = "Pro";
 "settings_leave_review" = "Yorum Yap";
-"settings_twitter" = "Twitter'da takip et";
+"settings_x" = "X'da takip et";
 "settings_changelog" = "Değişiklik Günlüğü";
 "settings_adguard-website" = "AdGuard Web sitesi";
 
@@ -561,7 +561,7 @@
 "rocketscience_hi_title" = "Merhaba, Ben Joost!";
 "rocketscience_hi_subtitle" = "Haziran 2020'de bağımsız bir geliştirici olarak kendi uygulamalarımı oluşturmaya başladım,'RocketScience IT' adı altında.\n\nAna hedefim öğrenmek: tasarım, geliştirme, test etme, destek, promosyon - belki daha da fazla! Şu anda mağazada sürekli geliştirdiğim bazı uygulamalar var ve gelecekte yapmak isteyebileceğim diğer uygulamalar için birçok fikrim var.";
 "rocketscience_website" = "Web sitesi";
-"rocketscience_twitter" = "Twitter";
+"rocketscience_x" = "X";
 "rocketscience_tipjar" = "Bahşiş Kavanozu";
 "rocketscience_tipjar_thankyou" = "Teşekkürler!";
 "rocketscience_my_other_apps" = "Diğer uygulamalarım";

@@ -461,7 +461,7 @@
 "settings_other" = "Sonstiges";
 "settings_pro" = "Remote Pro";
 "settings_leave_review" = "Bewertung hinterlassen";
-"settings_twitter" = "Auf Twitter folgen";
+"settings_x" = "Auf X folgen";
 "settings_changelog" = "Neuerungen";
 "settings_adguard-website" = "AdGuard Webseite";
 
@@ -562,7 +562,7 @@
 "rocketscience_hi_subtitle" = "Im Juni 2020 habe ich begonnen, meine eigenen Apps als unabhängiger Entwickler unter dem Namen 'RocketScience IT' zu entwickeln.\n\nMein Hauptziel ist es, mich in den Bereichen Design, Entwicklung, Testen, Support und Promotion (vielleicht sogar bald mehr) stetig zu verbessern und in diesen weiter zu lernen.\n\nMomentan habe ich sechs weitere
 Apps, welche ich ebenfalls kontinuierlich verbessere, im AppStore veröffentlicht. Außerdem habe ich auch bereits viele Ideen für weitere Apps, die ich zukünftig entwickeln möchte.";
 "rocketscience_website" = "Webseite";
-"rocketscience_twitter" = "Twitter";
+"rocketscience_x" = "X";
 "rocketscience_tipjar" = "Spenden";
 "rocketscience_tipjar_thankyou" = "Vielen Dank!";
 "rocketscience_my_other_apps" = "Meine anderen Apps";

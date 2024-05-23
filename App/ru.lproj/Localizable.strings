@@ -463,7 +463,7 @@
 "settings_other" = "Прочее";
 "settings_pro" = "Pro";
 "settings_leave_review" = "Оставить отзыв";
-"settings_twitter" = "Подписывайтесь на Twitter";
+"settings_x" = "Подписывайтесь на X";
 "settings_changelog" = "Что нового";
 "settings_adguard-website" = "Официальный сайт AdGuard";
 
@@ -563,7 +563,7 @@
 "rocketscience_hi_title" = "Привет, я Joost!";
 "rocketscience_hi_subtitle" = "В июне 2020 года я начал создавать свои собственные приложения в качестве независимого разработчика под названием 'RocketScience IT'.\n\nМоя главная цель - научиться: дизайну, разработке, тестированию, поддержке, продвижению - возможно, даже большему! Прямо сейчас у меня есть несколько приложений в магазине, которые я постоянно совершенствую, и у меня есть много идей для других приложений, которые я, возможно, захочу создать в будущем.";
 "rocketscience_website" = "Мой Вебсайт";
-"rocketscience_twitter" = "Twitter";
+"rocketscience_x" = "X";
 "rocketscience_tipjar" = "Дать чаевые";
 "rocketscience_tipjar_thankyou" = "Спасибо!";
 "rocketscience_my_other_apps" = "Мои другие приложения";

@@ -461,7 +461,7 @@
 "settings_other" = "기타";
 "settings_pro" = "Pro";
 "settings_leave_review" = "리뷰 남기기";
-"settings_twitter" = "Twitter 팔로우";
+"settings_x" = "X 팔로우";
 "settings_changelog" = "새로운 소식";
 "settings_adguard-website" = "AdGuard 웹사이트";
 
@@ -561,7 +561,7 @@
 "rocketscience_hi_title" = "안녕하세요, 저는 Joost 입니다!";
 "rocketscience_hi_subtitle" = "2020년 6월에 독립 개발자로서 'RocketScience IT'라는 이름으로 나만의 앱을 구축하기 시작했습니다.\n\n제 주요 목표는 디자인, 개발, 테스트, 지원, 프로모션 - 어쩌면 더 많을 수도 있습니다! 을 배우는 것입니다. 현재 스토어에는 지속적으로 개선하고 있는 몇 가지 앱이 있으며, 앞으로 만들고 싶은 다른 앱에 대한 많은 아이디어가 있습니다.";
 "rocketscience_website" = "웹사이트";
-"rocketscience_twitter" = "Twitter";
+"rocketscience_x" = "X";
 "rocketscience_tipjar" = "팁 제공";
 "rocketscience_tipjar_thankyou" = "감사합니다!";
 "rocketscience_my_other_apps" = "다른 앱";

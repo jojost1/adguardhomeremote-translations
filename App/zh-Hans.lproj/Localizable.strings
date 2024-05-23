@@ -461,7 +461,7 @@
 "settings_other" = "其他";
 "settings_pro" = "Pro";
 "settings_leave_review" = "发表评论";
-"settings_twitter" = "在 Twitter 上关注";
+"settings_x" = "在 X 上关注";
 "settings_changelog" = "新增功能";
 "settings_adguard-website" = "AdGuard 主页";
 
@@ -561,7 +561,7 @@
 "rocketscience_hi_title" = "您好，我是 Joost!";
 "rocketscience_hi_subtitle" = "2020年7月起，我开始以 'RocketScience IT' 的名义，作为独立开发者编写我的 App。\n\n我的主要目的是为了学习：设计、开发、测试、支持、营销，可能甚至比这些还要多! 眼下在 App Store 上我有两个持续更新的 App，并且我还有很多其他关于 App 的想法在未来可能会着手制作出来。";
 "rocketscience_website" = "网站";
-"rocketscience_twitter" = "Twitter";
+"rocketscience_x" = "X";
 "rocketscience_tipjar" = "小费罐";
 "rocketscience_tipjar_thankyou" = "万分感谢!";
 "rocketscience_my_other_apps" = "我的其他 App";

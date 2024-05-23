@@ -461,7 +461,7 @@
 "settings_other" = "Altres";
 "settings_pro" = "Pro";
 "settings_leave_review" = "Deixa una ressenya";
-"settings_twitter" = "Segueix-me a Twitter";
+"settings_x" = "Segueix-me a X";
 "settings_changelog" = "Novetats";
 "settings_adguard-website" = "Pàgina web d'AdGuard";
 
@@ -561,7 +561,7 @@
 "rocketscience_hi_title" = "Hola, soc en Joost!";
 "rocketscience_hi_subtitle" = "Al Juny de 2020 vaig començar de desenvolupar aplicacions com a desenvolupador independent sota el nom 'RocketScience IT'.\n\nEl meu principal objectiu es aprendre disseny, desenvolupament, proves, suport, promoció i molt mes. Ara mateix tinc dues aplicacions a l'App Store que milloro constantment. També tinc moltes idees per a noves aplicacions que potser acabaré creant en un futur.";
 "rocketscience_website" = "Pàgina Web";
-"rocketscience_twitter" = "Twitter";
+"rocketscience_x" = "X";
 "rocketscience_tipjar" = "Propines";
 "rocketscience_tipjar_thankyou" = "Gràcies!";
 "rocketscience_my_other_apps" = "Les meves altres aplicacions";
