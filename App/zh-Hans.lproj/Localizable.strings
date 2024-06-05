@@ -21,15 +21,15 @@
 "dashboard_top-clients" = "客户端排行";
 "dashboard_top-queried" = "请求域名排行";
 "dashboard_top-blocked" = "被拦截域名排行";
-"dashboard_top-upstreams" = "Top Upstreams";
+"dashboard_top-upstreams" = "经常请求的上游服务器";
 "dashboard_avg_ms_%@" = "平均耗时 %@ 毫秒";
 "dashboard_confirmation_enable_%@" = "您确定要启用 %@ 吗？";
 "dashboard_confirmation_enable_button" = "启用";
 "dashboard_confirmation_disable_%@" = "您确定要禁用 %@ 吗？";
 "dashboard_confirmation_disable_button" = "禁用";
-"dashboard_jump_to_instance" = "Jump to";
-"dashboard_disable_all" = "Disable all";
-"dashboard_enable_all" = "Enable all";
+"dashboard_jump_to_instance" = "跳转至";
+"dashboard_disable_all" = "全部禁用";
+"dashboard_enable_all" = "全部启用";
 
 // MARK: - Query Log
 "querylog_tabbar" = "查询日志";
@@ -134,8 +134,8 @@
 "settings_validation_port" = "请输入有效的端口号";
 
 // MARK: Instance Settings
-"settings_instances" = "Instances";
-"settings_reorder" = "Reorder";
+"settings_instances" = "实例";
+"settings_reorder" = "重新排序";
 "settings_add-instance" = "添加实例";
 "settings_edit-instance" = "编辑";
 "settings_general" = "常规设置";
@@ -416,14 +416,14 @@
 "preferences_dashboard_show_section" = "是否显示";
 "preferences_dashboard_number_of_clients" = "客户端数量";
 "preferences_dashboard_number_of_domains" = "域名数量";
-"preferences_dashboard_number_of_upstreams" = "Number of upstreams";
-"preferences_dashboard_show_hostnames" = "Show instance hostnames";
-"preferences_dashboard_show_multipleInstanceToolbar" = "Show bottom toolbar";
-"preferences_dashboard_show_multipleInstanceToolbar_subtitle" = "only visible if you have multiple instances";
+"preferences_dashboard_number_of_upstreams" = "上游服务器数量";
+"preferences_dashboard_show_hostnames" = "显示实例主机名";
+"preferences_dashboard_show_multipleInstanceToolbar" = "显示底部工具栏";
+"preferences_dashboard_show_multipleInstanceToolbar_subtitle" = "仅在您有多个实例时可见";
 "preferences_dashboard_auto_refresh" = "每分钟自动刷新";
 "preferences_dashboard_extra_confirmation" = "增加操作确认提示";
 "preferences_querylog_show_sidebar" = "显示侧边栏";
-"preferences_querylog_show_live_log" = "Show Live Log";
+"preferences_querylog_show_live_log" = "显示动态日志";
 "preferences_other" = "其他";
 "preferences_live_activity" = "实时活动";
 "preferences_language" = "语言";
@@ -533,7 +533,7 @@
 
 // MARK: Pro Features
 "pro_view_queries" = "查看 25 条以上的请求并可设置筛选";
-"pro_livelog" = "查看活动查询日志";
+"pro_livelog" = "查看动态日志";
 "pro_manage_clients" = "管理客户端";
 "pro_manage_filters" = "管理过滤器";
 "pro_manage_custom_filter_rules" = "管理自定义过滤规则";
