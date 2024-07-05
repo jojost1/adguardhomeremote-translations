@@ -654,7 +654,7 @@
 "for_%lld_hours_short" = "%lld 小時";
 
 // MARK: Apple Watch
-"loading_instances_icloud" = "正在從 iCloud 載入實例…";
+"loading_instances_iphone" = "正在從 iPhone 載入實例…";
 "watch_stuck_reinstall" = "這可能需要一段時間。如果此應用程式卡在轉盤上，請嘗試重新安裝它。為該不便而抱歉！";
 
 // MARK: App Intents, Shortcuts, Siri

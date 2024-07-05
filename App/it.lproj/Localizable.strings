@@ -654,7 +654,7 @@
 "for_%lld_hours_short" = "%lld Stunden";
 
 // MARK: Apple Watch
-"loading_instances_icloud" = "Download delle istanze da iCloud in corso...";
+"loading_instances_iphone" = "Download delle istanze da iPhone in corso...";
 "watch_stuck_reinstall" = "Potrebbe volerci un po. Se l'app rimane bloccata sullo schermo, per favore prova a reinstallarla. Scusa per l'inconveniente!";
 
 // MARK: App Intents, Shortcuts, Siri

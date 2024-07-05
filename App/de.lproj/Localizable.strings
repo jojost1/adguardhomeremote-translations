@@ -655,7 +655,7 @@ Apps, welche ich ebenfalls kontinuierlich verbessere, im AppStore veröffentlich
 "for_%lld_hours_short" = "%lld Stunden";
 
 // MARK: Apple Watch
-"loading_instances_icloud" = "Lädt Instanzen aus iCloud...";
+"loading_instances_iphone" = "Lädt Instanzen aus iPhone...";
 "watch_stuck_reinstall" = "Dies kann eine Weile dauern. Wenn die App bei diesem Vorgang stecken bleibt, versuche bitte eine App-Neuinstallation.";
 
 // MARK: App Intents, Shortcuts, Siri

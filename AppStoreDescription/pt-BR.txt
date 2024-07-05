@@ -1,0 +1,45 @@
+AdGuard Home Remote faz o gerenciamento do seu AdGuard Home rápido e fácil. Você pode ativar ou desativar rapidamente recursos de bloqueio, bem como visualizar estatísticas como principais clientes e domínios. Gerencie seus clientes, filtros, regras de DNS e mais.
+
+*Controlando o Bloqueio*
+Você pode ativar ou desativar rapidamente o filtro e a navegação segura/pesquisa. Também é possível gerenciar configurações específicas para seus clientes!
+
+*Estatísticas*
+Visualize gráficos das suas consultas, bem como principais clientes e domínios. Pesquise através do Log de Consultas com informações detalhadas de solicitação e resposta.
+
+*Gerenciando Configurações*
+Adicione ou edite seus clientes, adicione novos filtros ou desative-os temporariamente, atualize seus filtros, edite serviços bloqueados, gerencie configurações de DHCP e DNS, crie novas regras de DNS ou edite configurações do Log de Consultas.
+
+*Atividade ao Vivo e Widgets Interativos*
+A Atividade ao Vivo, assim como o suporte extensivo para widgets na Tela Inicial e na Tela de Bloqueio, tornam o controle do seu AdGuard Home simples e fácil!
+
+*iPhone, iPad, Mac, Watch*
+Especificamente desenvolvido para ser o melhor aplicativo em todas as plataformas.
+
+==
+
+Características:
+- Controle de Filtro e Navegação Segura/Pesquisa
+- Visualização de estatísticas básicas e avançadas
+- Log de Consultas com pesquisa e filtros
+- Log ao Vivo mostrando consultas em tempo real (requer Pro)
+- Gerenciar Clientes, incluindo configurações de filtro, serviços bloqueados e tags (requer Pro)
+- Gerenciar Filtros, incluindo listas de bloqueio e permitidos e regras de filtro personalizadas (requer Pro)
+- Gerenciar configurações de DHCP, incluindo concessões estáticas (requer Pro)
+- Gerenciar configurações de DNS (requer Pro)
+- Gerenciar regras de DNS (requer Pro)
+- Suporte para múltiplas instâncias (requer Pro)
+- Widgets Interativos
+- Atividade ao Vivo
+- Atalhos da Siri
+- Sincronização iCloud entre iPhone, iPad e Apple Watch
+- Esquemas de cores e ícones de aplicativos personalizáveis
+- Suporte para iOS, iPadOS, macOS, watchOS
+- Design 100% SwiftUI limpo e moderno
+
+*AdGuard Home Remote Pro:
+Recursos adicionais são desbloqueados com uma compra única, que também suportará o desenvolvimento futuro.
+
+==
+
+Nota:
+AdGuard Home Remote é um aplicativo de terceiros e não está diretamente afiliado ao AdGuard. Para mais informações sobre o AdGuard Home, visite https://adguard.com/adguard-home/overview.html.

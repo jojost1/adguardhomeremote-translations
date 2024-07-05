@@ -654,7 +654,7 @@
 "for_%lld_hours_short" = "%lld Stunden";
 
 // MARK: Apple Watch
-"loading_instances_icloud" = "iCloud'dan örnekler yükleniyor...";
+"loading_instances_iphone" = "iPhone'dan örnekler yükleniyor...";
 "watch_stuck_reinstall" = "Bu biraz zaman alabilir. Uygulama bu döndürücüde takılı kalırsa, lütfen uygulamayı yeniden yüklemeyi deneyin. Rahatsızlıktan dolayı özür dileriz!";
 
 // MARK: App Intents, Shortcuts, Siri

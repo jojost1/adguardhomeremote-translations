@@ -654,7 +654,7 @@
 "for_%lld_hours_short" = "%lld Stunden";
 
 // MARK: Apple Watch
-"loading_instances_icloud" = "Loading instances from iCloud...";
+"loading_instances_iphone" = "Loading instances from iPhone...";
 "watch_stuck_reinstall" = "This can take a while. If the app is stuck on this spinner, please try a reinstall of the app. Sorry for the inconvenience!";
 
 // MARK: App Intents, Shortcuts, Siri
