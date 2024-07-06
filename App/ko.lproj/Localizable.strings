@@ -126,6 +126,8 @@
 "instance_authentication_username_placeholder" = "사용자 이름";
 "instance_authentication_password_placeholder" = "비밀번호";
 "instance_other" = "기타";
+"instance_custom_headers" = "Custom Headers";
+"instance_add_custom_header" = "Add custom header";
 "instance_hide" = "인스턴스 숨기기";
 "instance_test_connection" = "연결 테스트";
 "instance_remove" = "인스턴스 삭제";

@@ -126,6 +126,8 @@
 "instance_authentication_username_placeholder" = "Имя пользователя";
 "instance_authentication_password_placeholder" = "Пароль";
 "instance_other" = "Другое";
+"instance_custom_headers" = "Custom Headers";
+"instance_add_custom_header" = "Add custom header";
 "instance_hide" = "Скрыть сервер";
 "instance_test_connection" = "Проверить соединение";
 "instance_remove" = "Удалить сервер";

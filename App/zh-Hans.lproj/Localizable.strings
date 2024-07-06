@@ -126,6 +126,8 @@
 "instance_authentication_username_placeholder" = "用户名";
 "instance_authentication_password_placeholder" = "密码";
 "instance_other" = "其他";
+"instance_custom_headers" = "Custom Headers";
+"instance_add_custom_header" = "Add custom header";
 "instance_hide" = "隐藏实例";
 "instance_test_connection" = "测试连接";
 "instance_remove" = "删除实例";

@@ -126,6 +126,8 @@
 "instance_authentication_username_placeholder" = "Usuari";
 "instance_authentication_password_placeholder" = "Contrasenya";
 "instance_other" = "Altres";
+"instance_custom_headers" = "Custom Headers";
+"instance_add_custom_header" = "Add custom header";
 "instance_hide" = "Amagar servidor";
 "instance_test_connection" = "Provar connexió";
 "instance_remove" = "Borrar servidor";

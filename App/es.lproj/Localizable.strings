@@ -126,6 +126,8 @@
 "instance_authentication_username_placeholder" = "Usuario";
 "instance_authentication_password_placeholder" = "Contraseña";
 "instance_other" = "Otros";
+"instance_custom_headers" = "Custom Headers";
+"instance_add_custom_header" = "Add custom header";
 "instance_hide" = "Ocultar instancia";
 "instance_test_connection" = "Probar conexión";
 "instance_remove" = "Eliminar instancia";

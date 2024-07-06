@@ -126,6 +126,8 @@
 "instance_authentication_username_placeholder" = "Gebruikersnaam";
 "instance_authentication_password_placeholder" = "Wachtwoord";
 "instance_other" = "Overig";
+"instance_custom_headers" = "Extra Headers";
+"instance_add_custom_header" = "Voeg extra header toe";
 "instance_hide" = "Verberg instantie";
 "instance_test_connection" = "Test verbinding";
 "instance_remove" = "Verwijder Instantie";

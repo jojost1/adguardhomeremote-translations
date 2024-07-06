@@ -126,6 +126,8 @@
 "instance_authentication_username_placeholder" = "Kullanıcı Adı";
 "instance_authentication_password_placeholder" = "Şifre";
 "instance_other" = "Diğer";
+"instance_custom_headers" = "Custom Headers";
+"instance_add_custom_header" = "Add custom header";
 "instance_hide" = "Örneği gizle";
 "instance_test_connection" = "Bağlantıyı test et";
 "instance_remove" = "Örneği kaldır";
