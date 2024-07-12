@@ -126,8 +126,8 @@
 "instance_authentication_username_placeholder" = "使用者名稱";
 "instance_authentication_password_placeholder" = "密碼";
 "instance_other" = "其它";
-"instance_custom_headers" = "Custom Headers";
-"instance_add_custom_header" = "Add custom header";
+"instance_custom_headers" = "自訂的標題";
+"instance_add_custom_header" = "新增自訂的標題";
 "instance_hide" = "隱藏實例";
 "instance_test_connection" = "測試連線";
 "instance_remove" = "移除實例";
