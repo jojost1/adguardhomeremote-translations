@@ -126,6 +126,8 @@
 "instance_authentication_username_placeholder" = "Usuari";
 "instance_authentication_password_placeholder" = "Contrasenya";
 "instance_other" = "Altres";
+"instance_custom_headers" = "Custom Headers";
+"instance_add_custom_header" = "Add custom header";
 "instance_hide" = "Amagar servidor";
 "instance_test_connection" = "Provar connexió";
 "instance_remove" = "Borrar servidor";
@@ -486,7 +488,7 @@
 "design_app_icon" = "Icona de l'aplicació";
 "design_app_icon_original" = "Original";
 "design_app_icon_inverse" = "Invertit";
-"design_app_icon_dark" = "Fosc";
+"design_app_icon_blackwhite" = "Fosc";
 "design_app_icon_blueprint" = "Planell";
 "design_app_icon_pride" = "Orgull";
 "design_theme" = "Tema";
@@ -637,6 +639,7 @@
 "7d" = "7 dies";
 "30d" = "30 dies";
 "90d" = "90 dies";
+"indefinitely" = "Indefinitely";
 
 // MARK: Widgets
 "widget_dashboard" = "Tauler de control";
@@ -708,3 +711,7 @@
 "dns_blocked_response_ttl" = "Blocked response TTL";
 "dns_blocked_response_ttl_explainer" = "Specifies for how many seconds the clients should cache a filtered response";
 "querydetail_check_again" = "Check again";
+
+// MARK: Live Activity
+"liveactivity_time_remaining" = "Time remaining";
+"liveactivity_ends" = "Ends";

@@ -126,6 +126,8 @@
 "instance_authentication_username_placeholder" = "Όνομα χρήστη";
 "instance_authentication_password_placeholder" = "Κωδικός πρόσβασης";
 "instance_other" = "Άλλα";
+"instance_custom_headers" = "Custom Headers";
+"instance_add_custom_header" = "Add custom header";
 "instance_hide" = "Απόκρυψη εκδοχής";
 "instance_test_connection" = "Δοκιμή σύνδεσης";
 "instance_remove" = "Αφαίρεση εκδοχής";
@@ -486,7 +488,7 @@
 "design_app_icon" = "Εικονίδιο εφαρμογής";
 "design_app_icon_original" = "Πρωτότυπo";
 "design_app_icon_inverse" = "Αντίστροφο";
-"design_app_icon_dark" = "Σκούρο";
+"design_app_icon_blackwhite" = "Σκούρο";
 "design_app_icon_blueprint" = "Blueprint";
 "design_app_icon_pride" = "Pride";
 "design_theme" = "Θέμα";
@@ -637,6 +639,7 @@
 "7d" = "7 ημέρες";
 "30d" = "30 ημέρες";
 "90d" = "90 ημέρες";
+"indefinitely" = "Indefinitely";
 
 // MARK: Widgets
 "widget_dashboard" = "Widget αρχικής";
@@ -708,3 +711,7 @@
 "dns_blocked_response_ttl" = "Blocked response TTL";
 "dns_blocked_response_ttl_explainer" = "Specifies for how many seconds the clients should cache a filtered response";
 "querydetail_check_again" = "Check again";
+
+// MARK: Live Activity
+"liveactivity_time_remaining" = "Time remaining";
+"liveactivity_ends" = "Ends";

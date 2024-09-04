@@ -126,6 +126,8 @@
 "instance_authentication_username_placeholder" = "Ім'я користувача";
 "instance_authentication_password_placeholder" = "Пароль";
 "instance_other" = "Інше";
+"instance_custom_headers" = "Custom Headers";
+"instance_add_custom_header" = "Add custom header";
 "instance_hide" = "Сховати сервер";
 "instance_test_connection" = "Перевірити з'єднання";
 "instance_remove" = "Видалити сервер";
@@ -488,7 +490,7 @@
 "design_app_icon" = "Піктограма програми";
 "design_app_icon_original" = "Оригінальний";
 "design_app_icon_inverse" = "Інвертований";
-"design_app_icon_dark" = "Темний";
+"design_app_icon_blackwhite" = "Темний";
 "design_app_icon_blueprint" = "Чортежний";
 "design_app_icon_pride" = "Pride";
 "design_theme" = "Тема";
@@ -639,6 +641,7 @@
 "7d" = "7 днів";
 "30d" = "30 днів";
 "90d" = "90 днів";
+"indefinitely" = "Indefinitely";
 
 // MARK: Widgets
 "widget_dashboard" = "Віджет інформаційної панелі";
@@ -710,3 +713,7 @@
 "dns_blocked_response_ttl" = "Blocked response TTL";
 "dns_blocked_response_ttl_explainer" = "Specifies for how many seconds the clients should cache a filtered response";
 "querydetail_check_again" = "Check again";
+
+// MARK: Live Activity
+"liveactivity_time_remaining" = "Time remaining";
+"liveactivity_ends" = "Ends";

@@ -126,6 +126,8 @@
 "instance_authentication_username_placeholder" = "Gebruikersnaam";
 "instance_authentication_password_placeholder" = "Wachtwoord";
 "instance_other" = "Overig";
+"instance_custom_headers" = "Extra Headers";
+"instance_add_custom_header" = "Voeg extra header toe";
 "instance_hide" = "Verberg instantie";
 "instance_test_connection" = "Test verbinding";
 "instance_remove" = "Verwijder Instantie";
@@ -486,7 +488,7 @@
 "design_app_icon" = "App Icoon";
 "design_app_icon_original" = "Origineel";
 "design_app_icon_inverse" = "Inverse";
-"design_app_icon_dark" = "Donker";
+"design_app_icon_blackwhite" = "Zwart-wit";
 "design_app_icon_blueprint" = "Blauwdruk";
 "design_app_icon_pride" = "Pride";
 "design_theme" = "Thema";
@@ -637,6 +639,7 @@
 "7d" = "7 dagen";
 "30d" = "30 dagen";
 "90d" = "90 dagen";
+"indefinitely" = "Onbeperkt";
 
 // MARK: Widgets
 "widget_dashboard" = "Dashboard Widget";
@@ -710,3 +713,7 @@
 "dns_blocked_response_ttl" = "Geblokkeerde reactie TTL";
 "dns_blocked_response_ttl_explainer" = "Hiermee geef je op hoeveel seconden de clients een gefilterd antwoord in de cache moeten opslaan";
 "querydetail_check_again" = "Check opnieuw";
+
+// MARK: Live Activity
+"liveactivity_time_remaining" = "Tijd resterend";
+"liveactivity_ends" = "Eindigt";

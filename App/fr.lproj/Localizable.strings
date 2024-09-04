@@ -126,6 +126,8 @@
 "instance_authentication_username_placeholder" = "Nom d’utilisateur";
 "instance_authentication_password_placeholder" = "Mot de passe";
 "instance_other" = "Autre";
+"instance_custom_headers" = "Custom Headers";
+"instance_add_custom_header" = "Add custom header";
 "instance_hide" = "Masquer l’instance";
 "instance_test_connection" = "Tester la connexion";
 "instance_remove" = "Supprimer l’instance";
@@ -486,7 +488,7 @@
 "design_app_icon" = "Icône de l’app";
 "design_app_icon_original" = "Originale";
 "design_app_icon_inverse" = "Inversé";
-"design_app_icon_dark" = "Sombre";
+"design_app_icon_blackwhite" = "Sombre";
 "design_app_icon_blueprint" = "Blueprint";
 "design_app_icon_pride" = "Pride";
 "design_theme" = "Thème";
@@ -637,6 +639,7 @@
 "7d" = "7 jours";
 "30d" = "30 jours";
 "90d" = "90 jours";
+"indefinitely" = "Indefinitely";
 
 // MARK: Widgets
 "widget_dashboard" = "Widget du tableau de bord";
@@ -708,3 +711,7 @@
 "dns_blocked_response_ttl" = "Blocked response TTL";
 "dns_blocked_response_ttl_explainer" = "Specifies for how many seconds the clients should cache a filtered response";
 "querydetail_check_again" = "Check again";
+
+// MARK: Live Activity
+"liveactivity_time_remaining" = "Time remaining";
+"liveactivity_ends" = "Ends";

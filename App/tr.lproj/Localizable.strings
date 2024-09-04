@@ -126,6 +126,8 @@
 "instance_authentication_username_placeholder" = "Kullanıcı Adı";
 "instance_authentication_password_placeholder" = "Şifre";
 "instance_other" = "Diğer";
+"instance_custom_headers" = "Custom Headers";
+"instance_add_custom_header" = "Add custom header";
 "instance_hide" = "Örneği gizle";
 "instance_test_connection" = "Bağlantıyı test et";
 "instance_remove" = "Örneği kaldır";
@@ -486,7 +488,7 @@
 "design_app_icon" = "Uygulama İkonu";
 "design_app_icon_original" = "Orijinal";
 "design_app_icon_inverse" = "Ters";
-"design_app_icon_dark" = "Karanlık";
+"design_app_icon_blackwhite" = "Karanlık";
 "design_app_icon_blueprint" = "Taslak";
 "design_app_icon_pride" = "Gurur";
 "design_theme" = "Theme";
@@ -637,6 +639,7 @@
 "7d" = "7 gün";
 "30d" = "30 gün";
 "90d" = "90 gün";
+"indefinitely" = "Indefinitely";
 
 // MARK: Widgets
 "widget_dashboard" = "Gösterge Paneli";
@@ -708,3 +711,7 @@
 "dns_blocked_response_ttl" = "Blocked response TTL";
 "dns_blocked_response_ttl_explainer" = "Specifies for how many seconds the clients should cache a filtered response";
 "querydetail_check_again" = "Check again";
+
+// MARK: Live Activity
+"liveactivity_time_remaining" = "Time remaining";
+"liveactivity_ends" = "Ends";

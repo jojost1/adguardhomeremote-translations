@@ -126,6 +126,8 @@
 "instance_authentication_username_placeholder" = "Username";
 "instance_authentication_password_placeholder" = "Password";
 "instance_other" = "Altro";
+"instance_custom_headers" = "Custom Headers";
+"instance_add_custom_header" = "Add custom header";
 "instance_hide" = "Nascondi istanza";
 "instance_test_connection" = "Testa connessione";
 "instance_remove" = "Rimuovi istanza";
@@ -486,7 +488,7 @@
 "design_app_icon" = "Icona app";
 "design_app_icon_original" = "Originale";
 "design_app_icon_inverse" = "Inverso";
-"design_app_icon_dark" = "Scuro";
+"design_app_icon_blackwhite" = "Scuro";
 "design_app_icon_blueprint" = "Blueprint";
 "design_app_icon_pride" = "Pride";
 "design_theme" = "Tema";
@@ -637,6 +639,7 @@
 "7d" = "7 giorni";
 "30d" = "30 giorni";
 "90d" = "90 giorni";
+"indefinitely" = "Indefinitely";
 
 // MARK: Widgets
 "widget_dashboard" = "Widget Dashboard";
@@ -708,3 +711,7 @@
 "dns_blocked_response_ttl" = "Blocked response TTL";
 "dns_blocked_response_ttl_explainer" = "Specifies for how many seconds the clients should cache a filtered response";
 "querydetail_check_again" = "Check again";
+
+// MARK: Live Activity
+"liveactivity_time_remaining" = "Time remaining";
+"liveactivity_ends" = "Ends";

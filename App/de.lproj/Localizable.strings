@@ -126,6 +126,8 @@
 "instance_authentication_username_placeholder" = "Benutzername";
 "instance_authentication_password_placeholder" = "Passwort";
 "instance_other" = "Sonstiges";
+"instance_custom_headers" = "Custom Headers";
+"instance_add_custom_header" = "Add custom header";
 "instance_hide" = "Instanz verstecken";
 "instance_test_connection" = "Verbindung testen";
 "instance_remove" = "Instanz entfernen";
@@ -486,7 +488,7 @@
 "design_app_icon" = "App-Icon";
 "design_app_icon_original" = "Original";
 "design_app_icon_inverse" = "Umgekehrt";
-"design_app_icon_dark" = "Dunkel";
+"design_app_icon_blackwhite" = "Dunkel";
 "design_app_icon_blueprint" = "Blaupause";
 "design_app_icon_pride" = "Pride";
 "design_theme" = "Darstellung";
@@ -638,6 +640,7 @@ Apps, welche ich ebenfalls kontinuierlich verbessere, im AppStore veröffentlich
 "7d" = "7 Tage";
 "30d" = "30 Tage";
 "90d" = "90 Tage";
+"indefinitely" = "Indefinitely";
 
 // MARK: Widgets
 "widget_dashboard" = "Übersichtswidget";
@@ -709,3 +712,7 @@ Apps, welche ich ebenfalls kontinuierlich verbessere, im AppStore veröffentlich
 "dns_blocked_response_ttl" = "Blocked response TTL";
 "dns_blocked_response_ttl_explainer" = "Specifies for how many seconds the clients should cache a filtered response";
 "querydetail_check_again" = "Check again";
+
+// MARK: Live Activity
+"liveactivity_time_remaining" = "Time remaining";
+"liveactivity_ends" = "Ends";

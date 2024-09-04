@@ -126,6 +126,8 @@
 "instance_authentication_username_placeholder" = "Username";
 "instance_authentication_password_placeholder" = "Password";
 "instance_other" = "Other";
+"instance_custom_headers" = "Custom Headers";
+"instance_add_custom_header" = "Add custom header";
 "instance_hide" = "Hide Instance";
 "instance_test_connection" = "Test Connection";
 "instance_remove" = "Remove Instance";
@@ -486,7 +488,7 @@
 "design_app_icon" = "App Icon";
 "design_app_icon_original" = "Original";
 "design_app_icon_inverse" = "Inverse";
-"design_app_icon_dark" = "Dark";
+"design_app_icon_blackwhite" = "Black & White";
 "design_app_icon_blueprint" = "Blueprint";
 "design_app_icon_pride" = "Pride";
 "design_theme" = "Theme";
@@ -637,6 +639,7 @@
 "7d" = "7 days";
 "30d" = "30 days";
 "90d" = "90 days";
+"indefinitely" = "Indefinitely";
 
 // MARK: Widgets
 "widget_dashboard" = "Dashboard Widget";
@@ -652,6 +655,8 @@
 "for_%lld_minutes_short" = "%lld min";
 "for_%lld_hour_short" = "%lld hour";
 "for_%lld_hours_short" = "%lld hours";
+"select_instance_and_duration" = "Select instance & duration";
+"select_instance_and_duration_description" = "Disable protection for a certain duration.";
 
 // MARK: Apple Watch
 "loading_instances_iphone" = "Loading instances from iPhone...";
@@ -708,3 +713,7 @@
 "dns_blocked_response_ttl" = "Blocked response TTL";
 "dns_blocked_response_ttl_explainer" = "Specifies for how many seconds the clients should cache a filtered response";
 "querydetail_check_again" = "Check again";
+
+// MARK: Live Activity
+"liveactivity_time_remaining" = "Time remaining";
+"liveactivity_ends" = "Ends";

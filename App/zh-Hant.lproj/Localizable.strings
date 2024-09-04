@@ -126,6 +126,8 @@
 "instance_authentication_username_placeholder" = "使用者名稱";
 "instance_authentication_password_placeholder" = "密碼";
 "instance_other" = "其它";
+"instance_custom_headers" = "自訂的標題";
+"instance_add_custom_header" = "新增自訂的標題";
 "instance_hide" = "隱藏實例";
 "instance_test_connection" = "測試連線";
 "instance_remove" = "移除實例";
@@ -486,7 +488,7 @@
 "design_app_icon" = "應用程式圖像";
 "design_app_icon_original" = "原始";
 "design_app_icon_inverse" = "反向";
-"design_app_icon_dark" = "深色";
+"design_app_icon_blackwhite" = "深色";
 "design_app_icon_blueprint" = "藍圖";
 "design_app_icon_pride" = "Pride";
 "design_theme" = "主題";
@@ -637,6 +639,7 @@
 "7d" = "7 天";
 "30d" = "30 天";
 "90d" = "90 天";
+"indefinitely" = "Indefinitely";
 
 // MARK: Widgets
 "widget_dashboard" = "儀表板小工具";
@@ -708,3 +711,7 @@
 "dns_blocked_response_ttl" = "已封鎖的回應之存活時間";
 "dns_blocked_response_ttl_explainer" = "對用戶端應快取受過濾的回應，指定多少秒數";
 "querydetail_check_again" = "再次檢查";
+
+// MARK: Live Activity
+"liveactivity_time_remaining" = "Time remaining";
+"liveactivity_ends" = "Ends";

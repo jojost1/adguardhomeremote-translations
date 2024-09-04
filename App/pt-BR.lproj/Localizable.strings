@@ -109,7 +109,7 @@
 "querydetail_ttl_%lld" = "TTL %lld";
 
 // MARK: - Settings
-"settings_tabbar" = "Configurações";
+"settings_tabbar" = "Ajustes";
 
 // MARK: Add/Edit Instance
 "instance_add" = "Adicionar Instância";
@@ -126,6 +126,8 @@
 "instance_authentication_username_placeholder" = "Nome de usuário";
 "instance_authentication_password_placeholder" = "Senha";
 "instance_other" = "Outros";
+"instance_custom_headers" = "Custom Headers";
+"instance_add_custom_header" = "Add custom header";
 "instance_hide" = "Ocultar Instância";
 "instance_test_connection" = "Testar Conexão";
 "instance_remove" = "Remover Instância";
@@ -138,7 +140,7 @@
 "settings_reorder" = "Reordenar";
 "settings_add-instance" = "Adicionar Instância";
 "settings_edit-instance" = "Editar";
-"settings_general" = "Configurações Gerais";
+"settings_general" = "Ajustes Gerais";
 "settings_clients" = "Clientes";
 "settings_filtering" = "Filtragem";
 "settings_dhcp" = "DHCP";
@@ -148,13 +150,13 @@
 "settings_more" = "Mais";
 
 // MARK: Clients
-"client_settings" = "Configurações do Cliente";
+"client_settings" = "Ajustes de Cliente";
 "client_new" = "Novo Cliente";
 "client_edit" = "Editar Cliente";
 "client_remove" = "Remover Cliente";
 "client_remove_alert_body" = "Tem certeza de que deseja remover este cliente?";
 "clients" = "Clientes";
-"clients_settings_label" = "Configurações: ";
+"clients_settings_label" = "Ajustes: ";
 "clients_services_label" = "Serviços bloqueados: ";
 "clients_no_clients_found" = "Nenhum cliente encontrado.";
 "clients_runtime" = "Clientes (Tempo de Execução)";
@@ -184,7 +186,7 @@
 "tags" = "Tags";
 
 // MARK: Filtering
-"filtering_settings" = "Configurações de Filtragem";
+"filtering_settings" = "Ajustes de Filtragem";
 "filtering_status" = "Status";
 "filtering_enabled" = "Ativado";
 "filtering_disabled" = "Desativado";
@@ -226,7 +228,7 @@
 "filtering_rules_no_rules_found" = "Nenhuma regra encontrada.";
 "filtering_rules_delete_and_edit" = "Excluir Regra e Editar";
 "filtering_rules_rule" = "Regra";
-"filtering_rules_settings" = "Configurações";
+"filtering_rules_settings" = "Ajustes";
 "filtering_rules_blocking_mode" = "Modo de Bloqueio";
 "filtering_rules_blocking_mode_block" = "Bloquear";
 "filtering_rules_blocking_mode_unblock" = "Desbloquear";
@@ -256,7 +258,7 @@
 "filtering_check_hostname_IP" = "IP";
 
 // MARK: DHCP
-"dhcp_settings" = "Configurações de DHCP";
+"dhcp_settings" = "Ajustes de DHCP";
 "dhcp_status" = "Status";
 "dhcp_enable" = "Ativar Servidor DHCP";
 "dhcp_interface" = "Interface";
@@ -265,7 +267,7 @@
 "dhcp_interface_hardware_address" = "Endereço de Hardware";
 "dhcp_interface_ip_addresses" = "Endereços IP";
 "dhcp_interface_flags" = "Flags";
-"dhcp_ipv4_settings" = "Configurações de IPv4";
+"dhcp_ipv4_settings" = "Ajustes de IPv4";
 "dhcp_gateway_ip" = "IP do Gateway";
 "dhcp_subnet_mask" = "Máscara de Sub-rede";
 "dhcp_ip_range" = "Intervalo de IP";
@@ -273,7 +275,7 @@
 "dhcp_ip_range_end" = "fim";
 "dhcp_lease_time" = "Tempo de Concessão";
 "dhcp_lease_time_in_seconds" = "em segundos";
-"dhcp_ipv6_settings" = "Configurações de IPv6";
+"dhcp_ipv6_settings" = "Ajustes de IPv6";
 "dhcp_ipv6_settings_unsupported" = "Interface não suporta IPv6.";
 "dhcp_range_start" = "Início do Intervalo";
 "dhcp_static_leases" = "Concessões Estáticas";
@@ -287,9 +289,9 @@
 "dhcp_reset_all_leases_footer" = "Redefine todas as concessões estáticas e dinâmicas atuais e a configuração de concessões, sem apagar a configuração de DHCP.";
 "dhcp_reset_all_leases_alert_body" = "Tem certeza de que deseja remover todas as concessões e redefinir a configuração de concessões?";
 "dhcp_reset_dhcp_config" = "Redefinir configuração de DHCP";
-"dhcp_reset_dhcp_config_footer" = "Redefine todas as configurações de DHCP.";
+"dhcp_reset_dhcp_config_footer" = "Redefine todas os ajustes de DHCP.";
 "dhcp_reset_dhcp_config_alert_body" = "Tem certeza de que deseja redefinir a configuração de DHCP?";
-"dhcp_pro_required" = "Remote Pro é necessário para gerenciar configurações de DHCP.";
+"dhcp_pro_required" = "Remote Pro é necessário para gerenciar ajustes de DHCP.";
 // Static Leases
 "dhcp_staticlease_new" = "Nova Concessão Estática";
 "dhcp_staticlease_edit" = "Editar Concessão Estática";
@@ -301,7 +303,7 @@
 "dhcp_staticlease_hostname_placeholder" = "raspberrypi.local";
 
 // MARK: DNS
-"dns_settings" = "Configurações de DNS";
+"dns_settings" = "Ajustes de DNS";
 "dns_upstream_dns_servers" = "Servidores DNS Upstream";
 "dns_upstream_configured_in_%@" = "Configurado em %@";
 "dns_ip" = "IP";
@@ -345,7 +347,7 @@
 "dns_override_minimum_ttl" = "Substituir TTL mínimo";
 "dns_override_maximum_ttl" = "Substituir TTL máximo";
 "dns_override_in_seconds" = "em segundos";
-"dns_pro_required" = "Remote Pro é necessário para gerenciar configurações de DNS.";
+"dns_pro_required" = "Remote Pro é necessário para gerenciar ajustes de DNS.";
 
 // MARK: DNS Rewrites
 "dnsrewrites_entries" = "Entradas";
@@ -486,7 +488,7 @@
 "design_app_icon" = "Ícone do Aplicativo";
 "design_app_icon_original" = "Original";
 "design_app_icon_inverse" = "Inverso";
-"design_app_icon_dark" = "Escuro";
+"design_app_icon_blackwhite" = "Escuro";
 "design_app_icon_blueprint" = "Blueprint";
 "design_app_icon_pride" = "Pride";
 "design_theme" = "Tema";
@@ -507,7 +509,7 @@
 "changelog_show_feature_promo" = "Mostrar Promoção de Recursos";
 "changelog_show_on_app_update" = "Mostrar na Atualização do Aplicativo";
 "changelog_show_on_app_update_footer" = "O Registro de Alterações só será mostrado para atualizações de recursos, não para atualizações que contêm apenas correções de bugs.";
-"changelog_settings" = "Configurações do Registro de Alterações";
+"changelog_settings" = "Ajustes do Registro de Alterações";
 
 // MARK: - Pro
 "pro" = "Pro";
@@ -537,8 +539,8 @@
 "pro_manage_clients" = "Gerenciar Clientes";
 "pro_manage_filters" = "Gerenciar Filtros";
 "pro_manage_custom_filter_rules" = "Gerenciar Regras de Filtro Personalizadas";
-"pro_manage_dhcp" = "Gerenciar Configurações de DHCP";
-"pro_manage_dns" = "Gerenciar Configurações de DNS";
+"pro_manage_dhcp" = "Gerenciar Ajustes de DHCP";
+"pro_manage_dns" = "Gerenciar Ajustes de DNS";
 "pro_manage_rewrites" = "Gerenciar Reescritas de DNS";
 "pro_unlock_interactive_widgets" = "Desbloquear widgets interativos";
 "pro_unlock_interactive_widgets_description" = "Widgets interativos não abrem o aplicativo, mas funcionam diretamente da sua tela inicial e de bloqueio. Eles vêm em diferentes formas e tamanhos!";
@@ -602,7 +604,7 @@
 "cancel" = "Cancelar";
 "reset" = "Redefinir";
 "refresh" = "Atualizar";
-"settings" = "Configurações";
+"settings" = "Ajustes";
 "cannot_reach_instance" = "Não é possível acessar a instância.";
 "not_responding" = "Sem resposta";
 "something_went_wrong" = "Algo deu errado.";
@@ -616,7 +618,7 @@
 "deselect_all" = "Desselecionar Tudo";
 "all" = "Todos";
 "global" = "Global";
-"use_global_settings" = "Usar Configurações Globais";
+"use_global_settings" = "Usar Ajustes Globais";
 "custom" = "Personalizado";
 "name" = "Nome";
 "none_dot" = "Nenhum.";
@@ -635,6 +637,7 @@
 "7d" = "7 dias";
 "30d" = "30 dias";
 "90d" = "90 dias";
+"indefinitely" = "Indefinitely";
 
 // MARK: Widgets
 "widget_dashboard" = "Widget do Painel";
@@ -652,7 +655,7 @@
 "for_%lld_hours_short" = "%lld horas";
 
 // MARK: Apple Watch
-"loading_instances_iphone" = "Carregando instâncias do iPhone...";
+"loading_instances_icloud" = "Carregando instâncias do iCloud...";
 "watch_stuck_reinstall" = "Isso pode demorar um pouco. Se o aplicativo travar nesta tela, tente reinstalá-lo. Desculpe pelo inconveniente!";
 
 // MARK: App Intents, Shortcuts, Siri
@@ -691,7 +694,7 @@
 "safe_search_youtube" = "YouTube";
 // Start - the following strings can be found inside 'General Settings' on the web interface
 "settings_general_rulefiltering_explainer_title" = "Filtros e arquivos de hosts";
-"settings_general_rulefiltering_explainer_message" = "Você pode configurar regras de bloqueio nas configurações de 'Filtros'.";
+"settings_general_rulefiltering_explainer_message" = "Você pode configurar regras de bloqueio nas ajustes de 'Filtros'.";
 "settings_general_safebrowsing_explainer_title" = "Serviço de segurança de navegação do AdGuard";
 "settings_general_safebrowsing_explainer_message" = "O AdGuard Home verificará se o domínio está bloqueado pelo serviço de segurança de navegação. Ele usará uma API de pesquisa amigável à privacidade para realizar a verificação: apenas um hash SHA256 curto do nome de domínio é enviado ao servidor.";
 "settings_general_parentalfiltering_explainer_title" = "Serviço de controle parental do AdGuard";
@@ -706,3 +709,7 @@
 "dns_blocked_response_ttl" = "TTL da resposta bloqueada";
 "dns_blocked_response_ttl_explainer" = "Especifica por quantos segundos os clientes devem armazenar em cache uma resposta filtrada";
 "querydetail_check_again" = "Verificar novamente";
+
+// MARK: Live Activity
+"liveactivity_time_remaining" = "Time remaining";
+"liveactivity_ends" = "Ends";
