@@ -41,6 +41,7 @@
 "querylog_cannot-find-queries" = "未找到";
 "querylog_pro" = "需要 Remote Pro 来查看更多请求";
 "querylog_sidebar_explainer" = "选择左侧请求条目来查看详情";
+"querylog_search_suggestions" = "Suggestions";
 
 // MARK: Filter
 "querylog_filter" = "筛选";
@@ -490,6 +491,7 @@
 "design_app_icon_inverse" = "反色";
 "design_app_icon_blackwhite" = "深色";
 "design_app_icon_blueprint" = "蓝图";
+"design_app_icon_alwaysdark" = "Always Dark";
 "design_app_icon_pride" = "Pride";
 "design_theme" = "主题外观";
 "design_system_setting" = "使用系统设置";
@@ -657,6 +659,10 @@
 "for_%lld_hours_short" = "%lld 小时";
 
 // MARK: Apple Watch
+"total" = "Total";
+"filters" = "Filters";
+"malware" = "Malware";
+"adult" = "Adult";
 "loading_instances_iphone" = "正在从 iPhone 读取实例...";
 "watch_stuck_reinstall" = "这可能需要一段时间。如果程序长时间卡在此旋转图标处，请尝试重新安装本程序。为此不便深表歉意！";
 
@@ -670,6 +676,7 @@
 "toggle_protection_allinstances_description" = "为所有实例切换保护。";
 "appintents_state" = "状态";
 "appintents_duration" = "持续期间";
+"appintents_duration_minutes" = "持续期间 (minutes)";
 "appintents_duration_explainer" = "指定禁用保护的持续期间，以分钟为单位。设置为 '0' 可无限期禁用。";
 
 // MARK: v3.0
@@ -690,6 +697,7 @@
 "clients_visible_in_statistics" = "统计数据中可见";
 "safe_search_bing" = "Bing";
 "safe_search_duckduckgo" = "DuckDuckGo";
+"safe_search_ecosia" = "Ecosia";
 "safe_search_google" = "Google";
 "safe_search_pixabay" = "Pixabay";
 "safe_search_yandex" = "Yandex";
@@ -715,3 +723,12 @@
 // MARK: Live Activity
 "liveactivity_time_remaining" = "Time remaining";
 "liveactivity_ends" = "Ends";
+
+// MARK: v4.8
+"dashboard_disable_temporarily" = "Disable Temporarily";
+"dashboard_add_5_minutes" = "Add 5 minutes";
+"blockedservices_pause_schedule" = "Pause Schedule";
+"blockedservices_pause_schedule_count_%@" = "%@ days";
+"blockedservices_schedule_footer" = "During these times services blocking will be paused.";
+"blockedservices_schedule_timezone" = "Time zone";
+"disable_for" = "Disable for...";

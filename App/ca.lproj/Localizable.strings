@@ -41,6 +41,7 @@
 "querylog_cannot-find-queries" = "No s'han trobat consultes DNS";
 "querylog_pro" = "Es necessari actualitzar a Remote Pro per a poder visualitzar més consultes DNS";
 "querylog_sidebar_explainer" = "Selecciona una consulta DNS de la llista per a veure els seus detalls";
+"querylog_search_suggestions" = "Suggestions";
 
 // MARK: Filter
 "querylog_filter" = "Filtre";
@@ -657,6 +658,10 @@
 "for_%lld_hours_short" = "%lld Stunden";
 
 // MARK: Apple Watch
+"total" = "Total";
+"filters" = "Filters";
+"malware" = "Malware";
+"adult" = "Adult";
 "loading_instances_iphone" = "Carregant instancies des de iPhone...";
 "watch_stuck_reinstall" = "Això pot trigar una estona. Si l'aplicació es queda permanentment carregant, prova de reinstal·lar l'aplicació. Sentim les molèsties!";
 
@@ -670,6 +675,7 @@
 "toggle_protection_allinstances_description" = "Toggle Protection for all instances.";
 "appintents_state" = "State";
 "appintents_duration" = "Duration";
+"appintents_duration_minutes" = "Duration (minutes)";
 "appintents_duration_explainer" = "Specifies the duration to disable for, in minutes. Set to '0' to disable indefinitely.";
 
 // MARK: v3.0
@@ -690,6 +696,7 @@
 "clients_visible_in_statistics" = "Visible in statistics";
 "safe_search_bing" = "Bing";
 "safe_search_duckduckgo" = "DuckDuckGo";
+"safe_search_ecosia" = "Ecosia";
 "safe_search_google" = "Google";
 "safe_search_pixabay" = "Pixabay";
 "safe_search_yandex" = "Yandex";
@@ -715,3 +722,12 @@
 // MARK: Live Activity
 "liveactivity_time_remaining" = "Time remaining";
 "liveactivity_ends" = "Ends";
+
+// MARK: v4.8
+"dashboard_disable_temporarily" = "Disable Temporarily";
+"dashboard_add_5_minutes" = "Add 5 minutes";
+"blockedservices_pause_schedule" = "Pause Schedule";
+"blockedservices_pause_schedule_count_%@" = "%@ days";
+"blockedservices_schedule_footer" = "During these times services blocking will be paused.";
+"blockedservices_schedule_timezone" = "Time zone";
+"disable_for" = "Disable for...";

@@ -41,6 +41,7 @@
 "querylog_cannot-find-queries" = "Kon geen queries vinden..";
 "querylog_pro" = "Remote Pro is vereist om meer queries te zien.";
 "querylog_sidebar_explainer" = "Selecteer een query links om meer details te zien.";
+"querylog_search_suggestions" = "Suggesties";
 
 // MARK: Filter
 "querylog_filter" = "Filter";
@@ -490,6 +491,7 @@
 "design_app_icon_inverse" = "Inverse";
 "design_app_icon_blackwhite" = "Zwart-wit";
 "design_app_icon_blueprint" = "Blauwdruk";
+"design_app_icon_alwaysdark" = "Altijd donker";
 "design_app_icon_pride" = "Pride";
 "design_theme" = "Thema";
 "design_system_setting" = "Systeem";
@@ -657,6 +659,10 @@
 "for_%lld_hours_short" = "%lld uur";
 
 // MARK: Apple Watch
+"total" = "Totaal";
+"filters" = "Filters";
+"malware" = "Malware";
+"adult" = "Adult";
 "loading_instances_iphone" = "Instanties ophalen van iPhone...";
 "watch_stuck_reinstall" = "Dit kan even duren. Als de app vast zit op de spinner, probeer de app opnieuw te installeren. Sorry voor het ongemak!";
 
@@ -670,6 +676,7 @@
 "toggle_protection_allinstances_description" = "Bescherming aanpassen voor alle instanties.";
 "appintents_state" = "Status";
 "appintents_duration" = "Duur";
+"appintents_duration_minutes" = "Duur (minuten)";
 "appintents_duration_explainer" = "Geeft aan hoe lang bescherming uitgeschakeld wordt (in minuten). Zet op '0' om bescherming voor onbepaalde tijd uit te schakelen.";
 
 // MARK: v3.0
@@ -692,6 +699,7 @@
 // End
 "safe_search_bing" = "Bing";
 "safe_search_duckduckgo" = "DuckDuckGo";
+"safe_search_ecosia" = "Ecosia";
 "safe_search_google" = "Google";
 "safe_search_pixabay" = "Pixabay";
 "safe_search_yandex" = "Yandex";
@@ -717,3 +725,12 @@
 // MARK: Live Activity
 "liveactivity_time_remaining" = "Tijd resterend";
 "liveactivity_ends" = "Eindigt";
+
+// MARK: v4.8
+"dashboard_disable_temporarily" = "Schakel bescherming tijdelijk uit";
+"dashboard_add_5_minutes" = "Voeg 5 minuten toe";
+"blockedservices_pause_schedule" = "Pause Schema";
+"blockedservices_pause_schedule_count_%@" = "%@ dagen";
+"blockedservices_schedule_footer" = "Tijdens deze tijden wordt het blokkeren van services gepauzeerd.";
+"blockedservices_schedule_timezone" = "Tijdzone";
+"disable_for" = "Schakel uit voor...";

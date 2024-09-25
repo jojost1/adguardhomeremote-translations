@@ -41,6 +41,7 @@
 "querylog_cannot-find-queries" = "無法找到任何的查詢。";
 "querylog_pro" = "Remote Pro 是必須的以檢視更多的查詢。";
 "querylog_sidebar_explainer" = "向左側選擇一個查詢以查看細節。";
+"querylog_search_suggestions" = "Suggestions";
 
 // MARK: Filter
 "querylog_filter" = "篩選";
@@ -490,6 +491,7 @@
 "design_app_icon_inverse" = "反向";
 "design_app_icon_blackwhite" = "深色";
 "design_app_icon_blueprint" = "藍圖";
+"design_app_icon_alwaysdark" = "Always Dark";
 "design_app_icon_pride" = "Pride";
 "design_theme" = "主題";
 "design_system_setting" = "使用系統設定";
@@ -657,6 +659,10 @@
 "for_%lld_hours_short" = "%lld 小時";
 
 // MARK: Apple Watch
+"total" = "Total";
+"filters" = "Filters";
+"malware" = "Malware";
+"adult" = "Adult";
 "loading_instances_iphone" = "正在從 iPhone 載入實例…";
 "watch_stuck_reinstall" = "這可能需要一段時間。如果此應用程式卡在轉盤上，請嘗試重新安裝它。為該不便而抱歉！";
 
@@ -670,6 +676,7 @@
 "toggle_protection_allinstances_description" = "對所有實例切換防護。";
 "appintents_state" = "狀態";
 "appintents_duration" = "期間";
+"appintents_duration_minutes" = "期間 (minutes)";
 "appintents_duration_explainer" = "指定禁用的期間，以分鐘數。設定為'0'以無限期地禁用。";
 
 // MARK: v3.0
@@ -690,6 +697,7 @@
 "clients_visible_in_statistics" = "在統計資料中可見";
 "safe_search_bing" = "Bing";
 "safe_search_duckduckgo" = "DuckDuckGo";
+"safe_search_ecosia" = "Ecosia";
 "safe_search_google" = "Google";
 "safe_search_pixabay" = "Pixabay";
 "safe_search_yandex" = "Yandex";
@@ -715,3 +723,12 @@
 // MARK: Live Activity
 "liveactivity_time_remaining" = "Time remaining";
 "liveactivity_ends" = "Ends";
+
+// MARK: v4.8
+"dashboard_disable_temporarily" = "Disable Temporarily";
+"dashboard_add_5_minutes" = "Add 5 minutes";
+"blockedservices_pause_schedule" = "Pause Schedule";
+"blockedservices_pause_schedule_count_%@" = "%@ days";
+"blockedservices_schedule_footer" = "During these times services blocking will be paused.";
+"blockedservices_schedule_timezone" = "Time zone";
+"disable_for" = "Disable for...";

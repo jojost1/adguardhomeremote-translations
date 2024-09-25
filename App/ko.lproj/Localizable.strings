@@ -41,6 +41,7 @@
 "querylog_cannot-find-queries" = "쿼리를 찾을 수 없습니다.";
 "querylog_pro" = "더 많은 쿼리를 보려면 Pro 버전을 구입해야 합니다.";
 "querylog_sidebar_explainer" = "세부 정보를 보려면 왼쪽에서 쿼리를 선택하십시오.";
+"querylog_search_suggestions" = "Suggestions";
 
 // MARK: Filter
 "querylog_filter" = "필터";
@@ -490,6 +491,7 @@
 "design_app_icon_inverse" = "반전";
 "design_app_icon_blackwhite" = "어두운";
 "design_app_icon_blueprint" = "Blueprint";
+"design_app_icon_alwaysdark" = "Always Dark";
 "design_app_icon_pride" = "Pride";
 "design_theme" = "테마";
 "design_system_setting" = "시스템 설정 사용";
@@ -657,6 +659,10 @@
 "for_%lld_hours_short" = "%lld Stunden";
 
 // MARK: Apple Watch
+"total" = "Total";
+"filters" = "Filters";
+"malware" = "Malware";
+"adult" = "Adult";
 "loading_instances_iphone" = "Loading instances from iPhone...";
 "watch_stuck_reinstall" = "This can take a while. If the app is stuck on this spinner, please try a reinstall of the app. Sorry for the inconvenience!";
 
@@ -670,6 +676,7 @@
 "toggle_protection_allinstances_description" = "Toggle Protection for all instances.";
 "appintents_state" = "State";
 "appintents_duration" = "Duration";
+"appintents_duration_minutes" = "Duration (minutes)";
 "appintents_duration_explainer" = "Specifies the duration to disable for, in minutes. Set to '0' to disable indefinitely.";
 
 // MARK: v3.0
@@ -690,6 +697,7 @@
 "clients_visible_in_statistics" = "Visible in statistics";
 "safe_search_bing" = "Bing";
 "safe_search_duckduckgo" = "DuckDuckGo";
+"safe_search_ecosia" = "Ecosia";
 "safe_search_google" = "Google";
 "safe_search_pixabay" = "Pixabay";
 "safe_search_yandex" = "Yandex";
@@ -715,3 +723,12 @@
 // MARK: Live Activity
 "liveactivity_time_remaining" = "Time remaining";
 "liveactivity_ends" = "Ends";
+
+// MARK: v4.8
+"dashboard_disable_temporarily" = "Disable Temporarily";
+"dashboard_add_5_minutes" = "Add 5 minutes";
+"blockedservices_pause_schedule" = "Pause Schedule";
+"blockedservices_pause_schedule_count_%@" = "%@ days";
+"blockedservices_schedule_footer" = "During these times services blocking will be paused.";
+"blockedservices_schedule_timezone" = "Time zone";
+"disable_for" = "Disable for...";

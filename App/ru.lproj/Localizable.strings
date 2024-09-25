@@ -41,6 +41,7 @@
 "querylog_cannot-find-queries" = "Не удается найти запросы.";
 "querylog_pro" = "Для просмотра большего количества запросов требуется Remote Pro.";
 "querylog_sidebar_explainer" = "Выберите запрос слева, чтобы просмотреть подробную информацию.";
+"querylog_search_suggestions" = "Suggestions";
 
 // MARK: Filter
 "querylog_filter" = "Фильтры";
@@ -492,6 +493,7 @@
 "design_app_icon_inverse" = "Инвертированный";
 "design_app_icon_blackwhite" = "Темный";
 "design_app_icon_blueprint" = "Чертёжный";
+"design_app_icon_alwaysdark" = "Always Dark";
 "design_app_icon_pride" = "Pride";
 "design_theme" = "Тема";
 "design_system_setting" = "Как в системе";
@@ -659,6 +661,10 @@
 "for_%lld_hours_short" = "%lld часов";
 
 // MARK: Apple Watch
+"total" = "Total";
+"filters" = "Filters";
+"malware" = "Malware";
+"adult" = "Adult";
 "loading_instances_iphone" = "Загрузка ваших серверов из iPhone...";
 "watch_stuck_reinstall" = "Это может занять некоторое время. Если приложение зависло на этом экране, пожалуйста, попробуйте переустановить его. Приносим извинения за причиненные неудобства!";
 
@@ -672,6 +678,7 @@
 "toggle_protection_allinstances_description" = "Переключить защиту для всех серверов";
 "appintents_state" = "Состояние";
 "appintents_duration" = "Продолжительность";
+"appintents_duration_minutes" = "Продолжительность (minutes)";
 "appintents_duration_explainer" = "Указывается продолжительность отключения в минутах. Установите значение '0' для отключения на неопределенный срок.";
 
 // MARK: v3.0
@@ -692,6 +699,7 @@
 "clients_visible_in_statistics" = "Виден в статистике";
 "safe_search_bing" = "Bing";
 "safe_search_duckduckgo" = "DuckDuckGo";
+"safe_search_ecosia" = "Ecosia";
 "safe_search_google" = "Google";
 "safe_search_pixabay" = "Pixabay";
 "safe_search_yandex" = "Yandex";
@@ -717,3 +725,12 @@
 // MARK: Live Activity
 "liveactivity_time_remaining" = "Time remaining";
 "liveactivity_ends" = "Ends";
+
+// MARK: v4.8
+"dashboard_disable_temporarily" = "Disable Temporarily";
+"dashboard_add_5_minutes" = "Add 5 minutes";
+"blockedservices_pause_schedule" = "Pause Schedule";
+"blockedservices_pause_schedule_count_%@" = "%@ days";
+"blockedservices_schedule_footer" = "During these times services blocking will be paused.";
+"blockedservices_schedule_timezone" = "Time zone";
+"disable_for" = "Disable for...";
