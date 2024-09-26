@@ -647,15 +647,15 @@
 "widget_dashboard_description" = "Muestra las estadísticas de tu AdGuard Home.";
 "widget_disable_buttons" = "Protection Widget";
 "widget_disable_buttons_description" = "Quickly toggle protection for a certain duration.";
-"widget_enable" = "Enable";
-"widget_enabled" = "Enabled";
-"widget_disable" = "Disable";
-"widget_disabled" = "Disabled";
-"for_%lld_seconds_short" = "%lld Sek";
-"for_%lld_minute_short" = "%lld Min";
-"for_%lld_minutes_short" = "%lld Min";
-"for_%lld_hour_short" = "%lld Stunde";
-"for_%lld_hours_short" = "%lld Stunden";
+"widget_enable" = "Habilitar";
+"widget_enabled" = "Habilitado";
+"widget_disable" = "Deshabilitar";
+"widget_disabled" = "Deshabilitado";
+"for_%lld_seconds_short" = "%lld seg";
+"for_%lld_minute_short" = "%lld min";
+"for_%lld_minutes_short" = "%lld min";
+"for_%lld_hour_short" = "%lld hora";
+"for_%lld_hours_short" = "%lld horas";
 
 // MARK: Apple Watch
 "total" = "Total";
@@ -720,14 +720,14 @@
 "querydetail_check_again" = "Check again";
 
 // MARK: Live Activity
-"liveactivity_time_remaining" = "Time remaining";
-"liveactivity_ends" = "Ends";
+"liveactivity_time_remaining" = "Tiempo restante";
+"liveactivity_ends" = "Termina";
 
 // MARK: v4.8
-"dashboard_disable_temporarily" = "Disable Temporarily";
-"dashboard_add_5_minutes" = "Add 5 minutes";
-"blockedservices_pause_schedule" = "Pause Schedule";
-"blockedservices_pause_schedule_count_%@" = "%@ days";
-"blockedservices_schedule_footer" = "During these times services blocking will be paused.";
-"blockedservices_schedule_timezone" = "Time zone";
-"disable_for" = "Disable for...";
+"dashboard_disable_temporarily" = "Deshabilitar temporalmente";
+"dashboard_add_5_minutes" = "Agregar 5 minutos";
+"blockedservices_pause_schedule" = "Pausar horario";
+"blockedservices_pause_schedule_count_%@" = "%@ días";
+"blockedservices_schedule_footer" = "Durante estos tiempos, el bloqueo de servicios se pausará.";
+"blockedservices_schedule_timezone" = "Zona horaria";
+"disable_for" = "Deshabilitar por...";

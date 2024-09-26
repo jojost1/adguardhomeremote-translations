@@ -651,11 +651,11 @@
 "widget_enabled" = "Enabled";
 "widget_disable" = "Disable";
 "widget_disabled" = "Disabled";
-"for_%lld_seconds_short" = "%lld Sek";
-"for_%lld_minute_short" = "%lld Min";
-"for_%lld_minutes_short" = "%lld Min";
-"for_%lld_hour_short" = "%lld Stunde";
-"for_%lld_hours_short" = "%lld Stunden";
+"for_%lld_seconds_short" = "%lld sec";
+"for_%lld_minute_short" = "%lld min";
+"for_%lld_minutes_short" = "%lld min";
+"for_%lld_hour_short" = "%lld hour";
+"for_%lld_hours_short" = "%lld hours";
 
 // MARK: Apple Watch
 "total" = "Total";
