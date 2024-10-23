@@ -41,7 +41,7 @@
 "querylog_cannot-find-queries" = "未找到";
 "querylog_pro" = "需要 Remote Pro 来查看更多请求";
 "querylog_sidebar_explainer" = "选择左侧请求条目来查看详情";
-"querylog_search_suggestions" = "Suggestions";
+"querylog_search_suggestions" = "建议";
 
 // MARK: Filter
 "querylog_filter" = "筛选";
@@ -127,8 +127,8 @@
 "instance_authentication_username_placeholder" = "用户名";
 "instance_authentication_password_placeholder" = "密码";
 "instance_other" = "其他";
-"instance_custom_headers" = "Custom Headers";
-"instance_add_custom_header" = "Add custom header";
+"instance_custom_headers" = "自定义消息标头";
+"instance_add_custom_header" = "添加自定义消息标头";
 "instance_hide" = "隐藏实例";
 "instance_test_connection" = "测试连接";
 "instance_remove" = "删除实例";
@@ -489,9 +489,9 @@
 "design_app_icon" = "App 图标";
 "design_app_icon_original" = "原版";
 "design_app_icon_inverse" = "反色";
-"design_app_icon_blackwhite" = "深色";
+"design_app_icon_blackwhite" = "黑白";
 "design_app_icon_blueprint" = "蓝图";
-"design_app_icon_alwaysdark" = "Always Dark";
+"design_app_icon_alwaysdark" = "深色";
 "design_app_icon_pride" = "Pride";
 "design_theme" = "主题外观";
 "design_system_setting" = "使用系统设置";
@@ -641,7 +641,7 @@
 "7d" = "7 天";
 "30d" = "30 天";
 "90d" = "90 天";
-"indefinitely" = "Indefinitely";
+"indefinitely" = "无限期";
 
 // MARK: Widgets
 "widget_dashboard" = "仪表盘小组件";
@@ -721,14 +721,14 @@
 "querydetail_check_again" = "再次检查";
 
 // MARK: Live Activity
-"liveactivity_time_remaining" = "Time remaining";
-"liveactivity_ends" = "Ends";
+"liveactivity_time_remaining" = "剩余时间";
+"liveactivity_ends" = "结束";
 
 // MARK: v4.8
-"dashboard_disable_temporarily" = "Disable Temporarily";
-"dashboard_add_5_minutes" = "Add 5 minutes";
-"blockedservices_pause_schedule" = "Pause Schedule";
-"blockedservices_pause_schedule_count_%@" = "%@ days";
-"blockedservices_schedule_footer" = "During these times services blocking will be paused.";
-"blockedservices_schedule_timezone" = "Time zone";
-"disable_for" = "Disable for...";
+"dashboard_disable_temporarily" = "暂时禁用";
+"dashboard_add_5_minutes" = "添加 5 分钟";
+"blockedservices_pause_schedule" = "暂停时间表";
+"blockedservices_pause_schedule_count_%@" = "%@ 天";
+"blockedservices_schedule_footer" = "在此期间，服务阻止将暂停。";
+"blockedservices_schedule_timezone" = "时区";
+"disable_for" = "禁用于...";
