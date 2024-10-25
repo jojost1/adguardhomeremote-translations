@@ -236,6 +236,7 @@
 "filtering_rules_blocking_mode_custom" = "사용자 지정";
 "filtering_rules_final_rule" = "최종 규칙";
 "filtering_rules_rule_placeholder" = "여기에 도메인 입력...";
+"filtering_rules_increase_priority" = "Increase priority";
 "filtering_rules_examples" = "예시";
 "filtering_rules_examples_block_title" = "||example.org^";
 "filtering_rules_examples_block_subtitle" = "example.org 을 포함한 모든 서브 도메인 접근을 차단합니다";
@@ -445,6 +446,7 @@
 "preferences_lock_unlock_footnote_tap" = "AdGuard Home Remote를 잠금 해제하려면 위를 탭 하세요.";
 "preferences_lock_unlock_footnote_click" = "AdGuard Home Remote의 잠금을 해제하려면 위를 클릭하세요.";
 "preferences_lock_unlock_system_alert" = "unlock the app";
+"preferences_navigation_style" = "Default navigation style";
 
 // MARK: Help
 "help_callout" = "도움이 필요하십니까?";

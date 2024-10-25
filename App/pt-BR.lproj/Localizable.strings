@@ -236,6 +236,7 @@
 "filtering_rules_blocking_mode_custom" = "Personalizado";
 "filtering_rules_final_rule" = "Regra Final";
 "filtering_rules_rule_placeholder" = "Digite um domínio aqui...";
+"filtering_rules_increase_priority" = "Increase priority";
 "filtering_rules_examples" = "Exemplos";
 "filtering_rules_examples_block_title" = "||example.org^";
 "filtering_rules_examples_block_subtitle" = "bloquear example.org e todos os seus subdomínios";
@@ -445,6 +446,7 @@
 "preferences_lock_unlock_footnote_tap" = "Toque acima para desbloquear o AdGuard Home Remote";
 "preferences_lock_unlock_footnote_click" = "Clique acima para desbloquear o AdGuard Home Remote";
 "preferences_lock_unlock_system_alert" = "desbloquear o aplicativo";
+"preferences_navigation_style" = "Default navigation style";
 
 // MARK: Help
 "help_callout" = "Precisa de ajuda?";

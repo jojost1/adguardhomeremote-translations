@@ -236,6 +236,7 @@
 "filtering_rules_blocking_mode_custom" = "Personalitzat";
 "filtering_rules_final_rule" = "Regla final";
 "filtering_rules_rule_placeholder" = "Escriu un domini...";
+"filtering_rules_increase_priority" = "Increase priority";
 "filtering_rules_examples" = "Exemples";
 "filtering_rules_examples_block_title" = "||example.org^";
 "filtering_rules_examples_block_subtitle" = "Bloquejar example.org i tots els seus subdominis";
@@ -445,6 +446,7 @@
 "preferences_lock_unlock_footnote_tap" = "Prem per desbloquejar AdGuard Home Remote";
 "preferences_lock_unlock_footnote_click" = "Fes clic per desbloquejar AdGuard Home Remote";
 "preferences_lock_unlock_system_alert" = "desbloqueja l'aplicació";
+"preferences_navigation_style" = "Default navigation style";
 
 // MARK: Help
 "help_callout" = "Necessites ajuda?";

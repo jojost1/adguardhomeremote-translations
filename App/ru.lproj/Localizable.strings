@@ -236,6 +236,7 @@
 "filtering_rules_blocking_mode_custom" = "Своё";
 "filtering_rules_final_rule" = "Окончательный вид";
 "filtering_rules_rule_placeholder" = "Введите домен здесь...";
+"filtering_rules_increase_priority" = "Increase priority";
 "filtering_rules_examples" = "Примеры";
 "filtering_rules_examples_block_title" = "||example.org^";
 "filtering_rules_examples_block_subtitle" = "блокирует example.org и все его поддомены";
@@ -447,6 +448,7 @@
 "preferences_lock_unlock_footnote_tap" = "Нажмите выше, чтобы разблокировать AdGuard Home Remote";
 "preferences_lock_unlock_footnote_click" = "Нажмите выше, чтобы разблокировать AdGuard Home Remote";
 "preferences_lock_unlock_system_alert" = "разблокировать приложение";
+"preferences_navigation_style" = "Default navigation style";
 
 // MARK: Help
 "help_callout" = "Нужна помощь?";

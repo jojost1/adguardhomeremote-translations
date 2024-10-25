@@ -236,6 +236,7 @@
 "filtering_rules_blocking_mode_custom" = "自訂的";
 "filtering_rules_final_rule" = "最終的規則";
 "filtering_rules_rule_placeholder" = "於此輸入一個網域…";
+"filtering_rules_increase_priority" = "Increase priority";
 "filtering_rules_examples" = "實例";
 "filtering_rules_examples_block_title" = "||example.org^";
 "filtering_rules_examples_block_subtitle" = "封鎖 example.org 和所有它的子網域";
@@ -445,6 +446,7 @@
 "preferences_lock_unlock_footnote_tap" = "輕觸上面以解鎖 AdGuard Home Remote";
 "preferences_lock_unlock_footnote_click" = "點擊上面以解鎖 AdGuard Home Remote";
 "preferences_lock_unlock_system_alert" = "解鎖此應用程式";
+"preferences_navigation_style" = "Default navigation style";
 
 // MARK: Help
 "help_callout" = "需要幫助嗎？";

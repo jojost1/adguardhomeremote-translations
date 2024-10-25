@@ -236,6 +236,7 @@
 "filtering_rules_blocking_mode_custom" = "Anders";
 "filtering_rules_final_rule" = "Regel";
 "filtering_rules_rule_placeholder" = "Typ een domein...";
+"filtering_rules_increase_priority" = "Increase priority";
 "filtering_rules_examples" = "Voorbeelden";
 "filtering_rules_examples_block_title" = "||example.org^";
 "filtering_rules_examples_block_subtitle" = "block example.org and all its subdomains";
@@ -445,6 +446,7 @@
 "preferences_lock_unlock_footnote_tap" = "Tik hier om AdGuard Home Remote te ontgrendelen";
 "preferences_lock_unlock_footnote_click" = "Klik hier om AdGuard Home Remote te ontgrendelen";
 "preferences_lock_unlock_system_alert" = "de app te ontgrendelen";
+"preferences_navigation_style" = "Default navigation style";
 
 // MARK: Help
 "help_callout" = "Hulp nodig?";

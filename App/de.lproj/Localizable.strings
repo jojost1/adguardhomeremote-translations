@@ -236,6 +236,7 @@
 "filtering_rules_blocking_mode_custom" = "Benutzerdef.";
 "filtering_rules_final_rule" = "Fertige Regel";
 "filtering_rules_rule_placeholder" = "Domain hier eingeben...";
+"filtering_rules_increase_priority" = "Increase priority";
 "filtering_rules_examples" = "Beispiele";
 "filtering_rules_examples_block_title" = "||example.org^";
 "filtering_rules_examples_block_subtitle" = "example.org und Subdomainen sperren";
@@ -445,6 +446,7 @@
 "preferences_lock_unlock_footnote_tap" = "Tippe oben, um AdGuard Home Remote zu entsperren";
 "preferences_lock_unlock_footnote_click" = "Klicke oben, um AdGuard Home Remote zu entsperren";
 "preferences_lock_unlock_system_alert" = "App entsperren";
+"preferences_navigation_style" = "Default navigation style";
 
 // MARK: Help
 "help_callout" = "Hilfe benötigt?";
