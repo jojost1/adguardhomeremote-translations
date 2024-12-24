@@ -236,7 +236,7 @@
 "filtering_rules_blocking_mode_custom" = "自定义";
 "filtering_rules_final_rule" = "生成过滤规则";
 "filtering_rules_rule_placeholder" = "请在此输入域名...";
-"filtering_rules_increase_priority" = "Increase priority";
+"filtering_rules_increase_priority" = "提高优先级";
 "filtering_rules_examples" = "范例";
 "filtering_rules_examples_block_title" = "||example.org^";
 "filtering_rules_examples_block_subtitle" = "拦截 example.org 域名及其所有子域名";
@@ -446,7 +446,7 @@
 "preferences_lock_unlock_footnote_tap" = "点击上方解锁 AdGuard Home Remote";
 "preferences_lock_unlock_footnote_click" = "点击上方解锁 AdGuard Home Remote";
 "preferences_lock_unlock_system_alert" = "解锁应用";
-"preferences_navigation_style" = "Default navigation style";
+"preferences_navigation_style" = "默认导航样式";
 
 // MARK: Help
 "help_callout" = "需要帮助？";
@@ -661,10 +661,10 @@
 "for_%lld_hours_short" = "%lld 小时";
 
 // MARK: Apple Watch
-"total" = "Total";
-"filters" = "Filters";
-"malware" = "Malware";
-"adult" = "Adult";
+"total" = "全部";
+"filters" = "过滤器";
+"malware" = "恶意/钓鱼网站";
+"adult" = "成人网站";
 "loading_instances_iphone" = "正在从 iPhone 读取实例...";
 "watch_stuck_reinstall" = "这可能需要一段时间。如果程序长时间卡在此旋转图标处，请尝试重新安装本程序。为此不便深表歉意！";
 
