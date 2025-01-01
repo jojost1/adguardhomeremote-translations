@@ -734,3 +734,9 @@
 "blockedservices_schedule_footer" = "在這些期間，封鎖服務將被暫停。";
 "blockedservices_schedule_timezone" = "時區";
 "disable_for" = "對以下禁用…";
+
+// MARK: v5.0
+"protection_enabled" = "保護已啟用";
+"protection_disabled" = "保護已停用";
+"protection_disabled_for_%@" = "已停用 %@";
+"all_instances" = "All instances";

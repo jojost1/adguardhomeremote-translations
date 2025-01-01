@@ -736,3 +736,9 @@
 "blockedservices_schedule_footer" = "Tijdens deze tijden wordt het blokkeren van services gepauzeerd.";
 "blockedservices_schedule_timezone" = "Tijdzone";
 "disable_for" = "Schakel uit voor...";
+
+// MARK: v5.0
+"protection_enabled" = "Ingeschakeld";
+"protection_disabled" = "Uitgeschakeld";
+"protection_disabled_for_%@" = "Uitgeschakeld voor %@";
+"all_instances" = "Alle instanties";

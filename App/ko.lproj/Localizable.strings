@@ -734,3 +734,9 @@
 "blockedservices_schedule_footer" = "During these times services blocking will be paused.";
 "blockedservices_schedule_timezone" = "Time zone";
 "disable_for" = "Disable for...";
+
+// MARK: v5.0
+"protection_enabled" = "보호 활성화됨";
+"protection_disabled" = "보호 비활성화됨";
+"protection_disabled_for_%@" = "비활성화됨 %@";
+"all_instances" = "All instances";

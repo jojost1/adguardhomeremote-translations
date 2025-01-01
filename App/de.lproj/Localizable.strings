@@ -27,9 +27,9 @@
 "dashboard_confirmation_enable_button" = "Aktivieren";
 "dashboard_confirmation_disable_%@" = "'%@' deaktivieren?";
 "dashboard_confirmation_disable_button" = "Deaktivieren";
-"dashboard_jump_to_instance" = "Jump to";
-"dashboard_disable_all" = "Disable all";
-"dashboard_enable_all" = "Enable all";
+"dashboard_jump_to_instance" = "Springen zu";
+"dashboard_disable_all" = "Alle deaktivieren";
+"dashboard_enable_all" = "Alle aktivieren";
 
 // MARK: - Query Log
 "querylog_tabbar" = "Anfragenprotokoll";
@@ -649,8 +649,8 @@ Apps, welche ich ebenfalls kontinuierlich verbessere, im AppStore veröffentlich
 // MARK: Widgets
 "widget_dashboard" = "Übersichtswidget";
 "widget_dashboard_description" = "Deine Statistiken anzeigen.";
-"widget_disable_buttons" = "Protection Widget";
-"widget_disable_buttons_description" = "Quickly toggle protection for a certain duration.";
+"widget_disable_buttons" = "Schutz-Widget";
+"widget_disable_buttons_description" = "Schutz für eine bestimmte Dauer schnell umschalten.";
 "widget_enable" = "Enable";
 "widget_enabled" = "Enabled";
 "widget_disable" = "Disable";
@@ -717,21 +717,27 @@ Apps, welche ich ebenfalls kontinuierlich verbessere, im AppStore veröffentlich
 // End
 
 // MARK: v4.1
-"dns_fallback_dns_servers" = "Fallback DNS servers";
-"dns_fallback_dns_servers_footer" = "List of fallback DNS servers used when upstream DNS servers are not responding.";
-"dns_blocked_response_ttl" = "Blocked response TTL";
-"dns_blocked_response_ttl_explainer" = "Specifies for how many seconds the clients should cache a filtered response";
-"querydetail_check_again" = "Check again";
+"dns_fallback_dns_servers" = "Fallback-DNS-Server";
+"dns_fallback_dns_servers_footer" = "Liste der Fallback-DNS-Server, die verwendet werden, wenn die Upstream-DNS-Server nicht reagieren.";
+"dns_blocked_response_ttl" = "TTL für blockierte Antwort";
+"dns_blocked_response_ttl_explainer" = "Gibt an, wie viele Sekunden lang die Clients eine gefilterte Antwort zwischenspeichern sollen.";
+"querydetail_check_again" = "Erneut prüfen";
 
 // MARK: Live Activity
-"liveactivity_time_remaining" = "Time remaining";
-"liveactivity_ends" = "Ends";
+"liveactivity_time_remaining" = "Verbleibende Zeit";
+"liveactivity_ends" = "Endet";
 
 // MARK: v4.8
-"dashboard_disable_temporarily" = "Disable Temporarily";
-"dashboard_add_5_minutes" = "Add 5 minutes";
-"blockedservices_pause_schedule" = "Pause Schedule";
-"blockedservices_pause_schedule_count_%@" = "%@ days";
-"blockedservices_schedule_footer" = "During these times services blocking will be paused.";
-"blockedservices_schedule_timezone" = "Time zone";
-"disable_for" = "Disable for...";
+"dashboard_disable_temporarily" = "Vorübergehend deaktivieren";
+"dashboard_add_5_minutes" = "5 Minuten hinzufügen";
+"blockedservices_pause_schedule" = "Zeitplan pausieren";
+"blockedservices_pause_schedule_count_%@" = "%@ Tage";
+"blockedservices_schedule_footer" = "Während dieser Zeiten wird die Dienstblockierung pausiert.";
+"blockedservices_schedule_timezone" = "Zeitzone";
+"disable_for" = "Deaktivieren für...";
+
+// MARK: v5.0
+"protection_enabled" = "Schutz Aktiviert";
+"protection_disabled" = "Schutz Deaktiviert";
+"protection_disabled_for_%@" = "Deaktiviert für %@";
+"all_instances" = "All instances";

@@ -734,3 +734,9 @@
 "blockedservices_schedule_footer" = "During these times services blocking will be paused.";
 "blockedservices_schedule_timezone" = "Time zone";
 "disable_for" = "Disable for...";
+
+// MARK: v5.0
+"protection_enabled" = "Προστασία Ενεργή";
+"protection_disabled" = "Προστασία Ανενεργή";
+"protection_disabled_for_%@" = "Ανενεργή για %@";
+"all_instances" = "All instances";

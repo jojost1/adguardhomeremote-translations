@@ -733,3 +733,9 @@
 "blockedservices_schedule_footer" = "Durante estos tiempos, el bloqueo de servicios se pausará.";
 "blockedservices_schedule_timezone" = "Zona horaria";
 "disable_for" = "Deshabilitar por...";
+
+// MARK: v5.0
+"protection_enabled" = "Protección Activada";
+"protection_disabled" = "Protección Desactivada";
+"protection_disabled_for_%@" = "Desactivado para %@";
+"all_instances" = "All instances";

@@ -734,3 +734,9 @@
 "blockedservices_schedule_footer" = "在此期间，服务阻止将暂停。";
 "blockedservices_schedule_timezone" = "时区";
 "disable_for" = "禁用于...";
+
+// MARK: v5.0
+"protection_enabled" = "保护已启用";
+"protection_disabled" = "保护已禁用";
+"protection_disabled_for_%@" = "已禁用 %@";
+"all_instances" = "All instances";
