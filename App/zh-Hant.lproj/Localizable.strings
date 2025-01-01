@@ -41,7 +41,7 @@
 "querylog_cannot-find-queries" = "無法找到任何的查詢。";
 "querylog_pro" = "Remote Pro 是必須的以檢視更多的查詢。";
 "querylog_sidebar_explainer" = "向左側選擇一個查詢以查看細節。";
-"querylog_search_suggestions" = "Suggestions";
+"querylog_search_suggestions" = "建議";
 
 // MARK: Filter
 "querylog_filter" = "篩選";
@@ -236,7 +236,7 @@
 "filtering_rules_blocking_mode_custom" = "自訂的";
 "filtering_rules_final_rule" = "最終的規則";
 "filtering_rules_rule_placeholder" = "於此輸入一個網域…";
-"filtering_rules_increase_priority" = "Increase priority";
+"filtering_rules_increase_priority" = "增加優先事項";
 "filtering_rules_examples" = "實例";
 "filtering_rules_examples_block_title" = "||example.org^";
 "filtering_rules_examples_block_subtitle" = "封鎖 example.org 和所有它的子網域";
@@ -446,7 +446,7 @@
 "preferences_lock_unlock_footnote_tap" = "輕觸上面以解鎖 AdGuard Home Remote";
 "preferences_lock_unlock_footnote_click" = "點擊上面以解鎖 AdGuard Home Remote";
 "preferences_lock_unlock_system_alert" = "解鎖此應用程式";
-"preferences_navigation_style" = "Default navigation style";
+"preferences_navigation_style" = "預設導航樣式";
 
 // MARK: Help
 "help_callout" = "需要幫助嗎？";
@@ -493,7 +493,7 @@
 "design_app_icon_inverse" = "反向";
 "design_app_icon_blackwhite" = "深色";
 "design_app_icon_blueprint" = "藍圖";
-"design_app_icon_alwaysdark" = "Always Dark";
+"design_app_icon_alwaysdark" = "總是深色";
 "design_app_icon_pride" = "Pride";
 "design_theme" = "主題";
 "design_system_setting" = "使用系統設定";
@@ -643,7 +643,7 @@
 "7d" = "7 天";
 "30d" = "30 天";
 "90d" = "90 天";
-"indefinitely" = "Indefinitely";
+"indefinitely" = "無限期地";
 
 // MARK: Widgets
 "widget_dashboard" = "儀表板小工具";
@@ -661,10 +661,10 @@
 "for_%lld_hours_short" = "%lld 小時";
 
 // MARK: Apple Watch
-"total" = "Total";
-"filters" = "Filters";
-"malware" = "Malware";
-"adult" = "Adult";
+"total" = "總數";
+"filters" = "過濾器";
+"malware" = "惡意軟體";
+"adult" = "成人";
 "loading_instances_iphone" = "正在從 iPhone 載入實例…";
 "watch_stuck_reinstall" = "這可能需要一段時間。如果此應用程式卡在轉盤上，請嘗試重新安裝它。為該不便而抱歉！";
 
@@ -723,14 +723,14 @@
 "querydetail_check_again" = "再次檢查";
 
 // MARK: Live Activity
-"liveactivity_time_remaining" = "Time remaining";
-"liveactivity_ends" = "Ends";
+"liveactivity_time_remaining" = "剩餘時間";
+"liveactivity_ends" = "結束";
 
 // MARK: v4.8
-"dashboard_disable_temporarily" = "Disable Temporarily";
-"dashboard_add_5_minutes" = "Add 5 minutes";
-"blockedservices_pause_schedule" = "Pause Schedule";
-"blockedservices_pause_schedule_count_%@" = "%@ days";
-"blockedservices_schedule_footer" = "During these times services blocking will be paused.";
-"blockedservices_schedule_timezone" = "Time zone";
-"disable_for" = "Disable for...";
+"dashboard_disable_temporarily" = "暫時地禁用";
+"dashboard_add_5_minutes" = "增加 5 分鐘";
+"blockedservices_pause_schedule" = "暫停排程";
+"blockedservices_pause_schedule_count_%@" = "%@ 天";
+"blockedservices_schedule_footer" = "在這些期間，封鎖服務將被暫停。";
+"blockedservices_schedule_timezone" = "時區";
+"disable_for" = "對以下禁用…";
