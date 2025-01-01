@@ -236,7 +236,7 @@
 "filtering_rules_blocking_mode_custom" = "自訂的";
 "filtering_rules_final_rule" = "最終的規則";
 "filtering_rules_rule_placeholder" = "於此輸入一個網域…";
-"filtering_rules_increase_priority" = "增加優先事項";
+"filtering_rules_increase_priority" = "提升優先權";
 "filtering_rules_examples" = "實例";
 "filtering_rules_examples_block_title" = "||example.org^";
 "filtering_rules_examples_block_subtitle" = "封鎖 example.org 和所有它的子網域";
@@ -736,7 +736,7 @@
 "disable_for" = "對以下禁用…";
 
 // MARK: v5.0
-"protection_enabled" = "保護已啟用";
-"protection_disabled" = "保護已停用";
-"protection_disabled_for_%@" = "已停用 %@";
-"all_instances" = "All instances";
+"protection_enabled" = "防護被啟用";
+"protection_disabled" = "防護被禁用";
+"protection_disabled_for_%@" = "計 %@ 被禁用";
+"all_instances" = "所有實例";
