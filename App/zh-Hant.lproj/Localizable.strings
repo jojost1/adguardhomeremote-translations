@@ -733,7 +733,7 @@
 "blockedservices_pause_schedule_count_%@" = "%@ 天";
 "blockedservices_schedule_footer" = "在這些期間，封鎖服務將被暫停。";
 "blockedservices_schedule_timezone" = "時區";
-"disable_for" = "對以下禁用…";
+"disable_for" = "計時禁用…";
 
 // MARK: v5.0
 "protection_enabled" = "防護被啟用";
