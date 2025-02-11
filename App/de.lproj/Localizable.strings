@@ -757,3 +757,8 @@ Apps, welche ich ebenfalls kontinuierlich verbessere, im AppStore veröffentlich
 "access_settings_disallowed_domains_explainer" = "Nicht zu verwechseln mit Filtern. AdGuard Home verwirft DNS-Anfragen, die mit diesen Domains übereinstimmen, und diese Abfragen werden nicht einmal im Abfrageprotokoll angezeigt. Sie können exakte Domainnamen, Wildcards oder URL-Filterregeln angeben, z. B. „example.org“, „*.example.org“ oder „||example.org^“.";
 "dns_access_settings_clients_placeholder" = "Eine IP-Adresse, Client-ID oder CIDR-Bereich";
 "dns_access_settings_domains_placeholder" = "Eine Domain, Platzhalterzeichen oder URL-Filterregel";
+
+// MARK: v5.2
+"average_processing_time" = "Average processing time: "; // Includes ": " at the end
+"dns_upstream_timeout" = "Upstream timeout";
+"dns_upstream_timeout_explainer" = "Specifies the number of seconds to wait for a response from the upstream server.";

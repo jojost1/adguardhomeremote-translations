@@ -740,3 +740,24 @@
 "protection_disabled" = "防護被禁用";
 "protection_disabled_for_%@" = "計 %@ 被禁用";
 "all_instances" = "所有實例";
+
+// MARK: v5.1
+"domain" = "Domain";
+"settings_ignored_domains" = "Ignored Domains";
+"querylog_settings_ignored_domains_explainer" = "Queries matching these rules are not written to the query log.";
+"statistics_settings_ignored_domains_explainer" = "Queries matching these rules are not written to the statistics.";
+"dns_access_settings" = "Access Settings";
+"dns_access_settings_button" = "Configure Access Rules";
+"access_settings_allowed_clients" = "Allowed clients";
+"access_settings_allowed_clients_explainer" = "A list of CIDRs, IP addresses, or ClientIDs. If this list has entries, AdGuard Home will accept requests only from these clients.";
+"access_settings_disallowed_clients" = "Disallowed clients";
+"access_settings_disallowed_clients_explainer" = "A list of CIDRs, IP addresses, or ClientIDs. If this list has entries, AdGuard Home will drop requests from these clients. This field is ignored if there are entries in Allowed clients.";
+"access_settings_disallowed_domains" = "Disallowed domains";
+"access_settings_disallowed_domains_explainer" = "Not to be confused with filters. AdGuard Home drops DNS queries matching these domains, and these queries don't even appear in the query log. You can specify exact domain names, wildcards, or URL filter rules, e.g. \"example.org\", \"*.example.org\", or \"||example.org^\" correspondingly.";
+"dns_access_settings_clients_placeholder" = "Enter an IP, ClientID, or CIDR range";
+"dns_access_settings_domains_placeholder" = "Enter a domain, wildcard, or URL filter rule";
+
+// MARK: v5.2
+"average_processing_time" = "Average processing time: "; // Includes ": " at the end
+"dns_upstream_timeout" = "Upstream timeout";
+"dns_upstream_timeout_explainer" = "Specifies the number of seconds to wait for a response from the upstream server.";

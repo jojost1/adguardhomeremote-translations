@@ -755,3 +755,8 @@
 "access_settings_disallowed_domains_explainer" = "No debe confundirse con filtros. AdGuard Home descartará las consultas DNS que coincidan con estos dominios, y estas consultas ni siquiera aparecerán en el registro de consultas. Puedes especificar nombres de dominio exactos, comodines o reglas de filtrado de URL, por ejemplo: 'ejemplo.org', '*.ejemplo.org' o '||ejemplo.org^' correspondientemente.";
 "dns_access_settings_clients_placeholder" = "Ingrese una IP, ClientID o rango CIDR";
 "dns_access_settings_domains_placeholder" = "Ingrese un dominio, comodín o regla de filtro de URL";
+
+// MARK: v5.2
+"average_processing_time" = "Average processing time: "; // Includes ": " at the end
+"dns_upstream_timeout" = "Upstream timeout";
+"dns_upstream_timeout_explainer" = "Specifies the number of seconds to wait for a response from the upstream server.";
