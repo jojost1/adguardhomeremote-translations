@@ -739,3 +739,19 @@
 "protection_disabled" = "Protección Desactivada";
 "protection_disabled_for_%@" = "Desactivado para %@";
 "all_instances" = "All instances";
+
+// MARK: v5.1
+"domain" = "Dominio";
+"settings_ignored_domains" = "Dominios ignorados";
+"querylog_settings_ignored_domains_explainer" = "Las consultas que coinciden con estas reglas no aparecen en el registro de consultas.";
+"statistics_settings_ignored_domains_explainer" = "Las consultas que coinciden con estas reglas no aparecen en las estadísticas.";
+"dns_access_settings" = "Configuración de acceso";
+"dns_access_settings_button" = "Configurar reglas de acceso";
+"access_settings_allowed_clients" = "Clientes permitidos";
+"access_settings_allowed_clients_explainer" = "Lista de CIDR, direcciones IP o ID de clientes. Si esta lista tiene entradas, AdGuard Home aceptará peticiones solo de estos clientes.";
+"access_settings_disallowed_clients" = "Clientes no permitidos";
+"access_settings_disallowed_clients_explainer" = "Lista de CIDR, direcciones IP o ID de clientes. Si esta lista tiene entradas, AdGuard Home descartará las peticiones de estos clientes. Este campo será ignorado si hay entradas en clientes permitidos.";
+"access_settings_disallowed_domains" = "Dominios no permitidos";
+"access_settings_disallowed_domains_explainer" = "No debe confundirse con filtros. AdGuard Home descartará las consultas DNS que coincidan con estos dominios, y estas consultas ni siquiera aparecerán en el registro de consultas. Puedes especificar nombres de dominio exactos, comodines o reglas de filtrado de URL, por ejemplo: 'ejemplo.org', '*.ejemplo.org' o '||ejemplo.org^' correspondientemente.";
+"dns_access_settings_clients_placeholder" = "Ingrese una IP, ClientID o rango CIDR";
+"dns_access_settings_domains_placeholder" = "Ingrese un dominio, comodín o regla de filtro de URL";
