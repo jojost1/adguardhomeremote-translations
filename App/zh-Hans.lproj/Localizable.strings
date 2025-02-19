@@ -754,7 +754,7 @@
 "access_settings_disallowed_clients_explainer" = "CIDR、IP 地址或客户端 ID 的列表。如果已配置，则 AdGuard Home 将丢弃来自这些客户端的请求。如果允许的客户端已配置，此字段将会被忽略。";
 "access_settings_disallowed_domains" = "不允许的域名";
 "access_settings_disallowed_domains_explainer" = "不要将此功能与过滤器混淆。AdGuard Home 将排除匹配这些域名的 DNS 查询，并且这些查询将不会在查询日志中显示。在此可以明确指定域名、通配符（wildcard）和网址过滤的规则，例如 \"example.org\"、\"*.example.org\" 或 \"||example.org^\"。";
-"dns_access_settings_clients_placeholder" = 输入 IP 地址、客户端 ID 或 CIDR 范围";
+"dns_access_settings_clients_placeholder" = "输入 IP 地址、客户端 ID 或 CIDR 范围";
 "dns_access_settings_domains_placeholder" = "输入域名、通配符（wildcard）和网址过滤的规则";
 
 // MARK: v5.2

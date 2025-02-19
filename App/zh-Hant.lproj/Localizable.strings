@@ -753,7 +753,7 @@
 "access_settings_disallowed_clients" = "未被允許的用戶端";
 "access_settings_disallowed_clients_explainer" = "無類別網域間路由（CIDRs）、IP 位址或用戶端 IDs 之清單。如果此清單有項目，AdGuard Home 將排除來自這些用戶端的請求。如果在被允許的用戶端中有項目，此欄位被忽略。";
 "access_settings_disallowed_domains" = "未被允許的網域";
-"access_settings_disallowed_domains_explainer" = "不要把這個和過濾器混淆。AdGuard Home 排除與這些網域相符的 DNS 查詢，且這些查詢甚至不會出現在查詢記錄中。您可相應地明確指定確切的域名、萬用字元（wildcard）或網址過濾器的規則，例如，"example.org"、"*.example.org" 或 "||example.org^"。";
+"access_settings_disallowed_domains_explainer" = "不要把這個和過濾器混淆。AdGuard Home 排除與這些網域相符的 DNS 查詢，且這些查詢甚至不會出現在查詢記錄中。您可相應地明確指定確切的域名、萬用字元（wildcard）或網址過濾器的規則，例如，\"example.org\"、\"*.example.org\" 或 \"||example.org^\"。";
 "dns_access_settings_clients_placeholder" = "輸入 IP、用戶端 ID 或無類別網域間路由（CIDRs）";
 "dns_access_settings_domains_placeholder" = "輸入網域、萬用字元（wildcard）或網址過濾器規則";
 

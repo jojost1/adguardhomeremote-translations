@@ -548,7 +548,7 @@
 "pro_manage_rewrites" = "DNS-Umschreibungen verwalten";
 "pro_unlock_interactive_widgets" = "Unlock interactive widgets";
 "pro_unlock_interactive_widgets_description" = "Interactive widgets do not open the app, but work straight from your home screen & lock screen. They come in different shapes and sizes!";
-"pro_support_multiple_instances" = "2+ Instanzen hinzufügen";
+"pro_support_multiple_instances" = "Unbegrenzte Instanzen";
 "pro_alternative_icons" = "Alternative App-Icons";
 "pro_beta_access" = "TestFlight Beta-Zugang";
 
