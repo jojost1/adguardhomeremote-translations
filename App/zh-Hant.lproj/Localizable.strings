@@ -56,8 +56,8 @@
 "querylog_status-blocked_services" = "已封鎖的服務";
 "querylog_status-blocked_safebrowsing" = "被安全瀏覽封鎖";
 "querylog_status-blocked_parental" = "被家長過濾封鎖";
-"querylog_status-whitelisted" = "已允許的";
-"querylog_status-rewritten" = "已改寫的";
+"querylog_status-whitelisted" = "被允許的";
+"querylog_status-rewritten" = "被改寫的";
 "querylog_status-safe_search" = "安全搜尋";
 "querylog_clear-filtered" = "清除狀態篩選";
 "querylog_show_queries_status" = "顯示含狀態的查詢";
@@ -742,22 +742,22 @@
 "all_instances" = "所有實例";
 
 // MARK: v5.1
-"domain" = "Domain";
-"settings_ignored_domains" = "Ignored Domains";
-"querylog_settings_ignored_domains_explainer" = "Queries matching these rules are not written to the query log.";
-"statistics_settings_ignored_domains_explainer" = "Queries matching these rules are not written to the statistics.";
-"dns_access_settings" = "Access Settings";
-"dns_access_settings_button" = "Configure Access Rules";
-"access_settings_allowed_clients" = "Allowed clients";
-"access_settings_allowed_clients_explainer" = "A list of CIDRs, IP addresses, or ClientIDs. If this list has entries, AdGuard Home will accept requests only from these clients.";
-"access_settings_disallowed_clients" = "Disallowed clients";
-"access_settings_disallowed_clients_explainer" = "A list of CIDRs, IP addresses, or ClientIDs. If this list has entries, AdGuard Home will drop requests from these clients. This field is ignored if there are entries in Allowed clients.";
-"access_settings_disallowed_domains" = "Disallowed domains";
-"access_settings_disallowed_domains_explainer" = "Not to be confused with filters. AdGuard Home drops DNS queries matching these domains, and these queries don't even appear in the query log. You can specify exact domain names, wildcards, or URL filter rules, e.g. \"example.org\", \"*.example.org\", or \"||example.org^\" correspondingly.";
-"dns_access_settings_clients_placeholder" = "Enter an IP, ClientID, or CIDR range";
-"dns_access_settings_domains_placeholder" = "Enter a domain, wildcard, or URL filter rule";
+"domain" = "網域";
+"settings_ignored_domains" = "被忽略的網域";
+"querylog_settings_ignored_domains_explainer" = "符合這些規則的查詢不會被寫入查詢記錄中。";
+"statistics_settings_ignored_domains_explainer" = "符合這些規則的查詢不會被寫入統計資料中。";
+"dns_access_settings" = "存取設定";
+"dns_access_settings_button" = "配置存取規則";
+"access_settings_allowed_clients" = "被允許的用戶端";
+"access_settings_allowed_clients_explainer" = "無類別網域間路由（CIDRs）、IP 位址或用戶端 IDs 之清單。如果此清單有項目，AdGuard Home 將接受僅來自這些用戶端的請求。";
+"access_settings_disallowed_clients" = "未被允許的用戶端";
+"access_settings_disallowed_clients_explainer" = "無類別網域間路由（CIDRs）、IP 位址或用戶端 IDs 之清單。如果此清單有項目，AdGuard Home 將排除來自這些用戶端的請求。如果在被允許的用戶端中有項目，此欄位被忽略。";
+"access_settings_disallowed_domains" = "未被允許的網域";
+"access_settings_disallowed_domains_explainer" = "不要把這個和過濾器混淆。AdGuard Home 排除與這些網域相符的 DNS 查詢，且這些查詢甚至不會出現在查詢記錄中。您可相應地明確指定確切的域名、萬用字元（wildcard）或網址過濾器的規則，例如，"example.org"、"*.example.org" 或 "||example.org^"。";
+"dns_access_settings_clients_placeholder" = "輸入 IP、用戶端 ID 或無類別網域間路由（CIDRs）";
+"dns_access_settings_domains_placeholder" = "輸入網域、萬用字元（wildcard）或網址過濾器規則";
 
 // MARK: v5.2
-"average_processing_time" = "Average processing time: "; // Includes ": " at the end
-"dns_upstream_timeout" = "Upstream timeout";
-"dns_upstream_timeout_explainer" = "Specifies the number of seconds to wait for a response from the upstream server.";
+"average_processing_time" = "平均的處理時間："; // Includes ": " at the end
+"dns_upstream_timeout" = "上游超時";
+"dns_upstream_timeout_explainer" = "指定等待來自此上游伺服器回應的秒數。";
