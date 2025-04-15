@@ -1,0 +1,18 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "Can't reach AdGuard Home." : {
+
+    },
+    "Invalid authentication or privacy setting." : {
+
+    },
+    "Invalid hostname or port." : {
+
+    },
+    "Request timed out." : {
+
+    }
+  },
+  "version" : "1.0"
+}

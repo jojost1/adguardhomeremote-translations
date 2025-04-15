@@ -1,0 +1,7334 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "%@ bytes" : {
+      "comment" : "Clients DNS cache size in bytes."
+    },
+    "%@ms" : {
+      "comment" : "Used in the Query Log to display query duration like '5ms'."
+    },
+    "1h" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1 hour"
+          }
+        }
+      }
+    },
+    "3d" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "3 days"
+          }
+        }
+      }
+    },
+    "6h" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "6 hours"
+          }
+        }
+      }
+    },
+    "7d" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "7 days"
+          }
+        }
+      }
+    },
+    "12h" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "12 hours"
+          }
+        }
+      }
+    },
+    "24h" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "24 hours"
+          }
+        }
+      }
+    },
+    "30d" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "30 days"
+          }
+        }
+      }
+    },
+    "80" : {
+      "comment" : "Placeholder of the 'port' textfield",
+      "shouldTranslate" : false
+    },
+    "90d" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "90 days"
+          }
+        }
+      }
+    },
+    "192.168.1.1" : {
+      "comment" : "Placeholder of the 'host' textfield in instance settings",
+      "shouldTranslate" : false
+    },
+    "255.255.255.0" : {
+      "comment" : "Placeholder of the 'subnet mask' textfield in DHCP settings",
+      "shouldTranslate" : false
+    },
+    "2001::1" : {
+      "comment" : "Placeholder of the 'ipv6' textfield in DHCP settings",
+      "shouldTranslate" : false
+    },
+    "86400" : {
+      "comment" : "Placeholder of the 'lease duration' textfield in DHCP settings",
+      "shouldTranslate" : false
+    },
+    "A" : {
+      "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
+      "shouldTranslate" : false
+    },
+    "AAAA" : {
+      "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
+      "shouldTranslate" : false
+    },
+    "access_settings_allowed_clients" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Allowed clients"
+          }
+        }
+      }
+    },
+    "access_settings_allowed_clients_explainer" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A list of CIDRs, IP addresses, or ClientIDs. If this list has entries, AdGuard Home will accept requests only from these clients."
+          }
+        }
+      }
+    },
+    "access_settings_disallowed_clients" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Disallowed clients"
+          }
+        }
+      }
+    },
+    "access_settings_disallowed_clients_explainer" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A list of CIDRs, IP addresses, or ClientIDs. If this list has entries, AdGuard Home will drop requests from these clients. This field is ignored if there are entries in Allowed clients."
+          }
+        }
+      }
+    },
+    "access_settings_disallowed_domains" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Disallowed domains"
+          }
+        }
+      }
+    },
+    "access_settings_disallowed_domains_explainer" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Not to be confused with filters. AdGuard Home drops DNS queries matching these domains, and these queries don't even appear in the query log. You can specify exact domain names, wildcards, or URL filter rules, e.g. \"example.org\", \"*.example.org\", or \"||example.org^\" correspondingly."
+          }
+        }
+      }
+    },
+    "add" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add"
+          }
+        }
+      }
+    },
+    "Add 5 minutes" : {
+
+    },
+    "Additional info" : {
+
+    },
+    "AdGuard Home Remote" : {
+
+    },
+    "AdGuard Home v0.107.28 or higher is required for some of these new features. Please update!" : {
+
+    },
+    "adult" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Adult"
+          }
+        }
+      }
+    },
+    "AFSDB" : {
+      "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
+      "shouldTranslate" : false
+    },
+    "AGHR Pro" : {
+
+    },
+    "AGHR's tabs" : {
+
+    },
+    "all" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "All"
+          }
+        }
+      }
+    },
+    "all_instances" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "All instances"
+          }
+        }
+      }
+    },
+    "APL" : {
+      "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
+      "shouldTranslate" : false
+    },
+    "appintents_duration" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Duration"
+          }
+        }
+      }
+    },
+    "appintents_duration_explainer" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Specifies the duration to disable for, in minutes. Set to '0' to disable indefinitely."
+          }
+        }
+      }
+    },
+    "appintents_duration_minutes" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Duration (minutes)"
+          }
+        }
+      }
+    },
+    "appintents_state" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "State"
+          }
+        }
+      }
+    },
+    "Apply Pro license" : {
+
+    },
+    "Automatic" : {
+      "comment" : "Used in the 'Preferences Other' screen in the navigation style picker (only visible for iPad)"
+    },
+    "average_processing_time" : {
+      "comment" : "MARK: v5.2 & Includes \": \" at the end",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Average processing time: "
+          }
+        }
+      }
+    },
+    "blocked_services" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Blocked Services"
+          }
+        }
+      }
+    },
+    "blockedservices_pause_schedule" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pause Schedule"
+          }
+        }
+      }
+    },
+    "blockedservices_pause_schedule_count_%@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ days"
+          }
+        }
+      }
+    },
+    "blockedservices_schedule_footer" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "During these times services blocking will be paused."
+          }
+        }
+      }
+    },
+    "blockedservices_schedule_timezone" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Time zone"
+          }
+        }
+      }
+    },
+    "CAA" : {
+      "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
+      "shouldTranslate" : false
+    },
+    "cache" : {
+
+    },
+    "Can't reach AdGuard Home." : {
+
+    },
+    "cancel" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cancel"
+          }
+        }
+      }
+    },
+    "cannot_reach_instance" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Can't reach instance."
+          }
+        }
+      }
+    },
+    "CDNSKEY" : {
+      "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
+      "shouldTranslate" : false
+    },
+    "CDS" : {
+      "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
+      "shouldTranslate" : false
+    },
+    "CERT" : {
+      "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
+      "shouldTranslate" : false
+    },
+    "changelog_continue" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Continue"
+          }
+        }
+      }
+    },
+    "changelog_current_version" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Current"
+          }
+        }
+      }
+    },
+    "changelog_fixed" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fixed"
+          }
+        }
+      }
+    },
+    "changelog_improved" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Improved"
+          }
+        }
+      }
+    },
+    "changelog_just_updated" : {
+      "comment" : "MARK: Changelog",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Just Updated!"
+          }
+        }
+      }
+    },
+    "changelog_new" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "New"
+          }
+        }
+      }
+    },
+    "changelog_settings" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Changelog Settings"
+          }
+        }
+      }
+    },
+    "changelog_show_feature_promo" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show Feature Promo"
+          }
+        }
+      }
+    },
+    "changelog_show_on_app_update" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show on App Update"
+          }
+        }
+      }
+    },
+    "changelog_show_on_app_update_footer" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Changelog will only be shown for feature-updates, not for updates that only contain bugfixes."
+          }
+        }
+      }
+    },
+    "changelog_view_full" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "View Full Changelog"
+          }
+        }
+      }
+    },
+    "changelog_whats_new" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "What's New"
+          }
+        }
+      }
+    },
+    "Check filtering" : {
+
+    },
+    "Check Filtering" : {
+
+    },
+    "Check if a host name is filtered." : {
+
+    },
+    "Clear display name textfield" : {
+
+    },
+    "Clear hostname textfield" : {
+
+    },
+    "Client identifier" : {
+
+    },
+    "client_edit" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Edit Client"
+          }
+        }
+      }
+    },
+    "client_new" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "New Client"
+          }
+        }
+      }
+    },
+    "client_remove" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Remove Client"
+          }
+        }
+      }
+    },
+    "client_remove_alert_body" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Are you sure you want to remove this client?"
+          }
+        }
+      }
+    },
+    "client_settings" : {
+      "comment" : "MARK: Clients",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Client Settings"
+          }
+        }
+      }
+    },
+    "ClientID or IP" : {
+
+    },
+    "clients" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Clients"
+          }
+        }
+      }
+    },
+    "clients_disallowed" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Disallowed Clients"
+          }
+        }
+      }
+    },
+    "clients_disallowed_add_client" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add to disallowed clients"
+          }
+        }
+      }
+    },
+    "clients_disallowed_footer" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AdGuard Home is dropping all DNS queries from these clients."
+          }
+        }
+      }
+    },
+    "clients_disallowed_placeholder" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enter an IP, ClientID, or CIDR range"
+          }
+        }
+      }
+    },
+    "clients_dns_cache" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "DNS cache"
+          }
+        }
+      }
+    },
+    "clients_edit_ignore_querylog" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ignore this client in query log"
+          }
+        }
+      }
+    },
+    "clients_edit_ignore_statistics" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ignore this client in statistics"
+          }
+        }
+      }
+    },
+    "clients_edit_querylog_and_statistics" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Query Log & Statistics"
+          }
+        }
+      }
+    },
+    "clients_edit_use_filter_blocking" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Use Filter Blocking"
+          }
+        }
+      }
+    },
+    "clients_edit_use_parental_filtering" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Use Parental Filtering"
+          }
+        }
+      }
+    },
+    "clients_edit_use_safe_browsing" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Use Safe Browsing"
+          }
+        }
+      }
+    },
+    "clients_edit_use_safe_search" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Use Safe Search"
+          }
+        }
+      }
+    },
+    "clients_identifier" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Identifier"
+          }
+        }
+      }
+    },
+    "clients_identifiers" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Identifiers"
+          }
+        }
+      }
+    },
+    "clients_identifiers_copy" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copy"
+          }
+        }
+      }
+    },
+    "clients_identifiers_explainer" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Clients can be identified by the IP address, CIDR, MAC address, or a special client ID (can be used for DoT/DoH/DoQ). Using MAC as identifier is possible only if AdGuard Home is also a DHCP server."
+          }
+        }
+      }
+    },
+    "clients_identifiers_placeholder" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "IP, CIDR, MAC, ClientID"
+          }
+        }
+      }
+    },
+    "clients_name" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Client Name"
+          }
+        }
+      }
+    },
+    "clients_no_clients_found" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No clients found."
+          }
+        }
+      }
+    },
+    "clients_pro_required" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Remote Pro is required to manage clients."
+          }
+        }
+      }
+    },
+    "clients_runtime" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Clients (Runtime)"
+          }
+        }
+      }
+    },
+    "clients_runtime_footer" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "These clients use AdGuard Home, but do not have a specific configuration."
+          }
+        }
+      }
+    },
+    "clients_services_label" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Blocked services: "
+          }
+        }
+      }
+    },
+    "clients_settings_label" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Settings: "
+          }
+        }
+      }
+    },
+    "clients_upstream_dns_cache" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Upstream DNS cache"
+          }
+        }
+      }
+    },
+    "clients_upstream_dns_cache_enable" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enable DNS caching for this client's custom upstream configuration"
+          }
+        }
+      }
+    },
+    "clients_upstreams" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Upstreams"
+          }
+        }
+      }
+    },
+    "clients_view_queries_from_%@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "View queries from %@"
+          }
+        }
+      }
+    },
+    "clients_visible_in_querylog" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Visible in query log"
+          }
+        }
+      }
+    },
+    "clients_visible_in_statistics" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Visible in statistics"
+          }
+        }
+      }
+    },
+    "CNAME" : {
+      "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
+      "shouldTranslate" : false
+    },
+    "Contact" : {
+
+    },
+    "CSYNC" : {
+      "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
+      "shouldTranslate" : false
+    },
+    "custom" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Custom"
+          }
+        }
+      }
+    },
+    "Dashboard" : {
+
+    },
+    "dashboard_add_5_minutes" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add 5 minutes"
+          }
+        }
+      }
+    },
+    "dashboard_avg_ms_%@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "avg %@ms"
+          }
+        }
+      }
+    },
+    "dashboard_blocked-adult" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Blocked Adult Websites"
+          }
+        }
+      }
+    },
+    "dashboard_blocked-filters" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Blocked by Filters"
+          }
+        }
+      }
+    },
+    "dashboard_blocked-malware" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Blocked Malware/Phishing"
+          }
+        }
+      }
+    },
+    "dashboard_confirmation_disable_%@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Are you sure you want to disable %@?"
+          }
+        }
+      }
+    },
+    "dashboard_confirmation_disable_button" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Disable"
+          }
+        }
+      }
+    },
+    "dashboard_confirmation_enable_%@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Are you sure you want to enable %@?"
+          }
+        }
+      }
+    },
+    "dashboard_confirmation_enable_button" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enable"
+          }
+        }
+      }
+    },
+    "dashboard_date" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Date"
+          }
+        }
+      }
+    },
+    "dashboard_disable_all" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Disable all"
+          }
+        }
+      }
+    },
+    "dashboard_disable_temporarily" : {
+      "comment" : "MARK: v4.8",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Disable Temporarily"
+          }
+        }
+      }
+    },
+    "dashboard_enable_all" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enable all"
+          }
+        }
+      }
+    },
+    "dashboard_jump_to_instance" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jump to"
+          }
+        }
+      }
+    },
+    "dashboard_parental-filtering" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parental\nFiltering"
+          }
+        }
+      }
+    },
+    "dashboard_protection" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Protection"
+          }
+        }
+      }
+    },
+    "dashboard_protection_disable" : {
+      "comment" : "MARK: v3.0",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Disable protection"
+          }
+        }
+      }
+    },
+    "dashboard_protection_enable" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enable protection"
+          }
+        }
+      }
+    },
+    "dashboard_protection_enabled_in_%@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "will be enabled in %@"
+          }
+        }
+      }
+    },
+    "dashboard_queries" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "DNS Queries"
+          }
+        }
+      }
+    },
+    "dashboard_rule-filtering" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rule\nFiltering"
+          }
+        }
+      }
+    },
+    "dashboard_safe-browsing" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Safe\nBrowsing"
+          }
+        }
+      }
+    },
+    "dashboard_safe-search" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Safe\nSearch"
+          }
+        }
+      }
+    },
+    "dashboard_tabbar" : {
+      "comment" : "MARK: - Dashboard",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dashboard"
+          }
+        }
+      }
+    },
+    "dashboard_top-blocked" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Top Blocked Domains"
+          }
+        }
+      }
+    },
+    "dashboard_top-clients" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Top Clients"
+          }
+        }
+      }
+    },
+    "dashboard_top-queried" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Top Queried Domains"
+          }
+        }
+      }
+    },
+    "dashboard_top-upstreams" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Top Upstreams"
+          }
+        }
+      }
+    },
+    "deselect_all" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Deselect All"
+          }
+        }
+      }
+    },
+    "design_always_darkmode" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Always Dark Mode"
+          }
+        }
+      }
+    },
+    "design_always_lightmode" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Always Light Mode"
+          }
+        }
+      }
+    },
+    "design_app_icon" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "App Icon"
+          }
+        }
+      }
+    },
+    "design_app_icon_alwaysdark" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Always Dark"
+          }
+        }
+      }
+    },
+    "design_app_icon_blackwhite" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Black & White"
+          }
+        }
+      }
+    },
+    "design_app_icon_blueprint" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Blueprint"
+          }
+        }
+      }
+    },
+    "design_app_icon_inverse" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inverse"
+          }
+        }
+      }
+    },
+    "design_app_icon_original" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Original"
+          }
+        }
+      }
+    },
+    "design_app_icon_pride" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pride"
+          }
+        }
+      }
+    },
+    "design_app_tint" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "App Tint"
+          }
+        }
+      }
+    },
+    "design_app_tint_blue" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Blue"
+          }
+        }
+      }
+    },
+    "design_app_tint_brown" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Brown"
+          }
+        }
+      }
+    },
+    "design_app_tint_green" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Green"
+          }
+        }
+      }
+    },
+    "design_app_tint_indigo" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Indigo"
+          }
+        }
+      }
+    },
+    "design_app_tint_mint" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mint"
+          }
+        }
+      }
+    },
+    "design_app_tint_orange" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Orange"
+          }
+        }
+      }
+    },
+    "design_app_tint_pink" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pink"
+          }
+        }
+      }
+    },
+    "design_app_tint_purple" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Purple"
+          }
+        }
+      }
+    },
+    "design_app_tint_red" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Red"
+          }
+        }
+      }
+    },
+    "design_app_tint_teal" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Teal"
+          }
+        }
+      }
+    },
+    "design_app_tint_yellow" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yellow"
+          }
+        }
+      }
+    },
+    "design_color_scheme" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Color Scheme"
+          }
+        }
+      }
+    },
+    "design_color_scheme_adguard" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AdGuard"
+          }
+        }
+      }
+    },
+    "design_color_scheme_default" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Default"
+          }
+        }
+      }
+    },
+    "design_color_scheme_pastel" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pastel"
+          }
+        }
+      }
+    },
+    "design_system_setting" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Use System Setting"
+          }
+        }
+      }
+    },
+    "design_theme" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Theme"
+          }
+        }
+      }
+    },
+    "DHCID" : {
+      "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
+      "shouldTranslate" : false
+    },
+    "dhcp_add_client_by_ip" : {
+      "extractionState" : "manual"
+    },
+    "dhcp_add_client_by_mac" : {
+      "extractionState" : "manual"
+    },
+    "dhcp_add_client_with_ip" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "New Client (with IP)"
+          }
+        }
+      }
+    },
+    "dhcp_add_client_with_mac" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "New Client (with MAC)"
+          }
+        }
+      }
+    },
+    "dhcp_edit_lease" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Edit Lease"
+          }
+        }
+      }
+    },
+    "dhcp_enable" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enable DHCP Server"
+          }
+        }
+      }
+    },
+    "dhcp_gateway_ip" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gateway IP"
+          }
+        }
+      }
+    },
+    "dhcp_interface" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Interface"
+          }
+        }
+      }
+    },
+    "dhcp_interface_details" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Details"
+          }
+        }
+      }
+    },
+    "dhcp_interface_flags" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Flags"
+          }
+        }
+      }
+    },
+    "dhcp_interface_gateway_ip" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gateway IP"
+          }
+        }
+      }
+    },
+    "dhcp_interface_hardware_address" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hardware address"
+          }
+        }
+      }
+    },
+    "dhcp_interface_ip_addresses" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "IP addresses"
+          }
+        }
+      }
+    },
+    "dhcp_ip_range" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "IP Range"
+          }
+        }
+      }
+    },
+    "dhcp_ip_range_end" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "end"
+          }
+        }
+      }
+    },
+    "dhcp_ip_range_start" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "start"
+          }
+        }
+      }
+    },
+    "dhcp_ipv4_settings" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "IPv4 Settings"
+          }
+        }
+      }
+    },
+    "dhcp_ipv6_settings" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "IPv6 Settings"
+          }
+        }
+      }
+    },
+    "dhcp_ipv6_settings_unsupported" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Interface does not support IPv6."
+          }
+        }
+      }
+    },
+    "dhcp_lease_create" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Create Static Lease"
+          }
+        }
+      }
+    },
+    "dhcp_lease_time" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lease Time"
+          }
+        }
+      }
+    },
+    "dhcp_lease_time_in_seconds" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "in seconds"
+          }
+        }
+      }
+    },
+    "dhcp_leases" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Leases"
+          }
+        }
+      }
+    },
+    "dhcp_pro_required" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Remote Pro is required to manage DHCP settings."
+          }
+        }
+      }
+    },
+    "dhcp_range_start" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Range Start"
+          }
+        }
+      }
+    },
+    "dhcp_remove_lease" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Remove Lease"
+          }
+        }
+      }
+    },
+    "dhcp_reset_all_leases" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reset lease configuration"
+          }
+        }
+      }
+    },
+    "dhcp_reset_all_leases_alert_body" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Are you sure you want to remove all leases and reset the lease configuration?"
+          }
+        }
+      }
+    },
+    "dhcp_reset_all_leases_footer" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Resets all current static & dynamic leases and lease configuration, without erasing the DHCP configuration."
+          }
+        }
+      }
+    },
+    "dhcp_reset_dhcp_config" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reset DHCP configuration"
+          }
+        }
+      }
+    },
+    "dhcp_reset_dhcp_config_alert_body" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Are you sure you want to reset the DHCP configuration?"
+          }
+        }
+      }
+    },
+    "dhcp_reset_dhcp_config_footer" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Resets all DHCP settings."
+          }
+        }
+      }
+    },
+    "dhcp_settings" : {
+      "comment" : "MARK: DHCP",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "DHCP Settings"
+          }
+        }
+      }
+    },
+    "dhcp_static_leases" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Static Leases"
+          }
+        }
+      }
+    },
+    "dhcp_staticlease_edit" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Edit Static Lease"
+          }
+        }
+      }
+    },
+    "dhcp_staticlease_hostname" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hostname"
+          }
+        }
+      }
+    },
+    "dhcp_staticlease_hostname_placeholder" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "raspberrypi.local"
+          }
+        }
+      }
+    },
+    "dhcp_staticlease_ip" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "IP address"
+          }
+        }
+      }
+    },
+    "dhcp_staticlease_ip_placeholder" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "192.168.1.10"
+          }
+        }
+      }
+    },
+    "dhcp_staticlease_mac" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "MAC address"
+          }
+        }
+      }
+    },
+    "dhcp_staticlease_mac_placeholder" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "aa:0b:cd:e1:f2:34"
+          }
+        }
+      }
+    },
+    "dhcp_staticlease_new" : {
+      "comment" : "Static Leases",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "New Static Lease"
+          }
+        }
+      }
+    },
+    "dhcp_status" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Status"
+          }
+        }
+      }
+    },
+    "dhcp_subnet_mask" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Subnet Mask"
+          }
+        }
+      }
+    },
+    "disable_for" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Disable for..."
+          }
+        }
+      }
+    },
+    "disable_protection" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Disable Protection"
+          }
+        }
+      }
+    },
+    "disable_protection_allinstances_description" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Disable Protection for all instances."
+          }
+        }
+      }
+    },
+    "disable_protection_duration_${duration}" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Disable for ${duration} minutes"
+          }
+        }
+      }
+    },
+    "disabled" : {
+      "comment" : "Durations",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Disabled"
+          }
+        }
+      }
+    },
+    "Disabled" : {
+
+    },
+    "DLV" : {
+      "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
+      "shouldTranslate" : false
+    },
+    "DNAME" : {
+      "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
+      "shouldTranslate" : false
+    },
+    "DNS Queries: %@" : {
+
+    },
+    "DNS Record Type" : {
+
+    },
+    "dns_access_settings" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Access Settings"
+          }
+        }
+      }
+    },
+    "dns_access_settings_button" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Configure Access Rules"
+          }
+        }
+      }
+    },
+    "dns_access_settings_clients_placeholder" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enter an IP, ClientID, or CIDR range"
+          }
+        }
+      }
+    },
+    "dns_access_settings_domains_placeholder" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enter a domain, wildcard, or URL filter rule"
+          }
+        }
+      }
+    },
+    "dns_blocked_response_ttl" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Blocked response TTL"
+          }
+        }
+      }
+    },
+    "dns_blocked_response_ttl_explainer" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Specifies for how many seconds the clients should cache a filtered response"
+          }
+        }
+      }
+    },
+    "dns_blocking_mode" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Blocking mode"
+          }
+        }
+      }
+    },
+    "dns_blocking_mode_customip" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Custom IP"
+          }
+        }
+      }
+    },
+    "dns_blocking_mode_default" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Default"
+          }
+        }
+      }
+    },
+    "dns_blocking_mode_nullip" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Null IP"
+          }
+        }
+      }
+    },
+    "dns_blocking_mode_nxdomain" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "NXDOMAIN"
+          }
+        }
+      }
+    },
+    "dns_blocking_mode_refused" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "REFUSED"
+          }
+        }
+      }
+    },
+    "dns_bootstrap_dns_servers" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bootstrap DNS servers"
+          }
+        }
+      }
+    },
+    "dns_bootstrap_dns_servers_footer" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bootstrap DNS servers are used to resolve IP addresses of the DoH/DoT resolvers you specify as upstreams."
+          }
+        }
+      }
+    },
+    "dns_cache_clear" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Clear cache"
+          }
+        }
+      }
+    },
+    "dns_cache_configuration" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "DNS cache configuration"
+          }
+        }
+      }
+    },
+    "dns_cache_optimistic" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Optimistic caching"
+          }
+        }
+      }
+    },
+    "dns_cache_optimistic_explainer" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Make AdGuard Home respond from the cache even when the entries are expired and also try to refresh them."
+          }
+        }
+      }
+    },
+    "dns_cache_size" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cache size"
+          }
+        }
+      }
+    },
+    "dns_cache_size_in_bytes" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "in bytes"
+          }
+        }
+      }
+    },
+    "dns_disable_ipv6" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Disable IPv6"
+          }
+        }
+      }
+    },
+    "dns_dnssec" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "DNSSEC"
+          }
+        }
+      }
+    },
+    "dns_edns_client_subnet" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "EDNS client subnet"
+          }
+        }
+      }
+    },
+    "dns_edns_use_custom_ip" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Use custom IP for EDNS"
+          }
+        }
+      }
+    },
+    "dns_edns_use_custom_ip_placeholder" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enter IP"
+          }
+        }
+      }
+    },
+    "dns_fallback_dns_servers" : {
+      "comment" : "MARK: v4.1",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fallback DNS servers"
+          }
+        }
+      }
+    },
+    "dns_fallback_dns_servers_footer" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "List of fallback DNS servers used when upstream DNS servers are not responding."
+          }
+        }
+      }
+    },
+    "dns_ip" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "IP"
+          }
+        }
+      }
+    },
+    "dns_override_in_seconds" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "in seconds"
+          }
+        }
+      }
+    },
+    "dns_override_maximum_ttl" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Override maximum TTL"
+          }
+        }
+      }
+    },
+    "dns_override_minimum_ttl" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Override minimum TTL"
+          }
+        }
+      }
+    },
+    "dns_private_dns_servers" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Private DNS servers"
+          }
+        }
+      }
+    },
+    "dns_private_dns_servers_footer" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The DNS servers that AdGuard Home uses for local PTR queries."
+          }
+        }
+      }
+    },
+    "dns_pro_required" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Remote Pro is required to manage DNS settings."
+          }
+        }
+      }
+    },
+    "dns_rate_limit" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rate limit"
+          }
+        }
+      }
+    },
+    "dns_rate_limit_allowlist" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rate limiting allowlist"
+          }
+        }
+      }
+    },
+    "dns_rate_limit_allowlist_footer" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "IP addresses excluded from rate limiting."
+          }
+        }
+      }
+    },
+    "dns_rate_limit_explainer" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The number of requests per second allowed per client. Setting it to 0 means no limit."
+          }
+        }
+      }
+    },
+    "dns_rate_limit_subnet_length_ipv4" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Subnet prefix length for IPv4 addresses"
+          }
+        }
+      }
+    },
+    "dns_rate_limit_subnet_length_ipv6" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Subnet prefix length for IPv6 addresses"
+          }
+        }
+      }
+    },
+    "dns_rate_limiting" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rate Limiting"
+          }
+        }
+      }
+    },
+    "dns_reverse_resolve" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reverse resolve client IPs"
+          }
+        }
+      }
+    },
+    "dns_reverse_resolve_help" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reversely resolve clients' IP addresses into their hostnames by sending PTR queries to corresponding resolvers (private DNS servers for local clients, upstream servers for clients with public IP addresses)."
+          }
+        }
+      }
+    },
+    "dns_server_configuration" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "DNS server configuration"
+          }
+        }
+      }
+    },
+    "dns_settings" : {
+      "comment" : "MARK: DNS",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "DNS Settings"
+          }
+        }
+      }
+    },
+    "dns_upstream_configured_in_%@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Configured in %@"
+          }
+        }
+      }
+    },
+    "dns_upstream_dns_servers" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Upstream DNS servers"
+          }
+        }
+      }
+    },
+    "dns_upstream_mode" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Upstream mode"
+          }
+        }
+      }
+    },
+    "dns_upstream_mode_fastest" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fastest IP address"
+          }
+        }
+      }
+    },
+    "dns_upstream_mode_loadbalancing" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Load-balancing"
+          }
+        }
+      }
+    },
+    "dns_upstream_mode_parralel" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parallel requests"
+          }
+        }
+      }
+    },
+    "dns_upstream_timeout" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Upstream timeout"
+          }
+        }
+      }
+    },
+    "dns_upstream_timeout_explainer" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Specifies the number of seconds to wait for a response from the upstream server."
+          }
+        }
+      }
+    },
+    "dns_use_private_dns_resolvers" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Use private reverse DNS resolvers"
+          }
+        }
+      }
+    },
+    "dns_use_private_dns_resolvers_help" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Perform reverse DNS lookups for locally served addresses using these upstream servers. If disabled, AdGuard Home responds with NXDOMAIN to all such PTR requests except for clients known from DHCP, /etc/hosts, and so on."
+          }
+        }
+      }
+    },
+    "DNSKEY" : {
+      "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
+      "shouldTranslate" : false
+    },
+    "dnsrewrites_answer" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Answer"
+          }
+        }
+      }
+    },
+    "dnsrewrites_answer_placeholder" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "IP or Domain Name"
+          }
+        }
+      }
+    },
+    "dnsrewrites_domain" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Domain"
+          }
+        }
+      }
+    },
+    "dnsrewrites_domain_placeholder" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Domain or Wildcard"
+          }
+        }
+      }
+    },
+    "dnsrewrites_edit" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Edit DNS Rewrite"
+          }
+        }
+      }
+    },
+    "dnsrewrites_entries" : {
+      "comment" : "MARK: DNS Rewrites",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entries"
+          }
+        }
+      }
+    },
+    "dnsrewrites_new" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "New DNS Rewrite"
+          }
+        }
+      }
+    },
+    "dnsrewrites_no_entries" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No entries found."
+          }
+        }
+      }
+    },
+    "dnsrewrites_pro_required" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Remote Pro is required to manage DNS rewrites."
+          }
+        }
+      }
+    },
+    "dnsrewrites_settings" : {
+      "comment" : "MARK: DNS Rewrites",
+      "extractionState" : "manual"
+    },
+    "domain" : {
+      "comment" : "MARK: v5.1",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Domain"
+          }
+        }
+      }
+    },
+    "done" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Done"
+          }
+        }
+      }
+    },
+    "DS" : {
+      "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
+      "shouldTranslate" : false
+    },
+    "edit" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Edit"
+          }
+        }
+      }
+    },
+    "Enable and disable protection." : {
+
+    },
+    "enable_protection" : {
+      "comment" : "MARK: App Intents, Shortcuts, Siri",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enable Protection"
+          }
+        }
+      }
+    },
+    "enable_protection_allinstances_description" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enable Protection for all instances."
+          }
+        }
+      }
+    },
+    "Energie Radar" : {
+
+    },
+    "Enjoy the update!\n- Joost" : {
+
+    },
+    "Enjoy the update! - Joost" : {
+
+    },
+    "error" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Error"
+          }
+        }
+      }
+    },
+    "EUI48" : {
+      "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
+      "shouldTranslate" : false
+    },
+    "EUI64" : {
+      "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
+      "shouldTranslate" : false
+    },
+    "example.com" : {
+
+    },
+    "Expires in %lld minutes" : {
+
+    },
+    "ff" : {
+
+    },
+    "filtering_addfilter_allowlist" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Allowlist"
+          }
+        }
+      }
+    },
+    "filtering_addfilter_allowlist_new" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "New Allowlist"
+          }
+        }
+      }
+    },
+    "filtering_addfilter_blocklist" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Blocklist"
+          }
+        }
+      }
+    },
+    "filtering_addfilter_blocklist_new" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "New Blocklist"
+          }
+        }
+      }
+    },
+    "filtering_addfilter_list" : {
+      "comment" : "Add Filter",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "List"
+          }
+        }
+      }
+    },
+    "filtering_addfilter_name" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Name"
+          }
+        }
+      }
+    },
+    "filtering_addfilter_url" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "URL"
+          }
+        }
+      }
+    },
+    "filtering_addfilter_url_placeholder" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "URL or Absolute Path"
+          }
+        }
+      }
+    },
+    "filtering_check_filtered" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Check If Hostname Is Filtered"
+          }
+        }
+      }
+    },
+    "filtering_check_hostname" : {
+      "comment" : "Check Hostname",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Check Hostname"
+          }
+        }
+      }
+    },
+    "filtering_check_hostname_check" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Check"
+          }
+        }
+      }
+    },
+    "filtering_check_hostname_cname" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CNAME"
+          }
+        }
+      }
+    },
+    "filtering_check_hostname_IP" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "IP"
+          }
+        }
+      }
+    },
+    "filtering_check_hostname_placeholder" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enter a hostname..."
+          }
+        }
+      }
+    },
+    "filtering_check_hostname_result" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Result"
+          }
+        }
+      }
+    },
+    "filtering_custom_filtering_rules" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Custom Filtering Rules"
+          }
+        }
+      }
+    },
+    "filtering_disable_filter" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Disable Filter"
+          }
+        }
+      }
+    },
+    "filtering_disabled" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Disabled"
+          }
+        }
+      }
+    },
+    "filtering_dns_allowlists" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "DNS Allowlists"
+          }
+        }
+      }
+    },
+    "filtering_dns_blocklists" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "DNS Blocklists"
+          }
+        }
+      }
+    },
+    "filtering_edit_filter" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Edit Filter"
+          }
+        }
+      }
+    },
+    "filtering_edit_filter_name" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Name"
+          }
+        }
+      }
+    },
+    "filtering_edit_filter_url" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "URL"
+          }
+        }
+      }
+    },
+    "filtering_enable_filter" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enable Filter"
+          }
+        }
+      }
+    },
+    "filtering_enable_filtering" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enable Filtering"
+          }
+        }
+      }
+    },
+    "filtering_enabled" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enabled"
+          }
+        }
+      }
+    },
+    "filtering_global_blocked_services" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Global Blocked Services"
+          }
+        }
+      }
+    },
+    "filtering_last_updated" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Last Updated"
+          }
+        }
+      }
+    },
+    "filtering_last_updated_%@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Last Updated: %@"
+          }
+        }
+      }
+    },
+    "filtering_pro_required" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Remote Pro is required to manage filters."
+          }
+        }
+      }
+    },
+    "filtering_rule_count_%@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ rules"
+          }
+        }
+      }
+    },
+    "filtering_rules" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rules"
+          }
+        }
+      }
+    },
+    "filtering_rules_%@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rules: %@"
+          }
+        }
+      }
+    },
+    "filtering_rules_add" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add Rule"
+          }
+        }
+      }
+    },
+    "filtering_rules_blocking_mode" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Blocking Mode"
+          }
+        }
+      }
+    },
+    "filtering_rules_blocking_mode_block" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Block"
+          }
+        }
+      }
+    },
+    "filtering_rules_blocking_mode_custom" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Custom"
+          }
+        }
+      }
+    },
+    "filtering_rules_blocking_mode_unblock" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unblock"
+          }
+        }
+      }
+    },
+    "filtering_rules_custom" : {
+      "comment" : "Custom Rules",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Custom Rules"
+          }
+        }
+      }
+    },
+    "filtering_rules_custom_new" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "New Custom Rule"
+          }
+        }
+      }
+    },
+    "filtering_rules_delete_and_edit" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Delete Rule & Edit"
+          }
+        }
+      }
+    },
+    "filtering_rules_examples" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Examples"
+          }
+        }
+      }
+    },
+    "filtering_rules_examples_block_client_subtitle" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "block example.org and all its subdomains for client IP 192.168.1.42"
+          }
+        }
+      }
+    },
+    "filtering_rules_examples_block_client_title" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "||example.org^$client=192.168.1.42"
+          }
+        }
+      }
+    },
+    "filtering_rules_examples_block_subtitle" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "block example.org and all its subdomains"
+          }
+        }
+      }
+    },
+    "filtering_rules_examples_block_title" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "||example.org^"
+          }
+        }
+      }
+    },
+    "filtering_rules_examples_comment_subtitle" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "just a comment"
+          }
+        }
+      }
+    },
+    "filtering_rules_examples_comment_title1" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "! Here goes a comment"
+          }
+        }
+      }
+    },
+    "filtering_rules_examples_comment_title2" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# Also a comment"
+          }
+        }
+      }
+    },
+    "filtering_rules_examples_regex_subtitle" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "block domains matching the specified regular expression"
+          }
+        }
+      }
+    },
+    "filtering_rules_examples_regex_title" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "/REGEX/"
+          }
+        }
+      }
+    },
+    "filtering_rules_examples_rewrite_subtitle" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "return 127.0.0.1 for example.org (but not its subdomains)"
+          }
+        }
+      }
+    },
+    "filtering_rules_examples_rewrite_title" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "127.0.0.1 example.org"
+          }
+        }
+      }
+    },
+    "filtering_rules_examples_unblock_subtitle" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "unblock example.org and all its subdomains"
+          }
+        }
+      }
+    },
+    "filtering_rules_examples_unblock_title" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "@@||example.org^"
+          }
+        }
+      }
+    },
+    "filtering_rules_final_rule" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Final Rule"
+          }
+        }
+      }
+    },
+    "filtering_rules_increase_priority" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Increase priority"
+          }
+        }
+      }
+    },
+    "filtering_rules_no_rules_found" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No rules found."
+          }
+        }
+      }
+    },
+    "filtering_rules_rule" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rule"
+          }
+        }
+      }
+    },
+    "filtering_rules_rule_placeholder" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Type a domain here..."
+          }
+        }
+      }
+    },
+    "filtering_rules_settings" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Settings"
+          }
+        }
+      }
+    },
+    "filtering_settings" : {
+      "comment" : "MARK: Filtering",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Filtering Settings"
+          }
+        }
+      }
+    },
+    "filtering_status" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Status"
+          }
+        }
+      }
+    },
+    "filtering_type" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Type"
+          }
+        }
+      }
+    },
+    "filtering_update_allowlists" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Update Allowlists"
+          }
+        }
+      }
+    },
+    "filtering_update_blocklists" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Update Blocklists"
+          }
+        }
+      }
+    },
+    "filtering_update_interval" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Update Interval"
+          }
+        }
+      }
+    },
+    "filtering_updated_count_%@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ updated"
+          }
+        }
+      }
+    },
+    "filters" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Filters"
+          }
+        }
+      }
+    },
+    "for_%lld_hour" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "For %lld hour"
+          }
+        }
+      }
+    },
+    "for_%lld_hour_short" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld hour"
+          }
+        }
+      }
+    },
+    "for_%lld_hours" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "For %lld hours"
+          }
+        }
+      }
+    },
+    "for_%lld_hours_short" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld hours"
+          }
+        }
+      }
+    },
+    "for_%lld_minute" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "For %lld minute"
+          }
+        }
+      }
+    },
+    "for_%lld_minute_short" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld min"
+          }
+        }
+      }
+    },
+    "for_%lld_minutes" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "For %lld minutes"
+          }
+        }
+      }
+    },
+    "for_%lld_minutes_short" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld min"
+          }
+        }
+      }
+    },
+    "for_%lld_seconds" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "For %lld seconds"
+          }
+        }
+      }
+    },
+    "for_%lld_seconds_short" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld sec"
+          }
+        }
+      }
+    },
+    "Force Watch Sync" : {
+
+    },
+    "global" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Global"
+          }
+        }
+      }
+    },
+    "help_callout" : {
+      "comment" : "MARK: Help",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Need help?"
+          }
+        }
+      }
+    },
+    "HINFO" : {
+      "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
+      "shouldTranslate" : false
+    },
+    "HIP" : {
+      "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
+      "shouldTranslate" : false
+    },
+    "Hostname or domain name" : {
+
+    },
+    "HTTPS" : {
+      "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
+      "shouldTranslate" : false
+    },
+    "If you already did, please go to your instance, press 'Edit' and press 'Save' again. It should show up after that. If not, try a restart of the Watch app." : {
+
+    },
+    "important" : {
+
+    },
+    "indefinitely" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Indefinitely"
+          }
+        }
+      }
+    },
+    "instance" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Instance"
+          }
+        }
+      }
+    },
+    "instance_add" : {
+      "comment" : "MARK: Add/Edit Instance",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add Instance"
+          }
+        }
+      }
+    },
+    "instance_add_custom_header" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add custom header"
+          }
+        }
+      }
+    },
+    "instance_authentication" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Authentication"
+          }
+        }
+      }
+    },
+    "instance_authentication_password_placeholder" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Password"
+          }
+        }
+      }
+    },
+    "instance_authentication_username_placeholder" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Username"
+          }
+        }
+      }
+    },
+    "instance_connecting_to_%@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Connecting to: '%@'"
+          }
+        }
+      }
+    },
+    "instance_custom_headers" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Custom Headers"
+          }
+        }
+      }
+    },
+    "instance_display_name" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Display Name"
+          }
+        }
+      }
+    },
+    "instance_display_name_placeholder" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AdGuard Home"
+          }
+        }
+      }
+    },
+    "instance_hide" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hide Instance"
+          }
+        }
+      }
+    },
+    "instance_ip_hostname" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "IP or Hostname"
+          }
+        }
+      }
+    },
+    "instance_new" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "New Instance"
+          }
+        }
+      }
+    },
+    "instance_other" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Other"
+          }
+        }
+      }
+    },
+    "instance_remove" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Remove Instance"
+          }
+        }
+      }
+    },
+    "instance_remove_alert_body" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Are you sure you want to remove this instance?"
+          }
+        }
+      }
+    },
+    "instance_remove_alert_title" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Remove AdGuard Home Instance"
+          }
+        }
+      }
+    },
+    "instance_ssl_http" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "http"
+          }
+        }
+      }
+    },
+    "instance_ssl_https" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "https"
+          }
+        }
+      }
+    },
+    "instance_ssl_label" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Use http (default) or https?"
+          }
+        }
+      }
+    },
+    "instance_test_connection" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Test Connection"
+          }
+        }
+      }
+    },
+    "Invalid authentication or privacy setting." : {
+
+    },
+    "Invalid hostname or port." : {
+
+    },
+    "IPSECKEY" : {
+      "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
+      "shouldTranslate" : false
+    },
+    "key" : {
+      "comment" : "Placeholder of the 'custom header key' textfield in instance settings."
+    },
+    "KEY" : {
+      "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
+      "shouldTranslate" : false
+    },
+    "KX" : {
+      "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
+      "shouldTranslate" : false
+    },
+    "Launch App" : {
+
+    },
+    "liveactivity_ends" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ends"
+          }
+        }
+      }
+    },
+    "liveactivity_time_remaining" : {
+      "comment" : "MARK: Live Activity",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Time remaining"
+          }
+        }
+      }
+    },
+    "loading" : {
+      "comment" : "MARK: - Other",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loading"
+          }
+        }
+      }
+    },
+    "loading_dots" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loading..."
+          }
+        }
+      }
+    },
+    "loading_instances_icloud" : {
+      "extractionState" : "manual"
+    },
+    "loading_instances_iphone" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loading instances from iPhone..."
+          }
+        }
+      }
+    },
+    "LOC" : {
+      "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
+      "shouldTranslate" : false
+    },
+    "malware" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Malware"
+          }
+        }
+      }
+    },
+    "manage" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Manage"
+          }
+        }
+      }
+    },
+    "ManGo - Anime & Manga Tracker" : {
+
+    },
+    "more_checking_version" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Checking Version..."
+          }
+        }
+      }
+    },
+    "more_statistics" : {
+      "comment" : "MARK: More",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Statistics"
+          }
+        }
+      }
+    },
+    "more_statistics_clear" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Clear Statistics"
+          }
+        }
+      }
+    },
+    "more_statistics_clear_alert" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Are you sure you want to clear statistics? This will reset all statistics in the Dashboard to zeroes."
+          }
+        }
+      }
+    },
+    "more_statistics_cleared" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cleared."
+          }
+        }
+      }
+    },
+    "more_statistics_enable" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enable Statistics"
+          }
+        }
+      }
+    },
+    "more_statistics_footer" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Changing the Statistics Retention setting requires an app restart."
+          }
+        }
+      }
+    },
+    "more_statistics_retention" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Statistics Retention"
+          }
+        }
+      }
+    },
+    "more_up_to_date" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AdGuard Home is up-to-date"
+          }
+        }
+      }
+    },
+    "more_update_started" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Update Started!"
+          }
+        }
+      }
+    },
+    "more_update_to_%@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Update to v%@"
+          }
+        }
+      }
+    },
+    "more_version" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Version"
+          }
+        }
+      }
+    },
+    "more_version_current_%@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Current Version: %@"
+          }
+        }
+      }
+    },
+    "more_webinterface" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Web interface"
+          }
+        }
+      }
+    },
+    "more_webinterface_language" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Language"
+          }
+        }
+      }
+    },
+    "more_webinterface_theme" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Theme"
+          }
+        }
+      }
+    },
+    "more_webinterface_theme_auto" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Auto"
+          }
+        }
+      }
+    },
+    "more_webinterface_theme_dark" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dark"
+          }
+        }
+      }
+    },
+    "more_webinterface_theme_light" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Light"
+          }
+        }
+      }
+    },
+    "more_webinterface_username" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Username"
+          }
+        }
+      }
+    },
+    "ms" : {
+      "comment" : "Meaning 'miliseconds' duration unit in the query log or in 'average processing time'."
+    },
+    "MX" : {
+      "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
+      "shouldTranslate" : false
+    },
+    "name" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Name"
+          }
+        }
+      }
+    },
+    "NAPTR" : {
+      "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
+      "shouldTranslate" : false
+    },
+    "new" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "New"
+          }
+        }
+      }
+    },
+    "New OS versions are required for some of these new features. Please update your device!" : {
+
+    },
+    "NextDNS Remote" : {
+
+    },
+    "No pages for this support item" : {
+
+    },
+    "No Watch Paired" : {
+
+    },
+    "none_dot" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "None."
+          }
+        }
+      }
+    },
+    "not_responding" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Not Responding"
+          }
+        }
+      }
+    },
+    "NS" : {
+      "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
+      "shouldTranslate" : false
+    },
+    "NSEC" : {
+      "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
+      "shouldTranslate" : false
+    },
+    "NSEC3" : {
+      "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
+      "shouldTranslate" : false
+    },
+    "NSEC3PARAM" : {
+      "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
+      "shouldTranslate" : false
+    },
+    "off" : {
+
+    },
+    "ok" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
+          }
+        }
+      }
+    },
+    "on" : {
+
+    },
+    "Open the dashboard." : {
+
+    },
+    "Open the query log." : {
+
+    },
+    "OPENPGPKEY" : {
+      "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
+      "shouldTranslate" : false
+    },
+    "Optional" : {
+
+    },
+    "Options" : {
+
+    },
+    "original_enddate" : {
+
+    },
+    "other" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Other"
+          }
+        }
+      }
+    },
+    "Paste from clipboard" : {
+
+    },
+    "Pi-hole Remote" : {
+
+    },
+    "Please add an instance in the iPhone app." : {
+
+    },
+    "preferences_dashboard_auto_refresh" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Auto-refresh every minute"
+          }
+        }
+      }
+    },
+    "preferences_dashboard_extra_confirmation" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Confirmation alert for buttons"
+          }
+        }
+      }
+    },
+    "preferences_dashboard_graph_bar" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bar-graph"
+          }
+        }
+      }
+    },
+    "preferences_dashboard_graph_blockedadultwebsites" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Blocked Adult Websites"
+          }
+        }
+      }
+    },
+    "preferences_dashboard_graph_blockedbyfilters" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Blocked by Filters"
+          }
+        }
+      }
+    },
+    "preferences_dashboard_graph_blockedmalware" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Blocked Malware/Phishing"
+          }
+        }
+      }
+    },
+    "preferences_dashboard_graph_dnsqueries" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "DNS Queries"
+          }
+        }
+      }
+    },
+    "preferences_dashboard_graph_hide" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hide graph"
+          }
+        }
+      }
+    },
+    "preferences_dashboard_graph_line" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Line-graph"
+          }
+        }
+      }
+    },
+    "preferences_dashboard_graph_type" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Type"
+          }
+        }
+      }
+    },
+    "preferences_dashboard_graphs" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Graphs"
+          }
+        }
+      }
+    },
+    "preferences_dashboard_line_type" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Line type"
+          }
+        }
+      }
+    },
+    "preferences_dashboard_line_type_linear" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Linear"
+          }
+        }
+      }
+    },
+    "preferences_dashboard_line_type_smooth" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Smooth"
+          }
+        }
+      }
+    },
+    "preferences_dashboard_line_type_steps" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Steps"
+          }
+        }
+      }
+    },
+    "preferences_dashboard_number_of_clients" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Number of clients"
+          }
+        }
+      }
+    },
+    "preferences_dashboard_number_of_domains" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Number of domains"
+          }
+        }
+      }
+    },
+    "preferences_dashboard_number_of_upstreams" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Number of upstreams"
+          }
+        }
+      }
+    },
+    "preferences_dashboard_parentalfiltering" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parental Filtering"
+          }
+        }
+      }
+    },
+    "preferences_dashboard_protection" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Protection"
+          }
+        }
+      }
+    },
+    "preferences_dashboard_rulefiltering" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rule Filtering"
+          }
+        }
+      }
+    },
+    "preferences_dashboard_safebrowsing" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Safe Browsing"
+          }
+        }
+      }
+    },
+    "preferences_dashboard_safesearch" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Safe Search"
+          }
+        }
+      }
+    },
+    "preferences_dashboard_show_hostnames" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show instance hostnames"
+          }
+        }
+      }
+    },
+    "preferences_dashboard_show_multipleInstanceToolbar" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show bottom toolbar"
+          }
+        }
+      }
+    },
+    "preferences_dashboard_show_multipleInstanceToolbar_subtitle" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "only visible if you have multiple instances"
+          }
+        }
+      }
+    },
+    "preferences_dashboard_show_section" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show section"
+          }
+        }
+      }
+    },
+    "preferences_dashboard_statusbuttons" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Status Buttons"
+          }
+        }
+      }
+    },
+    "preferences_language" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Language"
+          }
+        }
+      }
+    },
+    "preferences_language_macos_alert" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Change Language"
+          }
+        }
+      }
+    },
+    "preferences_language_macos_alert_body" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "For customizing an app's language on macOS, go to 'System Preferences > Language & Region > Apps', add the app and select a language there."
+          }
+        }
+      }
+    },
+    "preferences_live_activity" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Live Activity"
+          }
+        }
+      }
+    },
+    "preferences_lock_faceid" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lock with Face ID"
+          }
+        }
+      }
+    },
+    "preferences_lock_footer" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "If enabled, AdGuard Home Remote will be locked whenever you close the app. You'll be prompted to authenticate when relaunching."
+          }
+        }
+      }
+    },
+    "preferences_lock_password" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lock with password"
+          }
+        }
+      }
+    },
+    "preferences_lock_require" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Require"
+          }
+        }
+      }
+    },
+    "preferences_lock_require_1hour" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "After 1 hour"
+          }
+        }
+      }
+    },
+    "preferences_lock_require_1min" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "After 1 minute"
+          }
+        }
+      }
+    },
+    "preferences_lock_require_5min" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "After 5 minutes"
+          }
+        }
+      }
+    },
+    "preferences_lock_require_immediately" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Immediately"
+          }
+        }
+      }
+    },
+    "preferences_lock_touchid" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lock with Touch ID"
+          }
+        }
+      }
+    },
+    "preferences_lock_unlock_button" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unlock"
+          }
+        }
+      }
+    },
+    "preferences_lock_unlock_footnote_click" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Click above to unlock AdGuard Home Remote"
+          }
+        }
+      }
+    },
+    "preferences_lock_unlock_footnote_tap" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tap above to unlock AdGuard Home Remote"
+          }
+        }
+      }
+    },
+    "preferences_lock_unlock_system_alert" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "unlock the app"
+          }
+        }
+      }
+    },
+    "preferences_navigation_style" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Default navigation style"
+          }
+        }
+      }
+    },
+    "preferences_other" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Other"
+          }
+        }
+      }
+    },
+    "preferences_querylog_show_live_log" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show Live Log"
+          }
+        }
+      }
+    },
+    "preferences_querylog_show_sidebar" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show sidebar"
+          }
+        }
+      }
+    },
+    "pro" : {
+      "comment" : "MARK: - Pro",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pro"
+          }
+        }
+      }
+    },
+    "pro_alternative_icons" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alternative App Icons"
+          }
+        }
+      }
+    },
+    "pro_beta_access" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "TestFlight Beta Access"
+          }
+        }
+      }
+    },
+    "pro_beta_access_button" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Request Beta Access"
+          }
+        }
+      }
+    },
+    "pro_description" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unlock power features & support future development with a one-time purchase."
+          }
+        }
+      }
+    },
+    "pro_family_sharing" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Supports Family Sharing"
+          }
+        }
+      }
+    },
+    "pro_features" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pro Features"
+          }
+        }
+      }
+    },
+    "pro_learn-more" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Learn more..."
+          }
+        }
+      }
+    },
+    "pro_livelog" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "View Live Query Log"
+          }
+        }
+      }
+    },
+    "pro_manage_clients" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Manage Clients"
+          }
+        }
+      }
+    },
+    "pro_manage_custom_filter_rules" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Manage Custom Filter Rules"
+          }
+        }
+      }
+    },
+    "pro_manage_dhcp" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Manage DHCP Settings"
+          }
+        }
+      }
+    },
+    "pro_manage_dns" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Manage DNS Settings"
+          }
+        }
+      }
+    },
+    "pro_manage_filters" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Manage Filters"
+          }
+        }
+      }
+    },
+    "pro_manage_rewrites" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Manage DNS Rewrites"
+          }
+        }
+      }
+    },
+    "pro_navtitle" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Remote Pro"
+          }
+        }
+      }
+    },
+    "pro_purchase" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Purchase Pro"
+          }
+        }
+      }
+    },
+    "pro_purchased_date_%@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Purchased on %@."
+          }
+        }
+      }
+    },
+    "pro_restore_failed" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Restored Failed"
+          }
+        }
+      }
+    },
+    "pro_restore_nothing" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nothing to Restore"
+          }
+        }
+      }
+    },
+    "pro_restore_purchase" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Restore Purchase"
+          }
+        }
+      }
+    },
+    "pro_restore_purchase_footer" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Use this if you've purchased Remote Pro before on a different device, or your Pro license doesn't show up after purchasing Remote Pro."
+          }
+        }
+      }
+    },
+    "pro_restored" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pro Restored!"
+          }
+        }
+      }
+    },
+    "pro_support_multiple_instances" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unlimited Instances"
+          }
+        }
+      }
+    },
+    "pro_testflight" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "TestFlight"
+          }
+        }
+      }
+    },
+    "pro_testflight_alert" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I see you don't have an active mail client on your device, please mail me with the request to join the TestFlight including a screenshot of this Pro screen so I can see you have purchased Pro.\n\nPlease mail it to developer@rocketscience-it.nl!"
+          }
+        }
+      }
+    },
+    "pro_testflight_explainer" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Note: you're running a TestFlight build of the app, therefore payments run in Sandbox mode and do not actually process.\n\nA Pro 'license' will invalidate every few days while on a TestFlight build. If you want to purchase Pro and use the app without this annoyance, please download the app from the App Store. Thanks!"
+          }
+        }
+      }
+    },
+    "pro_thankyou" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thank you!"
+          }
+        }
+      }
+    },
+    "pro_thankyou_heart" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thank you! ❤️"
+          }
+        }
+      }
+    },
+    "pro_title" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AdGuard Home\nRemote Pro"
+          }
+        }
+      }
+    },
+    "pro_unlock_interactive_widgets" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unlock interactive widgets"
+          }
+        }
+      }
+    },
+    "pro_unlock_interactive_widgets_description" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Interactive widgets do not open the app, but work straight from your home screen & lock screen. They come in different shapes and sizes!"
+          }
+        }
+      }
+    },
+    "pro_view_queries" : {
+      "comment" : "MARK: Pro Features",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "View 25+ Queries & Set Filters"
+          }
+        }
+      }
+    },
+    "protection_disabled" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Protection Disabled"
+          }
+        }
+      }
+    },
+    "protection_disabled_for_%@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Disabled for %@"
+          }
+        }
+      }
+    },
+    "protection_enabled" : {
+      "comment" : "MARK: v5.0",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Protection Enabled"
+          }
+        }
+      }
+    },
+    "PTR" : {
+      "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
+      "shouldTranslate" : false
+    },
+    "purchase_cloud_permission_denied" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Access to cloud service information is not allowed."
+          }
+        }
+      }
+    },
+    "purchase_cloud_permission_revoked" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "User has revoked permission to use this cloud service."
+          }
+        }
+      }
+    },
+    "purchase_connection_error" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Could not connect to the network."
+          }
+        }
+      }
+    },
+    "purchase_invalid_id" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The purchase identifier was invalid."
+          }
+        }
+      }
+    },
+    "purchase_not_allowed" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The device is not allowed to make the payment."
+          }
+        }
+      }
+    },
+    "purchase_not_available" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The product is not available in the current storefront."
+          }
+        }
+      }
+    },
+    "purchase_unknown_error" : {
+      "comment" : "MARK: Purchase Flow",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unknown error. Please contact me at developer@rocketscience-it.nl."
+          }
+        }
+      }
+    },
+    "Query Log" : {
+
+    },
+    "query_copy" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copy"
+          }
+        }
+      }
+    },
+    "query_copy_client_id" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copy client ID"
+          }
+        }
+      }
+    },
+    "query_copy_client_ip" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copy client IP"
+          }
+        }
+      }
+    },
+    "query_copy_client_name" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copy client name"
+          }
+        }
+      }
+    },
+    "query_copy_domain" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copy domain"
+          }
+        }
+      }
+    },
+    "query_status_FilteredBlackList" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Blocked | Filter"
+          }
+        }
+      }
+    },
+    "query_status_FilteredBlockedService_%@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Blocked Service%@"
+          }
+        }
+      }
+    },
+    "query_status_FilteredInvalid" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Blocked | Invalid Request"
+          }
+        }
+      }
+    },
+    "query_status_FilteredParental" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Blocked | Parental"
+          }
+        }
+      }
+    },
+    "query_status_FilteredSafeBrowsing" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Blocked | Safe Browsing"
+          }
+        }
+      }
+    },
+    "query_status_FilteredSafeSearch" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Blocked | Safe Search"
+          }
+        }
+      }
+    },
+    "query_status_NotFilteredError" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Processed | Error"
+          }
+        }
+      }
+    },
+    "query_status_NotFilteredNotFound" : {
+      "comment" : "MARK: Queries",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Processed"
+          }
+        }
+      }
+    },
+    "query_status_NotFilteredWhiteList" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Processed | Allowlist"
+          }
+        }
+      }
+    },
+    "query_status_Rewrite" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rewrite"
+          }
+        }
+      }
+    },
+    "query_status_RewriteEtcHosts" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rewrite | Hosts File"
+          }
+        }
+      }
+    },
+    "query_status_RewriteRule" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rewrite | Rule"
+          }
+        }
+      }
+    },
+    "query_status_Unknown" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unknown"
+          }
+        }
+      }
+    },
+    "query_view_queries_from_client" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "View queries from client"
+          }
+        }
+      }
+    },
+    "query_view_queries_to_hostname" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "View queries to hostname"
+          }
+        }
+      }
+    },
+    "query_visit_domain" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Visit domain"
+          }
+        }
+      }
+    },
+    "querydetail_answer" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Answer"
+          }
+        }
+      }
+    },
+    "querydetail_block_domain" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Block Domain"
+          }
+        }
+      }
+    },
+    "querydetail_block_domain_for_client" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Block Domain for this client"
+          }
+        }
+      }
+    },
+    "querydetail_check_again" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Check again"
+          }
+        }
+      }
+    },
+    "querydetail_class" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Class"
+          }
+        }
+      }
+    },
+    "querydetail_client" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Client"
+          }
+        }
+      }
+    },
+    "querydetail_copy_upstream" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copy upstream"
+          }
+        }
+      }
+    },
+    "querydetail_edit_client" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Edit Client"
+          }
+        }
+      }
+    },
+    "querydetail_filter_rule" : {
+      "comment" : "MARK: Query Detail",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Filter Rule"
+          }
+        }
+      }
+    },
+    "querydetail_new_client" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "New Client"
+          }
+        }
+      }
+    },
+    "querydetail_plaindns" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Plain DNS"
+          }
+        }
+      }
+    },
+    "querydetail_protocol" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Protocol"
+          }
+        }
+      }
+    },
+    "querydetail_request_details" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Request Details"
+          }
+        }
+      }
+    },
+    "querydetail_response_code" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Response Code"
+          }
+        }
+      }
+    },
+    "querydetail_response_details" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Response Details"
+          }
+        }
+      }
+    },
+    "querydetail_response_time" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Response Time"
+          }
+        }
+      }
+    },
+    "querydetail_served_from_cache" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Served from cache"
+          }
+        }
+      }
+    },
+    "querydetail_ttl_%lld" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "TTL %lld"
+          }
+        }
+      }
+    },
+    "querydetail_type" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Type"
+          }
+        }
+      }
+    },
+    "querydetail_unblock_domain" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unblock Domain"
+          }
+        }
+      }
+    },
+    "querydetail_unblock_domain_for_client" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unblock Domain for this client"
+          }
+        }
+      }
+    },
+    "querydetail_upstream" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Upstream"
+          }
+        }
+      }
+    },
+    "querydetail_validated_with_dnssec" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Validated with DNSSEC"
+          }
+        }
+      }
+    },
+    "querylog_cannot-find-queries" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Can't find any queries."
+          }
+        }
+      }
+    },
+    "querylog_clear-filtered" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Clear status filters"
+          }
+        }
+      }
+    },
+    "querylog_filter" : {
+      "comment" : "MARK: Filter",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Filter"
+          }
+        }
+      }
+    },
+    "querylog_filtered" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Filtered"
+          }
+        }
+      }
+    },
+    "querylog_livelog" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Live Log"
+          }
+        }
+      }
+    },
+    "querylog_livelog_no_queries_yet" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No queries found yet..."
+          }
+        }
+      }
+    },
+    "querylog_livelog_pro" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Remote Pro is required to view more queries."
+          }
+        }
+      }
+    },
+    "querylog_no-queries" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No queries found."
+          }
+        }
+      }
+    },
+    "querylog_number-of-queries" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Number of queries"
+          }
+        }
+      }
+    },
+    "querylog_pro" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Remote Pro is required to view more queries."
+          }
+        }
+      }
+    },
+    "querylog_query" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Query"
+          }
+        }
+      }
+    },
+    "querylog_search_suggestions" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Suggestions"
+          }
+        }
+      }
+    },
+    "querylog_settings" : {
+      "comment" : "MARK: Query Log",
+      "extractionState" : "manual"
+    },
+    "querylog_settings_anonymize" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Anonymize Client IP"
+          }
+        }
+      }
+    },
+    "querylog_settings_clear" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Clear Query Log"
+          }
+        }
+      }
+    },
+    "querylog_settings_clear_alert" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Are you sure you want to clear the entire query log?"
+          }
+        }
+      }
+    },
+    "querylog_settings_cleared" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cleared."
+          }
+        }
+      }
+    },
+    "querylog_settings_enable" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enable Query Log"
+          }
+        }
+      }
+    },
+    "querylog_settings_ignored_domains_explainer" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Queries matching these rules are not written to the query log."
+          }
+        }
+      }
+    },
+    "querylog_settings_log_retention" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Log Retention"
+          }
+        }
+      }
+    },
+    "querylog_settings_options" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Options"
+          }
+        }
+      }
+    },
+    "querylog_settings_options_footer" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Turning on 'Anonymize Client IP' will disable saving the full IP address of clients in logs and statistics."
+          }
+        }
+      }
+    },
+    "querylog_settings_status" : {
+      "comment" : "MARK: Query Log",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Status"
+          }
+        }
+      }
+    },
+    "querylog_show_extra_detail" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show extra detail"
+          }
+        }
+      }
+    },
+    "querylog_show_queries_status" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show queries with status"
+          }
+        }
+      }
+    },
+    "querylog_show_search_suggestions" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show Search Suggestions"
+          }
+        }
+      }
+    },
+    "querylog_sidebar_explainer" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Select a query on the left to see details."
+          }
+        }
+      }
+    },
+    "querylog_status" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Status"
+          }
+        }
+      }
+    },
+    "querylog_status-all" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "All"
+          }
+        }
+      }
+    },
+    "querylog_status-blocked" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Blocked"
+          }
+        }
+      }
+    },
+    "querylog_status-blocked_parental" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Blocked by parental filtering"
+          }
+        }
+      }
+    },
+    "querylog_status-blocked_safebrowsing" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Blocked by safe browsing"
+          }
+        }
+      }
+    },
+    "querylog_status-blocked_services" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Blocked services"
+          }
+        }
+      }
+    },
+    "querylog_status-filtered" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Filtered"
+          }
+        }
+      }
+    },
+    "querylog_status-processed" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Processed"
+          }
+        }
+      }
+    },
+    "querylog_status-rewritten" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rewritten"
+          }
+        }
+      }
+    },
+    "querylog_status-safe_search" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Safe search"
+          }
+        }
+      }
+    },
+    "querylog_status-whitelisted" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Allowed"
+          }
+        }
+      }
+    },
+    "querylog_tabbar" : {
+      "comment" : "MARK: - Query Log",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Query Log"
+          }
+        }
+      }
+    },
+    "refresh" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Refresh"
+          }
+        }
+      }
+    },
+    "Remote for AdGuard DNS" : {
+
+    },
+    "remove" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Remove"
+          }
+        }
+      }
+    },
+    "Remove Pro license" : {
+
+    },
+    "Request timed out." : {
+
+    },
+    "reset" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reset"
+          }
+        }
+      }
+    },
+    "Result: %@" : {
+
+    },
+    "RocketScience IT" : {
+
+    },
+    "rocketscience_acknoledgements" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Special thanks to"
+          }
+        }
+      }
+    },
+    "rocketscience_adguarddns_subtitle" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rather use AdGuard DNS? I've got you covered."
+          }
+        }
+      }
+    },
+    "rocketscience_energieradar_subtitle" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Monitor real-time electricity and gas prices in many European countries."
+          }
+        }
+      }
+    },
+    "rocketscience_hi_subtitle" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "In June 2020 I started building my own apps as an independent developer, under the name 'RocketScience IT'.\n\nMy main goal is to learn: design, development, testing, support, promotion - maybe even more! Right now, I have some apps in the store which I'm continuously improving & have many ideas for other apps I might want to make in the future."
+          }
+        }
+      }
+    },
+    "rocketscience_hi_title" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hi, I'm Joost!"
+          }
+        }
+      }
+    },
+    "rocketscience_mango_subtitle" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A clean Anime & Manga tracker app, using the MyAnimeList API."
+          }
+        }
+      }
+    },
+    "rocketscience_my_other_apps" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "My Other Apps"
+          }
+        }
+      }
+    },
+    "rocketscience_piholeremote_subtitle" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Everything Pi-hole in one place."
+          }
+        }
+      }
+    },
+    "rocketscience_tipjar" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tip Jar"
+          }
+        }
+      }
+    },
+    "rocketscience_tipjar_thankyou" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thank you!"
+          }
+        }
+      }
+    },
+    "rocketscience_website" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Website"
+          }
+        }
+      }
+    },
+    "rocketscience_x" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "X"
+          }
+        }
+      }
+    },
+    "RP" : {
+      "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
+      "shouldTranslate" : false
+    },
+    "RRSIG" : {
+      "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
+      "shouldTranslate" : false
+    },
+    "safe_search_bing" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bing"
+          }
+        }
+      }
+    },
+    "safe_search_duckduckgo" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "DuckDuckGo"
+          }
+        }
+      }
+    },
+    "safe_search_ecosia" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ecosia"
+          }
+        }
+      }
+    },
+    "safe_search_google" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Google"
+          }
+        }
+      }
+    },
+    "safe_search_pixabay" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pixabay"
+          }
+        }
+      }
+    },
+    "safe_search_yandex" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yandex"
+          }
+        }
+      }
+    },
+    "safe_search_youtube" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "YouTube"
+          }
+        }
+      }
+    },
+    "save" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Save"
+          }
+        }
+      }
+    },
+    "Schedule" : {
+
+    },
+    "search" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Search"
+          }
+        }
+      }
+    },
+    "Select an Instance" : {
+
+    },
+    "select_all" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Select All"
+          }
+        }
+      }
+    },
+    "select_instance_and_duration" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Select instance & duration"
+          }
+        }
+      }
+    },
+    "select_instance_and_duration_description" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Disable protection for a certain duration."
+          }
+        }
+      }
+    },
+    "Select..." : {
+      "comment" : "Used in the DHCP interface picker on the DHCP Settings screen."
+    },
+    "Selected" : {
+
+    },
+    "services" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Services"
+          }
+        }
+      }
+    },
+    "settings" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Settings"
+          }
+        }
+      }
+    },
+    "settings_add-instance" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add Instance"
+          }
+        }
+      }
+    },
+    "settings_adguard-website" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AdGuard Website"
+          }
+        }
+      }
+    },
+    "settings_changelog" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "What's New"
+          }
+        }
+      }
+    },
+    "settings_clients" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Clients"
+          }
+        }
+      }
+    },
+    "settings_copy_email" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copy Email Address"
+          }
+        }
+      }
+    },
+    "settings_dashboard" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dashboard"
+          }
+        }
+      }
+    },
+    "settings_design" : {
+      "comment" : "MARK: Design",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Design"
+          }
+        }
+      }
+    },
+    "settings_dhcp" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "DHCP"
+          }
+        }
+      }
+    },
+    "settings_dns" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "DNS"
+          }
+        }
+      }
+    },
+    "settings_dns_rewrites" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "DNS Rewrites"
+          }
+        }
+      }
+    },
+    "settings_edit_instance" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Edit Instance"
+          }
+        }
+      }
+    },
+    "settings_edit-instance" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Edit"
+          }
+        }
+      }
+    },
+    "settings_filtering" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Filtering"
+          }
+        }
+      }
+    },
+    "settings_general" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "General Settings"
+          }
+        }
+      }
+    },
+    "settings_general_parentalfiltering_explainer_message" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AdGuard Home will check if domain contains adult materials. It uses the same privacy-friendly API as the browsing security web service."
+          }
+        }
+      }
+    },
+    "settings_general_parentalfiltering_explainer_title" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AdGuard parental control web service"
+          }
+        }
+      }
+    },
+    "settings_general_rulefiltering_explainer_message" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You can setup blocking rules in the 'Filters' settings."
+          }
+        }
+      }
+    },
+    "settings_general_rulefiltering_explainer_title" : {
+      "comment" : "Start - the following strings can be found inside 'General Settings' on the web interface",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Filters and hosts files"
+          }
+        }
+      }
+    },
+    "settings_general_safebrowsing_explainer_message" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AdGuard Home will check if the domain is blocked by the browsing security web service. It will use privacy-friendly lookup API to perform the check: only a short prefix of the domain name SHA256 hash is sent to the server."
+          }
+        }
+      }
+    },
+    "settings_general_safebrowsing_explainer_title" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AdGuard browsing security web service"
+          }
+        }
+      }
+    },
+    "settings_general_safesearch_explainer_message" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AdGuard Home will enforce safe search in several search engines."
+          }
+        }
+      }
+    },
+    "settings_general_safesearch_explainer_title" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Safe Search"
+          }
+        }
+      }
+    },
+    "settings_give_feedback_alert_body" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Please mail me with any feedback about bugs or improvements at developer@rocketscience-it.nl!"
+          }
+        }
+      }
+    },
+    "settings_give_feedback_alert_title" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Give Feedback"
+          }
+        }
+      }
+    },
+    "settings_help" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Help & Feedback"
+          }
+        }
+      }
+    },
+    "settings_help_actions" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Actions"
+          }
+        }
+      }
+    },
+    "settings_help_contact" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Contact me"
+          }
+        }
+      }
+    },
+    "settings_help_contact_footer" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Please use English for support requests!"
+          }
+        }
+      }
+    },
+    "settings_help_logs" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Logs"
+          }
+        }
+      }
+    },
+    "settings_help_logs_button" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show Logs"
+          }
+        }
+      }
+    },
+    "settings_help_logs_footer" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Logs are recorded locally and never leave your device. Swipe down to exit the Log viewer."
+          }
+        }
+      }
+    },
+    "settings_help_navbar" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Support"
+          }
+        }
+      }
+    },
+    "settings_ignored_domains" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ignored Domains"
+          }
+        }
+      }
+    },
+    "settings_instances" : {
+      "comment" : "MARK: Instance Settings",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Instances"
+          }
+        }
+      }
+    },
+    "settings_leave_review" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Leave a Review"
+          }
+        }
+      }
+    },
+    "settings_more" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "More"
+          }
+        }
+      }
+    },
+    "settings_other" : {
+      "comment" : "MARK: Other Settings",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Other"
+          }
+        }
+      }
+    },
+    "settings_preferences" : {
+      "comment" : "MARK: Preferences",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Preferences"
+          }
+        }
+      }
+    },
+    "settings_pro" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pro"
+          }
+        }
+      }
+    },
+    "settings_query-log" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Query Log"
+          }
+        }
+      }
+    },
+    "settings_reorder" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reorder"
+          }
+        }
+      }
+    },
+    "settings_restart_required" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Changing this setting requires an app restart."
+          }
+        }
+      }
+    },
+    "settings_rocketscience" : {
+      "comment" : "MARK: RocketScience",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Made by RocketScience"
+          }
+        }
+      }
+    },
+    "settings_tabbar" : {
+      "comment" : "MARK: - Settings",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Settings"
+          }
+        }
+      }
+    },
+    "settings_validation_port" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Please enter a valid port number."
+          }
+        }
+      }
+    },
+    "settings_x" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Follow on X"
+          }
+        }
+      }
+    },
+    "Show Changelog again on startup" : {
+
+    },
+    "Sidebar" : {
+      "comment" : "Used in the 'Preferences Other' screen in the navigation style picker (only visible for iPad)"
+    },
+    "SIG" : {
+      "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
+      "shouldTranslate" : false
+    },
+    "SMIMEA" : {
+      "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
+      "shouldTranslate" : false
+    },
+    "SOA" : {
+      "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
+      "shouldTranslate" : false
+    },
+    "Something went wrong with your purchase." : {
+
+    },
+    "something_went_wrong" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Something went wrong."
+          }
+        }
+      }
+    },
+    "something_went_wrong_alert" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Something went wrong"
+          }
+        }
+      }
+    },
+    "sort" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sort"
+          }
+        }
+      }
+    },
+    "sort_by" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sort by"
+          }
+        }
+      }
+    },
+    "SRV" : {
+      "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
+      "shouldTranslate" : false
+    },
+    "SSHFP" : {
+      "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
+      "shouldTranslate" : false
+    },
+    "statistics_settings_ignored_domains_explainer" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Queries matching these rules are not written to the statistics."
+          }
+        }
+      }
+    },
+    "Status" : {
+
+    },
+    "Sun" : {
+
+    },
+    "Support" : {
+
+    },
+    "SVCB" : {
+      "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
+      "shouldTranslate" : false
+    },
+    "TA" : {
+      "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
+      "shouldTranslate" : false
+    },
+    "Tabbar" : {
+      "comment" : "Used in the 'Preferences Other' screen in the navigation style picker (only visible for iPad)"
+    },
+    "tags" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tags"
+          }
+        }
+      }
+    },
+    "tap_to_learn_more" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tap to learn more."
+          }
+        }
+      }
+    },
+    "Target" : {
+
+    },
+    "TestFlight Debug" : {
+
+    },
+    "The original enddate when blocking would be enabled again." : {
+
+    },
+    "This version requires iOS 15, watchOS 8, macOS 12 (or newer)." : {
+
+    },
+    "This version requires iOS 16.2 & watchOS 10.0 (or newer)." : {
+
+    },
+    "tipjar_blush" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "*blush*"
+          }
+        }
+      }
+    },
+    "tipjar_coffee_tip" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Coffee Tip"
+          }
+        }
+      }
+    },
+    "tipjar_description" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "If you enjoy using this app and want to support the indie developer (hi! 👋), please consider leaving a tip. I would greatly appreciate it!"
+          }
+        }
+      }
+    },
+    "tipjar_description_thankyou" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thank you for your support.\n- Joost"
+          }
+        }
+      }
+    },
+    "tipjar_love" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I love you! ❤️"
+          }
+        }
+      }
+    },
+    "tipjar_love_alert" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thank you so much, I really appreciate the fact that you love the app so much you're willing to give a tip. It's extremely motivating as well. I love you!\n\nJoost"
+          }
+        }
+      }
+    },
+    "tipjar_navbar" : {
+      "comment" : "MARK: Tip Jar",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tip Jar"
+          }
+        }
+      }
+    },
+    "tipjar_payment_success" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Payment Successful"
+          }
+        }
+      }
+    },
+    "tipjar_ramen_tip" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ramen Tip"
+          }
+        }
+      }
+    },
+    "tipjar_sushi_tip" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sushi Tip"
+          }
+        }
+      }
+    },
+    "tipjar_testflight_explainer" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Note: you're running a TestFlight Build, therefore payments run in Sandbox mode and do not actually process.\n\nIf you want to tip, please download the app from the App Store! After that you can download the beta again. Thanks!"
+          }
+        }
+      }
+    },
+    "tipjar_thankyou_tip" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thank you for your generous tip!"
+          }
+        }
+      }
+    },
+    "tipjar_thankyou_tips" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thank you for your generous tips!"
+          }
+        }
+      }
+    },
+    "tipjar_title" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Tip Jar helps keep AdGuard Home Remote running and directly supports development of awesome features and improvements."
+          }
+        }
+      }
+    },
+    "tipjar_whiskey_tip" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Whiskey Tip"
+          }
+        }
+      }
+    },
+    "TKEY" : {
+      "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
+      "shouldTranslate" : false
+    },
+    "TLSA" : {
+      "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
+      "shouldTranslate" : false
+    },
+    "Toggle Protection" : {
+
+    },
+    "toggle_protection" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Toggle Protection"
+          }
+        }
+      }
+    },
+    "toggle_protection_allinstances_description" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Toggle Protection for all instances."
+          }
+        }
+      }
+    },
+    "total" : {
+      "comment" : "MARK: Apple Watch",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Total"
+          }
+        }
+      }
+    },
+    "TSIG" : {
+      "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
+      "shouldTranslate" : false
+    },
+    "TXT" : {
+      "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
+      "shouldTranslate" : false
+    },
+    "unknown" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unknown"
+          }
+        }
+      }
+    },
+    "Unknown Error" : {
+
+    },
+    "unknown_error" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unknown Error"
+          }
+        }
+      }
+    },
+    "Until tomorrow" : {
+
+    },
+    "until_tomorrow" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Until tomorrow"
+          }
+        }
+      }
+    },
+    "until_turned_back_on" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Until turned back on"
+          }
+        }
+      }
+    },
+    "URI" : {
+      "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
+      "shouldTranslate" : false
+    },
+    "Use NextDNS? Have I got an app for you." : {
+
+    },
+    "use_global_settings" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Use Global Settings"
+          }
+        }
+      }
+    },
+    "v%@ (%@)" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "v%1$@ (%2$@)"
+          }
+        }
+      }
+    },
+    "value" : {
+      "comment" : "Placeholder of the 'custom header value' textfield in instance settings."
+    },
+    "Watch App Not Installed" : {
+
+    },
+    "watch_stuck_reinstall" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This can take a while. If the app is stuck on this screen, please try reinstalling it. Sorry for the inconvenience!"
+          }
+        }
+      }
+    },
+    "widget_dashboard" : {
+      "comment" : "MARK: Widgets",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dashboard Widget"
+          }
+        }
+      }
+    },
+    "widget_dashboard_description" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "View your Dashboard statistics."
+          }
+        }
+      }
+    },
+    "widget_disable" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Disable"
+          }
+        }
+      }
+    },
+    "widget_disable_buttons" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Protection Widget"
+          }
+        }
+      }
+    },
+    "widget_disable_buttons_description" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quickly toggle protection for a certain duration."
+          }
+        }
+      }
+    },
+    "widget_disabled" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Disabled"
+          }
+        }
+      }
+    },
+    "widget_enable" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enable"
+          }
+        }
+      }
+    },
+    "widget_enabled" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enabled"
+          }
+        }
+      }
+    },
+    "ZONEMD" : {
+      "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
+      "shouldTranslate" : false
+    }
+  },
+  "version" : "1.0"
+}

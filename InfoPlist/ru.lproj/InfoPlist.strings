@@ -1,9 +1,0 @@
-/* 
-  InfoPlist.strings
-  AdGuardHome
-
-  Created by Joost van den Akker on 27/05/2021.
-  
-*/
-
-"NSLocalNetworkUsageDescription" = "AdGuard Home Remote использует локальную сеть для подключения к вашим серверам AdGuard Home.";
