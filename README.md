@@ -2,7 +2,9 @@
 Repository tracking translations for AdGuard Home Remote
 
 ## How to help translate
-In order to help translate, you will need to be able to download Xcode (from the Mac App Store). With Xcode downloaded, you can open one of the files in the 'App Strings' folder and an editor will open which shows the keys with English translation, comment, and a textfield for the translated language.
+In order to help translate, you will need to be able to download Xcode (from the Mac App Store). With Xcode downloaded, you can open one of the `.xcloc` files in the 'App Strings' folder and an editor will open which shows the keys with English translation, comment, and a textfield for the translated language.
+
+<img width="1354" alt="image" src="https://github.com/user-attachments/assets/efe0523e-c612-4881-ac2a-7819ae37cee0" />
 
 ## Priority
 The 'App Strings' folder contains all strings to be translated. Most important are 'Resources > App > Localizable' and 'iOS > InfoPlist', you'll see these when you open the file with Xcode. After this, the next most important thing is the AppStore Description. The other files have a lower priority. 
