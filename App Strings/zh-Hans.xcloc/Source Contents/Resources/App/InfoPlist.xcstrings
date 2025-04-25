@@ -11,7 +11,8 @@
             "value" : "AdGuard Home Remote Widgets"
           }
         }
-      }
+      },
+      "shouldTranslate" : false
     },
     "CFBundleName" : {
       "comment" : "Bundle name",
@@ -23,7 +24,8 @@
             "value" : "AdGuard Home Remote WidgetsExtension"
           }
         }
-      }
+      },
+      "shouldTranslate" : false
     }
   },
   "version" : "1.0"

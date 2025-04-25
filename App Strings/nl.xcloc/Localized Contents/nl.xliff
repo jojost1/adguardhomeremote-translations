@@ -249,11 +249,11 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.3" build-num="16E140"/>
     </header>
     <body>
-      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+      <trans-unit id="CFBundleDisplayName" translate="no" xml:space="preserve">
         <source>WidgetInstanceIntent</source>
         <note>Bundle display name</note>
       </trans-unit>
-      <trans-unit id="CFBundleName" xml:space="preserve">
+      <trans-unit id="CFBundleName" translate="no" xml:space="preserve">
         <source>WidgetInstanceIntent</source>
         <note>Bundle name</note>
       </trans-unit>
@@ -791,16 +791,16 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.3" build-num="16E140"/>
     </header>
     <body>
-      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+      <trans-unit id="CFBundleDisplayName" translate="no" xml:space="preserve">
         <source>Shortcuts</source>
         <note>Bundle display name</note>
       </trans-unit>
-      <trans-unit id="CFBundleName" xml:space="preserve">
+      <trans-unit id="CFBundleName" translate="no" xml:space="preserve">
         <source>Shortcuts</source>
         <note>Bundle name</note>
       </trans-unit>
-      <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
-        <source/>
+      <trans-unit id="NSHumanReadableCopyright" translate="no" xml:space="preserve">
+        <source>Copyright © 2025 RocketScience IT</source>
         <note>Copyright (human-readable)</note>
       </trans-unit>
     </body>
@@ -833,17 +833,21 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.3" build-num="16E140"/>
     </header>
     <body>
-      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+      <trans-unit id="CFBundleDisplayName" translate="no" xml:space="preserve">
         <source>AdGuard Home</source>
         <note>Bundle display name</note>
       </trans-unit>
-      <trans-unit id="CFBundleName" xml:space="preserve">
+      <trans-unit id="CFBundleName" translate="no" xml:space="preserve">
         <source>AdGuard Home Remote</source>
         <note>Bundle name</note>
       </trans-unit>
       <trans-unit id="NSFaceIDUsageDescription" xml:space="preserve">
         <source>AdGuard Home Remote uses Face ID to unlock the app.</source>
         <note>Privacy - Face ID Usage Description</note>
+      </trans-unit>
+      <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
+        <source>Copyright © 2025 RocketScience IT</source>
+        <note>Copyright (human-readable)</note>
       </trans-unit>
       <trans-unit id="NSLocalNetworkUsageDescription" xml:space="preserve">
         <source>AdGuard Home Remote uses the local network to connect with your AdGuard Home instances.</source>
@@ -894,11 +898,11 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.3" build-num="16E140"/>
     </header>
     <body>
-      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+      <trans-unit id="CFBundleDisplayName" translate="no" xml:space="preserve">
         <source>AdGuard Home Remote Widgets</source>
         <note>Bundle display name</note>
       </trans-unit>
-      <trans-unit id="CFBundleName" xml:space="preserve">
+      <trans-unit id="CFBundleName" translate="no" xml:space="preserve">
         <source>AdGuard Home Remote WidgetsExtension</source>
         <note>Bundle name</note>
       </trans-unit>
@@ -909,12 +913,18 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.3" build-num="16E140"/>
     </header>
     <body>
+      <trans-unit id="%@ %@" translate="no" xml:space="preserve">
+        <source>%1$@ %2$@</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="%@ bytes" xml:space="preserve">
         <source>%@ bytes</source>
+        <target state="translated">%@ bytes</target>
         <note>Clients DNS cache size in bytes.</note>
       </trans-unit>
       <trans-unit id="%@ms" xml:space="preserve">
         <source>%@ms</source>
+        <target state="translated">%@ms</target>
         <note>Used in the Query Log to display query duration like '5ms'.</note>
       </trans-unit>
       <trans-unit id="1h" xml:space="preserve">
@@ -981,6 +991,11 @@
         <source>A</source>
         <note>Used in the DNS record type picker on the 'check filtering' screen.</note>
       </trans-unit>
+      <trans-unit id="A clean Anime &amp; Manga tracker app, using the MyAnimeList API." xml:space="preserve">
+        <source>A clean Anime &amp; Manga tracker app, using the MyAnimeList API.</source>
+        <target state="translated">Een strakke Anime- &amp; Manga-tracker-app, met gebruik van de MyAnimeList API.</target>
+        <note>Subtitle under 'ManGo' app on the Made by RocketScience screen.</note>
+      </trans-unit>
       <trans-unit id="AAAA" translate="no" xml:space="preserve">
         <source>AAAA</source>
         <note>Used in the DNS record type picker on the 'check filtering' screen.</note>
@@ -989,40 +1004,46 @@
         <source>AFSDB</source>
         <note>Used in the DNS record type picker on the 'check filtering' screen.</note>
       </trans-unit>
-      <trans-unit id="AGHR Pro" xml:space="preserve">
+      <trans-unit id="AGHR Pro" translate="no" xml:space="preserve">
         <source>AGHR Pro</source>
         <note/>
       </trans-unit>
       <trans-unit id="AGHR's tabs" xml:space="preserve">
         <source>AGHR's tabs</source>
+        <target state="translated">AGHR's tabs</target>
         <note/>
       </trans-unit>
       <trans-unit id="APL" translate="no" xml:space="preserve">
         <source>APL</source>
         <note>Used in the DNS record type picker on the 'check filtering' screen.</note>
       </trans-unit>
-      <trans-unit id="AdGuard Home Remote" xml:space="preserve">
+      <trans-unit id="AdGuard Home Remote" translate="no" xml:space="preserve">
         <source>AdGuard Home Remote</source>
         <note/>
       </trans-unit>
       <trans-unit id="AdGuard Home v0.107.28 or higher is required for some of these new features. Please update!" xml:space="preserve">
         <source>AdGuard Home v0.107.28 or higher is required for some of these new features. Please update!</source>
+        <target state="translated">Voor sommige van deze nieuwe functies is AdGuard Home v0.107.28 of hoger vereist.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add 5 minutes" xml:space="preserve">
         <source>Add 5 minutes</source>
+        <target state="translated">Voeg 5 minuten toe</target>
         <note/>
       </trans-unit>
       <trans-unit id="Additional info" xml:space="preserve">
         <source>Additional info</source>
+        <target state="translated">Extra info</target>
         <note/>
       </trans-unit>
       <trans-unit id="Apply Pro license" xml:space="preserve">
         <source>Apply Pro license</source>
+        <target state="translated">Pro-licentie toepassen</target>
         <note/>
       </trans-unit>
       <trans-unit id="Automatic" xml:space="preserve">
         <source>Automatic</source>
+        <target state="translated">Automatisch</target>
         <note>Used in the 'Preferences Other' screen in the navigation style picker (only visible for iPad)</note>
       </trans-unit>
       <trans-unit id="CAA" translate="no" xml:space="preserve">
@@ -1051,38 +1072,47 @@
       </trans-unit>
       <trans-unit id="Can't reach AdGuard Home." xml:space="preserve">
         <source>Can't reach AdGuard Home.</source>
+        <target state="translated">Kan AdGuard Home niet bereiken.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Check Filtering" xml:space="preserve">
         <source>Check Filtering</source>
+        <target state="translated">Check filtering</target>
         <note/>
       </trans-unit>
       <trans-unit id="Check filtering" xml:space="preserve">
         <source>Check filtering</source>
+        <target state="translated">Check filtering</target>
         <note/>
       </trans-unit>
       <trans-unit id="Check if a host name is filtered." xml:space="preserve">
         <source>Check if a host name is filtered.</source>
+        <target state="translated">Check of een hostname wordt gefilterd</target>
         <note/>
       </trans-unit>
       <trans-unit id="Clear display name textfield" xml:space="preserve">
         <source>Clear display name textfield</source>
-        <note/>
+        <target state="translated">Weergave-naam tekstveld leegmaken</target>
+        <note>Accessibility label for the X button of the display name textfield</note>
       </trans-unit>
       <trans-unit id="Clear hostname textfield" xml:space="preserve">
         <source>Clear hostname textfield</source>
-        <note/>
+        <target state="translated">Hostname tekstveld leegmaken</target>
+        <note>Accessibility label for the X button of the hostname textfield</note>
       </trans-unit>
       <trans-unit id="Client identifier" xml:space="preserve">
         <source>Client identifier</source>
+        <target state="translated">Client identifier</target>
         <note/>
       </trans-unit>
       <trans-unit id="ClientID or IP" xml:space="preserve">
         <source>ClientID or IP</source>
+        <target state="translated">ClientID of IP</target>
         <note/>
       </trans-unit>
       <trans-unit id="Contact" xml:space="preserve">
         <source>Contact</source>
+        <target state="translated">Contact</target>
         <note/>
       </trans-unit>
       <trans-unit id="DHCID" translate="no" xml:space="preserve">
@@ -1099,10 +1129,12 @@
       </trans-unit>
       <trans-unit id="DNS Queries: %@" xml:space="preserve">
         <source>DNS Queries: %@</source>
+        <target state="translated">DNS Queries: %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="DNS Record Type" xml:space="preserve">
         <source>DNS Record Type</source>
+        <target state="translated">DNS Record Type</target>
         <note/>
       </trans-unit>
       <trans-unit id="DNSKEY" translate="no" xml:space="preserve">
@@ -1115,10 +1147,12 @@
       </trans-unit>
       <trans-unit id="Dashboard" xml:space="preserve">
         <source>Dashboard</source>
+        <target state="translated">Dashboard</target>
         <note/>
       </trans-unit>
       <trans-unit id="Disabled" xml:space="preserve">
         <source>Disabled</source>
+        <target state="translated">Uitgeschakeld</target>
         <note/>
       </trans-unit>
       <trans-unit id="EUI48" translate="no" xml:space="preserve">
@@ -1131,27 +1165,17 @@
       </trans-unit>
       <trans-unit id="Enable and disable protection." xml:space="preserve">
         <source>Enable and disable protection.</source>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Energie Radar" xml:space="preserve">
-        <source>Energie Radar</source>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Enjoy the update!&#10;- Joost" xml:space="preserve">
-        <source>Enjoy the update!
-- Joost</source>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Enjoy the update! - Joost" xml:space="preserve">
-        <source>Enjoy the update! - Joost</source>
+        <target state="translated">Bescherming aan en uitzetten.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Expires in %lld minutes" xml:space="preserve">
         <source>Expires in %lld minutes</source>
+        <target state="translated">Verloopt over %lld minuten</target>
         <note/>
       </trans-unit>
       <trans-unit id="Force Watch Sync" xml:space="preserve">
         <source>Force Watch Sync</source>
+        <target state="translated">Forceer Watch Sync</target>
         <note/>
       </trans-unit>
       <trans-unit id="HINFO" translate="no" xml:space="preserve">
@@ -1168,6 +1192,7 @@
       </trans-unit>
       <trans-unit id="Hostname or domain name" xml:space="preserve">
         <source>Hostname or domain name</source>
+        <target state="translated">Hostname of domeinnaam</target>
         <note/>
       </trans-unit>
       <trans-unit id="IPSECKEY" translate="no" xml:space="preserve">
@@ -1176,14 +1201,17 @@
       </trans-unit>
       <trans-unit id="If you already did, please go to your instance, press 'Edit' and press 'Save' again. It should show up after that. If not, try a restart of the Watch app." xml:space="preserve">
         <source>If you already did, please go to your instance, press 'Edit' and press 'Save' again. It should show up after that. If not, try a restart of the Watch app.</source>
+        <target state="translated">Als je dat al hebt gedaan, ga dan naar je instantie, druk op ‘Bewerken’ en druk vervolgens opnieuw op ‘Opslaan’. Daarna zou het zichtbaar moeten zijn. Zo niet, probeer dan de Watch-app opnieuw op te starten.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Invalid authentication or privacy setting." xml:space="preserve">
         <source>Invalid authentication or privacy setting.</source>
+        <target state="translated">Ongeldige authenticatie of privacy instelling</target>
         <note/>
       </trans-unit>
       <trans-unit id="Invalid hostname or port." xml:space="preserve">
         <source>Invalid hostname or port.</source>
+        <target state="translated">Ongeldige hostname of poort</target>
         <note/>
       </trans-unit>
       <trans-unit id="KEY" translate="no" xml:space="preserve">
@@ -1200,6 +1228,7 @@
       </trans-unit>
       <trans-unit id="Launch App" xml:space="preserve">
         <source>Launch App</source>
+        <target state="translated">Open App</target>
         <note/>
       </trans-unit>
       <trans-unit id="MX" translate="no" xml:space="preserve">
@@ -1208,7 +1237,13 @@
       </trans-unit>
       <trans-unit id="ManGo - Anime &amp; Manga Tracker" xml:space="preserve">
         <source>ManGo - Anime &amp; Manga Tracker</source>
+        <target state="translated">ManGo - Anime &amp; Manga Tracker</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="Monitor real-time electricity and gas prices in many European countries." xml:space="preserve">
+        <source>Monitor real-time electricity and gas prices in many European countries.</source>
+        <target state="translated">Bekijk realtime elektriciteits- en gasprijzen in veel Europese landen.</target>
+        <note>Subtitle under 'Utility Radar' app on the Made by RocketScience screen.</note>
       </trans-unit>
       <trans-unit id="NAPTR" translate="no" xml:space="preserve">
         <source>NAPTR</source>
@@ -1232,18 +1267,21 @@
       </trans-unit>
       <trans-unit id="New OS versions are required for some of these new features. Please update your device!" xml:space="preserve">
         <source>New OS versions are required for some of these new features. Please update your device!</source>
+        <target state="translated">Sommige functies vereisen nieuwe OS versies. Update je apparaat!</target>
         <note/>
       </trans-unit>
-      <trans-unit id="NextDNS Remote" xml:space="preserve">
+      <trans-unit id="NextDNS Remote" translate="no" xml:space="preserve">
         <source>NextDNS Remote</source>
         <note/>
       </trans-unit>
       <trans-unit id="No Watch Paired" xml:space="preserve">
         <source>No Watch Paired</source>
+        <target state="translated">Geen Watch gekoppeld</target>
         <note/>
       </trans-unit>
       <trans-unit id="No pages for this support item" xml:space="preserve">
         <source>No pages for this support item</source>
+        <target state="translated">Geen pagina’s voor dit support item</target>
         <note/>
       </trans-unit>
       <trans-unit id="OPENPGPKEY" translate="no" xml:space="preserve">
@@ -1252,18 +1290,22 @@
       </trans-unit>
       <trans-unit id="Open the dashboard." xml:space="preserve">
         <source>Open the dashboard.</source>
+        <target state="translated">Open Dashboard.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Open the query log." xml:space="preserve">
         <source>Open the query log.</source>
+        <target state="translated">Open Query Log.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Optional" xml:space="preserve">
         <source>Optional</source>
+        <target state="translated">Optioneel</target>
         <note/>
       </trans-unit>
       <trans-unit id="Options" xml:space="preserve">
         <source>Options</source>
+        <target state="translated">Opties</target>
         <note/>
       </trans-unit>
       <trans-unit id="PTR" translate="no" xml:space="preserve">
@@ -1272,18 +1314,21 @@
       </trans-unit>
       <trans-unit id="Paste from clipboard" xml:space="preserve">
         <source>Paste from clipboard</source>
-        <note/>
+        <target state="translated">Plakken van klembord</target>
+        <note>Accessibility label for the clipboard button</note>
       </trans-unit>
-      <trans-unit id="Pi-hole Remote" xml:space="preserve">
+      <trans-unit id="Pi-hole Remote" translate="no" xml:space="preserve">
         <source>Pi-hole Remote</source>
         <note/>
       </trans-unit>
       <trans-unit id="Please add an instance in the iPhone app." xml:space="preserve">
         <source>Please add an instance in the iPhone app.</source>
+        <target state="translated">Voeg een instantie toe in de iPhone app.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Query Log" xml:space="preserve">
         <source>Query Log</source>
+        <target state="translated">Query Log</target>
         <note/>
       </trans-unit>
       <trans-unit id="RP" translate="no" xml:space="preserve">
@@ -1294,23 +1339,26 @@
         <source>RRSIG</source>
         <note>Used in the DNS record type picker on the 'check filtering' screen.</note>
       </trans-unit>
-      <trans-unit id="Remote for AdGuard DNS" xml:space="preserve">
+      <trans-unit id="Remote for AdGuard DNS" translate="no" xml:space="preserve">
         <source>Remote for AdGuard DNS</source>
         <note/>
       </trans-unit>
       <trans-unit id="Remove Pro license" xml:space="preserve">
         <source>Remove Pro license</source>
+        <target state="translated">Verwijder Pro licentie</target>
         <note/>
       </trans-unit>
       <trans-unit id="Request timed out." xml:space="preserve">
         <source>Request timed out.</source>
+        <target state="translated">Request time-out.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Result: %@" xml:space="preserve">
         <source>Result: %@</source>
+        <target state="translated">Resultaat: %@</target>
         <note/>
       </trans-unit>
-      <trans-unit id="RocketScience IT" xml:space="preserve">
+      <trans-unit id="RocketScience IT" translate="no" xml:space="preserve">
         <source>RocketScience IT</source>
         <note/>
       </trans-unit>
@@ -1340,34 +1388,42 @@
       </trans-unit>
       <trans-unit id="Schedule" xml:space="preserve">
         <source>Schedule</source>
+        <target state="translated">Plannen</target>
         <note/>
       </trans-unit>
       <trans-unit id="Select an Instance" xml:space="preserve">
         <source>Select an Instance</source>
+        <target state="translated">Selecteer een instantie</target>
         <note/>
       </trans-unit>
       <trans-unit id="Select..." xml:space="preserve">
         <source>Select...</source>
+        <target state="translated">Selecteer...</target>
         <note>Used in the DHCP interface picker on the DHCP Settings screen.</note>
       </trans-unit>
       <trans-unit id="Selected" xml:space="preserve">
         <source>Selected</source>
+        <target state="translated">Geselecteerd</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show Changelog again on startup" xml:space="preserve">
         <source>Show Changelog again on startup</source>
+        <target state="translated">Laat changelog opnieuw zien na opstarten app</target>
         <note/>
       </trans-unit>
       <trans-unit id="Sidebar" xml:space="preserve">
         <source>Sidebar</source>
+        <target state="translated">Sidebar</target>
         <note>Used in the 'Preferences Other' screen in the navigation style picker (only visible for iPad)</note>
       </trans-unit>
       <trans-unit id="Something went wrong with your purchase." xml:space="preserve">
         <source>Something went wrong with your purchase.</source>
+        <target state="translated">Er is iets mis gegaan bij je aankoop.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Status" xml:space="preserve">
         <source>Status</source>
+        <target state="translated">Status</target>
         <note/>
       </trans-unit>
       <trans-unit id="Sun" xml:space="preserve">
@@ -1376,6 +1432,7 @@
       </trans-unit>
       <trans-unit id="Support" xml:space="preserve">
         <source>Support</source>
+        <target state="translated">Support</target>
         <note/>
       </trans-unit>
       <trans-unit id="TA" translate="no" xml:space="preserve">
@@ -1400,30 +1457,37 @@
       </trans-unit>
       <trans-unit id="Tabbar" xml:space="preserve">
         <source>Tabbar</source>
+        <target state="translated">Tabbar</target>
         <note>Used in the 'Preferences Other' screen in the navigation style picker (only visible for iPad)</note>
       </trans-unit>
       <trans-unit id="Target" xml:space="preserve">
         <source>Target</source>
+        <target state="translated">Target</target>
         <note/>
       </trans-unit>
       <trans-unit id="TestFlight Debug" xml:space="preserve">
         <source>TestFlight Debug</source>
+        <target state="translated">TestFlight Debug</target>
         <note/>
       </trans-unit>
       <trans-unit id="The original enddate when blocking would be enabled again." xml:space="preserve">
         <source>The original enddate when blocking would be enabled again.</source>
+        <target state="translated">De oorspronkelijke einddatum waarop blokkeren weer ingeschakeld zou worden.</target>
         <note/>
       </trans-unit>
       <trans-unit id="This version requires iOS 15, watchOS 8, macOS 12 (or newer)." xml:space="preserve">
         <source>This version requires iOS 15, watchOS 8, macOS 12 (or newer).</source>
+        <target state="translated">Deze versie vereist iOS 15, watchOS 8, macOS 12 (of nieuwer).</target>
         <note/>
       </trans-unit>
       <trans-unit id="This version requires iOS 16.2 &amp; watchOS 10.0 (or newer)." xml:space="preserve">
         <source>This version requires iOS 16.2 &amp; watchOS 10.0 (or newer).</source>
+        <target state="translated">Deze versie vereist iOS 16.2 en watchOS 10.0 (of nieuwer).</target>
         <note/>
       </trans-unit>
       <trans-unit id="Toggle Protection" xml:space="preserve">
         <source>Toggle Protection</source>
+        <target state="translated">Bescherming Aanpassen</target>
         <note/>
       </trans-unit>
       <trans-unit id="URI" translate="no" xml:space="preserve">
@@ -1432,18 +1496,27 @@
       </trans-unit>
       <trans-unit id="Unknown Error" xml:space="preserve">
         <source>Unknown Error</source>
+        <target state="translated">Onbekende Error</target>
         <note/>
       </trans-unit>
       <trans-unit id="Until tomorrow" xml:space="preserve">
         <source>Until tomorrow</source>
+        <target state="translated">Tot morgen</target>
         <note/>
       </trans-unit>
       <trans-unit id="Use NextDNS? Have I got an app for you." xml:space="preserve">
         <source>Use NextDNS? Have I got an app for you.</source>
+        <target state="translated">Gebruik je NextDNS? Dan heb ik een app voor jou.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Utility Radar" xml:space="preserve">
+        <source>Utility Radar</source>
+        <target state="translated">Energie Radar</target>
         <note/>
       </trans-unit>
       <trans-unit id="Watch App Not Installed" xml:space="preserve">
         <source>Watch App Not Installed</source>
+        <target state="translated">Watch App niet geïnstalleerd</target>
         <note/>
       </trans-unit>
       <trans-unit id="ZONEMD" translate="no" xml:space="preserve">
@@ -1492,7 +1565,7 @@
       </trans-unit>
       <trans-unit id="all" xml:space="preserve">
         <source>All</source>
-        <target state="translated">Alles</target>
+        <target state="translated">Alle</target>
         <note/>
       </trans-unit>
       <trans-unit id="all_instances" xml:space="preserve">
@@ -1552,6 +1625,7 @@
       </trans-unit>
       <trans-unit id="cache" xml:space="preserve">
         <source>cache</source>
+        <target state="translated">cache</target>
         <note/>
       </trans-unit>
       <trans-unit id="cancel" xml:space="preserve">
@@ -2108,10 +2182,12 @@ Zoeken</target>
       </trans-unit>
       <trans-unit id="dhcp_add_client_with_ip" xml:space="preserve">
         <source>New Client (with IP)</source>
+        <target state="translated">Nieuwe Client (met IP)</target>
         <note/>
       </trans-unit>
       <trans-unit id="dhcp_add_client_with_mac" xml:space="preserve">
         <source>New Client (with MAC)</source>
+        <target state="translated">Nieuwe Client (met MAC)</target>
         <note/>
       </trans-unit>
       <trans-unit id="dhcp_edit_lease" xml:space="preserve">
@@ -2659,10 +2735,6 @@ Zoeken</target>
         <target state="translated">Remote Pro is vereist om DNS herschrijvingen te beheren.</target>
         <note/>
       </trans-unit>
-      <trans-unit id="dnsrewrites_settings" xml:space="preserve">
-        <source>dnsrewrites_settings</source>
-        <note>MARK: DNS Rewrites</note>
-      </trans-unit>
       <trans-unit id="domain" xml:space="preserve">
         <source>Domain</source>
         <target state="translated">Domein</target>
@@ -2695,6 +2767,7 @@ Zoeken</target>
       </trans-unit>
       <trans-unit id="example.com" xml:space="preserve">
         <source>example.com</source>
+        <target state="translated">voorbeeld.nl</target>
         <note/>
       </trans-unit>
       <trans-unit id="ff" xml:space="preserve">
@@ -2769,11 +2842,6 @@ Zoeken</target>
       <trans-unit id="filtering_check_hostname_placeholder" xml:space="preserve">
         <source>Enter a hostname...</source>
         <target state="translated">Hostnaam...</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="filtering_check_hostname_result" xml:space="preserve">
-        <source>Result</source>
-        <target state="translated">Resultaat</target>
         <note/>
       </trans-unit>
       <trans-unit id="filtering_custom_filtering_rules" xml:space="preserve">
@@ -3108,6 +3176,7 @@ Zoeken</target>
       </trans-unit>
       <trans-unit id="important" xml:space="preserve">
         <source>important</source>
+        <target state="translated">belangrijk</target>
         <note/>
       </trans-unit>
       <trans-unit id="indefinitely" xml:space="preserve">
@@ -3222,6 +3291,7 @@ Zoeken</target>
       </trans-unit>
       <trans-unit id="key" xml:space="preserve">
         <source>key</source>
+        <target state="translated">key</target>
         <note>Placeholder of the 'custom header key' textfield in instance settings.</note>
       </trans-unit>
       <trans-unit id="liveactivity_ends" xml:space="preserve">
@@ -3242,10 +3312,6 @@ Zoeken</target>
       <trans-unit id="loading_dots" xml:space="preserve">
         <source>Loading...</source>
         <target state="translated">Laden...</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="loading_instances_icloud" xml:space="preserve">
-        <source>loading_instances_icloud</source>
         <note/>
       </trans-unit>
       <trans-unit id="loading_instances_iphone" xml:space="preserve">
@@ -3390,6 +3456,7 @@ Zoeken</target>
       </trans-unit>
       <trans-unit id="off" xml:space="preserve">
         <source>off</source>
+        <target state="translated">uit</target>
         <note/>
       </trans-unit>
       <trans-unit id="ok" xml:space="preserve">
@@ -3399,10 +3466,12 @@ Zoeken</target>
       </trans-unit>
       <trans-unit id="on" xml:space="preserve">
         <source>on</source>
+        <target state="translated">aan</target>
         <note/>
       </trans-unit>
       <trans-unit id="original_enddate" xml:space="preserve">
-        <source>original_enddate</source>
+        <source>Original Enddate</source>
+        <target state="translated">Originele einddatum</target>
         <note/>
       </trans-unit>
       <trans-unit id="other" xml:space="preserve">
@@ -3855,11 +3924,6 @@ Remote Pro</target>
         <target state="translated">User has revoked permission to use this cloud service.</target>
         <note/>
       </trans-unit>
-      <trans-unit id="purchase_connection_error" xml:space="preserve">
-        <source>Could not connect to the network.</source>
-        <target state="translated">Kon geen verbinding maken met het internet.</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="purchase_invalid_id" xml:space="preserve">
         <source>The purchase identifier was invalid.</source>
         <target state="translated">De 'purchase identifier' was niet geldig.</target>
@@ -3874,11 +3938,6 @@ Remote Pro</target>
         <source>The product is not available in the current storefront.</source>
         <target state="translated">Dit product is niet beschikbaar op dit moment.</target>
         <note/>
-      </trans-unit>
-      <trans-unit id="purchase_unknown_error" xml:space="preserve">
-        <source>Unknown error. Please contact me at developer@rocketscience-it.nl.</source>
-        <target state="translated">Onbekende fout. Neem contact op via developer@rocketscience-it.nl.</target>
-        <note>MARK: Purchase Flow</note>
       </trans-unit>
       <trans-unit id="query_copy" xml:space="preserve">
         <source>Copy</source>
@@ -4160,10 +4219,6 @@ Remote Pro</target>
         <target state="translated">Suggesties</target>
         <note/>
       </trans-unit>
-      <trans-unit id="querylog_settings" xml:space="preserve">
-        <source>querylog_settings</source>
-        <note>MARK: Query Log</note>
-      </trans-unit>
       <trans-unit id="querylog_settings_anonymize" xml:space="preserve">
         <source>Anonymize Client IP</source>
         <target state="translated">Cliënt IP anonimiseren</target>
@@ -4319,11 +4374,6 @@ Remote Pro</target>
         <target state="translated">Gebruik je liever AdGuard DNS? Daar is ook een app voor.</target>
         <note/>
       </trans-unit>
-      <trans-unit id="rocketscience_energieradar_subtitle" xml:space="preserve">
-        <source>Monitor real-time electricity and gas prices in many European countries.</source>
-        <target state="translated">Real-time inzicht in stroom- en gasprijzen in Nederland en andere Europese landen.</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="rocketscience_hi_subtitle" xml:space="preserve">
         <source>In June 2020 I started building my own apps as an independent developer, under the name 'RocketScience IT'.
 
@@ -4336,11 +4386,6 @@ Mijn doel is om te leren: ontwerpen, ontwikkelen, testen, support, marketing - m
       <trans-unit id="rocketscience_hi_title" xml:space="preserve">
         <source>Hi, I'm Joost!</source>
         <target state="translated">Hi, ik ben Joost!</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="rocketscience_mango_subtitle" xml:space="preserve">
-        <source>A clean Anime &amp; Manga tracker app, using the MyAnimeList API.</source>
-        <target state="translated">Een Anime &amp; Manga tracking app die gebruik maakt van de MyAnimeList API.</target>
         <note/>
       </trans-unit>
       <trans-unit id="rocketscience_my_other_apps" xml:space="preserve">
@@ -4425,10 +4470,12 @@ Mijn doel is om te leren: ontwerpen, ontwikkelen, testen, support, marketing - m
       </trans-unit>
       <trans-unit id="select_instance_and_duration" xml:space="preserve">
         <source>Select instance &amp; duration</source>
+        <target state="translated">Selecteer instantie en duur</target>
         <note/>
       </trans-unit>
       <trans-unit id="select_instance_and_duration_description" xml:space="preserve">
         <source>Disable protection for a certain duration.</source>
+        <target state="translated">Bescherming uitschakelen voor een periode.</target>
         <note/>
       </trans-unit>
       <trans-unit id="services" xml:space="preserve">
@@ -4811,11 +4858,6 @@ If you want to tip, please download the app from the App Store! After that you c
         <target state="translated">Onbekend</target>
         <note/>
       </trans-unit>
-      <trans-unit id="unknown_error" xml:space="preserve">
-        <source>Unknown Error</source>
-        <target state="translated">Onbekende Error</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="until_tomorrow" xml:space="preserve">
         <source>Until tomorrow</source>
         <target state="translated">Tot morgen</target>
@@ -4831,12 +4873,13 @@ If you want to tip, please download the app from the App Store! After that you c
         <target state="translated">Gebruik globale instellingen</target>
         <note/>
       </trans-unit>
-      <trans-unit id="v%@ (%@)" xml:space="preserve">
+      <trans-unit id="v%@ (%@)" translate="no" xml:space="preserve">
         <source>v%1$@ (%2$@)</source>
         <note/>
       </trans-unit>
       <trans-unit id="value" xml:space="preserve">
         <source>value</source>
+        <target state="translated">value</target>
         <note>Placeholder of the 'custom header value' textfield in instance settings.</note>
       </trans-unit>
       <trans-unit id="watch_stuck_reinstall" xml:space="preserve">

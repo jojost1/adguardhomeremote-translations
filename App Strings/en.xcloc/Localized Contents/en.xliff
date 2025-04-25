@@ -279,12 +279,12 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.3" build-num="16E140"/>
     </header>
     <body>
-      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+      <trans-unit id="CFBundleDisplayName" translate="no" xml:space="preserve">
         <source>WidgetInstanceIntent</source>
         <target state="new">WidgetInstanceIntent</target>
         <note>Bundle display name</note>
       </trans-unit>
-      <trans-unit id="CFBundleName" xml:space="preserve">
+      <trans-unit id="CFBundleName" translate="no" xml:space="preserve">
         <source>WidgetInstanceIntent</source>
         <target state="new">WidgetInstanceIntent</target>
         <note>Bundle name</note>
@@ -823,19 +823,19 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.3" build-num="16E140"/>
     </header>
     <body>
-      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+      <trans-unit id="CFBundleDisplayName" translate="no" xml:space="preserve">
         <source>Shortcuts</source>
         <target state="new">Shortcuts</target>
         <note>Bundle display name</note>
       </trans-unit>
-      <trans-unit id="CFBundleName" xml:space="preserve">
+      <trans-unit id="CFBundleName" translate="no" xml:space="preserve">
         <source>Shortcuts</source>
         <target state="new">Shortcuts</target>
         <note>Bundle name</note>
       </trans-unit>
-      <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
-        <source/>
-        <target state="new"/>
+      <trans-unit id="NSHumanReadableCopyright" translate="no" xml:space="preserve">
+        <source>Copyright © 2025 RocketScience IT</source>
+        <target state="new">Copyright © 2025 RocketScience IT</target>
         <note>Copyright (human-readable)</note>
       </trans-unit>
     </body>
@@ -872,12 +872,12 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.3" build-num="16E140"/>
     </header>
     <body>
-      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+      <trans-unit id="CFBundleDisplayName" translate="no" xml:space="preserve">
         <source>AdGuard Home</source>
         <target state="new">AdGuard Home</target>
         <note>Bundle display name</note>
       </trans-unit>
-      <trans-unit id="CFBundleName" xml:space="preserve">
+      <trans-unit id="CFBundleName" translate="no" xml:space="preserve">
         <source>AdGuard Home Remote</source>
         <target state="new">AdGuard Home Remote</target>
         <note>Bundle name</note>
@@ -886,6 +886,11 @@
         <source>AdGuard Home Remote uses Face ID to unlock the app.</source>
         <target state="new">AdGuard Home Remote uses Face ID to unlock the app.</target>
         <note>Privacy - Face ID Usage Description</note>
+      </trans-unit>
+      <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
+        <source>Copyright © 2025 RocketScience IT</source>
+        <target state="new">Copyright © 2025 RocketScience IT</target>
+        <note>Copyright (human-readable)</note>
       </trans-unit>
       <trans-unit id="NSLocalNetworkUsageDescription" xml:space="preserve">
         <source>AdGuard Home Remote uses the local network to connect with your AdGuard Home instances.</source>
@@ -938,12 +943,12 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.3" build-num="16E140"/>
     </header>
     <body>
-      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+      <trans-unit id="CFBundleDisplayName" translate="no" xml:space="preserve">
         <source>AdGuard Home Remote Widgets</source>
         <target state="new">AdGuard Home Remote Widgets</target>
         <note>Bundle display name</note>
       </trans-unit>
-      <trans-unit id="CFBundleName" xml:space="preserve">
+      <trans-unit id="CFBundleName" translate="no" xml:space="preserve">
         <source>AdGuard Home Remote WidgetsExtension</source>
         <target state="new">AdGuard Home Remote WidgetsExtension</target>
         <note>Bundle name</note>
@@ -955,6 +960,11 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.3" build-num="16E140"/>
     </header>
     <body>
+      <trans-unit id="%@ %@" translate="no" xml:space="preserve">
+        <source>%1$@ %2$@</source>
+        <target state="new">%1$@ %2$@</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="%@ bytes" xml:space="preserve">
         <source>%@ bytes</source>
         <target state="new">%@ bytes</target>
@@ -1035,6 +1045,11 @@
         <target state="new">A</target>
         <note>Used in the DNS record type picker on the 'check filtering' screen.</note>
       </trans-unit>
+      <trans-unit id="A clean Anime &amp; Manga tracker app, using the MyAnimeList API." xml:space="preserve">
+        <source>A clean Anime &amp; Manga tracker app, using the MyAnimeList API.</source>
+        <target state="new">A clean Anime &amp; Manga tracker app, using the MyAnimeList API.</target>
+        <note>Subtitle under 'ManGo' app on the Made by RocketScience screen.</note>
+      </trans-unit>
       <trans-unit id="AAAA" translate="no" xml:space="preserve">
         <source>AAAA</source>
         <target state="new">AAAA</target>
@@ -1045,7 +1060,7 @@
         <target state="new">AFSDB</target>
         <note>Used in the DNS record type picker on the 'check filtering' screen.</note>
       </trans-unit>
-      <trans-unit id="AGHR Pro" xml:space="preserve">
+      <trans-unit id="AGHR Pro" translate="no" xml:space="preserve">
         <source>AGHR Pro</source>
         <target state="new">AGHR Pro</target>
         <note/>
@@ -1060,7 +1075,7 @@
         <target state="new">APL</target>
         <note>Used in the DNS record type picker on the 'check filtering' screen.</note>
       </trans-unit>
-      <trans-unit id="AdGuard Home Remote" xml:space="preserve">
+      <trans-unit id="AdGuard Home Remote" translate="no" xml:space="preserve">
         <source>AdGuard Home Remote</source>
         <target state="new">AdGuard Home Remote</target>
         <note/>
@@ -1143,12 +1158,12 @@
       <trans-unit id="Clear display name textfield" xml:space="preserve">
         <source>Clear display name textfield</source>
         <target state="new">Clear display name textfield</target>
-        <note/>
+        <note>Accessibility label for the X button of the display name textfield</note>
       </trans-unit>
       <trans-unit id="Clear hostname textfield" xml:space="preserve">
         <source>Clear hostname textfield</source>
         <target state="new">Clear hostname textfield</target>
-        <note/>
+        <note>Accessibility label for the X button of the hostname textfield</note>
       </trans-unit>
       <trans-unit id="Client identifier" xml:space="preserve">
         <source>Client identifier</source>
@@ -1223,23 +1238,6 @@
       <trans-unit id="Enable and disable protection." xml:space="preserve">
         <source>Enable and disable protection.</source>
         <target state="new">Enable and disable protection.</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Energie Radar" xml:space="preserve">
-        <source>Energie Radar</source>
-        <target state="new">Energie Radar</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Enjoy the update!&#10;- Joost" xml:space="preserve">
-        <source>Enjoy the update!
-- Joost</source>
-        <target state="new">Enjoy the update!
-- Joost</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Enjoy the update! - Joost" xml:space="preserve">
-        <source>Enjoy the update! - Joost</source>
-        <target state="new">Enjoy the update! - Joost</target>
         <note/>
       </trans-unit>
       <trans-unit id="Expires in %lld minutes" xml:space="preserve">
@@ -1322,6 +1320,11 @@
         <target state="new">ManGo - Anime &amp; Manga Tracker</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Monitor real-time electricity and gas prices in many European countries." xml:space="preserve">
+        <source>Monitor real-time electricity and gas prices in many European countries.</source>
+        <target state="new">Monitor real-time electricity and gas prices in many European countries.</target>
+        <note>Subtitle under 'Utility Radar' app on the Made by RocketScience screen.</note>
+      </trans-unit>
       <trans-unit id="NAPTR" translate="no" xml:space="preserve">
         <source>NAPTR</source>
         <target state="new">NAPTR</target>
@@ -1352,7 +1355,7 @@
         <target state="new">New OS versions are required for some of these new features. Please update your device!</target>
         <note/>
       </trans-unit>
-      <trans-unit id="NextDNS Remote" xml:space="preserve">
+      <trans-unit id="NextDNS Remote" translate="no" xml:space="preserve">
         <source>NextDNS Remote</source>
         <target state="new">NextDNS Remote</target>
         <note/>
@@ -1400,9 +1403,9 @@
       <trans-unit id="Paste from clipboard" xml:space="preserve">
         <source>Paste from clipboard</source>
         <target state="new">Paste from clipboard</target>
-        <note/>
+        <note>Accessibility label for the clipboard button</note>
       </trans-unit>
-      <trans-unit id="Pi-hole Remote" xml:space="preserve">
+      <trans-unit id="Pi-hole Remote" translate="no" xml:space="preserve">
         <source>Pi-hole Remote</source>
         <target state="new">Pi-hole Remote</target>
         <note/>
@@ -1427,7 +1430,7 @@
         <target state="new">RRSIG</target>
         <note>Used in the DNS record type picker on the 'check filtering' screen.</note>
       </trans-unit>
-      <trans-unit id="Remote for AdGuard DNS" xml:space="preserve">
+      <trans-unit id="Remote for AdGuard DNS" translate="no" xml:space="preserve">
         <source>Remote for AdGuard DNS</source>
         <target state="new">Remote for AdGuard DNS</target>
         <note/>
@@ -1447,7 +1450,7 @@
         <target state="new">Result: %@</target>
         <note/>
       </trans-unit>
-      <trans-unit id="RocketScience IT" xml:space="preserve">
+      <trans-unit id="RocketScience IT" translate="no" xml:space="preserve">
         <source>RocketScience IT</source>
         <target state="new">RocketScience IT</target>
         <note/>
@@ -1610,6 +1613,11 @@
       <trans-unit id="Use NextDNS? Have I got an app for you." xml:space="preserve">
         <source>Use NextDNS? Have I got an app for you.</source>
         <target state="new">Use NextDNS? Have I got an app for you.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Utility Radar" xml:space="preserve">
+        <source>Utility Radar</source>
+        <target state="new">Utility Radar</target>
         <note/>
       </trans-unit>
       <trans-unit id="Watch App Not Installed" xml:space="preserve">
@@ -2835,11 +2843,6 @@ Search</target>
         <target state="translated">Remote Pro is required to manage DNS rewrites.</target>
         <note/>
       </trans-unit>
-      <trans-unit id="dnsrewrites_settings" xml:space="preserve">
-        <source>dnsrewrites_settings</source>
-        <target state="new">dnsrewrites_settings</target>
-        <note>MARK: DNS Rewrites</note>
-      </trans-unit>
       <trans-unit id="domain" xml:space="preserve">
         <source>Domain</source>
         <target state="translated">Domain</target>
@@ -2948,11 +2951,6 @@ Search</target>
       <trans-unit id="filtering_check_hostname_placeholder" xml:space="preserve">
         <source>Enter a hostname...</source>
         <target state="translated">Enter a hostname...</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="filtering_check_hostname_result" xml:space="preserve">
-        <source>Result</source>
-        <target state="translated">Result</target>
         <note/>
       </trans-unit>
       <trans-unit id="filtering_custom_filtering_rules" xml:space="preserve">
@@ -3425,11 +3423,6 @@ Search</target>
         <target state="translated">Loading...</target>
         <note/>
       </trans-unit>
-      <trans-unit id="loading_instances_icloud" xml:space="preserve">
-        <source>loading_instances_icloud</source>
-        <target state="new">loading_instances_icloud</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="loading_instances_iphone" xml:space="preserve">
         <source>Loading instances from iPhone...</source>
         <target state="translated">Loading instances from iPhone...</target>
@@ -3586,8 +3579,8 @@ Search</target>
         <note/>
       </trans-unit>
       <trans-unit id="original_enddate" xml:space="preserve">
-        <source>original_enddate</source>
-        <target state="new">original_enddate</target>
+        <source>Original Enddate</source>
+        <target state="translated">Original Enddate</target>
         <note/>
       </trans-unit>
       <trans-unit id="other" xml:space="preserve">
@@ -4040,11 +4033,6 @@ Remote Pro</target>
         <target state="translated">User has revoked permission to use this cloud service.</target>
         <note/>
       </trans-unit>
-      <trans-unit id="purchase_connection_error" xml:space="preserve">
-        <source>Could not connect to the network.</source>
-        <target state="translated">Could not connect to the network.</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="purchase_invalid_id" xml:space="preserve">
         <source>The purchase identifier was invalid.</source>
         <target state="translated">The purchase identifier was invalid.</target>
@@ -4059,11 +4047,6 @@ Remote Pro</target>
         <source>The product is not available in the current storefront.</source>
         <target state="translated">The product is not available in the current storefront.</target>
         <note/>
-      </trans-unit>
-      <trans-unit id="purchase_unknown_error" xml:space="preserve">
-        <source>Unknown error. Please contact me at developer@rocketscience-it.nl.</source>
-        <target state="translated">Unknown error. Please contact me at developer@rocketscience-it.nl.</target>
-        <note>MARK: Purchase Flow</note>
       </trans-unit>
       <trans-unit id="query_copy" xml:space="preserve">
         <source>Copy</source>
@@ -4345,11 +4328,6 @@ Remote Pro</target>
         <target state="translated">Suggestions</target>
         <note/>
       </trans-unit>
-      <trans-unit id="querylog_settings" xml:space="preserve">
-        <source>querylog_settings</source>
-        <target state="new">querylog_settings</target>
-        <note>MARK: Query Log</note>
-      </trans-unit>
       <trans-unit id="querylog_settings_anonymize" xml:space="preserve">
         <source>Anonymize Client IP</source>
         <target state="translated">Anonymize Client IP</target>
@@ -4505,11 +4483,6 @@ Remote Pro</target>
         <target state="translated">Rather use AdGuard DNS? I've got you covered.</target>
         <note/>
       </trans-unit>
-      <trans-unit id="rocketscience_energieradar_subtitle" xml:space="preserve">
-        <source>Monitor real-time electricity and gas prices in many European countries.</source>
-        <target state="translated">Monitor real-time electricity and gas prices in many European countries.</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="rocketscience_hi_subtitle" xml:space="preserve">
         <source>In June 2020 I started building my own apps as an independent developer, under the name 'RocketScience IT'.
 
@@ -4522,11 +4495,6 @@ My main goal is to learn: design, development, testing, support, promotion - may
       <trans-unit id="rocketscience_hi_title" xml:space="preserve">
         <source>Hi, I'm Joost!</source>
         <target state="translated">Hi, I'm Joost!</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="rocketscience_mango_subtitle" xml:space="preserve">
-        <source>A clean Anime &amp; Manga tracker app, using the MyAnimeList API.</source>
-        <target state="translated">A clean Anime &amp; Manga tracker app, using the MyAnimeList API.</target>
         <note/>
       </trans-unit>
       <trans-unit id="rocketscience_my_other_apps" xml:space="preserve">
@@ -4999,11 +4967,6 @@ If you want to tip, please download the app from the App Store! After that you c
         <target state="translated">Unknown</target>
         <note/>
       </trans-unit>
-      <trans-unit id="unknown_error" xml:space="preserve">
-        <source>Unknown Error</source>
-        <target state="translated">Unknown Error</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="until_tomorrow" xml:space="preserve">
         <source>Until tomorrow</source>
         <target state="translated">Until tomorrow</target>
@@ -5019,7 +4982,7 @@ If you want to tip, please download the app from the App Store! After that you c
         <target state="translated">Use Global Settings</target>
         <note/>
       </trans-unit>
-      <trans-unit id="v%@ (%@)" xml:space="preserve">
+      <trans-unit id="v%@ (%@)" translate="no" xml:space="preserve">
         <source>v%1$@ (%2$@)</source>
         <target state="new">v%1$@ (%2$@)</target>
         <note/>

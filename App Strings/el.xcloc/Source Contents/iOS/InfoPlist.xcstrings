@@ -11,7 +11,8 @@
             "value" : "AdGuard Home"
           }
         }
-      }
+      },
+      "shouldTranslate" : false
     },
     "CFBundleName" : {
       "comment" : "Bundle name",
@@ -23,7 +24,8 @@
             "value" : "AdGuard Home Remote"
           }
         }
-      }
+      },
+      "shouldTranslate" : false
     },
     "NSFaceIDUsageDescription" : {
       "comment" : "Privacy - Face ID Usage Description",
@@ -33,6 +35,18 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "AdGuard Home Remote uses Face ID to unlock the app."
+          }
+        }
+      }
+    },
+    "NSHumanReadableCopyright" : {
+      "comment" : "Copyright (human-readable)",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Copyright © 2025 RocketScience IT"
           }
         }
       }

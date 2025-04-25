@@ -249,11 +249,11 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.3" build-num="16E140"/>
     </header>
     <body>
-      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+      <trans-unit id="CFBundleDisplayName" translate="no" xml:space="preserve">
         <source>WidgetInstanceIntent</source>
         <note>Bundle display name</note>
       </trans-unit>
-      <trans-unit id="CFBundleName" xml:space="preserve">
+      <trans-unit id="CFBundleName" translate="no" xml:space="preserve">
         <source>WidgetInstanceIntent</source>
         <note>Bundle name</note>
       </trans-unit>
@@ -791,16 +791,16 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.3" build-num="16E140"/>
     </header>
     <body>
-      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+      <trans-unit id="CFBundleDisplayName" translate="no" xml:space="preserve">
         <source>Shortcuts</source>
         <note>Bundle display name</note>
       </trans-unit>
-      <trans-unit id="CFBundleName" xml:space="preserve">
+      <trans-unit id="CFBundleName" translate="no" xml:space="preserve">
         <source>Shortcuts</source>
         <note>Bundle name</note>
       </trans-unit>
-      <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
-        <source/>
+      <trans-unit id="NSHumanReadableCopyright" translate="no" xml:space="preserve">
+        <source>Copyright © 2025 RocketScience IT</source>
         <note>Copyright (human-readable)</note>
       </trans-unit>
     </body>
@@ -833,17 +833,21 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.3" build-num="16E140"/>
     </header>
     <body>
-      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+      <trans-unit id="CFBundleDisplayName" translate="no" xml:space="preserve">
         <source>AdGuard Home</source>
         <note>Bundle display name</note>
       </trans-unit>
-      <trans-unit id="CFBundleName" xml:space="preserve">
+      <trans-unit id="CFBundleName" translate="no" xml:space="preserve">
         <source>AdGuard Home Remote</source>
         <note>Bundle name</note>
       </trans-unit>
       <trans-unit id="NSFaceIDUsageDescription" xml:space="preserve">
         <source>AdGuard Home Remote uses Face ID to unlock the app.</source>
         <note>Privacy - Face ID Usage Description</note>
+      </trans-unit>
+      <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
+        <source>Copyright © 2025 RocketScience IT</source>
+        <note>Copyright (human-readable)</note>
       </trans-unit>
       <trans-unit id="NSLocalNetworkUsageDescription" xml:space="preserve">
         <source>AdGuard Home Remote uses the local network to connect with your AdGuard Home instances.</source>
@@ -894,11 +898,11 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.3" build-num="16E140"/>
     </header>
     <body>
-      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+      <trans-unit id="CFBundleDisplayName" translate="no" xml:space="preserve">
         <source>AdGuard Home Remote Widgets</source>
         <note>Bundle display name</note>
       </trans-unit>
-      <trans-unit id="CFBundleName" xml:space="preserve">
+      <trans-unit id="CFBundleName" translate="no" xml:space="preserve">
         <source>AdGuard Home Remote WidgetsExtension</source>
         <note>Bundle name</note>
       </trans-unit>
@@ -909,6 +913,10 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.3" build-num="16E140"/>
     </header>
     <body>
+      <trans-unit id="%@ %@" translate="no" xml:space="preserve">
+        <source>%1$@ %2$@</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="%@ bytes" xml:space="preserve">
         <source>%@ bytes</source>
         <note>Clients DNS cache size in bytes.</note>
@@ -981,6 +989,10 @@
         <source>A</source>
         <note>Used in the DNS record type picker on the 'check filtering' screen.</note>
       </trans-unit>
+      <trans-unit id="A clean Anime &amp; Manga tracker app, using the MyAnimeList API." xml:space="preserve">
+        <source>A clean Anime &amp; Manga tracker app, using the MyAnimeList API.</source>
+        <note>Subtitle under 'ManGo' app on the Made by RocketScience screen.</note>
+      </trans-unit>
       <trans-unit id="AAAA" translate="no" xml:space="preserve">
         <source>AAAA</source>
         <note>Used in the DNS record type picker on the 'check filtering' screen.</note>
@@ -989,7 +1001,7 @@
         <source>AFSDB</source>
         <note>Used in the DNS record type picker on the 'check filtering' screen.</note>
       </trans-unit>
-      <trans-unit id="AGHR Pro" xml:space="preserve">
+      <trans-unit id="AGHR Pro" translate="no" xml:space="preserve">
         <source>AGHR Pro</source>
         <note/>
       </trans-unit>
@@ -1001,7 +1013,7 @@
         <source>APL</source>
         <note>Used in the DNS record type picker on the 'check filtering' screen.</note>
       </trans-unit>
-      <trans-unit id="AdGuard Home Remote" xml:space="preserve">
+      <trans-unit id="AdGuard Home Remote" translate="no" xml:space="preserve">
         <source>AdGuard Home Remote</source>
         <note/>
       </trans-unit>
@@ -1067,11 +1079,11 @@
       </trans-unit>
       <trans-unit id="Clear display name textfield" xml:space="preserve">
         <source>Clear display name textfield</source>
-        <note/>
+        <note>Accessibility label for the X button of the display name textfield</note>
       </trans-unit>
       <trans-unit id="Clear hostname textfield" xml:space="preserve">
         <source>Clear hostname textfield</source>
-        <note/>
+        <note>Accessibility label for the X button of the hostname textfield</note>
       </trans-unit>
       <trans-unit id="Client identifier" xml:space="preserve">
         <source>Client identifier</source>
@@ -1131,19 +1143,6 @@
       </trans-unit>
       <trans-unit id="Enable and disable protection." xml:space="preserve">
         <source>Enable and disable protection.</source>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Energie Radar" xml:space="preserve">
-        <source>Energie Radar</source>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Enjoy the update!&#10;- Joost" xml:space="preserve">
-        <source>Enjoy the update!
-- Joost</source>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Enjoy the update! - Joost" xml:space="preserve">
-        <source>Enjoy the update! - Joost</source>
         <note/>
       </trans-unit>
       <trans-unit id="Expires in %lld minutes" xml:space="preserve">
@@ -1210,6 +1209,10 @@
         <source>ManGo - Anime &amp; Manga Tracker</source>
         <note/>
       </trans-unit>
+      <trans-unit id="Monitor real-time electricity and gas prices in many European countries." xml:space="preserve">
+        <source>Monitor real-time electricity and gas prices in many European countries.</source>
+        <note>Subtitle under 'Utility Radar' app on the Made by RocketScience screen.</note>
+      </trans-unit>
       <trans-unit id="NAPTR" translate="no" xml:space="preserve">
         <source>NAPTR</source>
         <note>Used in the DNS record type picker on the 'check filtering' screen.</note>
@@ -1234,7 +1237,7 @@
         <source>New OS versions are required for some of these new features. Please update your device!</source>
         <note/>
       </trans-unit>
-      <trans-unit id="NextDNS Remote" xml:space="preserve">
+      <trans-unit id="NextDNS Remote" translate="no" xml:space="preserve">
         <source>NextDNS Remote</source>
         <note/>
       </trans-unit>
@@ -1272,9 +1275,9 @@
       </trans-unit>
       <trans-unit id="Paste from clipboard" xml:space="preserve">
         <source>Paste from clipboard</source>
-        <note/>
+        <note>Accessibility label for the clipboard button</note>
       </trans-unit>
-      <trans-unit id="Pi-hole Remote" xml:space="preserve">
+      <trans-unit id="Pi-hole Remote" translate="no" xml:space="preserve">
         <source>Pi-hole Remote</source>
         <note/>
       </trans-unit>
@@ -1294,7 +1297,7 @@
         <source>RRSIG</source>
         <note>Used in the DNS record type picker on the 'check filtering' screen.</note>
       </trans-unit>
-      <trans-unit id="Remote for AdGuard DNS" xml:space="preserve">
+      <trans-unit id="Remote for AdGuard DNS" translate="no" xml:space="preserve">
         <source>Remote for AdGuard DNS</source>
         <note/>
       </trans-unit>
@@ -1310,7 +1313,7 @@
         <source>Result: %@</source>
         <note/>
       </trans-unit>
-      <trans-unit id="RocketScience IT" xml:space="preserve">
+      <trans-unit id="RocketScience IT" translate="no" xml:space="preserve">
         <source>RocketScience IT</source>
         <note/>
       </trans-unit>
@@ -1440,6 +1443,10 @@
       </trans-unit>
       <trans-unit id="Use NextDNS? Have I got an app for you." xml:space="preserve">
         <source>Use NextDNS? Have I got an app for you.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Utility Radar" xml:space="preserve">
+        <source>Utility Radar</source>
         <note/>
       </trans-unit>
       <trans-unit id="Watch App Not Installed" xml:space="preserve">
@@ -2659,10 +2666,6 @@ Arama</target>
         <target state="translated">DNS yeniden yazılarını yönetmek için Remote Pro gereklidir.</target>
         <note/>
       </trans-unit>
-      <trans-unit id="dnsrewrites_settings" xml:space="preserve">
-        <source>dnsrewrites_settings</source>
-        <note>MARK: DNS Rewrites</note>
-      </trans-unit>
       <trans-unit id="domain" xml:space="preserve">
         <source>Domain</source>
         <target state="translated">Domain</target>
@@ -2769,11 +2772,6 @@ Arama</target>
       <trans-unit id="filtering_check_hostname_placeholder" xml:space="preserve">
         <source>Enter a hostname...</source>
         <target state="translated">Ana bilgisayar adı...</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="filtering_check_hostname_result" xml:space="preserve">
-        <source>Result</source>
-        <target state="translated">Sonuç</target>
         <note/>
       </trans-unit>
       <trans-unit id="filtering_custom_filtering_rules" xml:space="preserve">
@@ -3244,10 +3242,6 @@ Arama</target>
         <target state="translated">Yükleniyor...</target>
         <note/>
       </trans-unit>
-      <trans-unit id="loading_instances_icloud" xml:space="preserve">
-        <source>loading_instances_icloud</source>
-        <note/>
-      </trans-unit>
       <trans-unit id="loading_instances_iphone" xml:space="preserve">
         <source>Loading instances from iPhone...</source>
         <target state="translated">iPhone'dan örnekler yükleniyor...</target>
@@ -3402,7 +3396,7 @@ Arama</target>
         <note/>
       </trans-unit>
       <trans-unit id="original_enddate" xml:space="preserve">
-        <source>original_enddate</source>
+        <source>Original Enddate</source>
         <note/>
       </trans-unit>
       <trans-unit id="other" xml:space="preserve">
@@ -3855,11 +3849,6 @@ Remote Pro</target>
         <target state="translated">Kullanıcı bu bulut hizmetini kullanma iznini iptal etti.</target>
         <note/>
       </trans-unit>
-      <trans-unit id="purchase_connection_error" xml:space="preserve">
-        <source>Could not connect to the network.</source>
-        <target state="translated">Ağa bağlanılamadı.</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="purchase_invalid_id" xml:space="preserve">
         <source>The purchase identifier was invalid.</source>
         <target state="translated">Satın alma tanımlayıcısı geçersizdi.</target>
@@ -3874,11 +3863,6 @@ Remote Pro</target>
         <source>The product is not available in the current storefront.</source>
         <target state="translated">Ürün mevcut vitrinde uygun değil.</target>
         <note/>
-      </trans-unit>
-      <trans-unit id="purchase_unknown_error" xml:space="preserve">
-        <source>Unknown error. Please contact me at developer@rocketscience-it.nl.</source>
-        <target state="translated">Bilinmeyen hata. Lütfen bana şurdan ulaş: developer@rocketscience-it.nl.</target>
-        <note>MARK: Purchase Flow</note>
       </trans-unit>
       <trans-unit id="query_copy" xml:space="preserve">
         <source>Copy</source>
@@ -4160,10 +4144,6 @@ Remote Pro</target>
         <target state="translated">Suggestions</target>
         <note/>
       </trans-unit>
-      <trans-unit id="querylog_settings" xml:space="preserve">
-        <source>querylog_settings</source>
-        <note>MARK: Query Log</note>
-      </trans-unit>
       <trans-unit id="querylog_settings_anonymize" xml:space="preserve">
         <source>Anonymize Client IP</source>
         <target state="translated">Müşteri IP'sini Anonimleştir</target>
@@ -4319,11 +4299,6 @@ Remote Pro</target>
         <target state="translated">Rather use AdGuard DNS? I've got you covered.</target>
         <note/>
       </trans-unit>
-      <trans-unit id="rocketscience_energieradar_subtitle" xml:space="preserve">
-        <source>Monitor real-time electricity and gas prices in many European countries.</source>
-        <target state="translated">Hollanda'daki gerçek zamanlı elektrik ve benzin fiyatlarını görüntüle.</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="rocketscience_hi_subtitle" xml:space="preserve">
         <source>In June 2020 I started building my own apps as an independent developer, under the name 'RocketScience IT'.
 
@@ -4336,11 +4311,6 @@ Ana hedefim öğrenmek: tasarım, geliştirme, test etme, destek, promosyon - be
       <trans-unit id="rocketscience_hi_title" xml:space="preserve">
         <source>Hi, I'm Joost!</source>
         <target state="translated">Merhaba, Ben Joost!</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="rocketscience_mango_subtitle" xml:space="preserve">
-        <source>A clean Anime &amp; Manga tracker app, using the MyAnimeList API.</source>
-        <target state="translated">MyAnimeList API'sini kullanan temiz bir Anime ve Manga izleme uygulaması.</target>
         <note/>
       </trans-unit>
       <trans-unit id="rocketscience_my_other_apps" xml:space="preserve">
@@ -4811,11 +4781,6 @@ Eğer bahşiş vermek istersen, lütfen App Store'dan uygulamayı indir! Ondan s
         <target state="translated">Bilinmeyen</target>
         <note/>
       </trans-unit>
-      <trans-unit id="unknown_error" xml:space="preserve">
-        <source>Unknown Error</source>
-        <target state="translated">Bilinmeyen Hata</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="until_tomorrow" xml:space="preserve">
         <source>Until tomorrow</source>
         <target state="translated">Until tomorrow</target>
@@ -4831,7 +4796,7 @@ Eğer bahşiş vermek istersen, lütfen App Store'dan uygulamayı indir! Ondan s
         <target state="translated">Küresel Ayarları kullan</target>
         <note/>
       </trans-unit>
-      <trans-unit id="v%@ (%@)" xml:space="preserve">
+      <trans-unit id="v%@ (%@)" translate="no" xml:space="preserve">
         <source>v%1$@ (%2$@)</source>
         <note/>
       </trans-unit>

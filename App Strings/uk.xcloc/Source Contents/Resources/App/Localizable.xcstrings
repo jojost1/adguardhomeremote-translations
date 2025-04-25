@@ -1,6 +1,17 @@
 {
   "sourceLanguage" : "en",
   "strings" : {
+    "%@ %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ %2$@"
+          }
+        }
+      },
+      "shouldTranslate" : false
+    },
     "%@ bytes" : {
       "comment" : "Clients DNS cache size in bytes."
     },
@@ -111,6 +122,9 @@
       "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
       "shouldTranslate" : false
     },
+    "A clean Anime & Manga tracker app, using the MyAnimeList API." : {
+      "comment" : "Subtitle under 'ManGo' app on the Made by RocketScience screen."
+    },
     "AAAA" : {
       "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
       "shouldTranslate" : false
@@ -192,7 +206,8 @@
 
     },
     "AdGuard Home Remote" : {
-
+      "extractionState" : "stale",
+      "shouldTranslate" : false
     },
     "AdGuard Home v0.107.28 or higher is required for some of these new features. Please update!" : {
 
@@ -212,7 +227,7 @@
       "shouldTranslate" : false
     },
     "AGHR Pro" : {
-
+      "shouldTranslate" : false
     },
     "AGHR's tabs" : {
 
@@ -521,10 +536,10 @@
 
     },
     "Clear display name textfield" : {
-
+      "comment" : "Accessibility label for the X button of the display name textfield"
     },
     "Clear hostname textfield" : {
-
+      "comment" : "Accessibility label for the X button of the hostname textfield"
     },
     "Client identifier" : {
 
@@ -2637,10 +2652,6 @@
         }
       }
     },
-    "dnsrewrites_settings" : {
-      "comment" : "MARK: DNS Rewrites",
-      "extractionState" : "manual"
-    },
     "domain" : {
       "comment" : "MARK: v5.1",
       "localizations" : {
@@ -2700,15 +2711,6 @@
         }
       }
     },
-    "Energie Radar" : {
-
-    },
-    "Enjoy the update!\n- Joost" : {
-
-    },
-    "Enjoy the update! - Joost" : {
-
-    },
     "error" : {
       "localizations" : {
         "en" : {
@@ -2734,7 +2736,7 @@
 
     },
     "ff" : {
-
+      "extractionState" : "stale"
     },
     "filtering_addfilter_allowlist" : {
       "localizations" : {
@@ -2877,17 +2879,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Enter a hostname..."
-          }
-        }
-      }
-    },
-    "filtering_check_hostname_result" : {
-      "extractionState" : "stale",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Result"
           }
         }
       }
@@ -3873,9 +3864,6 @@
         }
       }
     },
-    "loading_instances_icloud" : {
-      "extractionState" : "manual"
-    },
     "loading_instances_iphone" : {
       "localizations" : {
         "en" : {
@@ -3912,6 +3900,9 @@
     },
     "ManGo - Anime & Manga Tracker" : {
 
+    },
+    "Monitor real-time electricity and gas prices in many European countries." : {
+      "comment" : "Subtitle under 'Utility Radar' app on the Made by RocketScience screen."
     },
     "more_checking_version" : {
       "localizations" : {
@@ -4150,7 +4141,7 @@
 
     },
     "NextDNS Remote" : {
-
+      "shouldTranslate" : false
     },
     "No pages for this support item" : {
 
@@ -4228,7 +4219,14 @@
 
     },
     "original_enddate" : {
-
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Original Enddate"
+          }
+        }
+      }
     },
     "other" : {
       "localizations" : {
@@ -4241,10 +4239,10 @@
       }
     },
     "Paste from clipboard" : {
-
+      "comment" : "Accessibility label for the clipboard button"
     },
     "Pi-hole Remote" : {
-
+      "shouldTranslate" : false
     },
     "Please add an instance in the iPhone app." : {
 
@@ -5134,17 +5132,6 @@
         }
       }
     },
-    "purchase_connection_error" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Could not connect to the network."
-          }
-        }
-      }
-    },
     "purchase_invalid_id" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -5174,18 +5161,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "The product is not available in the current storefront."
-          }
-        }
-      }
-    },
-    "purchase_unknown_error" : {
-      "comment" : "MARK: Purchase Flow",
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Unknown error. Please contact me at developer@rocketscience-it.nl."
           }
         }
       }
@@ -5757,10 +5732,6 @@
         }
       }
     },
-    "querylog_settings" : {
-      "comment" : "MARK: Query Log",
-      "extractionState" : "manual"
-    },
     "querylog_settings_anonymize" : {
       "localizations" : {
         "en" : {
@@ -6035,7 +6006,7 @@
       }
     },
     "Remote for AdGuard DNS" : {
-
+      "shouldTranslate" : false
     },
     "remove" : {
       "localizations" : {
@@ -6067,7 +6038,7 @@
 
     },
     "RocketScience IT" : {
-
+      "shouldTranslate" : false
     },
     "rocketscience_acknoledgements" : {
       "localizations" : {
@@ -6089,16 +6060,6 @@
         }
       }
     },
-    "rocketscience_energieradar_subtitle" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Monitor real-time electricity and gas prices in many European countries."
-          }
-        }
-      }
-    },
     "rocketscience_hi_subtitle" : {
       "localizations" : {
         "en" : {
@@ -6115,16 +6076,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hi, I'm Joost!"
-          }
-        }
-      }
-    },
-    "rocketscience_mango_subtitle" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "A clean Anime & Manga tracker app, using the MyAnimeList API."
           }
         }
       }
@@ -6902,7 +6853,7 @@
 
     },
     "Sun" : {
-
+      "extractionState" : "stale"
     },
     "Support" : {
 
@@ -7167,21 +7118,11 @@
     "Unknown Error" : {
 
     },
-    "unknown_error" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Unknown Error"
-          }
-        }
-      }
-    },
     "Until tomorrow" : {
 
     },
     "until_tomorrow" : {
+      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -7218,6 +7159,9 @@
         }
       }
     },
+    "Utility Radar" : {
+
+    },
     "v%@ (%@)" : {
       "localizations" : {
         "en" : {
@@ -7226,7 +7170,8 @@
             "value" : "v%1$@ (%2$@)"
           }
         }
-      }
+      },
+      "shouldTranslate" : false
     },
     "value" : {
       "comment" : "Placeholder of the 'custom header value' textfield in instance settings."
