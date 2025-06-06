@@ -199,6 +199,9 @@
         }
       }
     },
+    "Add" : {
+      "comment" : "Used in the Settings-tab in the 'instances' section header."
+    },
     "Add 5 minutes" : {
 
     },
@@ -534,9 +537,6 @@
     },
     "Check if a host name is filtered." : {
 
-    },
-    "Clear display name textfield" : {
-      "comment" : "Accessibility label for the X button of the display name textfield"
     },
     "Clear hostname textfield" : {
       "comment" : "Accessibility label for the X button of the hostname textfield"
@@ -913,6 +913,9 @@
       "shouldTranslate" : false
     },
     "Contact" : {
+
+    },
+    "Copy '%@'" : {
 
     },
     "CSYNC" : {
@@ -2735,9 +2738,6 @@
     "Expires in %lld minutes" : {
 
     },
-    "ff" : {
-      "extractionState" : "stale"
-    },
     "filtering_addfilter_allowlist" : {
       "localizations" : {
         "en" : {
@@ -3570,6 +3570,9 @@
       "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
       "shouldTranslate" : false
     },
+    "Icon" : {
+
+    },
     "If you already did, please go to your instance, press 'Edit' and press 'Save' again. It should show up after that. If not, try a restart of the Watch app." : {
 
     },
@@ -3595,6 +3598,9 @@
           }
         }
       }
+    },
+    "Instance" : {
+
     },
     "instance_add" : {
       "comment" : "MARK: Add/Edit Instance",
@@ -3663,16 +3669,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Custom Headers"
-          }
-        }
-      }
-    },
-    "instance_display_name" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Display Name"
           }
         }
       }
@@ -3796,6 +3792,9 @@
           }
         }
       }
+    },
+    "Instances" : {
+
     },
     "Invalid authentication or privacy setting." : {
 
@@ -4123,6 +4122,9 @@
         }
       }
     },
+    "Name" : {
+
+    },
     "NAPTR" : {
       "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
       "shouldTranslate" : false
@@ -4136,6 +4138,9 @@
           }
         }
       }
+    },
+    "New Instance" : {
+
     },
     "New OS versions are required for some of these new features. Please update your device!" : {
 
@@ -5838,7 +5843,7 @@
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Show extra detail"
+            "value" : "Show response details"
           }
         }
       }
@@ -6633,17 +6638,6 @@
         }
       }
     },
-    "settings_instances" : {
-      "comment" : "MARK: Instance Settings",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Instances"
-          }
-        }
-      }
-    },
     "settings_leave_review" : {
       "localizations" : {
         "en" : {
@@ -6770,7 +6764,13 @@
         }
       }
     },
+    "Show all icons" : {
+
+    },
     "Show Changelog again on startup" : {
+
+    },
+    "Show Client IDs" : {
 
     },
     "Sidebar" : {
@@ -6851,9 +6851,6 @@
     },
     "Status" : {
 
-    },
-    "Sun" : {
-      "extractionState" : "stale"
     },
     "Support" : {
 
@@ -7120,17 +7117,6 @@
     },
     "Until tomorrow" : {
 
-    },
-    "until_tomorrow" : {
-      "extractionState" : "stale",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Until tomorrow"
-          }
-        }
-      }
     },
     "until_turned_back_on" : {
       "localizations" : {

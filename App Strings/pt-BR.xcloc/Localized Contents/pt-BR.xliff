@@ -2,7 +2,7 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="AdGuard Home Remote Watch App WatchKit Extension/AdGuard-Home-Remote-Watch-App-InfoPlist.xcstrings" source-language="en" target-language="pt-BR" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.3" build-num="16E140"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.4" build-num="16F6"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -21,7 +21,7 @@
   </file>
   <file original="AdGuard Home Remote Widgets/Base.lproj/WidgetConfigs.intentdefinition" source-language="en" target-language="pt-BR" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.3" build-num="16E140"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.4" build-num="16F6"/>
     </header>
     <body>
       <trans-unit id="0foAlr-1ekF7R" xml:space="preserve">
@@ -273,7 +273,7 @@
   </file>
   <file original="AdGuard Home Remote Widgets/InfoPlist.xcstrings" source-language="en" target-language="pt-BR" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.3" build-num="16E140"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.4" build-num="16F6"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" translate="no" xml:space="preserve">
@@ -290,7 +290,7 @@
   </file>
   <file original="App Intents &amp; Shortcuts/Base.lproj/Intents.intentdefinition" source-language="en" target-language="pt-BR" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.3" build-num="16E140"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.4" build-num="16F6"/>
     </header>
     <body>
       <trans-unit id="0sDcS3" xml:space="preserve">
@@ -817,7 +817,7 @@
   </file>
   <file original="App Intents &amp; Shortcuts/InfoPlist.xcstrings" source-language="en" target-language="pt-BR" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.3" build-num="16E140"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.4" build-num="16F6"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" translate="no" xml:space="preserve">
@@ -838,7 +838,7 @@
   </file>
   <file original="App Intents &amp; Shortcuts/Localizable.xcstrings" source-language="en" target-language="pt-BR" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.3" build-num="16E140"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.4" build-num="16F6"/>
     </header>
     <body>
       <trans-unit id="Can't reach AdGuard Home." xml:space="preserve">
@@ -865,7 +865,7 @@
   </file>
   <file original="iOS/InfoPlist.xcstrings" source-language="en" target-language="pt-BR" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.3" build-num="16E140"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.4" build-num="16F6"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" translate="no" xml:space="preserve">
@@ -896,7 +896,7 @@
   </file>
   <file original="Resources/App/AdGuard Home Remote WidgetsExtension copy-InfoPlist.xcstrings" source-language="en" target-language="pt-BR" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.3" build-num="16E140"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.4" build-num="16F6"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -913,7 +913,7 @@
   </file>
   <file original="Resources/App/en.lproj/AppShortcuts.strings" source-language="en" target-language="pt-BR" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.3" build-num="16E140"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.4" build-num="16F6"/>
     </header>
     <body>
       <trans-unit id="Disable protection for ${duration} minutes in ${applicationName}" xml:space="preserve">
@@ -935,7 +935,7 @@
   </file>
   <file original="Resources/App/InfoPlist.xcstrings" source-language="en" target-language="pt-BR" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.3" build-num="16E140"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.4" build-num="16F6"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" translate="no" xml:space="preserve">
@@ -952,7 +952,7 @@
   </file>
   <file original="Resources/App/Localizable.xcstrings" source-language="en" target-language="pt-BR" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.3" build-num="16E140"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.4" build-num="16F6"/>
     </header>
     <body>
       <trans-unit id="%@ %@" translate="no" xml:space="preserve">
@@ -1070,6 +1070,10 @@
         <target state="translated">O AdGuard Home v0.107. 28 ou superior é necessário para alguns desses novos recursos. Por favor, atualize!</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Add" xml:space="preserve">
+        <source>Add</source>
+        <note>Used in the Settings-tab in the 'instances' section header.</note>
+      </trans-unit>
       <trans-unit id="Add 5 minutes" xml:space="preserve">
         <source>Add 5 minutes</source>
         <target state="translated">Adicionar 5 minutos</target>
@@ -1134,11 +1138,6 @@
         <target state="translated">Verifique se um nome de host está filtrado.</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Clear display name textfield" xml:space="preserve">
-        <source>Clear display name textfield</source>
-        <target state="translated">Limpar o campo de texto do nome de apresentação</target>
-        <note>Accessibility label for the X button of the display name textfield</note>
-      </trans-unit>
       <trans-unit id="Clear hostname textfield" xml:space="preserve">
         <source>Clear hostname textfield</source>
         <target state="translated">Limpar campo de texto do nome do host</target>
@@ -1157,6 +1156,10 @@
       <trans-unit id="Contact" xml:space="preserve">
         <source>Contact</source>
         <target state="translated">Contacto</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Copy '%@'" xml:space="preserve">
+        <source>Copy '%@'</source>
         <note/>
       </trans-unit>
       <trans-unit id="DHCID" translate="no" xml:space="preserve">
@@ -1243,9 +1246,21 @@
         <source>IPSECKEY</source>
         <note>Used in the DNS record type picker on the 'check filtering' screen.</note>
       </trans-unit>
+      <trans-unit id="Icon" xml:space="preserve">
+        <source>Icon</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="If you already did, please go to your instance, press 'Edit' and press 'Save' again. It should show up after that. If not, try a restart of the Watch app." xml:space="preserve">
         <source>If you already did, please go to your instance, press 'Edit' and press 'Save' again. It should show up after that. If not, try a restart of the Watch app.</source>
         <target state="translated">Se já o fez, vá para a sua instância, pressione ' Editar 'e pressione' Salvar ' novamente. Deve aparecer depois disso. Caso contrário, tente reiniciar o aplicativo Watch.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Instance" xml:space="preserve">
+        <source>Instance</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Instances" xml:space="preserve">
+        <source>Instances</source>
         <note/>
       </trans-unit>
       <trans-unit id="Invalid authentication or privacy setting." xml:space="preserve">
@@ -1308,6 +1323,14 @@
       <trans-unit id="NSEC3PARAM" translate="no" xml:space="preserve">
         <source>NSEC3PARAM</source>
         <note>Used in the DNS record type picker on the 'check filtering' screen.</note>
+      </trans-unit>
+      <trans-unit id="Name" xml:space="preserve">
+        <source>Name</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="New Instance" xml:space="preserve">
+        <source>New Instance</source>
+        <note/>
       </trans-unit>
       <trans-unit id="New OS versions are required for some of these new features. Please update your device!" xml:space="preserve">
         <source>New OS versions are required for some of these new features. Please update your device!</source>
@@ -1459,6 +1482,14 @@
         <target state="translated">Mostrar o Changelog novamente na inicialização</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Show Client IDs" xml:space="preserve">
+        <source>Show Client IDs</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Show all icons" xml:space="preserve">
+        <source>Show all icons</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="Sidebar" xml:space="preserve">
         <source>Sidebar</source>
         <target state="translated">Barra lateral</target>
@@ -1472,11 +1503,6 @@
       <trans-unit id="Status" xml:space="preserve">
         <source>Status</source>
         <target state="translated">Situação</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Sun" xml:space="preserve">
-        <source>Sun</source>
-        <target state="translated">Sol</target>
         <note/>
       </trans-unit>
       <trans-unit id="Support" xml:space="preserve">
@@ -2820,11 +2846,6 @@ Segura</target>
         <target state="translated">example.com</target>
         <note/>
       </trans-unit>
-      <trans-unit id="ff" xml:space="preserve">
-        <source>ff</source>
-        <target state="translated">ff</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="filtering_addfilter_allowlist" xml:space="preserve">
         <source>Allowlist</source>
         <target state="translated">Lista de Permissão</target>
@@ -3273,11 +3294,6 @@ Segura</target>
       <trans-unit id="instance_custom_headers" xml:space="preserve">
         <source>Custom Headers</source>
         <target state="translated">Cabeçalhos Personalizados</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="instance_display_name" xml:space="preserve">
-        <source>Display Name</source>
-        <target state="translated">Nome de Exibição</target>
         <note/>
       </trans-unit>
       <trans-unit id="instance_display_name_placeholder" xml:space="preserve">
@@ -4320,8 +4336,8 @@ Remote Pro</target>
         <note>MARK: Query Log</note>
       </trans-unit>
       <trans-unit id="querylog_show_extra_detail" xml:space="preserve">
-        <source>Show extra detail</source>
-        <target state="translated">Mostrar detalhes extras</target>
+        <source>Show response details</source>
+        <target state="needs-review-l10n">Mostrar detalhes extras</target>
         <note/>
       </trans-unit>
       <trans-unit id="querylog_show_queries_status" xml:space="preserve">
@@ -4703,11 +4719,6 @@ Meu principal objetivo é aprender: design, desenvolvimento, testes, suporte, pr
         <target state="translated">Domínios Ignorados</target>
         <note/>
       </trans-unit>
-      <trans-unit id="settings_instances" xml:space="preserve">
-        <source>Instances</source>
-        <target state="translated">Instâncias</target>
-        <note>MARK: Instance Settings</note>
-      </trans-unit>
       <trans-unit id="settings_leave_review" xml:space="preserve">
         <source>Leave a Review</source>
         <target state="translated">Deixar uma Avaliação</target>
@@ -4906,11 +4917,6 @@ Se você deseja dar uma gorjeta, por favor, baixe o aplicativo na App Store! Dep
       <trans-unit id="unknown" xml:space="preserve">
         <source>Unknown</source>
         <target state="translated">Desconhecido</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="until_tomorrow" xml:space="preserve">
-        <source>Until tomorrow</source>
-        <target state="translated">Até amanhã</target>
         <note/>
       </trans-unit>
       <trans-unit id="until_turned_back_on" xml:space="preserve">
