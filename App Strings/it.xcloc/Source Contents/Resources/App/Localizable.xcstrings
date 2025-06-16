@@ -15,6 +15,9 @@
     "%@ bytes" : {
       "comment" : "Clients DNS cache size in bytes."
     },
+    "%@ entries" : {
+      "comment" : "Used on the Statistics-screen in the preferences menu."
+    },
     "%@ms" : {
       "comment" : "Used in the Query Log to display query duration like '5ms'."
     },
@@ -202,7 +205,19 @@
     "Add" : {
       "comment" : "Used in the Settings-tab in the 'instances' section header."
     },
+    "Add '%@'" : {
+      "comment" : "Used on the 'Add new disable preset' screen, e.g. 'Add 30 seconds'"
+    },
     "Add 5 minutes" : {
+
+    },
+    "Add Instance" : {
+
+    },
+    "Add new preset" : {
+      "comment" : "Used on the 'Add new disable preset' screen"
+    },
+    "Add your AdGuard Home instances to control them and view statistics." : {
 
     },
     "Additional info" : {
@@ -244,6 +259,9 @@
           }
         }
       }
+    },
+    "All" : {
+
     },
     "all_instances" : {
       "localizations" : {
@@ -302,8 +320,17 @@
     "Apply Pro license" : {
 
     },
+    "Auto-refresh" : {
+
+    },
     "Automatic" : {
       "comment" : "Used in the 'Preferences Other' screen in the navigation style picker (only visible for iPad)"
+    },
+    "Average processing time: %@ ms" : {
+
+    },
+    "Average processing time: %@ ms." : {
+
     },
     "average_processing_time" : {
       "comment" : "MARK: v5.2 & Includes \": \" at the end",
@@ -315,6 +342,37 @@
           }
         }
       }
+    },
+    "avg %@ms" : {
+
+    },
+    "Bar-chart" : {
+      "comment" : "Chart type."
+    },
+    "Blocked by filters" : {
+      "comment" : "Query status type."
+    },
+    "Blocked by filters: %@ (%@)" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Blocked by filters: %1$@ (%2$@)"
+          }
+        }
+      }
+    },
+    "Blocked malware" : {
+      "comment" : "Query status type."
+    },
+    "Blocked malware: %@" : {
+
+    },
+    "Blocked parental" : {
+      "comment" : "Query status type."
+    },
+    "Blocked parental: %@" : {
+
     },
     "blocked_services" : {
       "localizations" : {
@@ -366,6 +424,9 @@
         }
       }
     },
+    "Blocking" : {
+
+    },
     "CAA" : {
       "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
       "shouldTranslate" : false
@@ -382,16 +443,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cancel"
-          }
-        }
-      }
-    },
-    "cannot_reach_instance" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Can't reach instance."
           }
         }
       }
@@ -528,6 +579,12 @@
           }
         }
       }
+    },
+    "Chart" : {
+
+    },
+    "Chart Type" : {
+
     },
     "Check filtering" : {
 
@@ -912,6 +969,9 @@
       "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
       "shouldTranslate" : false
     },
+    "Compact mode" : {
+
+    },
     "Contact" : {
 
     },
@@ -931,6 +991,9 @@
           }
         }
       }
+    },
+    "Custom disable presets" : {
+
     },
     "Dashboard" : {
 
@@ -955,32 +1018,12 @@
         }
       }
     },
-    "dashboard_blocked-adult" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Blocked Adult Websites"
-          }
-        }
-      }
-    },
     "dashboard_blocked-filters" : {
       "localizations" : {
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Blocked by Filters"
-          }
-        }
-      }
-    },
-    "dashboard_blocked-malware" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Blocked Malware/Phishing"
           }
         }
       }
@@ -1062,16 +1105,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Enable all"
-          }
-        }
-      }
-    },
-    "dashboard_jump_to_instance" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Jump to"
           }
         }
       }
@@ -1173,17 +1206,6 @@
         }
       }
     },
-    "dashboard_tabbar" : {
-      "comment" : "MARK: - Dashboard",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Dashboard"
-          }
-        }
-      }
-    },
     "dashboard_top-blocked" : {
       "localizations" : {
         "en" : {
@@ -1214,15 +1236,14 @@
         }
       }
     },
-    "dashboard_top-upstreams" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Top Upstreams"
-          }
-        }
-      }
+    "Datapoints" : {
+
+    },
+    "Date" : {
+
+    },
+    "Default count" : {
+
     },
     "deselect_all" : {
       "localizations" : {
@@ -1999,6 +2020,9 @@
       "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
       "shouldTranslate" : false
     },
+    "DNS Queries" : {
+
+    },
     "DNS Queries: %@" : {
 
     },
@@ -2676,9 +2700,21 @@
         }
       }
     },
+    "Done" : {
+
+    },
     "DS" : {
       "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
       "shouldTranslate" : false
+    },
+    "Duration" : {
+
+    },
+    "Duration in seconds" : {
+
+    },
+    "Duration Presets" : {
+
     },
     "edit" : {
       "localizations" : {
@@ -2690,7 +2726,16 @@
         }
       }
     },
+    "Edit presets..." : {
+
+    },
+    "Editing presets requires Pro." : {
+      "comment" : "Used on the 'Add new disable preset' screen"
+    },
     "Enable and disable protection." : {
+
+    },
+    "Enable blocking" : {
 
     },
     "enable_protection" : {
@@ -2714,6 +2759,9 @@
         }
       }
     },
+    "Enabled" : {
+
+    },
     "error" : {
       "localizations" : {
         "en" : {
@@ -2731,6 +2779,9 @@
     "EUI64" : {
       "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
       "shouldTranslate" : false
+    },
+    "Every 5 seconds" : {
+
     },
     "example.com" : {
 
@@ -3429,6 +3480,12 @@
         }
       }
     },
+    "Filters" : {
+
+    },
+    "Filters: %@" : {
+
+    },
     "for_%lld_hour" : {
       "localizations" : {
         "en" : {
@@ -3588,6 +3645,12 @@
           }
         }
       }
+    },
+    "Indefinitely" : {
+
+    },
+    "Info" : {
+
     },
     "instance" : {
       "localizations" : {
@@ -3817,8 +3880,14 @@
       "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
       "shouldTranslate" : false
     },
+    "last 30 days" : {
+
+    },
     "Launch App" : {
 
+    },
+    "Line-chart" : {
+      "comment" : "Chart type."
     },
     "liveactivity_ends" : {
       "localizations" : {
@@ -3886,6 +3955,12 @@
           }
         }
       }
+    },
+    "Malware" : {
+
+    },
+    "Malware: %@" : {
+
     },
     "manage" : {
       "localizations" : {
@@ -4148,6 +4223,18 @@
     "NextDNS Remote" : {
       "shouldTranslate" : false
     },
+    "No connection" : {
+
+    },
+    "No data" : {
+
+    },
+    "No instance." : {
+
+    },
+    "No Instances" : {
+
+    },
     "No pages for this support item" : {
 
     },
@@ -4207,6 +4294,53 @@
     "on" : {
 
     },
+    "One-tap button" : {
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "device" : {
+              "mac" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "One-click button"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "new",
+                  "value" : "One-tap button"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "One-tap disable duration" : {
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "device" : {
+              "mac" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "One-click disable duration"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "new",
+                  "value" : "One-tap disable duration"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Open statistics." : {
+
+    },
     "Open the dashboard." : {
 
     },
@@ -4243,6 +4377,12 @@
         }
       }
     },
+    "Parental" : {
+
+    },
+    "Parental: %@" : {
+
+    },
     "Paste from clipboard" : {
       "comment" : "Accessibility label for the clipboard button"
     },
@@ -4252,76 +4392,6 @@
     "Please add an instance in the iPhone app." : {
 
     },
-    "preferences_dashboard_auto_refresh" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Auto-refresh every minute"
-          }
-        }
-      }
-    },
-    "preferences_dashboard_extra_confirmation" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Confirmation alert for buttons"
-          }
-        }
-      }
-    },
-    "preferences_dashboard_graph_bar" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Bar-graph"
-          }
-        }
-      }
-    },
-    "preferences_dashboard_graph_blockedadultwebsites" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Blocked Adult Websites"
-          }
-        }
-      }
-    },
-    "preferences_dashboard_graph_blockedbyfilters" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Blocked by Filters"
-          }
-        }
-      }
-    },
-    "preferences_dashboard_graph_blockedmalware" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Blocked Malware/Phishing"
-          }
-        }
-      }
-    },
-    "preferences_dashboard_graph_dnsqueries" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "DNS Queries"
-          }
-        }
-      }
-    },
     "preferences_dashboard_graph_hide" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -4329,16 +4399,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hide graph"
-          }
-        }
-      }
-    },
-    "preferences_dashboard_graph_line" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Line-graph"
           }
         }
       }
@@ -4353,102 +4413,12 @@
         }
       }
     },
-    "preferences_dashboard_graphs" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Graphs"
-          }
-        }
-      }
-    },
-    "preferences_dashboard_line_type" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Line type"
-          }
-        }
-      }
-    },
-    "preferences_dashboard_line_type_linear" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Linear"
-          }
-        }
-      }
-    },
-    "preferences_dashboard_line_type_smooth" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Smooth"
-          }
-        }
-      }
-    },
-    "preferences_dashboard_line_type_steps" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Steps"
-          }
-        }
-      }
-    },
-    "preferences_dashboard_number_of_clients" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Number of clients"
-          }
-        }
-      }
-    },
-    "preferences_dashboard_number_of_domains" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Number of domains"
-          }
-        }
-      }
-    },
-    "preferences_dashboard_number_of_upstreams" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Number of upstreams"
-          }
-        }
-      }
-    },
     "preferences_dashboard_parentalfiltering" : {
       "localizations" : {
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Parental Filtering"
-          }
-        }
-      }
-    },
-    "preferences_dashboard_protection" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Protection"
           }
         }
       }
@@ -4509,16 +4479,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "only visible if you have multiple instances"
-          }
-        }
-      }
-    },
-    "preferences_dashboard_show_section" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Show section"
           }
         }
       }
@@ -4686,9 +4646,21 @@
     "preferences_lock_unlock_footnote_tap" : {
       "localizations" : {
         "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tap above to unlock AdGuard Home Remote"
+          "variations" : {
+            "device" : {
+              "mac" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Click above to unlock AdGuard Home Remote"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Tap above to unlock AdGuard Home Remote"
+                }
+              }
+            }
           }
         }
       }
@@ -4743,6 +4715,9 @@
           }
         }
       }
+    },
+    "Presets" : {
+
     },
     "pro" : {
       "comment" : "MARK: - Pro",
@@ -5080,6 +5055,12 @@
         }
       }
     },
+    "Processed" : {
+      "comment" : "Query status type."
+    },
+    "Processed: %@" : {
+
+    },
     "protection_disabled" : {
       "localizations" : {
         "en" : {
@@ -5170,6 +5151,12 @@
         }
       }
     },
+    "Queries" : {
+
+    },
+    "Queries: %@" : {
+
+    },
     "Query Log" : {
 
     },
@@ -5258,7 +5245,7 @@
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Blocked | Parental"
+            "value" : "Parental Control"
           }
         }
       }
@@ -5278,7 +5265,7 @@
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Blocked | Safe Search"
+            "value" : "Safe Search"
           }
         }
       }
@@ -5989,17 +5976,6 @@
         }
       }
     },
-    "querylog_tabbar" : {
-      "comment" : "MARK: - Query Log",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Query Log"
-          }
-        }
-      }
-    },
     "refresh" : {
       "localizations" : {
         "en" : {
@@ -6009,6 +5985,9 @@
           }
         }
       }
+    },
+    "Refreshing" : {
+
     },
     "Remote for AdGuard DNS" : {
       "shouldTranslate" : false
@@ -6025,6 +6004,12 @@
     },
     "Remove Pro license" : {
 
+    },
+    "Remove Statistics Limits" : {
+
+    },
+    "Reorder by dragging, remove by swiping." : {
+      "comment" : "Used on the 'Add new disable preset' screen"
     },
     "Request timed out." : {
 
@@ -6246,6 +6231,9 @@
         }
       }
     },
+    "Seconds" : {
+      "comment" : "Used on the 'Add new disable preset' screen"
+    },
     "Select an Instance" : {
 
     },
@@ -6305,6 +6293,9 @@
         }
       }
     },
+    "Settings" : {
+
+    },
     "settings_add-instance" : {
       "localizations" : {
         "en" : {
@@ -6351,16 +6342,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Copy Email Address"
-          }
-        }
-      }
-    },
-    "settings_dashboard" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Dashboard"
           }
         }
       }
@@ -6764,13 +6745,34 @@
         }
       }
     },
+    "Show 'Indefinitely'" : {
+
+    },
+    "Show 'Until tomorrow'" : {
+
+    },
     "Show all icons" : {
 
     },
     "Show Changelog again on startup" : {
 
     },
+    "Show chart" : {
+
+    },
     "Show Client IDs" : {
+
+    },
+    "Show hostname" : {
+
+    },
+    "Show legend" : {
+
+    },
+    "Show more..." : {
+      "comment" : "Used on the Statistics-screen."
+    },
+    "Show version" : {
 
     },
     "Sidebar" : {
@@ -6789,6 +6791,9 @@
       "shouldTranslate" : false
     },
     "Something went wrong with your purchase." : {
+
+    },
+    "Something went wrong." : {
 
     },
     "something_went_wrong" : {
@@ -6839,6 +6844,9 @@
       "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
       "shouldTranslate" : false
     },
+    "Statistics" : {
+
+    },
     "statistics_settings_ignored_domains_explainer" : {
       "localizations" : {
         "en" : {
@@ -6850,6 +6858,9 @@
       }
     },
     "Status" : {
+
+    },
+    "Sub-buttons" : {
 
     },
     "Support" : {
@@ -6879,9 +6890,21 @@
     "tap_to_learn_more" : {
       "localizations" : {
         "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tap to learn more."
+          "variations" : {
+            "device" : {
+              "mac" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Click to learn more."
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Tap to learn more."
+                }
+              }
+            }
           }
         }
       }
@@ -7060,6 +7083,12 @@
       "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
       "shouldTranslate" : false
     },
+    "Toggle between enabled & disabled" : {
+
+    },
+    "Toggle only between enabled & disabled. Hold the button for more options." : {
+
+    },
     "Toggle Protection" : {
 
     },
@@ -7083,6 +7112,18 @@
         }
       }
     },
+    "Top Blocked Domains" : {
+      "comment" : "Used on the Statistics-screen."
+    },
+    "Top Clients" : {
+      "comment" : "Used on the Statistics-screen."
+    },
+    "Top Queried Domains" : {
+      "comment" : "Used on the Statistics-screen."
+    },
+    "Top Upstreams" : {
+      "comment" : "Used on the Statistics-screen."
+    },
     "total" : {
       "comment" : "MARK: Apple Watch",
       "localizations" : {
@@ -7093,6 +7134,12 @@
           }
         }
       }
+    },
+    "Total" : {
+      "comment" : "Query status type."
+    },
+    "Total: %@" : {
+
     },
     "TSIG" : {
       "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
@@ -7111,6 +7158,9 @@
           }
         }
       }
+    },
+    "Unknown" : {
+
     },
     "Unknown Error" : {
 
@@ -7161,6 +7211,12 @@
     },
     "value" : {
       "comment" : "Placeholder of the 'custom header value' textfield in instance settings."
+    },
+    "Version" : {
+
+    },
+    "Version: %@." : {
+
     },
     "Watch App Not Installed" : {
 
@@ -7255,6 +7311,9 @@
           }
         }
       }
+    },
+    "You've reached the maximum of 6 presets." : {
+      "comment" : "Used on the 'Add new disable preset' screen"
     },
     "ZONEMD" : {
       "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",

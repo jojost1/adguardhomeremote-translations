@@ -970,6 +970,11 @@
         <target state="new">%@ bytes</target>
         <note>Clients DNS cache size in bytes.</note>
       </trans-unit>
+      <trans-unit id="%@ entries" xml:space="preserve">
+        <source>%@ entries</source>
+        <target state="new">%@ entries</target>
+        <note>Used on the Statistics-screen in the preferences menu.</note>
+      </trans-unit>
       <trans-unit id="%@ms" xml:space="preserve">
         <source>%@ms</source>
         <target state="new">%@ms</target>
@@ -1090,9 +1095,29 @@
         <target state="new">Add</target>
         <note>Used in the Settings-tab in the 'instances' section header.</note>
       </trans-unit>
+      <trans-unit id="Add '%@'" xml:space="preserve">
+        <source>Add '%@'</source>
+        <target state="new">Add '%@'</target>
+        <note>Used on the 'Add new disable preset' screen, e.g. 'Add 30 seconds'</note>
+      </trans-unit>
       <trans-unit id="Add 5 minutes" xml:space="preserve">
         <source>Add 5 minutes</source>
         <target state="new">Add 5 minutes</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Add Instance" xml:space="preserve">
+        <source>Add Instance</source>
+        <target state="new">Add Instance</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Add new preset" xml:space="preserve">
+        <source>Add new preset</source>
+        <target state="new">Add new preset</target>
+        <note>Used on the 'Add new disable preset' screen</note>
+      </trans-unit>
+      <trans-unit id="Add your AdGuard Home instances to control them and view statistics." xml:space="preserve">
+        <source>Add your AdGuard Home instances to control them and view statistics.</source>
+        <target state="new">Add your AdGuard Home instances to control them and view statistics.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Additional info" xml:space="preserve">
@@ -1100,15 +1125,75 @@
         <target state="new">Additional info</target>
         <note/>
       </trans-unit>
+      <trans-unit id="All" xml:space="preserve">
+        <source>All</source>
+        <target state="new">All</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Apply Pro license" xml:space="preserve">
         <source>Apply Pro license</source>
         <target state="new">Apply Pro license</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Auto-refresh" xml:space="preserve">
+        <source>Auto-refresh</source>
+        <target state="new">Auto-refresh</target>
         <note/>
       </trans-unit>
       <trans-unit id="Automatic" xml:space="preserve">
         <source>Automatic</source>
         <target state="new">Automatic</target>
         <note>Used in the 'Preferences Other' screen in the navigation style picker (only visible for iPad)</note>
+      </trans-unit>
+      <trans-unit id="Average processing time: %@ ms" xml:space="preserve">
+        <source>Average processing time: %@ ms</source>
+        <target state="new">Average processing time: %@ ms</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Average processing time: %@ ms." xml:space="preserve">
+        <source>Average processing time: %@ ms.</source>
+        <target state="new">Average processing time: %@ ms.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Bar-chart" xml:space="preserve">
+        <source>Bar-chart</source>
+        <target state="new">Bar-chart</target>
+        <note>Chart type.</note>
+      </trans-unit>
+      <trans-unit id="Blocked by filters" xml:space="preserve">
+        <source>Blocked by filters</source>
+        <target state="new">Blocked by filters</target>
+        <note>Query status type.</note>
+      </trans-unit>
+      <trans-unit id="Blocked by filters: %@ (%@)" xml:space="preserve">
+        <source>Blocked by filters: %1$@ (%2$@)</source>
+        <target state="new">Blocked by filters: %1$@ (%2$@)</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Blocked malware" xml:space="preserve">
+        <source>Blocked malware</source>
+        <target state="new">Blocked malware</target>
+        <note>Query status type.</note>
+      </trans-unit>
+      <trans-unit id="Blocked malware: %@" xml:space="preserve">
+        <source>Blocked malware: %@</source>
+        <target state="new">Blocked malware: %@</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Blocked parental" xml:space="preserve">
+        <source>Blocked parental</source>
+        <target state="new">Blocked parental</target>
+        <note>Query status type.</note>
+      </trans-unit>
+      <trans-unit id="Blocked parental: %@" xml:space="preserve">
+        <source>Blocked parental: %@</source>
+        <target state="new">Blocked parental: %@</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Blocking" xml:space="preserve">
+        <source>Blocking</source>
+        <target state="new">Blocking</target>
+        <note/>
       </trans-unit>
       <trans-unit id="CAA" translate="no" xml:space="preserve">
         <source>CAA</source>
@@ -1145,6 +1230,16 @@
         <target state="new">Can't reach AdGuard Home.</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Chart" xml:space="preserve">
+        <source>Chart</source>
+        <target state="new">Chart</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Chart Type" xml:space="preserve">
+        <source>Chart Type</source>
+        <target state="new">Chart Type</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Check Filtering" xml:space="preserve">
         <source>Check Filtering</source>
         <target state="new">Check Filtering</target>
@@ -1175,6 +1270,11 @@
         <target state="new">ClientID or IP</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Compact mode" xml:space="preserve">
+        <source>Compact mode</source>
+        <target state="new">Compact mode</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Contact" xml:space="preserve">
         <source>Contact</source>
         <target state="new">Contact</target>
@@ -1183,6 +1283,11 @@
       <trans-unit id="Copy '%@'" xml:space="preserve">
         <source>Copy '%@'</source>
         <target state="new">Copy '%@'</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Custom disable presets" xml:space="preserve">
+        <source>Custom disable presets</source>
+        <target state="new">Custom disable presets</target>
         <note/>
       </trans-unit>
       <trans-unit id="DHCID" translate="no" xml:space="preserve">
@@ -1199,6 +1304,11 @@
         <source>DNAME</source>
         <target state="new">DNAME</target>
         <note>Used in the DNS record type picker on the 'check filtering' screen.</note>
+      </trans-unit>
+      <trans-unit id="DNS Queries" xml:space="preserve">
+        <source>DNS Queries</source>
+        <target state="new">DNS Queries</target>
+        <note/>
       </trans-unit>
       <trans-unit id="DNS Queries: %@" xml:space="preserve">
         <source>DNS Queries: %@</source>
@@ -1225,9 +1335,44 @@
         <target state="new">Dashboard</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Datapoints" xml:space="preserve">
+        <source>Datapoints</source>
+        <target state="new">Datapoints</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Date" xml:space="preserve">
+        <source>Date</source>
+        <target state="new">Date</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Default count" xml:space="preserve">
+        <source>Default count</source>
+        <target state="new">Default count</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Disabled" xml:space="preserve">
         <source>Disabled</source>
         <target state="new">Disabled</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Done" xml:space="preserve">
+        <source>Done</source>
+        <target state="new">Done</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Duration" xml:space="preserve">
+        <source>Duration</source>
+        <target state="new">Duration</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Duration Presets" xml:space="preserve">
+        <source>Duration Presets</source>
+        <target state="new">Duration Presets</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Duration in seconds" xml:space="preserve">
+        <source>Duration in seconds</source>
+        <target state="new">Duration in seconds</target>
         <note/>
       </trans-unit>
       <trans-unit id="EUI48" translate="no" xml:space="preserve">
@@ -1240,14 +1385,49 @@
         <target state="new">EUI64</target>
         <note>Used in the DNS record type picker on the 'check filtering' screen.</note>
       </trans-unit>
+      <trans-unit id="Edit presets..." xml:space="preserve">
+        <source>Edit presets...</source>
+        <target state="new">Edit presets...</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Editing presets requires Pro." xml:space="preserve">
+        <source>Editing presets requires Pro.</source>
+        <target state="new">Editing presets requires Pro.</target>
+        <note>Used on the 'Add new disable preset' screen</note>
+      </trans-unit>
       <trans-unit id="Enable and disable protection." xml:space="preserve">
         <source>Enable and disable protection.</source>
         <target state="new">Enable and disable protection.</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Enable blocking" xml:space="preserve">
+        <source>Enable blocking</source>
+        <target state="new">Enable blocking</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Enabled" xml:space="preserve">
+        <source>Enabled</source>
+        <target state="new">Enabled</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Every 5 seconds" xml:space="preserve">
+        <source>Every 5 seconds</source>
+        <target state="new">Every 5 seconds</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Expires in %lld minutes" xml:space="preserve">
         <source>Expires in %lld minutes</source>
         <target state="new">Expires in %lld minutes</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Filters" xml:space="preserve">
+        <source>Filters</source>
+        <target state="new">Filters</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Filters: %@" xml:space="preserve">
+        <source>Filters: %@</source>
+        <target state="new">Filters: %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="Force Watch Sync" xml:space="preserve">
@@ -1290,6 +1470,16 @@
         <target state="new">If you already did, please go to your instance, press 'Edit' and press 'Save' again. It should show up after that. If not, try a restart of the Watch app.</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Indefinitely" xml:space="preserve">
+        <source>Indefinitely</source>
+        <target state="new">Indefinitely</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Info" xml:space="preserve">
+        <source>Info</source>
+        <target state="new">Info</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Instance" xml:space="preserve">
         <source>Instance</source>
         <target state="new">Instance</target>
@@ -1330,10 +1520,25 @@
         <target state="new">Launch App</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Line-chart" xml:space="preserve">
+        <source>Line-chart</source>
+        <target state="new">Line-chart</target>
+        <note>Chart type.</note>
+      </trans-unit>
       <trans-unit id="MX" translate="no" xml:space="preserve">
         <source>MX</source>
         <target state="new">MX</target>
         <note>Used in the DNS record type picker on the 'check filtering' screen.</note>
+      </trans-unit>
+      <trans-unit id="Malware" xml:space="preserve">
+        <source>Malware</source>
+        <target state="new">Malware</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Malware: %@" xml:space="preserve">
+        <source>Malware: %@</source>
+        <target state="new">Malware: %@</target>
+        <note/>
       </trans-unit>
       <trans-unit id="ManGo - Anime &amp; Manga Tracker" xml:space="preserve">
         <source>ManGo - Anime &amp; Manga Tracker</source>
@@ -1390,9 +1595,29 @@
         <target state="new">NextDNS Remote</target>
         <note/>
       </trans-unit>
+      <trans-unit id="No Instances" xml:space="preserve">
+        <source>No Instances</source>
+        <target state="new">No Instances</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="No Watch Paired" xml:space="preserve">
         <source>No Watch Paired</source>
         <target state="new">No Watch Paired</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="No connection" xml:space="preserve">
+        <source>No connection</source>
+        <target state="new">No connection</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="No data" xml:space="preserve">
+        <source>No data</source>
+        <target state="new">No data</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="No instance." xml:space="preserve">
+        <source>No instance.</source>
+        <target state="new">No instance.</target>
         <note/>
       </trans-unit>
       <trans-unit id="No pages for this support item" xml:space="preserve">
@@ -1404,6 +1629,31 @@
         <source>OPENPGPKEY</source>
         <target state="new">OPENPGPKEY</target>
         <note>Used in the DNS record type picker on the 'check filtering' screen.</note>
+      </trans-unit>
+      <trans-unit id="One-tap button|==|device.mac" xml:space="preserve">
+        <source>One-click button</source>
+        <target state="translated">One-click button</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="One-tap button|==|device.other" xml:space="preserve">
+        <source>One-tap button</source>
+        <target state="new">One-tap button</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="One-tap disable duration|==|device.mac" xml:space="preserve">
+        <source>One-click disable duration</source>
+        <target state="translated">One-click disable duration</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="One-tap disable duration|==|device.other" xml:space="preserve">
+        <source>One-tap disable duration</source>
+        <target state="new">One-tap disable duration</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Open statistics." xml:space="preserve">
+        <source>Open statistics.</source>
+        <target state="new">Open statistics.</target>
+        <note/>
       </trans-unit>
       <trans-unit id="Open the dashboard." xml:space="preserve">
         <source>Open the dashboard.</source>
@@ -1430,6 +1680,16 @@
         <target state="new">PTR</target>
         <note>Used in the DNS record type picker on the 'check filtering' screen.</note>
       </trans-unit>
+      <trans-unit id="Parental" xml:space="preserve">
+        <source>Parental</source>
+        <target state="new">Parental</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Parental: %@" xml:space="preserve">
+        <source>Parental: %@</source>
+        <target state="new">Parental: %@</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Paste from clipboard" xml:space="preserve">
         <source>Paste from clipboard</source>
         <target state="new">Paste from clipboard</target>
@@ -1443,6 +1703,31 @@
       <trans-unit id="Please add an instance in the iPhone app." xml:space="preserve">
         <source>Please add an instance in the iPhone app.</source>
         <target state="new">Please add an instance in the iPhone app.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Presets" xml:space="preserve">
+        <source>Presets</source>
+        <target state="new">Presets</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Processed" xml:space="preserve">
+        <source>Processed</source>
+        <target state="new">Processed</target>
+        <note>Query status type.</note>
+      </trans-unit>
+      <trans-unit id="Processed: %@" xml:space="preserve">
+        <source>Processed: %@</source>
+        <target state="new">Processed: %@</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Queries" xml:space="preserve">
+        <source>Queries</source>
+        <target state="new">Queries</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Queries: %@" xml:space="preserve">
+        <source>Queries: %@</source>
+        <target state="new">Queries: %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="Query Log" xml:space="preserve">
@@ -1460,6 +1745,11 @@
         <target state="new">RRSIG</target>
         <note>Used in the DNS record type picker on the 'check filtering' screen.</note>
       </trans-unit>
+      <trans-unit id="Refreshing" xml:space="preserve">
+        <source>Refreshing</source>
+        <target state="new">Refreshing</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Remote for AdGuard DNS" translate="no" xml:space="preserve">
         <source>Remote for AdGuard DNS</source>
         <target state="new">Remote for AdGuard DNS</target>
@@ -1469,6 +1759,16 @@
         <source>Remove Pro license</source>
         <target state="new">Remove Pro license</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="Remove Statistics Limits" xml:space="preserve">
+        <source>Remove Statistics Limits</source>
+        <target state="new">Remove Statistics Limits</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Reorder by dragging, remove by swiping." xml:space="preserve">
+        <source>Reorder by dragging, remove by swiping.</source>
+        <target state="new">Reorder by dragging, remove by swiping.</target>
+        <note>Used on the 'Add new disable preset' screen</note>
       </trans-unit>
       <trans-unit id="Request timed out." xml:space="preserve">
         <source>Request timed out.</source>
@@ -1520,6 +1820,11 @@
         <target state="new">Schedule</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Seconds" xml:space="preserve">
+        <source>Seconds</source>
+        <target state="new">Seconds</target>
+        <note>Used on the 'Add new disable preset' screen</note>
+      </trans-unit>
       <trans-unit id="Select an Instance" xml:space="preserve">
         <source>Select an Instance</source>
         <target state="new">Select an Instance</target>
@@ -1533,6 +1838,21 @@
       <trans-unit id="Selected" xml:space="preserve">
         <source>Selected</source>
         <target state="new">Selected</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Settings" xml:space="preserve">
+        <source>Settings</source>
+        <target state="new">Settings</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Show 'Indefinitely'" xml:space="preserve">
+        <source>Show 'Indefinitely'</source>
+        <target state="new">Show 'Indefinitely'</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Show 'Until tomorrow'" xml:space="preserve">
+        <source>Show 'Until tomorrow'</source>
+        <target state="new">Show 'Until tomorrow'</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show Changelog again on startup" xml:space="preserve">
@@ -1550,6 +1870,31 @@
         <target state="new">Show all icons</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Show chart" xml:space="preserve">
+        <source>Show chart</source>
+        <target state="new">Show chart</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Show hostname" xml:space="preserve">
+        <source>Show hostname</source>
+        <target state="new">Show hostname</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Show legend" xml:space="preserve">
+        <source>Show legend</source>
+        <target state="new">Show legend</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Show more..." xml:space="preserve">
+        <source>Show more...</source>
+        <target state="new">Show more...</target>
+        <note>Used on the Statistics-screen.</note>
+      </trans-unit>
+      <trans-unit id="Show version" xml:space="preserve">
+        <source>Show version</source>
+        <target state="new">Show version</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Sidebar" xml:space="preserve">
         <source>Sidebar</source>
         <target state="new">Sidebar</target>
@@ -1560,9 +1905,24 @@
         <target state="new">Something went wrong with your purchase.</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Something went wrong." xml:space="preserve">
+        <source>Something went wrong.</source>
+        <target state="new">Something went wrong.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Statistics" xml:space="preserve">
+        <source>Statistics</source>
+        <target state="new">Statistics</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Status" xml:space="preserve">
         <source>Status</source>
         <target state="new">Status</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Sub-buttons" xml:space="preserve">
+        <source>Sub-buttons</source>
+        <target state="new">Sub-buttons</target>
         <note/>
       </trans-unit>
       <trans-unit id="Support" xml:space="preserve">
@@ -1630,10 +1990,55 @@
         <target state="new">Toggle Protection</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Toggle between enabled &amp; disabled" xml:space="preserve">
+        <source>Toggle between enabled &amp; disabled</source>
+        <target state="new">Toggle between enabled &amp; disabled</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Toggle only between enabled &amp; disabled. Hold the button for more options." xml:space="preserve">
+        <source>Toggle only between enabled &amp; disabled. Hold the button for more options.</source>
+        <target state="new">Toggle only between enabled &amp; disabled. Hold the button for more options.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Top Blocked Domains" xml:space="preserve">
+        <source>Top Blocked Domains</source>
+        <target state="new">Top Blocked Domains</target>
+        <note>Used on the Statistics-screen.</note>
+      </trans-unit>
+      <trans-unit id="Top Clients" xml:space="preserve">
+        <source>Top Clients</source>
+        <target state="new">Top Clients</target>
+        <note>Used on the Statistics-screen.</note>
+      </trans-unit>
+      <trans-unit id="Top Queried Domains" xml:space="preserve">
+        <source>Top Queried Domains</source>
+        <target state="new">Top Queried Domains</target>
+        <note>Used on the Statistics-screen.</note>
+      </trans-unit>
+      <trans-unit id="Top Upstreams" xml:space="preserve">
+        <source>Top Upstreams</source>
+        <target state="new">Top Upstreams</target>
+        <note>Used on the Statistics-screen.</note>
+      </trans-unit>
+      <trans-unit id="Total" xml:space="preserve">
+        <source>Total</source>
+        <target state="new">Total</target>
+        <note>Query status type.</note>
+      </trans-unit>
+      <trans-unit id="Total: %@" xml:space="preserve">
+        <source>Total: %@</source>
+        <target state="new">Total: %@</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="URI" translate="no" xml:space="preserve">
         <source>URI</source>
         <target state="new">URI</target>
         <note>Used in the DNS record type picker on the 'check filtering' screen.</note>
+      </trans-unit>
+      <trans-unit id="Unknown" xml:space="preserve">
+        <source>Unknown</source>
+        <target state="new">Unknown</target>
+        <note/>
       </trans-unit>
       <trans-unit id="Unknown Error" xml:space="preserve">
         <source>Unknown Error</source>
@@ -1655,10 +2060,25 @@
         <target state="new">Utility Radar</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Version" xml:space="preserve">
+        <source>Version</source>
+        <target state="new">Version</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Version: %@." xml:space="preserve">
+        <source>Version: %@.</source>
+        <target state="new">Version: %@.</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Watch App Not Installed" xml:space="preserve">
         <source>Watch App Not Installed</source>
         <target state="new">Watch App Not Installed</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="You've reached the maximum of 6 presets." xml:space="preserve">
+        <source>You've reached the maximum of 6 presets.</source>
+        <target state="new">You've reached the maximum of 6 presets.</target>
+        <note>Used on the 'Add new disable preset' screen</note>
       </trans-unit>
       <trans-unit id="ZONEMD" translate="no" xml:space="preserve">
         <source>ZONEMD</source>
@@ -1740,6 +2160,11 @@
         <target state="translated">Average processing time: </target>
         <note>MARK: v5.2 &amp; Includes ": " at the end</note>
       </trans-unit>
+      <trans-unit id="avg %@ms" xml:space="preserve">
+        <source>avg %@ms</source>
+        <target state="new">avg %@ms</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="blocked_services" xml:space="preserve">
         <source>Blocked Services</source>
         <target state="translated">Blocked Services</target>
@@ -1773,11 +2198,6 @@
       <trans-unit id="cancel" xml:space="preserve">
         <source>Cancel</source>
         <target state="translated">Cancel</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="cannot_reach_instance" xml:space="preserve">
-        <source>Can't reach instance.</source>
-        <target state="translated">Can't reach instance.</target>
         <note/>
       </trans-unit>
       <trans-unit id="changelog_continue" xml:space="preserve">
@@ -2035,19 +2455,9 @@
         <target state="translated">avg %@ms</target>
         <note/>
       </trans-unit>
-      <trans-unit id="dashboard_blocked-adult" xml:space="preserve">
-        <source>Blocked Adult Websites</source>
-        <target state="translated">Blocked Adult Websites</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="dashboard_blocked-filters" xml:space="preserve">
         <source>Blocked by Filters</source>
         <target state="translated">Blocked by Filters</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="dashboard_blocked-malware" xml:space="preserve">
-        <source>Blocked Malware/Phishing</source>
-        <target state="translated">Blocked Malware/Phishing</target>
         <note/>
       </trans-unit>
       <trans-unit id="dashboard_confirmation_disable_%@" xml:space="preserve">
@@ -2088,11 +2498,6 @@
       <trans-unit id="dashboard_enable_all" xml:space="preserve">
         <source>Enable all</source>
         <target state="translated">Enable all</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="dashboard_jump_to_instance" xml:space="preserve">
-        <source>Jump to</source>
-        <target state="translated">Jump to</target>
         <note/>
       </trans-unit>
       <trans-unit id="dashboard_parental-filtering" xml:space="preserve">
@@ -2148,11 +2553,6 @@ Search</source>
 Search</target>
         <note/>
       </trans-unit>
-      <trans-unit id="dashboard_tabbar" xml:space="preserve">
-        <source>Dashboard</source>
-        <target state="translated">Dashboard</target>
-        <note>MARK: - Dashboard</note>
-      </trans-unit>
       <trans-unit id="dashboard_top-blocked" xml:space="preserve">
         <source>Top Blocked Domains</source>
         <target state="translated">Top Blocked Domains</target>
@@ -2166,11 +2566,6 @@ Search</target>
       <trans-unit id="dashboard_top-queried" xml:space="preserve">
         <source>Top Queried Domains</source>
         <target state="translated">Top Queried Domains</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="dashboard_top-upstreams" xml:space="preserve">
-        <source>Top Upstreams</source>
-        <target state="translated">Top Upstreams</target>
         <note/>
       </trans-unit>
       <trans-unit id="deselect_all" xml:space="preserve">
@@ -3428,6 +3823,11 @@ Search</target>
         <target state="new">key</target>
         <note>Placeholder of the 'custom header key' textfield in instance settings.</note>
       </trans-unit>
+      <trans-unit id="last 30 days" xml:space="preserve">
+        <source>last 30 days</source>
+        <target state="new">last 30 days</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="liveactivity_ends" xml:space="preserve">
         <source>Ends</source>
         <target state="translated">Ends</target>
@@ -3613,49 +4013,9 @@ Search</target>
         <target state="translated">Other</target>
         <note/>
       </trans-unit>
-      <trans-unit id="preferences_dashboard_auto_refresh" xml:space="preserve">
-        <source>Auto-refresh every minute</source>
-        <target state="translated">Auto-refresh every minute</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="preferences_dashboard_extra_confirmation" xml:space="preserve">
-        <source>Confirmation alert for buttons</source>
-        <target state="translated">Confirmation alert for buttons</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="preferences_dashboard_graph_bar" xml:space="preserve">
-        <source>Bar-graph</source>
-        <target state="translated">Bar-graph</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="preferences_dashboard_graph_blockedadultwebsites" xml:space="preserve">
-        <source>Blocked Adult Websites</source>
-        <target state="translated">Blocked Adult Websites</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="preferences_dashboard_graph_blockedbyfilters" xml:space="preserve">
-        <source>Blocked by Filters</source>
-        <target state="translated">Blocked by Filters</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="preferences_dashboard_graph_blockedmalware" xml:space="preserve">
-        <source>Blocked Malware/Phishing</source>
-        <target state="translated">Blocked Malware/Phishing</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="preferences_dashboard_graph_dnsqueries" xml:space="preserve">
-        <source>DNS Queries</source>
-        <target state="translated">DNS Queries</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="preferences_dashboard_graph_hide" xml:space="preserve">
         <source>Hide graph</source>
         <target state="translated">Hide graph</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="preferences_dashboard_graph_line" xml:space="preserve">
-        <source>Line-graph</source>
-        <target state="translated">Line-graph</target>
         <note/>
       </trans-unit>
       <trans-unit id="preferences_dashboard_graph_type" xml:space="preserve">
@@ -3663,54 +4023,9 @@ Search</target>
         <target state="translated">Type</target>
         <note/>
       </trans-unit>
-      <trans-unit id="preferences_dashboard_graphs" xml:space="preserve">
-        <source>Graphs</source>
-        <target state="translated">Graphs</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="preferences_dashboard_line_type" xml:space="preserve">
-        <source>Line type</source>
-        <target state="translated">Line type</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="preferences_dashboard_line_type_linear" xml:space="preserve">
-        <source>Linear</source>
-        <target state="translated">Linear</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="preferences_dashboard_line_type_smooth" xml:space="preserve">
-        <source>Smooth</source>
-        <target state="translated">Smooth</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="preferences_dashboard_line_type_steps" xml:space="preserve">
-        <source>Steps</source>
-        <target state="translated">Steps</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="preferences_dashboard_number_of_clients" xml:space="preserve">
-        <source>Number of clients</source>
-        <target state="translated">Number of clients</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="preferences_dashboard_number_of_domains" xml:space="preserve">
-        <source>Number of domains</source>
-        <target state="translated">Number of domains</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="preferences_dashboard_number_of_upstreams" xml:space="preserve">
-        <source>Number of upstreams</source>
-        <target state="translated">Number of upstreams</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="preferences_dashboard_parentalfiltering" xml:space="preserve">
         <source>Parental Filtering</source>
         <target state="translated">Parental Filtering</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="preferences_dashboard_protection" xml:space="preserve">
-        <source>Protection</source>
-        <target state="translated">Protection</target>
         <note/>
       </trans-unit>
       <trans-unit id="preferences_dashboard_rulefiltering" xml:space="preserve">
@@ -3741,11 +4056,6 @@ Search</target>
       <trans-unit id="preferences_dashboard_show_multipleInstanceToolbar_subtitle" xml:space="preserve">
         <source>only visible if you have multiple instances</source>
         <target state="translated">only visible if you have multiple instances</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="preferences_dashboard_show_section" xml:space="preserve">
-        <source>Show section</source>
-        <target state="translated">Show section</target>
         <note/>
       </trans-unit>
       <trans-unit id="preferences_dashboard_statusbuttons" xml:space="preserve">
@@ -3828,7 +4138,12 @@ Search</target>
         <target state="translated">Click above to unlock AdGuard Home Remote</target>
         <note/>
       </trans-unit>
-      <trans-unit id="preferences_lock_unlock_footnote_tap" xml:space="preserve">
+      <trans-unit id="preferences_lock_unlock_footnote_tap|==|device.mac" xml:space="preserve">
+        <source>Click above to unlock AdGuard Home Remote</source>
+        <target state="translated">Click above to unlock AdGuard Home Remote</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="preferences_lock_unlock_footnote_tap|==|device.other" xml:space="preserve">
         <source>Tap above to unlock AdGuard Home Remote</source>
         <target state="translated">Tap above to unlock AdGuard Home Remote</target>
         <note/>
@@ -4114,8 +4429,8 @@ Remote Pro</target>
         <note/>
       </trans-unit>
       <trans-unit id="query_status_FilteredParental" xml:space="preserve">
-        <source>Blocked | Parental</source>
-        <target state="translated">Blocked | Parental</target>
+        <source>Parental Control</source>
+        <target state="translated">Parental Control</target>
         <note/>
       </trans-unit>
       <trans-unit id="query_status_FilteredSafeBrowsing" xml:space="preserve">
@@ -4124,8 +4439,8 @@ Remote Pro</target>
         <note/>
       </trans-unit>
       <trans-unit id="query_status_FilteredSafeSearch" xml:space="preserve">
-        <source>Blocked | Safe Search</source>
-        <target state="translated">Blocked | Safe Search</target>
+        <source>Safe Search</source>
+        <target state="translated">Safe Search</target>
         <note/>
       </trans-unit>
       <trans-unit id="query_status_NotFilteredError" xml:space="preserve">
@@ -4478,11 +4793,6 @@ Remote Pro</target>
         <target state="translated">Allowed</target>
         <note/>
       </trans-unit>
-      <trans-unit id="querylog_tabbar" xml:space="preserve">
-        <source>Query Log</source>
-        <target state="translated">Query Log</target>
-        <note>MARK: - Query Log</note>
-      </trans-unit>
       <trans-unit id="refresh" xml:space="preserve">
         <source>Refresh</source>
         <target state="translated">Refresh</target>
@@ -4645,11 +4955,6 @@ My main goal is to learn: design, development, testing, support, promotion - may
       <trans-unit id="settings_copy_email" xml:space="preserve">
         <source>Copy Email Address</source>
         <target state="translated">Copy Email Address</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="settings_dashboard" xml:space="preserve">
-        <source>Dashboard</source>
-        <target state="translated">Dashboard</target>
         <note/>
       </trans-unit>
       <trans-unit id="settings_design" xml:space="preserve">
@@ -4877,7 +5182,12 @@ My main goal is to learn: design, development, testing, support, promotion - may
         <target state="translated">Tags</target>
         <note/>
       </trans-unit>
-      <trans-unit id="tap_to_learn_more" xml:space="preserve">
+      <trans-unit id="tap_to_learn_more|==|device.mac" xml:space="preserve">
+        <source>Click to learn more.</source>
+        <target state="translated">Click to learn more.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="tap_to_learn_more|==|device.other" xml:space="preserve">
         <source>Tap to learn more.</source>
         <target state="translated">Tap to learn more.</target>
         <note/>

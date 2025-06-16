@@ -922,6 +922,11 @@
         <target state="translated">%@ bytes</target>
         <note>Clients DNS cache size in bytes.</note>
       </trans-unit>
+      <trans-unit id="%@ entries" xml:space="preserve">
+        <source>%@ entries</source>
+        <target state="translated">%@ items</target>
+        <note>Used on the Statistics-screen in the preferences menu.</note>
+      </trans-unit>
       <trans-unit id="%@ms" xml:space="preserve">
         <source>%@ms</source>
         <target state="translated">%@ms</target>
@@ -1031,9 +1036,29 @@
         <target state="translated">Voeg toe</target>
         <note>Used in the Settings-tab in the 'instances' section header.</note>
       </trans-unit>
+      <trans-unit id="Add '%@'" xml:space="preserve">
+        <source>Add '%@'</source>
+        <target state="translated">'%@' toevoegen</target>
+        <note>Used on the 'Add new disable preset' screen, e.g. 'Add 30 seconds'</note>
+      </trans-unit>
       <trans-unit id="Add 5 minutes" xml:space="preserve">
         <source>Add 5 minutes</source>
         <target state="translated">Voeg 5 minuten toe</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Add Instance" xml:space="preserve">
+        <source>Add Instance</source>
+        <target state="translated">Voeg instantie toe</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Add new preset" xml:space="preserve">
+        <source>Add new preset</source>
+        <target state="translated">Voeg nieuwe preset toe</target>
+        <note>Used on the 'Add new disable preset' screen</note>
+      </trans-unit>
+      <trans-unit id="Add your AdGuard Home instances to control them and view statistics." xml:space="preserve">
+        <source>Add your AdGuard Home instances to control them and view statistics.</source>
+        <target state="translated">Voeg je AdGuard Home-instanties toe om ze te beheren en statistieken te bekijken.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Additional info" xml:space="preserve">
@@ -1041,15 +1066,75 @@
         <target state="translated">Extra info</target>
         <note/>
       </trans-unit>
+      <trans-unit id="All" xml:space="preserve">
+        <source>All</source>
+        <target state="translated">Alle</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Apply Pro license" xml:space="preserve">
         <source>Apply Pro license</source>
         <target state="translated">Pro-licentie toepassen</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Auto-refresh" xml:space="preserve">
+        <source>Auto-refresh</source>
+        <target state="translated">Automatisch verversen</target>
         <note/>
       </trans-unit>
       <trans-unit id="Automatic" xml:space="preserve">
         <source>Automatic</source>
         <target state="translated">Automatisch</target>
         <note>Used in the 'Preferences Other' screen in the navigation style picker (only visible for iPad)</note>
+      </trans-unit>
+      <trans-unit id="Average processing time: %@ ms" xml:space="preserve">
+        <source>Average processing time: %@ ms</source>
+        <target state="translated">Gemiddelde verwerkingstijd: %@ ms</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Average processing time: %@ ms." xml:space="preserve">
+        <source>Average processing time: %@ ms.</source>
+        <target state="translated">Gemiddelde procestijd: %@ ms.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Bar-chart" xml:space="preserve">
+        <source>Bar-chart</source>
+        <target state="translated">Staafdiagram</target>
+        <note>Chart type.</note>
+      </trans-unit>
+      <trans-unit id="Blocked by filters" xml:space="preserve">
+        <source>Blocked by filters</source>
+        <target state="translated">Geblokkeerd door filters</target>
+        <note>Query status type.</note>
+      </trans-unit>
+      <trans-unit id="Blocked by filters: %@ (%@)" xml:space="preserve">
+        <source>Blocked by filters: %1$@ (%2$@)</source>
+        <target state="translated">Geblokkeerd door filters: %1$@ (%2$@)</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Blocked malware" xml:space="preserve">
+        <source>Blocked malware</source>
+        <target state="translated">Malware geblokkeerd</target>
+        <note>Query status type.</note>
+      </trans-unit>
+      <trans-unit id="Blocked malware: %@" xml:space="preserve">
+        <source>Blocked malware: %@</source>
+        <target state="translated">Malware geblokkeerd: %@</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Blocked parental" xml:space="preserve">
+        <source>Blocked parental</source>
+        <target state="translated">Ouderlijk toezicht geblokkeerd</target>
+        <note>Query status type.</note>
+      </trans-unit>
+      <trans-unit id="Blocked parental: %@" xml:space="preserve">
+        <source>Blocked parental: %@</source>
+        <target state="translated">Ouderlijk toezicht geblokkeerd: %@</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Blocking" xml:space="preserve">
+        <source>Blocking</source>
+        <target state="translated">Blokkeren</target>
+        <note/>
       </trans-unit>
       <trans-unit id="CAA" translate="no" xml:space="preserve">
         <source>CAA</source>
@@ -1078,6 +1163,16 @@
       <trans-unit id="Can't reach AdGuard Home." xml:space="preserve">
         <source>Can't reach AdGuard Home.</source>
         <target state="translated">Kan AdGuard Home niet bereiken.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Chart" xml:space="preserve">
+        <source>Chart</source>
+        <target state="translated">Grafiek</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Chart Type" xml:space="preserve">
+        <source>Chart Type</source>
+        <target state="translated">Grafiektype</target>
         <note/>
       </trans-unit>
       <trans-unit id="Check Filtering" xml:space="preserve">
@@ -1110,6 +1205,11 @@
         <target state="translated">ClientID of IP</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Compact mode" xml:space="preserve">
+        <source>Compact mode</source>
+        <target state="translated">Compacte modus</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Contact" xml:space="preserve">
         <source>Contact</source>
         <target state="translated">Contact</target>
@@ -1118,6 +1218,11 @@
       <trans-unit id="Copy '%@'" xml:space="preserve">
         <source>Copy '%@'</source>
         <target state="translated">Kopieer '%@'</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Custom disable presets" xml:space="preserve">
+        <source>Custom disable presets</source>
+        <target state="translated">Aangepaste presets</target>
         <note/>
       </trans-unit>
       <trans-unit id="DHCID" translate="no" xml:space="preserve">
@@ -1131,6 +1236,11 @@
       <trans-unit id="DNAME" translate="no" xml:space="preserve">
         <source>DNAME</source>
         <note>Used in the DNS record type picker on the 'check filtering' screen.</note>
+      </trans-unit>
+      <trans-unit id="DNS Queries" xml:space="preserve">
+        <source>DNS Queries</source>
+        <target state="translated">DNS queries</target>
+        <note/>
       </trans-unit>
       <trans-unit id="DNS Queries: %@" xml:space="preserve">
         <source>DNS Queries: %@</source>
@@ -1155,9 +1265,44 @@
         <target state="translated">Dashboard</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Datapoints" xml:space="preserve">
+        <source>Datapoints</source>
+        <target state="translated">Gegevenspunten</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Date" xml:space="preserve">
+        <source>Date</source>
+        <target state="translated">Datum</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Default count" xml:space="preserve">
+        <source>Default count</source>
+        <target state="translated">Default count</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Disabled" xml:space="preserve">
         <source>Disabled</source>
         <target state="translated">Uitgeschakeld</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Done" xml:space="preserve">
+        <source>Done</source>
+        <target state="translated">Klaar</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Duration" xml:space="preserve">
+        <source>Duration</source>
+        <target state="translated">Duur</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Duration Presets" xml:space="preserve">
+        <source>Duration Presets</source>
+        <target state="translated">Tijdsduur presets</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Duration in seconds" xml:space="preserve">
+        <source>Duration in seconds</source>
+        <target state="translated">Duur in seconden</target>
         <note/>
       </trans-unit>
       <trans-unit id="EUI48" translate="no" xml:space="preserve">
@@ -1168,14 +1313,49 @@
         <source>EUI64</source>
         <note>Used in the DNS record type picker on the 'check filtering' screen.</note>
       </trans-unit>
+      <trans-unit id="Edit presets..." xml:space="preserve">
+        <source>Edit presets...</source>
+        <target state="translated">Bewerk presets...</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Editing presets requires Pro." xml:space="preserve">
+        <source>Editing presets requires Pro.</source>
+        <target state="translated">Voor het bewerken van presets is Pro vereist.</target>
+        <note>Used on the 'Add new disable preset' screen</note>
+      </trans-unit>
       <trans-unit id="Enable and disable protection." xml:space="preserve">
         <source>Enable and disable protection.</source>
         <target state="translated">Bescherming aan en uitzetten.</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Enable blocking" xml:space="preserve">
+        <source>Enable blocking</source>
+        <target state="translated">Blokkeren inschakelen</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Enabled" xml:space="preserve">
+        <source>Enabled</source>
+        <target state="translated">Ingeschakeld</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Every 5 seconds" xml:space="preserve">
+        <source>Every 5 seconds</source>
+        <target state="translated">Elke 5 seconden</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Expires in %lld minutes" xml:space="preserve">
         <source>Expires in %lld minutes</source>
         <target state="translated">Verloopt over %lld minuten</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Filters" xml:space="preserve">
+        <source>Filters</source>
+        <target state="translated">Filters</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Filters: %@" xml:space="preserve">
+        <source>Filters: %@</source>
+        <target state="translated">Filters: %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="Force Watch Sync" xml:space="preserve">
@@ -1212,6 +1392,16 @@
       <trans-unit id="If you already did, please go to your instance, press 'Edit' and press 'Save' again. It should show up after that. If not, try a restart of the Watch app." xml:space="preserve">
         <source>If you already did, please go to your instance, press 'Edit' and press 'Save' again. It should show up after that. If not, try a restart of the Watch app.</source>
         <target state="translated">Als je dat al hebt gedaan, ga dan naar je instantie, druk op ‘Bewerken’ en druk vervolgens opnieuw op ‘Opslaan’. Daarna zou het zichtbaar moeten zijn. Zo niet, probeer dan de Watch-app opnieuw op te starten.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Indefinitely" xml:space="preserve">
+        <source>Indefinitely</source>
+        <target state="translated">Voor onbepaalde tijd</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Info" xml:space="preserve">
+        <source>Info</source>
+        <target state="translated">Info</target>
         <note/>
       </trans-unit>
       <trans-unit id="Instance" xml:space="preserve">
@@ -1251,9 +1441,24 @@
         <target state="translated">Open App</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Line-chart" xml:space="preserve">
+        <source>Line-chart</source>
+        <target state="translated">Lijndiagram</target>
+        <note>Chart type.</note>
+      </trans-unit>
       <trans-unit id="MX" translate="no" xml:space="preserve">
         <source>MX</source>
         <note>Used in the DNS record type picker on the 'check filtering' screen.</note>
+      </trans-unit>
+      <trans-unit id="Malware" xml:space="preserve">
+        <source>Malware</source>
+        <target state="translated">Malware</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Malware: %@" xml:space="preserve">
+        <source>Malware: %@</source>
+        <target state="translated">Malware: %@</target>
+        <note/>
       </trans-unit>
       <trans-unit id="ManGo - Anime &amp; Manga Tracker" xml:space="preserve">
         <source>ManGo - Anime &amp; Manga Tracker</source>
@@ -1304,9 +1509,29 @@
         <source>NextDNS Remote</source>
         <note/>
       </trans-unit>
+      <trans-unit id="No Instances" xml:space="preserve">
+        <source>No Instances</source>
+        <target state="translated">Geen instanties</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="No Watch Paired" xml:space="preserve">
         <source>No Watch Paired</source>
         <target state="translated">Geen Watch gekoppeld</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="No connection" xml:space="preserve">
+        <source>No connection</source>
+        <target state="translated">Geen verbinding</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="No data" xml:space="preserve">
+        <source>No data</source>
+        <target state="translated">Geen gegevens</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="No instance." xml:space="preserve">
+        <source>No instance.</source>
+        <target state="translated">Geen instantie.</target>
         <note/>
       </trans-unit>
       <trans-unit id="No pages for this support item" xml:space="preserve">
@@ -1317,6 +1542,31 @@
       <trans-unit id="OPENPGPKEY" translate="no" xml:space="preserve">
         <source>OPENPGPKEY</source>
         <note>Used in the DNS record type picker on the 'check filtering' screen.</note>
+      </trans-unit>
+      <trans-unit id="One-tap button|==|device.mac" xml:space="preserve">
+        <source>One-click button</source>
+        <target state="translated">Eén-klik-knop</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="One-tap button|==|device.other" xml:space="preserve">
+        <source>One-tap button</source>
+        <target state="translated">Eén-tik-knop</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="One-tap disable duration|==|device.mac" xml:space="preserve">
+        <source>One-click disable duration</source>
+        <target state="translated">Eén-klik-knop uitschakelduur</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="One-tap disable duration|==|device.other" xml:space="preserve">
+        <source>One-tap disable duration</source>
+        <target state="translated">Eén-tik-knop uitschakelduur</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Open statistics." xml:space="preserve">
+        <source>Open statistics.</source>
+        <target state="translated">Open statistieken</target>
+        <note/>
       </trans-unit>
       <trans-unit id="Open the dashboard." xml:space="preserve">
         <source>Open the dashboard.</source>
@@ -1342,6 +1592,16 @@
         <source>PTR</source>
         <note>Used in the DNS record type picker on the 'check filtering' screen.</note>
       </trans-unit>
+      <trans-unit id="Parental" xml:space="preserve">
+        <source>Parental</source>
+        <target state="translated">Ouderlijk toezicht</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Parental: %@" xml:space="preserve">
+        <source>Parental: %@</source>
+        <target state="translated">Ouderlijk toezicht: %@</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Paste from clipboard" xml:space="preserve">
         <source>Paste from clipboard</source>
         <target state="translated">Plakken van klembord</target>
@@ -1354,6 +1614,31 @@
       <trans-unit id="Please add an instance in the iPhone app." xml:space="preserve">
         <source>Please add an instance in the iPhone app.</source>
         <target state="translated">Voeg een instantie toe in de iPhone app.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Presets" xml:space="preserve">
+        <source>Presets</source>
+        <target state="translated">Presets</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Processed" xml:space="preserve">
+        <source>Processed</source>
+        <target state="translated">Verwerkt</target>
+        <note>Query status type.</note>
+      </trans-unit>
+      <trans-unit id="Processed: %@" xml:space="preserve">
+        <source>Processed: %@</source>
+        <target state="translated">Verwerkt: %@</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Queries" xml:space="preserve">
+        <source>Queries</source>
+        <target state="translated">Queries</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Queries: %@" xml:space="preserve">
+        <source>Queries: %@</source>
+        <target state="translated">Queries: %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="Query Log" xml:space="preserve">
@@ -1369,6 +1654,11 @@
         <source>RRSIG</source>
         <note>Used in the DNS record type picker on the 'check filtering' screen.</note>
       </trans-unit>
+      <trans-unit id="Refreshing" xml:space="preserve">
+        <source>Refreshing</source>
+        <target state="translated">Verversen</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Remote for AdGuard DNS" translate="no" xml:space="preserve">
         <source>Remote for AdGuard DNS</source>
         <note/>
@@ -1377,6 +1667,16 @@
         <source>Remove Pro license</source>
         <target state="translated">Verwijder Pro licentie</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="Remove Statistics Limits" xml:space="preserve">
+        <source>Remove Statistics Limits</source>
+        <target state="translated">Statistieklimieten verwijderen</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Reorder by dragging, remove by swiping." xml:space="preserve">
+        <source>Reorder by dragging, remove by swiping.</source>
+        <target state="translated">Verander volgorde door te slepen, verwijder door te vegen.</target>
+        <note>Used on the 'Add new disable preset' screen</note>
       </trans-unit>
       <trans-unit id="Request timed out." xml:space="preserve">
         <source>Request timed out.</source>
@@ -1421,6 +1721,11 @@
         <target state="translated">Plannen</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Seconds" xml:space="preserve">
+        <source>Seconds</source>
+        <target state="translated">Seconden</target>
+        <note>Used on the 'Add new disable preset' screen</note>
+      </trans-unit>
       <trans-unit id="Select an Instance" xml:space="preserve">
         <source>Select an Instance</source>
         <target state="translated">Selecteer een instantie</target>
@@ -1434,6 +1739,21 @@
       <trans-unit id="Selected" xml:space="preserve">
         <source>Selected</source>
         <target state="translated">Geselecteerd</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Settings" xml:space="preserve">
+        <source>Settings</source>
+        <target state="translated">Instellingen</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Show 'Indefinitely'" xml:space="preserve">
+        <source>Show 'Indefinitely'</source>
+        <target state="translated">Toon ‘Voor onbepaalde tijd’</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Show 'Until tomorrow'" xml:space="preserve">
+        <source>Show 'Until tomorrow'</source>
+        <target state="translated">Toon ‘Tot morgen’</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show Changelog again on startup" xml:space="preserve">
@@ -1451,6 +1771,31 @@
         <target state="translated">Alle symbolen weergeven</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Show chart" xml:space="preserve">
+        <source>Show chart</source>
+        <target state="translated">Toon grafiek</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Show hostname" xml:space="preserve">
+        <source>Show hostname</source>
+        <target state="translated">Toon hostnaam</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Show legend" xml:space="preserve">
+        <source>Show legend</source>
+        <target state="translated">Toon legenda</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Show more..." xml:space="preserve">
+        <source>Show more...</source>
+        <target state="translated">Toon meer…</target>
+        <note>Used on the Statistics-screen.</note>
+      </trans-unit>
+      <trans-unit id="Show version" xml:space="preserve">
+        <source>Show version</source>
+        <target state="translated">Toon versie</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Sidebar" xml:space="preserve">
         <source>Sidebar</source>
         <target state="translated">Sidebar</target>
@@ -1461,9 +1806,24 @@
         <target state="translated">Er is iets mis gegaan bij je aankoop.</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Something went wrong." xml:space="preserve">
+        <source>Something went wrong.</source>
+        <target state="translated">Er is iets mis gegaan.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Statistics" xml:space="preserve">
+        <source>Statistics</source>
+        <target state="translated">Statistieken</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Status" xml:space="preserve">
         <source>Status</source>
         <target state="translated">Status</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Sub-buttons" xml:space="preserve">
+        <source>Sub-buttons</source>
+        <target state="translated">Subknoppen</target>
         <note/>
       </trans-unit>
       <trans-unit id="Support" xml:space="preserve">
@@ -1526,9 +1886,54 @@
         <target state="translated">Bescherming Aanpassen</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Toggle between enabled &amp; disabled" xml:space="preserve">
+        <source>Toggle between enabled &amp; disabled</source>
+        <target state="translated">Schakel in/uit</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Toggle only between enabled &amp; disabled. Hold the button for more options." xml:space="preserve">
+        <source>Toggle only between enabled &amp; disabled. Hold the button for more options.</source>
+        <target state="translated">Wissel alleen tussen ingeschakeld en uitgeschakeld. Houd de knop ingedrukt voor meer opties.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Top Blocked Domains" xml:space="preserve">
+        <source>Top Blocked Domains</source>
+        <target state="translated">Top Geblokkeerde Domeinen</target>
+        <note>Used on the Statistics-screen.</note>
+      </trans-unit>
+      <trans-unit id="Top Clients" xml:space="preserve">
+        <source>Top Clients</source>
+        <target state="translated">Top Cliënten</target>
+        <note>Used on the Statistics-screen.</note>
+      </trans-unit>
+      <trans-unit id="Top Queried Domains" xml:space="preserve">
+        <source>Top Queried Domains</source>
+        <target state="translated">Top Bezochte Domeinen</target>
+        <note>Used on the Statistics-screen.</note>
+      </trans-unit>
+      <trans-unit id="Top Upstreams" xml:space="preserve">
+        <source>Top Upstreams</source>
+        <target state="translated">Top Upstreams</target>
+        <note>Used on the Statistics-screen.</note>
+      </trans-unit>
+      <trans-unit id="Total" xml:space="preserve">
+        <source>Total</source>
+        <target state="translated">Totaal</target>
+        <note>Query status type.</note>
+      </trans-unit>
+      <trans-unit id="Total: %@" xml:space="preserve">
+        <source>Total: %@</source>
+        <target state="translated">Totaal: %@</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="URI" translate="no" xml:space="preserve">
         <source>URI</source>
         <note>Used in the DNS record type picker on the 'check filtering' screen.</note>
+      </trans-unit>
+      <trans-unit id="Unknown" xml:space="preserve">
+        <source>Unknown</source>
+        <target state="translated">Onbekend</target>
+        <note/>
       </trans-unit>
       <trans-unit id="Unknown Error" xml:space="preserve">
         <source>Unknown Error</source>
@@ -1550,10 +1955,25 @@
         <target state="translated">Energie Radar</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Version" xml:space="preserve">
+        <source>Version</source>
+        <target state="translated">Versie</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Version: %@." xml:space="preserve">
+        <source>Version: %@.</source>
+        <target state="translated">Versie: %@.</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Watch App Not Installed" xml:space="preserve">
         <source>Watch App Not Installed</source>
         <target state="translated">Watch App niet geïnstalleerd</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="You've reached the maximum of 6 presets." xml:space="preserve">
+        <source>You've reached the maximum of 6 presets.</source>
+        <target state="translated">Je hebt het maximum van 6 presets bereikt.</target>
+        <note>Used on the 'Add new disable preset' screen</note>
       </trans-unit>
       <trans-unit id="ZONEMD" translate="no" xml:space="preserve">
         <source>ZONEMD</source>
@@ -1561,7 +1981,7 @@
       </trans-unit>
       <trans-unit id="access_settings_allowed_clients" xml:space="preserve">
         <source>Allowed clients</source>
-        <target state="translated">Allowed clients</target>
+        <target state="translated">Toegestane cliënten</target>
         <note/>
       </trans-unit>
       <trans-unit id="access_settings_allowed_clients_explainer" xml:space="preserve">
@@ -1571,7 +1991,7 @@
       </trans-unit>
       <trans-unit id="access_settings_disallowed_clients" xml:space="preserve">
         <source>Disallowed clients</source>
-        <target state="translated">Disallowed clients</target>
+        <target state="translated">Geblokkeerde cliënten</target>
         <note/>
       </trans-unit>
       <trans-unit id="access_settings_disallowed_clients_explainer" xml:space="preserve">
@@ -1581,7 +2001,7 @@
       </trans-unit>
       <trans-unit id="access_settings_disallowed_domains" xml:space="preserve">
         <source>Disallowed domains</source>
-        <target state="translated">Disallowed domains</target>
+        <target state="translated">Geblokkeerde domeinen</target>
         <note/>
       </trans-unit>
       <trans-unit id="access_settings_disallowed_domains_explainer" xml:space="preserve">
@@ -1634,6 +2054,11 @@
         <target state="translated">Average processing time: </target>
         <note>MARK: v5.2 &amp; Includes ": " at the end</note>
       </trans-unit>
+      <trans-unit id="avg %@ms" xml:space="preserve">
+        <source>avg %@ms</source>
+        <target state="translated">gem %@ms</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="blocked_services" xml:space="preserve">
         <source>Blocked Services</source>
         <target state="translated">Geblokkeerde Services</target>
@@ -1667,11 +2092,6 @@
       <trans-unit id="cancel" xml:space="preserve">
         <source>Cancel</source>
         <target state="translated">Annuleren</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="cannot_reach_instance" xml:space="preserve">
-        <source>Can't reach instance.</source>
-        <target state="translated">Kan instantie niet bereiken.</target>
         <note/>
       </trans-unit>
       <trans-unit id="changelog_continue" xml:space="preserve">
@@ -1929,19 +2349,9 @@
         <target state="translated">gem %@ms</target>
         <note/>
       </trans-unit>
-      <trans-unit id="dashboard_blocked-adult" xml:space="preserve">
-        <source>Blocked Adult Websites</source>
-        <target state="translated">Geblokeerd door ouderlijk toezicht</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="dashboard_blocked-filters" xml:space="preserve">
         <source>Blocked by Filters</source>
         <target state="translated">Geblokkeerd door filters</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="dashboard_blocked-malware" xml:space="preserve">
-        <source>Blocked Malware/Phishing</source>
-        <target state="translated">Geblokkeerde malware/phishing</target>
         <note/>
       </trans-unit>
       <trans-unit id="dashboard_confirmation_disable_%@" xml:space="preserve">
@@ -1982,11 +2392,6 @@
       <trans-unit id="dashboard_enable_all" xml:space="preserve">
         <source>Enable all</source>
         <target state="translated">Alle inschakelen</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="dashboard_jump_to_instance" xml:space="preserve">
-        <source>Jump to</source>
-        <target state="translated">Jump to</target>
         <note/>
       </trans-unit>
       <trans-unit id="dashboard_parental-filtering" xml:space="preserve">
@@ -2041,11 +2446,6 @@ Search</source>
 Zoeken</target>
         <note/>
       </trans-unit>
-      <trans-unit id="dashboard_tabbar" xml:space="preserve">
-        <source>Dashboard</source>
-        <target state="translated">Dashboard</target>
-        <note>MARK: - Dashboard</note>
-      </trans-unit>
       <trans-unit id="dashboard_top-blocked" xml:space="preserve">
         <source>Top Blocked Domains</source>
         <target state="translated">Top Geblokkeerde Domeinen</target>
@@ -2059,11 +2459,6 @@ Zoeken</target>
       <trans-unit id="dashboard_top-queried" xml:space="preserve">
         <source>Top Queried Domains</source>
         <target state="translated">Top Bezochte Domeinen</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="dashboard_top-upstreams" xml:space="preserve">
-        <source>Top Upstreams</source>
-        <target state="translated">Top Upstreams</target>
         <note/>
       </trans-unit>
       <trans-unit id="deselect_all" xml:space="preserve">
@@ -3321,6 +3716,11 @@ Zoeken</target>
         <target state="translated">key</target>
         <note>Placeholder of the 'custom header key' textfield in instance settings.</note>
       </trans-unit>
+      <trans-unit id="last 30 days" xml:space="preserve">
+        <source>last 30 days</source>
+        <target state="translated">laatste 30 dagen</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="liveactivity_ends" xml:space="preserve">
         <source>Ends</source>
         <target state="translated">Eindigt</target>
@@ -3506,49 +3906,9 @@ Zoeken</target>
         <target state="translated">Andere</target>
         <note/>
       </trans-unit>
-      <trans-unit id="preferences_dashboard_auto_refresh" xml:space="preserve">
-        <source>Auto-refresh every minute</source>
-        <target state="translated">Ververs automatisch elke minuut</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="preferences_dashboard_extra_confirmation" xml:space="preserve">
-        <source>Confirmation alert for buttons</source>
-        <target state="translated">Extra bevestiging voor status knoppen</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="preferences_dashboard_graph_bar" xml:space="preserve">
-        <source>Bar-graph</source>
-        <target state="translated">Staaf</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="preferences_dashboard_graph_blockedadultwebsites" xml:space="preserve">
-        <source>Blocked Adult Websites</source>
-        <target state="translated">Geblokeerd door ouderlijk toezicht</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="preferences_dashboard_graph_blockedbyfilters" xml:space="preserve">
-        <source>Blocked by Filters</source>
-        <target state="translated">Geblokkeerd door filters</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="preferences_dashboard_graph_blockedmalware" xml:space="preserve">
-        <source>Blocked Malware/Phishing</source>
-        <target state="translated">Geblokkeerde malware/phishing</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="preferences_dashboard_graph_dnsqueries" xml:space="preserve">
-        <source>DNS Queries</source>
-        <target state="translated">DNS queries</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="preferences_dashboard_graph_hide" xml:space="preserve">
         <source>Hide graph</source>
         <target state="translated">Verberg</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="preferences_dashboard_graph_line" xml:space="preserve">
-        <source>Line-graph</source>
-        <target state="translated">Lijn</target>
         <note/>
       </trans-unit>
       <trans-unit id="preferences_dashboard_graph_type" xml:space="preserve">
@@ -3556,54 +3916,9 @@ Zoeken</target>
         <target state="translated">Type</target>
         <note/>
       </trans-unit>
-      <trans-unit id="preferences_dashboard_graphs" xml:space="preserve">
-        <source>Graphs</source>
-        <target state="translated">Grafieken</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="preferences_dashboard_line_type" xml:space="preserve">
-        <source>Line type</source>
-        <target state="translated">Lijn type</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="preferences_dashboard_line_type_linear" xml:space="preserve">
-        <source>Linear</source>
-        <target state="translated">Lineair</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="preferences_dashboard_line_type_smooth" xml:space="preserve">
-        <source>Smooth</source>
-        <target state="translated">Vloeiend</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="preferences_dashboard_line_type_steps" xml:space="preserve">
-        <source>Steps</source>
-        <target state="translated">Stappen</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="preferences_dashboard_number_of_clients" xml:space="preserve">
-        <source>Number of clients</source>
-        <target state="translated">Aantal cliënten</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="preferences_dashboard_number_of_domains" xml:space="preserve">
-        <source>Number of domains</source>
-        <target state="translated">Aantal domeinen</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="preferences_dashboard_number_of_upstreams" xml:space="preserve">
-        <source>Number of upstreams</source>
-        <target state="translated">Aantal upstreams</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="preferences_dashboard_parentalfiltering" xml:space="preserve">
         <source>Parental Filtering</source>
         <target state="translated">Ouderlijk Toezicht</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="preferences_dashboard_protection" xml:space="preserve">
-        <source>Protection</source>
-        <target state="translated">Bescherming</target>
         <note/>
       </trans-unit>
       <trans-unit id="preferences_dashboard_rulefiltering" xml:space="preserve">
@@ -3634,11 +3949,6 @@ Zoeken</target>
       <trans-unit id="preferences_dashboard_show_multipleInstanceToolbar_subtitle" xml:space="preserve">
         <source>only visible if you have multiple instances</source>
         <target state="translated">alleen zichtbaar als je meerdere instanties hebt</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="preferences_dashboard_show_section" xml:space="preserve">
-        <source>Show section</source>
-        <target state="translated">Toon onderdeel</target>
         <note/>
       </trans-unit>
       <trans-unit id="preferences_dashboard_statusbuttons" xml:space="preserve">
@@ -3721,7 +4031,12 @@ Zoeken</target>
         <target state="translated">Klik hier om AdGuard Home Remote te ontgrendelen</target>
         <note/>
       </trans-unit>
-      <trans-unit id="preferences_lock_unlock_footnote_tap" xml:space="preserve">
+      <trans-unit id="preferences_lock_unlock_footnote_tap|==|device.mac" xml:space="preserve">
+        <source>Click above to unlock AdGuard Home Remote</source>
+        <target state="translated">Klik hier om AdGuard Home Remote te ontgrendelen</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="preferences_lock_unlock_footnote_tap|==|device.other" xml:space="preserve">
         <source>Tap above to unlock AdGuard Home Remote</source>
         <target state="translated">Tik hier om AdGuard Home Remote te ontgrendelen</target>
         <note/>
@@ -4007,8 +4322,8 @@ Remote Pro</target>
         <note/>
       </trans-unit>
       <trans-unit id="query_status_FilteredParental" xml:space="preserve">
-        <source>Blocked | Parental</source>
-        <target state="translated">Geblokkeerd | Ouderlijk Toezicht</target>
+        <source>Parental Control</source>
+        <target state="translated">Ouderlijk Toezicht</target>
         <note/>
       </trans-unit>
       <trans-unit id="query_status_FilteredSafeBrowsing" xml:space="preserve">
@@ -4017,8 +4332,8 @@ Remote Pro</target>
         <note/>
       </trans-unit>
       <trans-unit id="query_status_FilteredSafeSearch" xml:space="preserve">
-        <source>Blocked | Safe Search</source>
-        <target state="translated">Geblokkeerd | Veilig Zoeken</target>
+        <source>Safe Search</source>
+        <target state="translated">Veilig Zoeken</target>
         <note/>
       </trans-unit>
       <trans-unit id="query_status_NotFilteredError" xml:space="preserve">
@@ -4371,11 +4686,6 @@ Remote Pro</target>
         <target state="translated">Toegestaan</target>
         <note/>
       </trans-unit>
-      <trans-unit id="querylog_tabbar" xml:space="preserve">
-        <source>Query Log</source>
-        <target state="translated">Query Log</target>
-        <note>MARK: - Query Log</note>
-      </trans-unit>
       <trans-unit id="refresh" xml:space="preserve">
         <source>Refresh</source>
         <target state="translated">Refresh</target>
@@ -4538,11 +4848,6 @@ Mijn doel is om te leren: ontwerpen, ontwikkelen, testen, support, marketing - m
       <trans-unit id="settings_copy_email" xml:space="preserve">
         <source>Copy Email Address</source>
         <target state="translated">Kopieer e-mailadres</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="settings_dashboard" xml:space="preserve">
-        <source>Dashboard</source>
-        <target state="translated">Dashboard</target>
         <note/>
       </trans-unit>
       <trans-unit id="settings_design" xml:space="preserve">
@@ -4770,7 +5075,12 @@ Mijn doel is om te leren: ontwerpen, ontwikkelen, testen, support, marketing - m
         <target state="translated">Tags</target>
         <note/>
       </trans-unit>
-      <trans-unit id="tap_to_learn_more" xml:space="preserve">
+      <trans-unit id="tap_to_learn_more|==|device.mac" xml:space="preserve">
+        <source>Click to learn more.</source>
+        <target state="translated">Klik voor meer info.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="tap_to_learn_more|==|device.other" xml:space="preserve">
         <source>Tap to learn more.</source>
         <target state="translated">Tik voor meer info.</target>
         <note/>
