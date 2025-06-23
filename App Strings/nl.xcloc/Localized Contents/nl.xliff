@@ -1022,6 +1022,11 @@
         <source>APL</source>
         <note>Used in the DNS record type picker on the 'check filtering' screen.</note>
       </trans-unit>
+      <trans-unit id="Accessibility" xml:space="preserve">
+        <source>Accessibility</source>
+        <target state="translated">Toegankelijkheid</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="AdGuard Home Remote" translate="no" xml:space="preserve">
         <source>AdGuard Home Remote</source>
         <note/>
@@ -1060,6 +1065,11 @@
         <source>Add your AdGuard Home instances to control them and view statistics.</source>
         <target state="translated">Voeg je AdGuard Home-instanties toe om ze te beheren en statistieken te bekijken.</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="Adding new presets requires Pro." xml:space="preserve">
+        <source>Adding new presets requires Pro.</source>
+        <target state="translated">Het toevoegen van nieuwe presets vereist Pro.</target>
+        <note>Used on the 'Add new disable preset' screen</note>
       </trans-unit>
       <trans-unit id="Additional info" xml:space="preserve">
         <source>Additional info</source>
@@ -1320,7 +1330,7 @@
       </trans-unit>
       <trans-unit id="Editing presets requires Pro." xml:space="preserve">
         <source>Editing presets requires Pro.</source>
-        <target state="translated">Voor het bewerken van presets is Pro vereist.</target>
+        <target state="translated">Het bewerken van presets vereist Pro.</target>
         <note>Used on the 'Add new disable preset' screen</note>
       </trans-unit>
       <trans-unit id="Enable and disable protection." xml:space="preserve">
@@ -1338,9 +1348,9 @@
         <target state="translated">Ingeschakeld</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Every 5 seconds" xml:space="preserve">
-        <source>Every 5 seconds</source>
-        <target state="translated">Elke 5 seconden</target>
+      <trans-unit id="Every 10 seconds" xml:space="preserve">
+        <source>Every 10 seconds</source>
+        <target state="translated">Elke 10 seconden</target>
         <note/>
       </trans-unit>
       <trans-unit id="Expires in %lld minutes" xml:space="preserve">
@@ -1901,20 +1911,40 @@
         <target state="translated">Top Geblokkeerde Domeinen</target>
         <note>Used on the Statistics-screen.</note>
       </trans-unit>
+      <trans-unit id="Top Blocked Domains: %@" xml:space="preserve">
+        <source>Top Blocked Domains: %@</source>
+        <target state="translated">Top Geblokkeerd: %@</target>
+        <note>Used on the Statistics-screen, with the instance name.</note>
+      </trans-unit>
       <trans-unit id="Top Clients" xml:space="preserve">
         <source>Top Clients</source>
         <target state="translated">Top Cliënten</target>
         <note>Used on the Statistics-screen.</note>
+      </trans-unit>
+      <trans-unit id="Top Clients: %@" xml:space="preserve">
+        <source>Top Clients: %@</source>
+        <target state="translated">Top Cliënten: %@</target>
+        <note>Used on the Statistics-screen, with the instance name.</note>
       </trans-unit>
       <trans-unit id="Top Queried Domains" xml:space="preserve">
         <source>Top Queried Domains</source>
         <target state="translated">Top Bezochte Domeinen</target>
         <note>Used on the Statistics-screen.</note>
       </trans-unit>
+      <trans-unit id="Top Queried Domains: %@" xml:space="preserve">
+        <source>Top Queried Domains: %@</source>
+        <target state="translated">Top Bezocht: %@</target>
+        <note>Used on the Statistics-screen, with the instance name.</note>
+      </trans-unit>
       <trans-unit id="Top Upstreams" xml:space="preserve">
         <source>Top Upstreams</source>
         <target state="translated">Top Upstreams</target>
         <note>Used on the Statistics-screen.</note>
+      </trans-unit>
+      <trans-unit id="Top Upstreams: %@" xml:space="preserve">
+        <source>Top Upstreams: %@</source>
+        <target state="translated">Top Upstreams: %@</target>
+        <note>Used on the Statistics-screen, with the instance name.</note>
       </trans-unit>
       <trans-unit id="Total" xml:space="preserve">
         <source>Total</source>
@@ -3788,7 +3818,7 @@ Zoeken</target>
       </trans-unit>
       <trans-unit id="more_statistics_footer" xml:space="preserve">
         <source>Changing the Statistics Retention setting requires an app restart.</source>
-        <target state="translated">Het aanpassen van de Retentie instelling vereist een restart van de app.</target>
+        <target state="translated">Het aanpassen van de retentie instelling vereist een restart van de app.</target>
         <note/>
       </trans-unit>
       <trans-unit id="more_statistics_retention" xml:space="preserve">
@@ -4059,11 +4089,6 @@ Zoeken</target>
       <trans-unit id="preferences_querylog_show_live_log" xml:space="preserve">
         <source>Show Live Log</source>
         <target state="translated">Toon Live Log</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="preferences_querylog_show_sidebar" xml:space="preserve">
-        <source>Show sidebar</source>
-        <target state="translated">Toon zijbalk</target>
         <note/>
       </trans-unit>
       <trans-unit id="pro" xml:space="preserve">
@@ -4624,11 +4649,6 @@ Remote Pro</target>
       <trans-unit id="querylog_show_search_suggestions" xml:space="preserve">
         <source>Show Search Suggestions</source>
         <target state="translated">Toon zoeksuggesties</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="querylog_sidebar_explainer" xml:space="preserve">
-        <source>Select a query on the left to see details.</source>
-        <target state="translated">Selecteer een query links om meer details te zien.</target>
         <note/>
       </trans-unit>
       <trans-unit id="querylog_status" xml:space="preserve">

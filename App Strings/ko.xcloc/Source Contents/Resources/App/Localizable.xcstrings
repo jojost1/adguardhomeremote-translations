@@ -192,6 +192,9 @@
         }
       }
     },
+    "Accessibility" : {
+
+    },
     "add" : {
       "localizations" : {
         "en" : {
@@ -219,6 +222,9 @@
     },
     "Add your AdGuard Home instances to control them and view statistics." : {
 
+    },
+    "Adding new presets requires Pro." : {
+      "comment" : "Used on the 'Add new disable preset' screen"
     },
     "Additional info" : {
 
@@ -2780,7 +2786,7 @@
       "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
       "shouldTranslate" : false
     },
-    "Every 5 seconds" : {
+    "Every 10 seconds" : {
 
     },
     "example.com" : {
@@ -4706,16 +4712,6 @@
         }
       }
     },
-    "preferences_querylog_show_sidebar" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Show sidebar"
-          }
-        }
-      }
-    },
     "Presets" : {
 
     },
@@ -5852,16 +5848,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Show Search Suggestions"
-          }
-        }
-      }
-    },
-    "querylog_sidebar_explainer" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Select a query on the left to see details."
           }
         }
       }
@@ -7115,14 +7101,26 @@
     "Top Blocked Domains" : {
       "comment" : "Used on the Statistics-screen."
     },
+    "Top Blocked Domains: %@" : {
+      "comment" : "Used on the Statistics-screen, with the instance name."
+    },
     "Top Clients" : {
       "comment" : "Used on the Statistics-screen."
+    },
+    "Top Clients: %@" : {
+      "comment" : "Used on the Statistics-screen, with the instance name."
     },
     "Top Queried Domains" : {
       "comment" : "Used on the Statistics-screen."
     },
+    "Top Queried Domains: %@" : {
+      "comment" : "Used on the Statistics-screen, with the instance name."
+    },
     "Top Upstreams" : {
       "comment" : "Used on the Statistics-screen."
+    },
+    "Top Upstreams: %@" : {
+      "comment" : "Used on the Statistics-screen, with the instance name."
     },
     "total" : {
       "comment" : "MARK: Apple Watch",

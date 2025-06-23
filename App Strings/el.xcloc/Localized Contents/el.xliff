@@ -1017,6 +1017,10 @@
         <source>APL</source>
         <note>Used in the DNS record type picker on the 'check filtering' screen.</note>
       </trans-unit>
+      <trans-unit id="Accessibility" xml:space="preserve">
+        <source>Accessibility</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="AdGuard Home Remote" translate="no" xml:space="preserve">
         <source>AdGuard Home Remote</source>
         <note/>
@@ -1048,6 +1052,10 @@
       <trans-unit id="Add your AdGuard Home instances to control them and view statistics." xml:space="preserve">
         <source>Add your AdGuard Home instances to control them and view statistics.</source>
         <note/>
+      </trans-unit>
+      <trans-unit id="Adding new presets requires Pro." xml:space="preserve">
+        <source>Adding new presets requires Pro.</source>
+        <note>Used on the 'Add new disable preset' screen</note>
       </trans-unit>
       <trans-unit id="Additional info" xml:space="preserve">
         <source>Additional info</source>
@@ -1281,8 +1289,8 @@
         <source>Enabled</source>
         <note/>
       </trans-unit>
-      <trans-unit id="Every 5 seconds" xml:space="preserve">
-        <source>Every 5 seconds</source>
+      <trans-unit id="Every 10 seconds" xml:space="preserve">
+        <source>Every 10 seconds</source>
         <note/>
       </trans-unit>
       <trans-unit id="Expires in %lld minutes" xml:space="preserve">
@@ -1757,17 +1765,33 @@
         <source>Top Blocked Domains</source>
         <note>Used on the Statistics-screen.</note>
       </trans-unit>
+      <trans-unit id="Top Blocked Domains: %@" xml:space="preserve">
+        <source>Top Blocked Domains: %@</source>
+        <note>Used on the Statistics-screen, with the instance name.</note>
+      </trans-unit>
       <trans-unit id="Top Clients" xml:space="preserve">
         <source>Top Clients</source>
         <note>Used on the Statistics-screen.</note>
+      </trans-unit>
+      <trans-unit id="Top Clients: %@" xml:space="preserve">
+        <source>Top Clients: %@</source>
+        <note>Used on the Statistics-screen, with the instance name.</note>
       </trans-unit>
       <trans-unit id="Top Queried Domains" xml:space="preserve">
         <source>Top Queried Domains</source>
         <note>Used on the Statistics-screen.</note>
       </trans-unit>
+      <trans-unit id="Top Queried Domains: %@" xml:space="preserve">
+        <source>Top Queried Domains: %@</source>
+        <note>Used on the Statistics-screen, with the instance name.</note>
+      </trans-unit>
       <trans-unit id="Top Upstreams" xml:space="preserve">
         <source>Top Upstreams</source>
         <note>Used on the Statistics-screen.</note>
+      </trans-unit>
+      <trans-unit id="Top Upstreams: %@" xml:space="preserve">
+        <source>Top Upstreams: %@</source>
+        <note>Used on the Statistics-screen, with the instance name.</note>
       </trans-unit>
       <trans-unit id="Total" xml:space="preserve">
         <source>Total</source>
@@ -3893,11 +3917,6 @@ Search</source>
         <target state="translated">Show Live Log</target>
         <note/>
       </trans-unit>
-      <trans-unit id="preferences_querylog_show_sidebar" xml:space="preserve">
-        <source>Show sidebar</source>
-        <target state="translated">Show sidebar</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="pro" xml:space="preserve">
         <source>Pro</source>
         <target state="translated">Pro</target>
@@ -4456,11 +4475,6 @@ Remote Pro</target>
       <trans-unit id="querylog_show_search_suggestions" xml:space="preserve">
         <source>Show Search Suggestions</source>
         <target state="translated">Show Search Suggestions</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="querylog_sidebar_explainer" xml:space="preserve">
-        <source>Select a query on the left to see details.</source>
-        <target state="translated">Διαλέξτε ένα ερώτημα στα αριστερά για να δείτε λεπτομέρειες.</target>
         <note/>
       </trans-unit>
       <trans-unit id="querylog_status" xml:space="preserve">
