@@ -1,6 +1,9 @@
 {
   "sourceLanguage" : "en",
   "strings" : {
+    "%@" : {
+      "shouldTranslate" : false
+    },
     "%@ %@" : {
       "localizations" : {
         "en" : {
@@ -975,8 +978,11 @@
       "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
       "shouldTranslate" : false
     },
+    "Compact" : {
+      "comment" : "Dashboard size type"
+    },
     "Compact mode" : {
-
+      "extractionState" : "stale"
     },
     "Contact" : {
 
@@ -1260,6 +1266,9 @@
           }
         }
       }
+    },
+    "Design" : {
+
     },
     "design_always_darkmode" : {
       "localizations" : {
@@ -2792,6 +2801,9 @@
     "example.com" : {
 
     },
+    "Expanded" : {
+      "comment" : "Dashboard size type"
+    },
     "Expires in %lld minutes" : {
 
     },
@@ -3886,7 +3898,28 @@
       "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
       "shouldTranslate" : false
     },
+    "last 3 days" : {
+
+    },
+    "last 6 hours" : {
+
+    },
+    "last 7 days" : {
+
+    },
+    "last 12 hours" : {
+
+    },
+    "last 24 hours" : {
+
+    },
     "last 30 days" : {
+
+    },
+    "last 90 days" : {
+
+    },
+    "last hour" : {
 
     },
     "Launch App" : {
@@ -5975,6 +6008,12 @@
     "Refreshing" : {
 
     },
+    "Regular" : {
+      "comment" : "Dashboard size type"
+    },
+    "Regular cards, combined chart" : {
+      "comment" : "Dashboard size type explainer"
+    },
     "Remote for AdGuard DNS" : {
       "shouldTranslate" : false
     },
@@ -6258,6 +6297,9 @@
     },
     "Selected" : {
 
+    },
+    "Separate cards and charts" : {
+      "comment" : "Dashboard size type explainer"
     },
     "services" : {
       "localizations" : {
@@ -6752,6 +6794,9 @@
     "Show hostname" : {
 
     },
+    "Show instance version" : {
+
+    },
     "Show legend" : {
 
     },
@@ -6767,6 +6812,9 @@
     "SIG" : {
       "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
       "shouldTranslate" : false
+    },
+    "Small cards, combined chart" : {
+      "comment" : "Dashboard size type explainer"
     },
     "SMIMEA" : {
       "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
@@ -7192,6 +7240,9 @@
           }
         }
       }
+    },
+    "User Interface" : {
+
     },
     "Utility Radar" : {
 

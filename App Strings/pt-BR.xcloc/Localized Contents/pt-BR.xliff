@@ -955,6 +955,10 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.4" build-num="16F6"/>
     </header>
     <body>
+      <trans-unit id="%@" translate="no" xml:space="preserve">
+        <source>%@</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="%@ %@" translate="no" xml:space="preserve">
         <source>%1$@ %2$@</source>
         <note/>
@@ -1237,6 +1241,10 @@
         <target state="translated">ClientID ou IP</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Compact" xml:space="preserve">
+        <source>Compact</source>
+        <note>Dashboard size type</note>
+      </trans-unit>
       <trans-unit id="Compact mode" xml:space="preserve">
         <source>Compact mode</source>
         <note/>
@@ -1305,6 +1313,10 @@
         <source>Default count</source>
         <note/>
       </trans-unit>
+      <trans-unit id="Design" xml:space="preserve">
+        <source>Design</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="Disabled" xml:space="preserve">
         <source>Disabled</source>
         <target state="translated">Deficientes</target>
@@ -1358,6 +1370,10 @@
       <trans-unit id="Every 10 seconds" xml:space="preserve">
         <source>Every 10 seconds</source>
         <note/>
+      </trans-unit>
+      <trans-unit id="Expanded" xml:space="preserve">
+        <source>Expanded</source>
+        <note>Dashboard size type</note>
       </trans-unit>
       <trans-unit id="Expires in %lld minutes" xml:space="preserve">
         <source>Expires in %lld minutes</source>
@@ -1648,6 +1664,14 @@
         <source>Refreshing</source>
         <note/>
       </trans-unit>
+      <trans-unit id="Regular" xml:space="preserve">
+        <source>Regular</source>
+        <note>Dashboard size type</note>
+      </trans-unit>
+      <trans-unit id="Regular cards, combined chart" xml:space="preserve">
+        <source>Regular cards, combined chart</source>
+        <note>Dashboard size type explainer</note>
+      </trans-unit>
       <trans-unit id="Remote for AdGuard DNS" translate="no" xml:space="preserve">
         <source>Remote for AdGuard DNS</source>
         <target state="translated">Remoto para AdGuard DNS</target>
@@ -1729,6 +1753,10 @@
         <target state="translated">Seleccionado</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Separate cards and charts" xml:space="preserve">
+        <source>Separate cards and charts</source>
+        <note>Dashboard size type explainer</note>
+      </trans-unit>
       <trans-unit id="Settings" xml:space="preserve">
         <source>Settings</source>
         <note/>
@@ -1762,6 +1790,10 @@
         <source>Show hostname</source>
         <note/>
       </trans-unit>
+      <trans-unit id="Show instance version" xml:space="preserve">
+        <source>Show instance version</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="Show legend" xml:space="preserve">
         <source>Show legend</source>
         <note/>
@@ -1778,6 +1810,10 @@
         <source>Sidebar</source>
         <target state="translated">Barra lateral</target>
         <note>Used in the 'Preferences Other' screen in the navigation style picker (only visible for iPad)</note>
+      </trans-unit>
+      <trans-unit id="Small cards, combined chart" xml:space="preserve">
+        <source>Small cards, combined chart</source>
+        <note>Dashboard size type explainer</note>
       </trans-unit>
       <trans-unit id="Something went wrong with your purchase." xml:space="preserve">
         <source>Something went wrong with your purchase.</source>
@@ -1930,6 +1966,10 @@
       <trans-unit id="Use NextDNS? Have I got an app for you." xml:space="preserve">
         <source>Use NextDNS? Have I got an app for you.</source>
         <target state="translated">Usar NextDNS? Eu tenho um aplicativo para você.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="User Interface" xml:space="preserve">
+        <source>User Interface</source>
         <note/>
       </trans-unit>
       <trans-unit id="Utility Radar" xml:space="preserve">
@@ -3695,8 +3735,36 @@ Segura</target>
         <target state="translated">chave</target>
         <note>Placeholder of the 'custom header key' textfield in instance settings.</note>
       </trans-unit>
+      <trans-unit id="last 3 days" xml:space="preserve">
+        <source>last 3 days</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="last 6 hours" xml:space="preserve">
+        <source>last 6 hours</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="last 7 days" xml:space="preserve">
+        <source>last 7 days</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="last 12 hours" xml:space="preserve">
+        <source>last 12 hours</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="last 24 hours" xml:space="preserve">
+        <source>last 24 hours</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="last 30 days" xml:space="preserve">
         <source>last 30 days</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="last 90 days" xml:space="preserve">
+        <source>last 90 days</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="last hour" xml:space="preserve">
+        <source>last hour</source>
         <note/>
       </trans-unit>
       <trans-unit id="liveactivity_ends" xml:space="preserve">

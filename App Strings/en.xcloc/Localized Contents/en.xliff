@@ -960,6 +960,11 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.4" build-num="16F6"/>
     </header>
     <body>
+      <trans-unit id="%@" translate="no" xml:space="preserve">
+        <source>%@</source>
+        <target state="new">%@</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="%@ %@" translate="no" xml:space="preserve">
         <source>%1$@ %2$@</source>
         <target state="new">%1$@ %2$@</target>
@@ -1280,6 +1285,11 @@
         <target state="new">ClientID or IP</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Compact" xml:space="preserve">
+        <source>Compact</source>
+        <target state="new">Compact</target>
+        <note>Dashboard size type</note>
+      </trans-unit>
       <trans-unit id="Compact mode" xml:space="preserve">
         <source>Compact mode</source>
         <target state="new">Compact mode</target>
@@ -1360,6 +1370,11 @@
         <target state="new">Default count</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Design" xml:space="preserve">
+        <source>Design</source>
+        <target state="new">Design</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Disabled" xml:space="preserve">
         <source>Disabled</source>
         <target state="new">Disabled</target>
@@ -1424,6 +1439,11 @@
         <source>Every 10 seconds</source>
         <target state="new">Every 10 seconds</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="Expanded" xml:space="preserve">
+        <source>Expanded</source>
+        <target state="new">Expanded</target>
+        <note>Dashboard size type</note>
       </trans-unit>
       <trans-unit id="Expires in %lld minutes" xml:space="preserve">
         <source>Expires in %lld minutes</source>
@@ -1760,6 +1780,16 @@
         <target state="new">Refreshing</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Regular" xml:space="preserve">
+        <source>Regular</source>
+        <target state="new">Regular</target>
+        <note>Dashboard size type</note>
+      </trans-unit>
+      <trans-unit id="Regular cards, combined chart" xml:space="preserve">
+        <source>Regular cards, combined chart</source>
+        <target state="new">Regular cards, combined chart</target>
+        <note>Dashboard size type explainer</note>
+      </trans-unit>
       <trans-unit id="Remote for AdGuard DNS" translate="no" xml:space="preserve">
         <source>Remote for AdGuard DNS</source>
         <target state="new">Remote for AdGuard DNS</target>
@@ -1850,6 +1880,11 @@
         <target state="new">Selected</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Separate cards and charts" xml:space="preserve">
+        <source>Separate cards and charts</source>
+        <target state="new">Separate cards and charts</target>
+        <note>Dashboard size type explainer</note>
+      </trans-unit>
       <trans-unit id="Settings" xml:space="preserve">
         <source>Settings</source>
         <target state="new">Settings</target>
@@ -1890,6 +1925,11 @@
         <target state="new">Show hostname</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Show instance version" xml:space="preserve">
+        <source>Show instance version</source>
+        <target state="new">Show instance version</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Show legend" xml:space="preserve">
         <source>Show legend</source>
         <target state="new">Show legend</target>
@@ -1909,6 +1949,11 @@
         <source>Sidebar</source>
         <target state="new">Sidebar</target>
         <note>Used in the 'Preferences Other' screen in the navigation style picker (only visible for iPad)</note>
+      </trans-unit>
+      <trans-unit id="Small cards, combined chart" xml:space="preserve">
+        <source>Small cards, combined chart</source>
+        <target state="new">Small cards, combined chart</target>
+        <note>Dashboard size type explainer</note>
       </trans-unit>
       <trans-unit id="Something went wrong with your purchase." xml:space="preserve">
         <source>Something went wrong with your purchase.</source>
@@ -2083,6 +2128,11 @@
       <trans-unit id="Use NextDNS? Have I got an app for you." xml:space="preserve">
         <source>Use NextDNS? Have I got an app for you.</source>
         <target state="new">Use NextDNS? Have I got an app for you.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="User Interface" xml:space="preserve">
+        <source>User Interface</source>
+        <target state="new">User Interface</target>
         <note/>
       </trans-unit>
       <trans-unit id="Utility Radar" xml:space="preserve">
@@ -3853,9 +3903,44 @@ Search</target>
         <target state="new">key</target>
         <note>Placeholder of the 'custom header key' textfield in instance settings.</note>
       </trans-unit>
+      <trans-unit id="last 3 days" xml:space="preserve">
+        <source>last 3 days</source>
+        <target state="new">last 3 days</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="last 6 hours" xml:space="preserve">
+        <source>last 6 hours</source>
+        <target state="new">last 6 hours</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="last 7 days" xml:space="preserve">
+        <source>last 7 days</source>
+        <target state="new">last 7 days</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="last 12 hours" xml:space="preserve">
+        <source>last 12 hours</source>
+        <target state="new">last 12 hours</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="last 24 hours" xml:space="preserve">
+        <source>last 24 hours</source>
+        <target state="new">last 24 hours</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="last 30 days" xml:space="preserve">
         <source>last 30 days</source>
         <target state="new">last 30 days</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="last 90 days" xml:space="preserve">
+        <source>last 90 days</source>
+        <target state="new">last 90 days</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="last hour" xml:space="preserve">
+        <source>last hour</source>
+        <target state="new">last hour</target>
         <note/>
       </trans-unit>
       <trans-unit id="liveactivity_ends" xml:space="preserve">

@@ -913,6 +913,10 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.4" build-num="16F6"/>
     </header>
     <body>
+      <trans-unit id="%@" translate="no" xml:space="preserve">
+        <source>%@</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="%@ %@" translate="no" xml:space="preserve">
         <source>%1$@ %2$@</source>
         <note/>
@@ -1215,6 +1219,11 @@
         <target state="translated">ClientID of IP</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Compact" xml:space="preserve">
+        <source>Compact</source>
+        <target state="translated">Compact</target>
+        <note>Dashboard size type</note>
+      </trans-unit>
       <trans-unit id="Compact mode" xml:space="preserve">
         <source>Compact mode</source>
         <target state="translated">Compacte modus</target>
@@ -1290,6 +1299,11 @@
         <target state="translated">Default count</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Design" xml:space="preserve">
+        <source>Design</source>
+        <target state="translated">Design</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Disabled" xml:space="preserve">
         <source>Disabled</source>
         <target state="translated">Uitgeschakeld</target>
@@ -1352,6 +1366,11 @@
         <source>Every 10 seconds</source>
         <target state="translated">Elke 10 seconden</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="Expanded" xml:space="preserve">
+        <source>Expanded</source>
+        <target state="translated">Vergroot</target>
+        <note>Dashboard size type</note>
       </trans-unit>
       <trans-unit id="Expires in %lld minutes" xml:space="preserve">
         <source>Expires in %lld minutes</source>
@@ -1669,6 +1688,16 @@
         <target state="translated">Verversen</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Regular" xml:space="preserve">
+        <source>Regular</source>
+        <target state="translated">Standaard</target>
+        <note>Dashboard size type</note>
+      </trans-unit>
+      <trans-unit id="Regular cards, combined chart" xml:space="preserve">
+        <source>Regular cards, combined chart</source>
+        <target state="translated">Standaard kaartjes, gecombineerde grafiek</target>
+        <note>Dashboard size type explainer</note>
+      </trans-unit>
       <trans-unit id="Remote for AdGuard DNS" translate="no" xml:space="preserve">
         <source>Remote for AdGuard DNS</source>
         <note/>
@@ -1751,6 +1780,11 @@
         <target state="translated">Geselecteerd</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Separate cards and charts" xml:space="preserve">
+        <source>Separate cards and charts</source>
+        <target state="translated">Aparte kaarten en grafieken</target>
+        <note>Dashboard size type explainer</note>
+      </trans-unit>
       <trans-unit id="Settings" xml:space="preserve">
         <source>Settings</source>
         <target state="translated">Instellingen</target>
@@ -1791,6 +1825,11 @@
         <target state="translated">Toon hostnaam</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Show instance version" xml:space="preserve">
+        <source>Show instance version</source>
+        <target state="translated">Toon instantie versies</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Show legend" xml:space="preserve">
         <source>Show legend</source>
         <target state="translated">Toon legenda</target>
@@ -1810,6 +1849,11 @@
         <source>Sidebar</source>
         <target state="translated">Sidebar</target>
         <note>Used in the 'Preferences Other' screen in the navigation style picker (only visible for iPad)</note>
+      </trans-unit>
+      <trans-unit id="Small cards, combined chart" xml:space="preserve">
+        <source>Small cards, combined chart</source>
+        <target state="translated">Kleine kaartjes, gecombineerde grafiek</target>
+        <note>Dashboard size type explainer</note>
       </trans-unit>
       <trans-unit id="Something went wrong with your purchase." xml:space="preserve">
         <source>Something went wrong with your purchase.</source>
@@ -1978,6 +2022,11 @@
       <trans-unit id="Use NextDNS? Have I got an app for you." xml:space="preserve">
         <source>Use NextDNS? Have I got an app for you.</source>
         <target state="translated">Gebruik je NextDNS? Dan heb ik een app voor jou.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="User Interface" xml:space="preserve">
+        <source>User Interface</source>
+        <target state="translated">User interface</target>
         <note/>
       </trans-unit>
       <trans-unit id="Utility Radar" xml:space="preserve">
@@ -3746,9 +3795,44 @@ Zoeken</target>
         <target state="translated">key</target>
         <note>Placeholder of the 'custom header key' textfield in instance settings.</note>
       </trans-unit>
+      <trans-unit id="last 3 days" xml:space="preserve">
+        <source>last 3 days</source>
+        <target state="translated">laatste 3 dagen</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="last 6 hours" xml:space="preserve">
+        <source>last 6 hours</source>
+        <target state="translated">laatste 6 uur</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="last 7 days" xml:space="preserve">
+        <source>last 7 days</source>
+        <target state="translated">laatste 7 dagen</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="last 12 hours" xml:space="preserve">
+        <source>last 12 hours</source>
+        <target state="translated">laatste 12 uur</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="last 24 hours" xml:space="preserve">
+        <source>last 24 hours</source>
+        <target state="translated">laatste 24 uur</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="last 30 days" xml:space="preserve">
         <source>last 30 days</source>
         <target state="translated">laatste 30 dagen</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="last 90 days" xml:space="preserve">
+        <source>last 90 days</source>
+        <target state="translated">laatste 90 dagen</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="last hour" xml:space="preserve">
+        <source>last hour</source>
+        <target state="translated">laatste uur</target>
         <note/>
       </trans-unit>
       <trans-unit id="liveactivity_ends" xml:space="preserve">
@@ -3968,7 +4052,7 @@ Zoeken</target>
       </trans-unit>
       <trans-unit id="preferences_dashboard_show_hostnames" xml:space="preserve">
         <source>Show instance hostnames</source>
-        <target state="translated">Hostnamen van instanties weergeven</target>
+        <target state="translated">Toon instantie hostnames</target>
         <note/>
       </trans-unit>
       <trans-unit id="preferences_dashboard_show_multipleInstanceToolbar" xml:space="preserve">
