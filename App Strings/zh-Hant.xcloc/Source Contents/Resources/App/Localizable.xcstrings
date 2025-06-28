@@ -981,9 +981,6 @@
     "Compact" : {
       "comment" : "Dashboard size type"
     },
-    "Compact mode" : {
-      "extractionState" : "stale"
-    },
     "Contact" : {
 
     },

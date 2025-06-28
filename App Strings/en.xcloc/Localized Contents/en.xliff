@@ -1290,11 +1290,6 @@
         <target state="new">Compact</target>
         <note>Dashboard size type</note>
       </trans-unit>
-      <trans-unit id="Compact mode" xml:space="preserve">
-        <source>Compact mode</source>
-        <target state="new">Compact mode</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="Contact" xml:space="preserve">
         <source>Contact</source>
         <target state="new">Contact</target>
