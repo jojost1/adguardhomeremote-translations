@@ -1149,6 +1149,10 @@
         <source>Can't reach AdGuard Home.</source>
         <note/>
       </trans-unit>
+      <trans-unit id="Card color" xml:space="preserve">
+        <source>Card color</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="Chart" xml:space="preserve">
         <source>Chart</source>
         <note/>
@@ -1321,6 +1325,10 @@
         <source>Force Watch Sync</source>
         <note/>
       </trans-unit>
+      <trans-unit id="Full Color" xml:space="preserve">
+        <source>Full Color</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="HINFO" translate="no" xml:space="preserve">
         <source>HINFO</source>
         <note>Used in the DNS record type picker on the 'check filtering' screen.</note>
@@ -1412,6 +1420,10 @@
       <trans-unit id="Monitor real-time electricity and gas prices in many European countries." xml:space="preserve">
         <source>Monitor real-time electricity and gas prices in many European countries.</source>
         <note>Subtitle under 'Utility Radar' app on the Made by RocketScience screen.</note>
+      </trans-unit>
+      <trans-unit id="Muted" xml:space="preserve">
+        <source>Muted</source>
+        <note/>
       </trans-unit>
       <trans-unit id="NAPTR" translate="no" xml:space="preserve">
         <source>NAPTR</source>

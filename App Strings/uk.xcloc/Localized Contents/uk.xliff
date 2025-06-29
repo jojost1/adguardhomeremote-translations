@@ -1196,6 +1196,10 @@
         <target state="translated">Не вдається підключитися до AdGuard Home</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Card color" xml:space="preserve">
+        <source>Card color</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="Chart" xml:space="preserve">
         <source>Chart</source>
         <target state="translated">Запланувати</target>
@@ -1238,7 +1242,7 @@
       </trans-unit>
       <trans-unit id="Compact" xml:space="preserve">
         <source>Compact</source>
-		<target state="translated">Компактное</target>
+        <target state="translated">Компактное</target>
         <note>Dashboard size type</note>
       </trans-unit>
       <trans-unit id="Contact" xml:space="preserve">
@@ -1404,6 +1408,10 @@
         <target state="translated">Примусова синхронізація з Apple Watch</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Full Color" xml:space="preserve">
+        <source>Full Color</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="HINFO" translate="no" xml:space="preserve">
         <source>HINFO</source>
         <note>Used in the DNS record type picker on the 'check filtering' screen.</note>
@@ -1509,6 +1517,10 @@
         <source>Monitor real-time electricity and gas prices in many European countries.</source>
         <target state="translated">Відстежуйте в режимі реального часу ціни на електроенергію та газ у багатьох Європейських країнах.</target>
         <note>Subtitle under 'Utility Radar' app on the Made by RocketScience screen.</note>
+      </trans-unit>
+      <trans-unit id="Muted" xml:space="preserve">
+        <source>Muted</source>
+        <note/>
       </trans-unit>
       <trans-unit id="NAPTR" translate="no" xml:space="preserve">
         <source>NAPTR</source>
@@ -1633,12 +1645,12 @@
       </trans-unit>
       <trans-unit id="Parental" xml:space="preserve">
         <source>Parental</source>
-		<target>Батьк. контроль</target>
+        <target state="translated">Батьк. контроль</target>
         <note/>
       </trans-unit>
       <trans-unit id="Parental: %@" xml:space="preserve">
         <source>Parental: %@</source>
-		<target>Батьк. контроль: %@<</target>
+        <target state="translated">Батьк. контроль: %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="Paste from clipboard" xml:space="preserve">
@@ -1842,7 +1854,7 @@
       </trans-unit>
       <trans-unit id="Show legend" xml:space="preserve">
         <source>Show legend</source>
-		<target>Показати позначення</target>
+        <target state="translated">Показати позначення</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show more..." xml:space="preserve">

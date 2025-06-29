@@ -456,6 +456,9 @@
         }
       }
     },
+    "Card color" : {
+
+    },
     "CDNSKEY" : {
       "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
       "shouldTranslate" : false
@@ -3606,6 +3609,9 @@
     "Force Watch Sync" : {
 
     },
+    "Full Color" : {
+
+    },
     "global" : {
       "localizations" : {
         "en" : {
@@ -4218,6 +4224,9 @@
     },
     "ms" : {
       "comment" : "Meaning 'miliseconds' duration unit in the query log or in 'average processing time'."
+    },
+    "Muted" : {
+
     },
     "MX" : {
       "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",

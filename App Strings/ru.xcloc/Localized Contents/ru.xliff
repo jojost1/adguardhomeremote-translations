@@ -1200,6 +1200,10 @@
         <target state="translated">Не удается подключиться к AdGuard Home</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Card color" xml:space="preserve">
+        <source>Card color</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="Chart" xml:space="preserve">
         <source>Chart</source>
         <target state="translated">График</target>
@@ -1242,8 +1246,8 @@
       </trans-unit>
       <trans-unit id="Compact" xml:space="preserve">
         <source>Compact</source>
-		<target state="translated">Компактное</target>
-        <note><target state="translated">Контакт</target>Dashboard size type</note>
+        <target state="translated">Компактное</target>
+        <note>Dashboard size type</note>
       </trans-unit>
       <trans-unit id="Contact" xml:space="preserve">
         <source>Contact</source>
@@ -1317,7 +1321,7 @@
       </trans-unit>
       <trans-unit id="Design" xml:space="preserve">
         <source>Design</source>
-		<target state="translated">Оформление</target>
+        <target state="translated">Оформление</target>
         <note/>
       </trans-unit>
       <trans-unit id="Disabled" xml:space="preserve">
@@ -1385,7 +1389,7 @@
       </trans-unit>
       <trans-unit id="Expanded" xml:space="preserve">
         <source>Expanded</source>
-		<target state="translated">Расширенное</target>
+        <target state="translated">Расширенное</target>
         <note>Dashboard size type</note>
       </trans-unit>
       <trans-unit id="Expires in %lld minutes" xml:space="preserve">
@@ -1406,6 +1410,10 @@
       <trans-unit id="Force Watch Sync" xml:space="preserve">
         <source>Force Watch Sync</source>
         <target state="translated">Принудительная синхронизация с Apple Watch</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Full Color" xml:space="preserve">
+        <source>Full Color</source>
         <note/>
       </trans-unit>
       <trans-unit id="HINFO" translate="no" xml:space="preserve">
@@ -1514,6 +1522,10 @@
         <source>Monitor real-time electricity and gas prices in many European countries.</source>
         <target state="translated">Отслеживайте в режиме реального времени цены на электроэнергию и газ во многих Европейских странах.</target>
         <note>Subtitle under 'Utility Radar' app on the Made by RocketScience screen.</note>
+      </trans-unit>
+      <trans-unit id="Muted" xml:space="preserve">
+        <source>Muted</source>
+        <note/>
       </trans-unit>
       <trans-unit id="NAPTR" translate="no" xml:space="preserve">
         <source>NAPTR</source>
@@ -1639,12 +1651,12 @@
       </trans-unit>
       <trans-unit id="Parental" xml:space="preserve">
         <source>Parental</source>
-		<target>Родит. контроль</target>
+        <target state="translated">Родит. контроль</target>
         <note/>
       </trans-unit>
       <trans-unit id="Parental: %@" xml:space="preserve">
         <source>Parental: %@</source>
-		<target>Родит. контроль: %@</target>
+        <target state="translated">Родит. контроль: %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="Paste from clipboard" xml:space="preserve">
@@ -1706,12 +1718,12 @@
       </trans-unit>
       <trans-unit id="Regular" xml:space="preserve">
         <source>Regular</source>
-		<target state="translated">Обычное</target>
+        <target state="translated">Обычное</target>
         <note>Dashboard size type</note>
       </trans-unit>
       <trans-unit id="Regular cards, combined chart" xml:space="preserve">
         <source>Regular cards, combined chart</source>
-		<target state="translated">Обычные карточки, комбинированный график</target>
+        <target state="translated">Обычные карточки, комбинированный график</target>
         <note>Dashboard size type explainer</note>
       </trans-unit>
       <trans-unit id="Remote for AdGuard DNS" translate="no" xml:space="preserve">
@@ -1798,7 +1810,7 @@
       </trans-unit>
       <trans-unit id="Separate cards and charts" xml:space="preserve">
         <source>Separate cards and charts</source>
-		<target state="translated">Отдельные карточки и диаграммы</target>
+        <target state="translated">Отдельные карточки и диаграммы</target>
         <note>Dashboard size type explainer</note>
       </trans-unit>
       <trans-unit id="Settings" xml:space="preserve">
@@ -1843,12 +1855,12 @@
       </trans-unit>
       <trans-unit id="Show instance version" xml:space="preserve">
         <source>Show instance version</source>
-		<target state="translated">Показывать версию сервера</target>
+        <target state="translated">Показывать версию сервера</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show legend" xml:space="preserve">
         <source>Show legend</source>
-		<target>Показать обозначения</target>
+        <target state="translated">Показать обозначения</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show more..." xml:space="preserve">
@@ -1868,7 +1880,7 @@
       </trans-unit>
       <trans-unit id="Small cards, combined chart" xml:space="preserve">
         <source>Small cards, combined chart</source>
-		<target state="translated">Маленькие карточки, комбинированный график</target>
+        <target state="translated">Маленькие карточки, комбинированный график</target>
         <note>Dashboard size type explainer</note>
       </trans-unit>
       <trans-unit id="Something went wrong with your purchase." xml:space="preserve">
@@ -2041,7 +2053,7 @@
       </trans-unit>
       <trans-unit id="User Interface" xml:space="preserve">
         <source>User Interface</source>
-		<target>Интерфейс пользователя</target>
+        <target state="translated">Интерфейс пользователя</target>
         <note/>
       </trans-unit>
       <trans-unit id="Utility Radar" xml:space="preserve">
