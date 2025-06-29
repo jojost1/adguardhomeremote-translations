@@ -1202,7 +1202,7 @@
       </trans-unit>
       <trans-unit id="Card color" xml:space="preserve">
         <source>Card color</source>
-		<target state="translated">Цвет карточек</target>
+        <target state="translated">Цвет карточек</target>
         <note/>
       </trans-unit>
       <trans-unit id="Chart" xml:space="preserve">
@@ -1415,7 +1415,7 @@
       </trans-unit>
       <trans-unit id="Full Color" xml:space="preserve">
         <source>Full Color</source>
-		<target state="translated">Цветные</target>
+        <target state="translated">Цветные</target>
         <note/>
       </trans-unit>
       <trans-unit id="HINFO" translate="no" xml:space="preserve">
@@ -1527,7 +1527,7 @@
       </trans-unit>
       <trans-unit id="Muted" xml:space="preserve">
         <source>Muted</source>
-		<target state="translated">Приглушенные</target>
+        <target state="translated">Приглушенные</target>
         <note/>
       </trans-unit>
       <trans-unit id="NAPTR" translate="no" xml:space="preserve">
@@ -2164,7 +2164,7 @@
       </trans-unit>
       <trans-unit id="avg %@ms" xml:space="preserve">
         <source>avg %@ms</source>
-		<target state="translated">сред. %@мс</target>
+        <target state="translated">сред. %@мс</target>
         <note/>
       </trans-unit>
       <trans-unit id="blocked_services" xml:space="preserve">
@@ -3820,32 +3820,32 @@ Search</source>
       </trans-unit>
       <trans-unit id="key" xml:space="preserve">
         <source>key</source>
-		<target state="translated">ключ</target>
+        <target state="translated">ключ</target>
         <note>Placeholder of the 'custom header key' textfield in instance settings.</note>
       </trans-unit>
       <trans-unit id="last 3 days" xml:space="preserve">
         <source>last 3 days</source>
-		<target state="translated">последние 3 дня</target>
+        <target state="translated">последние 3 дня</target>
         <note/>
       </trans-unit>
       <trans-unit id="last 6 hours" xml:space="preserve">
         <source>last 6 hours</source>
-		<target state="translated">последние 6 часов</target>
+        <target state="translated">последние 6 часов</target>
         <note/>
       </trans-unit>
       <trans-unit id="last 7 days" xml:space="preserve">
         <source>last 7 days</source>
-		<target state="translated">последние 7 дней</target>
+        <target state="translated">последние 7 дней</target>
         <note/>
       </trans-unit>
       <trans-unit id="last 12 hours" xml:space="preserve">
         <source>last 12 hours</source>
-		<target state="translated">последние 12 часов</target>
+        <target state="translated">последние 12 часов</target>
         <note/>
       </trans-unit>
       <trans-unit id="last 24 hours" xml:space="preserve">
         <source>last 24 hours</source>
-		<target state="translated">последние 24 часа</target>
+        <target state="translated">последние 24 часа</target>
         <note/>
       </trans-unit>
       <trans-unit id="last 30 days" xml:space="preserve">
@@ -3855,12 +3855,12 @@ Search</source>
       </trans-unit>
       <trans-unit id="last 90 days" xml:space="preserve">
         <source>last 90 days</source>
-		<target state="translated">последние 90 дней</target>
+        <target state="translated">последние 90 дней</target>
         <note/>
       </trans-unit>
       <trans-unit id="last hour" xml:space="preserve">
         <source>last hour</source>
-		<target state="translated">последний час</target>
+        <target state="translated">последний час</target>
         <note/>
       </trans-unit>
       <trans-unit id="liveactivity_ends" xml:space="preserve">
