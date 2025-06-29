@@ -1198,6 +1198,7 @@
       </trans-unit>
       <trans-unit id="Card color" xml:space="preserve">
         <source>Card color</source>
+		<target state="translated">Колір карток</target>
         <note/>
       </trans-unit>
       <trans-unit id="Chart" xml:space="preserve">
@@ -1410,6 +1411,7 @@
       </trans-unit>
       <trans-unit id="Full Color" xml:space="preserve">
         <source>Full Color</source>
+		<target state="translated">Кольорові</target>
         <note/>
       </trans-unit>
       <trans-unit id="HINFO" translate="no" xml:space="preserve">
@@ -1520,6 +1522,7 @@
       </trans-unit>
       <trans-unit id="Muted" xml:space="preserve">
         <source>Muted</source>
+		<target state="translated">Приглушені</target>
         <note/>
       </trans-unit>
       <trans-unit id="NAPTR" translate="no" xml:space="preserve">
@@ -2047,7 +2050,7 @@
       </trans-unit>
       <trans-unit id="User Interface" xml:space="preserve">
         <source>User Interface</source>
-        <target state="translated">Користувацький інтерфейс</target>
+        <target state="translated">Iнтерфейс</target>
         <note/>
       </trans-unit>
       <trans-unit id="Utility Radar" xml:space="preserve">
@@ -2155,6 +2158,7 @@
       </trans-unit>
       <trans-unit id="avg %@ms" xml:space="preserve">
         <source>avg %@ms</source>
+		<target state="translated">серед. %@мс</target>
         <note/>
       </trans-unit>
       <trans-unit id="blocked_services" xml:space="preserve">
@@ -2184,7 +2188,7 @@
       </trans-unit>
       <trans-unit id="cache" xml:space="preserve">
         <source>cache</source>
-        <target state="translated">кеш</target>
+        <target state="translated">cache</target>
         <note/>
       </trans-unit>
       <trans-unit id="cancel" xml:space="preserve">
@@ -3809,48 +3813,57 @@ Search</source>
       </trans-unit>
       <trans-unit id="key" xml:space="preserve">
         <source>key</source>
+		<target state="translated">ключ</target>
         <note>Placeholder of the 'custom header key' textfield in instance settings.</note>
       </trans-unit>
       <trans-unit id="last 3 days" xml:space="preserve">
         <source>last 3 days</source>
+		<target state="translated">останні 3 дні</target>
         <note/>
       </trans-unit>
       <trans-unit id="last 6 hours" xml:space="preserve">
         <source>last 6 hours</source>
+		<target state="translated">останні 6 годин</target>
         <note/>
       </trans-unit>
       <trans-unit id="last 7 days" xml:space="preserve">
         <source>last 7 days</source>
+		<target state="translated">останні 7 днів</target>
         <note/>
       </trans-unit>
       <trans-unit id="last 12 hours" xml:space="preserve">
         <source>last 12 hours</source>
+		<target state="translated">останні 12 годин</target>
         <note/>
       </trans-unit>
       <trans-unit id="last 24 hours" xml:space="preserve">
         <source>last 24 hours</source>
+		<target state="translated">останні 24 години</target>
         <note/>
       </trans-unit>
       <trans-unit id="last 30 days" xml:space="preserve">
         <source>last 30 days</source>
+		<target state="translated">останні 30 днів</target>
         <note/>
       </trans-unit>
       <trans-unit id="last 90 days" xml:space="preserve">
         <source>last 90 days</source>
+		<target state="translated">останні 90 днів</target>
         <note/>
       </trans-unit>
       <trans-unit id="last hour" xml:space="preserve">
         <source>last hour</source>
+		<target state="translated">остання година</target>
         <note/>
       </trans-unit>
       <trans-unit id="liveactivity_ends" xml:space="preserve">
         <source>Ends</source>
-        <target state="translated">Ends</target>
+		<target state="translated">Закінчення</target>
         <note/>
       </trans-unit>
       <trans-unit id="liveactivity_time_remaining" xml:space="preserve">
         <source>Time remaining</source>
-        <target state="translated">Time remaining</target>
+        <target state="translated">Часу залишилося</target>
         <note>MARK: Live Activity</note>
       </trans-unit>
       <trans-unit id="loading" xml:space="preserve">
@@ -3870,7 +3883,7 @@ Search</source>
       </trans-unit>
       <trans-unit id="malware" xml:space="preserve">
         <source>Malware</source>
-        <target state="translated">Malware</target>
+        <target state="translated">Шкідливі</target>
         <note/>
       </trans-unit>
       <trans-unit id="manage" xml:space="preserve">
