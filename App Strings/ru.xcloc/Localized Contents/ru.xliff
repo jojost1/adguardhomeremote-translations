@@ -1247,7 +1247,7 @@
       </trans-unit>
       <trans-unit id="Compact" xml:space="preserve">
         <source>Compact</source>
-        <target state="translated">Компактное</target>
+        <target state="translated">Компактный</target>
         <note>Dashboard size type</note>
       </trans-unit>
       <trans-unit id="Contact" xml:space="preserve">
@@ -1390,7 +1390,7 @@
       </trans-unit>
       <trans-unit id="Expanded" xml:space="preserve">
         <source>Expanded</source>
-        <target state="translated">Расширенное</target>
+        <target state="translated">Расширенный</target>
         <note>Dashboard size type</note>
       </trans-unit>
       <trans-unit id="Expires in %lld minutes" xml:space="preserve">
@@ -1507,12 +1507,12 @@
       </trans-unit>
       <trans-unit id="Malware" xml:space="preserve">
         <source>Malware</source>
-        <target state="translated">Вредоносные</target>
+        <target state="translated">Вредоносы</target>
         <note/>
       </trans-unit>
       <trans-unit id="Malware: %@" xml:space="preserve">
         <source>Malware: %@</source>
-        <target state="translated">Вредоносные: %@</target>
+        <target state="translated">Вредоносы: %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="ManGo - Anime &amp; Manga Tracker" xml:space="preserve">
@@ -1721,7 +1721,7 @@
       </trans-unit>
       <trans-unit id="Regular" xml:space="preserve">
         <source>Regular</source>
-        <target state="translated">Обычное</target>
+        <target state="translated">Обычный</target>
         <note>Dashboard size type</note>
       </trans-unit>
       <trans-unit id="Regular cards, combined chart" xml:space="preserve">
@@ -1848,7 +1848,7 @@
       </trans-unit>
       <trans-unit id="Show chart" xml:space="preserve">
         <source>Show chart</source>
-        <target state="translated">Показать график</target>
+        <target state="translated">Показывать график</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show hostname" xml:space="preserve">
@@ -1977,7 +1977,7 @@
       </trans-unit>
       <trans-unit id="Toggle only between enabled &amp; disabled. Hold the button for more options." xml:space="preserve">
         <source>Toggle only between enabled &amp; disabled. Hold the button for more options.</source>
-        <target state="translated">Переключение только вкл и выкл. Удерживайте для дополнительных опций</target>
+        <target state="translated">Переключение между вкл и выкл. Удерживайте для дополнительных опций.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Top Blocked Domains" xml:space="preserve">
@@ -3730,7 +3730,7 @@ Search</source>
       </trans-unit>
       <trans-unit id="instance_add_custom_header" xml:space="preserve">
         <source>Add custom header</source>
-        <target state="translated">Add custom header</target>
+        <target state="translated">Добавить пользовательский заголовок</target>
         <note/>
       </trans-unit>
       <trans-unit id="instance_authentication" xml:space="preserve">
@@ -3755,7 +3755,7 @@ Search</source>
       </trans-unit>
       <trans-unit id="instance_custom_headers" xml:space="preserve">
         <source>Custom Headers</source>
-        <target state="translated">Custom Headers</target>
+        <target state="translated">Пользовательские заголовки</target>
         <note/>
       </trans-unit>
       <trans-unit id="instance_display_name_placeholder" xml:space="preserve">
@@ -3820,7 +3820,7 @@ Search</source>
       </trans-unit>
       <trans-unit id="key" xml:space="preserve">
         <source>key</source>
-        <target state="translated">ключ</target>
+        <target state="translated">Ключ</target>
         <note>Placeholder of the 'custom header key' textfield in instance settings.</note>
       </trans-unit>
       <trans-unit id="last 3 days" xml:space="preserve">
@@ -4089,7 +4089,7 @@ Search</source>
       </trans-unit>
       <trans-unit id="preferences_dashboard_show_multipleInstanceToolbar_subtitle" xml:space="preserve">
         <source>only visible if you have multiple instances</source>
-        <target state="translated">видна только в том случае, если у вас несколько серверов</target>
+        <target state="translated">Видна только в том случае, если у вас несколько серверов</target>
         <note/>
       </trans-unit>
       <trans-unit id="preferences_dashboard_statusbuttons" xml:space="preserve">
