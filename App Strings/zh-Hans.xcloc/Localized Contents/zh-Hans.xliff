@@ -56,6 +56,7 @@
       </trans-unit>
       <trans-unit id="6AmxhP" xml:space="preserve">
         <source>Toggle Protection Widget</source>
+        <target state="translated">固定保护小组件</target>
         <note/>
       </trans-unit>
       <trans-unit id="7IZPYe" xml:space="preserve">
@@ -64,6 +65,7 @@
       </trans-unit>
       <trans-unit id="9MYzi8" xml:space="preserve">
         <source>Disable all instances</source>
+        <target state="translated">禁用全部实例</target>
         <note/>
       </trans-unit>
       <trans-unit id="9m7HE0" xml:space="preserve">
@@ -73,6 +75,7 @@
       </trans-unit>
       <trans-unit id="AC4jif" xml:space="preserve">
         <source>Instance</source>
+        <target state="translated">实例</target>
         <note/>
       </trans-unit>
       <trans-unit id="CcFtAj" xml:space="preserve">
@@ -81,10 +84,12 @@
       </trans-unit>
       <trans-unit id="E0Klym" xml:space="preserve">
         <source>Show 'Safe Search'</source>
+        <target state="translated">显示 ‘安全搜索’</target>
         <note/>
       </trans-unit>
       <trans-unit id="HPvqfT" xml:space="preserve">
         <source>Show 'Parental Filtering'</source>
+        <target state="translated">显示 ‘家长控制’</target>
         <note/>
       </trans-unit>
       <trans-unit id="JOGSFQ" xml:space="preserve">
@@ -94,6 +99,7 @@
       </trans-unit>
       <trans-unit id="KMnnlF" xml:space="preserve">
         <source>Customize displayed values</source>
+        <target state="translated">自定义显示的值</target>
         <note/>
       </trans-unit>
       <trans-unit id="LFaJho" xml:space="preserve">
@@ -123,6 +129,7 @@
       </trans-unit>
       <trans-unit id="Sjc6JT" xml:space="preserve">
         <source>Disable all instances?</source>
+        <target state="translated">您要禁用全部实例?</target>
         <note/>
       </trans-unit>
       <trans-unit id="VA4ap6" xml:space="preserve">
@@ -137,10 +144,12 @@
       </trans-unit>
       <trans-unit id="WGDFpS" xml:space="preserve">
         <source>Show 'Safe Browsing'</source>
+        <target state="translated">显示 ‘浏览安全’</target>
         <note/>
       </trans-unit>
       <trans-unit id="Z9sGKc" xml:space="preserve">
         <source>Show percentages</source>
+        <target state="translated">显示百分比</target>
         <note/>
       </trans-unit>
       <trans-unit id="ZyGBsF" xml:space="preserve">
@@ -158,6 +167,7 @@
       </trans-unit>
       <trans-unit id="eJpT9K" xml:space="preserve">
         <source>What instance to display?</source>
+        <target state="translated">您要显示哪个实例?</target>
         <note/>
       </trans-unit>
       <trans-unit id="g0CJBh" xml:space="preserve">
@@ -167,6 +177,7 @@
       </trans-unit>
       <trans-unit id="gjZzpr" xml:space="preserve">
         <source>Toggle Protection Widget</source>
+        <target state="translated">固定保护小组件</target>
         <note/>
       </trans-unit>
       <trans-unit id="gpCwrM" xml:space="preserve">
@@ -176,14 +187,17 @@
       </trans-unit>
       <trans-unit id="hF59s3" xml:space="preserve">
         <source>Disable Buttons Widget</source>
+        <target state="translated">禁用按钮小组件</target>
         <note/>
       </trans-unit>
       <trans-unit id="ko3bBU" xml:space="preserve">
         <source>Disable Buttons Widget</source>
+        <target state="translated">禁用按钮小组件</target>
         <note/>
       </trans-unit>
       <trans-unit id="m19WLB" xml:space="preserve">
         <source>What instance to display?</source>
+        <target state="translated">您要显示哪个实例?</target>
         <note/>
       </trans-unit>
       <trans-unit id="mBaeNg" xml:space="preserve">
@@ -227,6 +241,7 @@
       </trans-unit>
       <trans-unit id="wG4S8i" xml:space="preserve">
         <source>Instance</source>
+        <target state="translated">实例</target>
         <note/>
       </trans-unit>
       <trans-unit id="xGmdln" xml:space="preserve">
@@ -812,18 +827,22 @@
     <body>
       <trans-unit id="Can't reach AdGuard Home." xml:space="preserve">
         <source>Can't reach AdGuard Home.</source>
+        <target state="translated">无法连接到 AdGuard Home。</target>
         <note/>
       </trans-unit>
       <trans-unit id="Invalid authentication or privacy setting." xml:space="preserve">
         <source>Invalid authentication or privacy setting.</source>
+        <target state="translated">验证无效或隐私设置。</target>
         <note/>
       </trans-unit>
       <trans-unit id="Invalid hostname or port." xml:space="preserve">
         <source>Invalid hostname or port.</source>
+        <target state="translated">主机名或端口无效。</target>
         <note/>
       </trans-unit>
       <trans-unit id="Request timed out." xml:space="preserve">
         <source>Request timed out.</source>
+        <target state="translated">请求超时。</target>
         <note/>
       </trans-unit>
     </body>
@@ -843,6 +862,7 @@
       </trans-unit>
       <trans-unit id="NSFaceIDUsageDescription" xml:space="preserve">
         <source>AdGuard Home Remote uses Face ID to unlock the app.</source>
+        <target state="translated">AdGuard Home Remote 使用 面容ID 解锁应用程序。</target>
         <note>Privacy - Face ID Usage Description</note>
       </trans-unit>
       <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
@@ -863,10 +883,12 @@
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
         <source>AdGuard Home Remote Widgets Watch</source>
+        <target state="translated">AdGuard Home Remote 手表小组件</target>
         <note>Bundle display name</note>
       </trans-unit>
       <trans-unit id="CFBundleName" xml:space="preserve">
         <source>AdGuard Home Remote WidgetsExtension Watch</source>
+        <target state="translated">AdGuard Home Remote 扩展手表小组件</target>
         <note>Bundle name</note>
       </trans-unit>
     </body>
@@ -878,14 +900,17 @@
     <body>
       <trans-unit id="Disable protection for ${duration} minutes in ${applicationName}" xml:space="preserve">
         <source>Disable protection for ${duration} minutes in ${applicationName}</source>
+        <target state="translated">在 ${applicationName} 中禁用保护 ${duration} 分钟</target>
         <note/>
       </trans-unit>
       <trans-unit id="Disable protection in ${applicationName}" xml:space="preserve">
         <source>Disable protection in ${applicationName}</source>
+        <target state="translated">在 ${applicationName} 中禁用保护</target>
         <note/>
       </trans-unit>
       <trans-unit id="Enable protection in ${applicationName}" xml:space="preserve">
         <source>Enable protection in ${applicationName}</source>
+        <target state="translated">在 ${applicationName} 中启用保护</target>
         <note>MARK: Protection Intents</note>
       </trans-unit>
     </body>
@@ -920,14 +945,17 @@
       </trans-unit>
       <trans-unit id="%@ bytes" xml:space="preserve">
         <source>%@ bytes</source>
+        <target state="translated">%@ 字节</target>
         <note>Clients DNS cache size in bytes.</note>
       </trans-unit>
       <trans-unit id="%@ entries" xml:space="preserve">
         <source>%@ entries</source>
+        <target state="translated">%@ 条目</target>
         <note>Used on the Statistics-screen in the preferences menu.</note>
       </trans-unit>
       <trans-unit id="%@ms" xml:space="preserve">
         <source>%@ms</source>
+        <target state="translated">%@ 毫秒</target>
         <note>Used in the Query Log to display query duration like '5ms'.</note>
       </trans-unit>
       <trans-unit id="1h" xml:space="preserve">
@@ -996,6 +1024,7 @@
       </trans-unit>
       <trans-unit id="A clean Anime &amp; Manga tracker app, using the MyAnimeList API." xml:space="preserve">
         <source>A clean Anime &amp; Manga tracker app, using the MyAnimeList API.</source>
+        <target state="translated">一款干净清爽的动漫追踪程序，使用 MyAnimeList API。</target>
         <note>Subtitle under 'ManGo' app on the Made by RocketScience screen.</note>
       </trans-unit>
       <trans-unit id="AAAA" translate="no" xml:space="preserve">
@@ -1012,6 +1041,7 @@
       </trans-unit>
       <trans-unit id="AGHR's tabs" xml:space="preserve">
         <source>AGHR's tabs</source>
+        <target state="translated">AGHR 标签页</target>
         <note/>
       </trans-unit>
       <trans-unit id="APL" translate="no" xml:space="preserve">
@@ -1020,6 +1050,7 @@
       </trans-unit>
       <trans-unit id="Accessibility" xml:space="preserve">
         <source>Accessibility</source>
+        <target state="translated">无障碍</target>
         <note/>
       </trans-unit>
       <trans-unit id="AdGuard Home Remote" translate="no" xml:space="preserve">
@@ -1028,94 +1059,117 @@
       </trans-unit>
       <trans-unit id="AdGuard Home v0.107.28 or higher is required for some of these new features. Please update!" xml:space="preserve">
         <source>AdGuard Home v0.107.28 or higher is required for some of these new features. Please update!</source>
+        <target state="translated">部分新功能需要 AdGuard Home v0.107.28 或更高版本。请更新版本!</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add" xml:space="preserve">
         <source>Add</source>
+        <target state="translated">添加</target>
         <note>Used in the Settings-tab in the 'instances' section header.</note>
       </trans-unit>
       <trans-unit id="Add '%@'" xml:space="preserve">
         <source>Add '%@'</source>
+        <target state="translated">增加 '%@'</target>
         <note>Used on the 'Add new disable preset' screen, e.g. 'Add 30 seconds'</note>
       </trans-unit>
       <trans-unit id="Add 5 minutes" xml:space="preserve">
         <source>Add 5 minutes</source>
+        <target state="translated">增加 5 分钟</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add Instance" xml:space="preserve">
         <source>Add Instance</source>
+        <target state="translated">添加实例</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add new preset" xml:space="preserve">
         <source>Add new preset</source>
+        <target state="translated">增加新预设</target>
         <note>Used on the 'Add new disable preset' screen</note>
       </trans-unit>
       <trans-unit id="Add your AdGuard Home instances to control them and view statistics." xml:space="preserve">
         <source>Add your AdGuard Home instances to control them and view statistics.</source>
+        <target state="translated">添加您的 AdGuard Home 实例来控制其并查看统计信息。</target>
         <note/>
       </trans-unit>
       <trans-unit id="Adding new presets requires Pro." xml:space="preserve">
         <source>Adding new presets requires Pro.</source>
+        <target state="translated">增加新预设需要 Pro。</target>
         <note>Used on the 'Add new disable preset' screen</note>
       </trans-unit>
       <trans-unit id="Additional info" xml:space="preserve">
         <source>Additional info</source>
+        <target state="translated">附加信息</target>
         <note/>
       </trans-unit>
       <trans-unit id="All" xml:space="preserve">
         <source>All</source>
+        <target state="translated">全部</target>
         <note/>
       </trans-unit>
       <trans-unit id="Apply Pro license" xml:space="preserve">
         <source>Apply Pro license</source>
+        <target state="translated">应用 Pro 授权</target>
         <note/>
       </trans-unit>
       <trans-unit id="Auto-refresh" xml:space="preserve">
         <source>Auto-refresh</source>
+        <target state="translated">自动刷新</target>
         <note/>
       </trans-unit>
       <trans-unit id="Automatic" xml:space="preserve">
         <source>Automatic</source>
+        <target state="translated">自动</target>
         <note>Used in the 'Preferences Other' screen in the navigation style picker (only visible for iPad)</note>
       </trans-unit>
       <trans-unit id="Average processing time: %@ ms" xml:space="preserve">
         <source>Average processing time: %@ ms</source>
+        <target state="translated">平均处理时间: %@ 毫秒</target>
         <note/>
       </trans-unit>
       <trans-unit id="Average processing time: %@ ms." xml:space="preserve">
         <source>Average processing time: %@ ms.</source>
+        <target state="translated">平均处理时间: %@ 毫秒。</target>
         <note/>
       </trans-unit>
       <trans-unit id="Bar-chart" xml:space="preserve">
         <source>Bar-chart</source>
+        <target state="translated">条形图</target>
         <note>Chart type.</note>
       </trans-unit>
       <trans-unit id="Blocked by filters" xml:space="preserve">
         <source>Blocked by filters</source>
+        <target state="translated">由过滤器拦截</target>
         <note>Query status type.</note>
       </trans-unit>
       <trans-unit id="Blocked by filters: %@ (%@)" xml:space="preserve">
         <source>Blocked by filters: %1$@ (%2$@)</source>
+        <target state="translated">由过滤器拦截: %1$@ (%2$@)</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocked malware" xml:space="preserve">
         <source>Blocked malware</source>
+        <target state="translated">拦截的恶意软件</target>
         <note>Query status type.</note>
       </trans-unit>
       <trans-unit id="Blocked malware: %@" xml:space="preserve">
         <source>Blocked malware: %@</source>
+        <target state="translated">拦截的恶意软件: %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocked parental" xml:space="preserve">
         <source>Blocked parental</source>
+        <target state="translated">被家长控制阻止</target>
         <note>Query status type.</note>
       </trans-unit>
       <trans-unit id="Blocked parental: %@" xml:space="preserve">
         <source>Blocked parental: %@</source>
+        <target state="translated">被家长控制阻止: %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocking" xml:space="preserve">
         <source>Blocking</source>
+        <target state="translated">拦截中</target>
         <note/>
       </trans-unit>
       <trans-unit id="CAA" translate="no" xml:space="preserve">
@@ -1144,58 +1198,72 @@
       </trans-unit>
       <trans-unit id="Can't reach AdGuard Home." xml:space="preserve">
         <source>Can't reach AdGuard Home.</source>
+        <target state="translated">无法连接到 AdGuard Home。</target>
         <note/>
       </trans-unit>
       <trans-unit id="Card color" xml:space="preserve">
         <source>Card color</source>
+        <target state="translated">卡片颜色</target>
         <note/>
       </trans-unit>
       <trans-unit id="Chart" xml:space="preserve">
         <source>Chart</source>
+        <target state="translated">图表</target>
         <note/>
       </trans-unit>
       <trans-unit id="Chart Type" xml:space="preserve">
         <source>Chart Type</source>
+        <target state="translated">图表类型</target>
         <note/>
       </trans-unit>
       <trans-unit id="Check Filtering" xml:space="preserve">
         <source>Check Filtering</source>
+        <target state="translated">检查过滤状态</target>
         <note/>
       </trans-unit>
       <trans-unit id="Check filtering" xml:space="preserve">
         <source>Check filtering</source>
+        <target state="translated">检查过滤状态</target>
         <note/>
       </trans-unit>
       <trans-unit id="Check if a host name is filtered." xml:space="preserve">
         <source>Check if a host name is filtered.</source>
+        <target state="translated">检查主机名是否被过滤。</target>
         <note/>
       </trans-unit>
       <trans-unit id="Clear hostname textfield" xml:space="preserve">
         <source>Clear hostname textfield</source>
+        <target state="translated">清空主机名文本框</target>
         <note>Accessibility label for the X button of the hostname textfield</note>
       </trans-unit>
       <trans-unit id="Client identifier" xml:space="preserve">
         <source>Client identifier</source>
+        <target state="translated">客户端标识符</target>
         <note/>
       </trans-unit>
       <trans-unit id="ClientID or IP" xml:space="preserve">
         <source>ClientID or IP</source>
+        <target state="translated">ClientID 或 IP</target>
         <note/>
       </trans-unit>
       <trans-unit id="Compact" xml:space="preserve">
         <source>Compact</source>
+        <target state="translated">紧凑</target>
         <note>Dashboard size type</note>
       </trans-unit>
       <trans-unit id="Contact" xml:space="preserve">
         <source>Contact</source>
+        <target state="translated">联系人</target>
         <note/>
       </trans-unit>
       <trans-unit id="Copy '%@'" xml:space="preserve">
         <source>Copy '%@'</source>
+        <target state="translated">复制 '%@'</target>
         <note/>
       </trans-unit>
       <trans-unit id="Custom disable presets" xml:space="preserve">
         <source>Custom disable presets</source>
+        <target state="translated">自定义禁用预设</target>
         <note/>
       </trans-unit>
       <trans-unit id="DHCID" translate="no" xml:space="preserve">
@@ -1212,14 +1280,17 @@
       </trans-unit>
       <trans-unit id="DNS Queries" xml:space="preserve">
         <source>DNS Queries</source>
+        <target state="translated">DNS 查询</target>
         <note/>
       </trans-unit>
       <trans-unit id="DNS Queries: %@" xml:space="preserve">
         <source>DNS Queries: %@</source>
+        <target state="translated">DNS 查询: %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="DNS Record Type" xml:space="preserve">
         <source>DNS Record Type</source>
+        <target state="translated">DNS 记录类型</target>
         <note/>
       </trans-unit>
       <trans-unit id="DNSKEY" translate="no" xml:space="preserve">
@@ -1232,42 +1303,52 @@
       </trans-unit>
       <trans-unit id="Dashboard" xml:space="preserve">
         <source>Dashboard</source>
+        <target state="translated">仪表盘</target>
         <note/>
       </trans-unit>
       <trans-unit id="Datapoints" xml:space="preserve">
         <source>Datapoints</source>
+        <target state="translated">数据点</target>
         <note/>
       </trans-unit>
       <trans-unit id="Date" xml:space="preserve">
         <source>Date</source>
+        <target state="translated">日期</target>
         <note/>
       </trans-unit>
       <trans-unit id="Default count" xml:space="preserve">
         <source>Default count</source>
+        <target state="translated">默认计数</target>
         <note/>
       </trans-unit>
       <trans-unit id="Design" xml:space="preserve">
         <source>Design</source>
+        <target state="translated">外观设计</target>
         <note/>
       </trans-unit>
       <trans-unit id="Disabled" xml:space="preserve">
         <source>Disabled</source>
+        <target state="translated">已禁用</target>
         <note/>
       </trans-unit>
       <trans-unit id="Done" xml:space="preserve">
         <source>Done</source>
+        <target state="translated">完成</target>
         <note/>
       </trans-unit>
       <trans-unit id="Duration" xml:space="preserve">
         <source>Duration</source>
+        <target state="translated">持续时间</target>
         <note/>
       </trans-unit>
       <trans-unit id="Duration Presets" xml:space="preserve">
         <source>Duration Presets</source>
+        <target state="translated">持续时间预设</target>
         <note/>
       </trans-unit>
       <trans-unit id="Duration in seconds" xml:space="preserve">
         <source>Duration in seconds</source>
+        <target state="translated">持续时间以秒为单位</target>
         <note/>
       </trans-unit>
       <trans-unit id="EUI48" translate="no" xml:space="preserve">
@@ -1280,50 +1361,62 @@
       </trans-unit>
       <trans-unit id="Edit presets..." xml:space="preserve">
         <source>Edit presets...</source>
+        <target state="translated">编辑预设…</target>
         <note/>
       </trans-unit>
       <trans-unit id="Editing presets requires Pro." xml:space="preserve">
         <source>Editing presets requires Pro.</source>
+        <target state="translated">编辑预设需要 Pro。</target>
         <note>Used on the 'Add new disable preset' screen</note>
       </trans-unit>
       <trans-unit id="Enable and disable protection." xml:space="preserve">
         <source>Enable and disable protection.</source>
+        <target state="translated">启用和禁用保护。</target>
         <note/>
       </trans-unit>
       <trans-unit id="Enable blocking" xml:space="preserve">
         <source>Enable blocking</source>
+        <target state="translated">启用拦截</target>
         <note/>
       </trans-unit>
       <trans-unit id="Enabled" xml:space="preserve">
         <source>Enabled</source>
+        <target state="translated">已启用</target>
         <note/>
       </trans-unit>
       <trans-unit id="Every 10 seconds" xml:space="preserve">
         <source>Every 10 seconds</source>
+        <target state="translated">每 10 秒钟</target>
         <note/>
       </trans-unit>
       <trans-unit id="Expanded" xml:space="preserve">
         <source>Expanded</source>
+        <target state="translated">已展开</target>
         <note>Dashboard size type</note>
       </trans-unit>
       <trans-unit id="Expires in %lld minutes" xml:space="preserve">
         <source>Expires in %lld minutes</source>
+        <target state="translated">%lld 分钟后失效</target>
         <note/>
       </trans-unit>
       <trans-unit id="Filters" xml:space="preserve">
         <source>Filters</source>
+        <target state="translated">过滤器</target>
         <note/>
       </trans-unit>
       <trans-unit id="Filters: %@" xml:space="preserve">
         <source>Filters: %@</source>
+        <target state="translated">过滤器: %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="Force Watch Sync" xml:space="preserve">
         <source>Force Watch Sync</source>
+        <target state="translated">强制手表同步</target>
         <note/>
       </trans-unit>
       <trans-unit id="Full Color" xml:space="preserve">
         <source>Full Color</source>
+        <target state="translated">全彩</target>
         <note/>
       </trans-unit>
       <trans-unit id="HINFO" translate="no" xml:space="preserve">
@@ -1340,6 +1433,7 @@
       </trans-unit>
       <trans-unit id="Hostname or domain name" xml:space="preserve">
         <source>Hostname or domain name</source>
+        <target state="translated">主机名或域名</target>
         <note/>
       </trans-unit>
       <trans-unit id="IPSECKEY" translate="no" xml:space="preserve">
@@ -1348,34 +1442,42 @@
       </trans-unit>
       <trans-unit id="Icon" xml:space="preserve">
         <source>Icon</source>
+        <target state="translated">图标</target>
         <note/>
       </trans-unit>
       <trans-unit id="If you already did, please go to your instance, press 'Edit' and press 'Save' again. It should show up after that. If not, try a restart of the Watch app." xml:space="preserve">
         <source>If you already did, please go to your instance, press 'Edit' and press 'Save' again. It should show up after that. If not, try a restart of the Watch app.</source>
+        <target state="translated">如果您已经操作，请前往您的实例,点击 ‘编辑’ 并再次点击 ‘保存’。完成以上操作后应该可以显示。如果仍未显示，请尝试重启手表 App。 </target>
         <note/>
       </trans-unit>
       <trans-unit id="Indefinitely" xml:space="preserve">
         <source>Indefinitely</source>
+        <target state="translated">无限期</target>
         <note/>
       </trans-unit>
       <trans-unit id="Info" xml:space="preserve">
         <source>Info</source>
+        <target state="translated">信息</target>
         <note/>
       </trans-unit>
       <trans-unit id="Instance" xml:space="preserve">
         <source>Instance</source>
+        <target state="translated">实例</target>
         <note/>
       </trans-unit>
       <trans-unit id="Instances" xml:space="preserve">
         <source>Instances</source>
+        <target state="translated">实例</target>
         <note/>
       </trans-unit>
       <trans-unit id="Invalid authentication or privacy setting." xml:space="preserve">
         <source>Invalid authentication or privacy setting.</source>
+        <target state="translated">验证无效或隐私设置。</target>
         <note/>
       </trans-unit>
       <trans-unit id="Invalid hostname or port." xml:space="preserve">
         <source>Invalid hostname or port.</source>
+        <target state="translated">主机名或端口无效。</target>
         <note/>
       </trans-unit>
       <trans-unit id="KEY" translate="no" xml:space="preserve">
@@ -1392,10 +1494,12 @@
       </trans-unit>
       <trans-unit id="Launch App" xml:space="preserve">
         <source>Launch App</source>
+        <target state="translated">启动 App</target>
         <note/>
       </trans-unit>
       <trans-unit id="Line-chart" xml:space="preserve">
         <source>Line-chart</source>
+        <target state="translated">折线图</target>
         <note>Chart type.</note>
       </trans-unit>
       <trans-unit id="MX" translate="no" xml:space="preserve">
@@ -1404,22 +1508,27 @@
       </trans-unit>
       <trans-unit id="Malware" xml:space="preserve">
         <source>Malware</source>
+        <target state="translated">恶意软件</target>
         <note/>
       </trans-unit>
       <trans-unit id="Malware: %@" xml:space="preserve">
         <source>Malware: %@</source>
+        <target state="translated">恶意软件: %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="ManGo - Anime &amp; Manga Tracker" xml:space="preserve">
         <source>ManGo - Anime &amp; Manga Tracker</source>
+        <target state="translated">ManGo - 动漫追踪器</target>
         <note/>
       </trans-unit>
       <trans-unit id="Monitor real-time electricity and gas prices in many European countries." xml:space="preserve">
         <source>Monitor real-time electricity and gas prices in many European countries.</source>
+        <target state="translated">实时监控多数欧洲国家的电价和油价。</target>
         <note>Subtitle under 'Utility Radar' app on the Made by RocketScience screen.</note>
       </trans-unit>
       <trans-unit id="Muted" xml:space="preserve">
         <source>Muted</source>
+        <target state="translated">已静音</target>
         <note/>
       </trans-unit>
       <trans-unit id="NAPTR" translate="no" xml:space="preserve">
@@ -1444,14 +1553,17 @@
       </trans-unit>
       <trans-unit id="Name" xml:space="preserve">
         <source>Name</source>
+        <target state="translated">名称</target>
         <note/>
       </trans-unit>
       <trans-unit id="New Instance" xml:space="preserve">
         <source>New Instance</source>
+        <target state="translated">新实例</target>
         <note/>
       </trans-unit>
       <trans-unit id="New OS versions are required for some of these new features. Please update your device!" xml:space="preserve">
         <source>New OS versions are required for some of these new features. Please update your device!</source>
+        <target state="translated">部分新功能需要新的操作版本版本。请更新您的设备!</target>
         <note/>
       </trans-unit>
       <trans-unit id="NextDNS Remote" translate="no" xml:space="preserve">
@@ -1460,26 +1572,32 @@
       </trans-unit>
       <trans-unit id="No Instances" xml:space="preserve">
         <source>No Instances</source>
+        <target state="translated">无实例</target>
         <note/>
       </trans-unit>
       <trans-unit id="No Watch Paired" xml:space="preserve">
         <source>No Watch Paired</source>
+        <target state="translated">无已配对手表</target>
         <note/>
       </trans-unit>
       <trans-unit id="No connection" xml:space="preserve">
         <source>No connection</source>
+        <target state="translated">无连接</target>
         <note/>
       </trans-unit>
       <trans-unit id="No data" xml:space="preserve">
         <source>No data</source>
+        <target state="translated">无数据</target>
         <note/>
       </trans-unit>
       <trans-unit id="No instance." xml:space="preserve">
         <source>No instance.</source>
+        <target state="translated">无实例</target>
         <note/>
       </trans-unit>
       <trans-unit id="No pages for this support item" xml:space="preserve">
         <source>No pages for this support item</source>
+        <target state="translated">此支持条目无页面</target>
         <note/>
       </trans-unit>
       <trans-unit id="OPENPGPKEY" translate="no" xml:space="preserve">
@@ -1488,38 +1606,47 @@
       </trans-unit>
       <trans-unit id="One-tap button|==|device.mac" xml:space="preserve">
         <source>One-click button</source>
+        <target state="translated">单击按钮</target>
         <note/>
       </trans-unit>
       <trans-unit id="One-tap button|==|device.other" xml:space="preserve">
         <source>One-tap button</source>
+        <target state="translated">单点按钮</target>
         <note/>
       </trans-unit>
       <trans-unit id="One-tap disable duration|==|device.mac" xml:space="preserve">
         <source>One-click disable duration</source>
+        <target state="translated">单击禁用持续时间</target>
         <note/>
       </trans-unit>
       <trans-unit id="One-tap disable duration|==|device.other" xml:space="preserve">
         <source>One-tap disable duration</source>
+        <target state="translated">单点禁用持续时间</target>
         <note/>
       </trans-unit>
       <trans-unit id="Open statistics." xml:space="preserve">
         <source>Open statistics.</source>
+        <target state="translated">打开统计数据</target>
         <note/>
       </trans-unit>
       <trans-unit id="Open the dashboard." xml:space="preserve">
         <source>Open the dashboard.</source>
+        <target state="translated">打开仪表品牌</target>
         <note/>
       </trans-unit>
       <trans-unit id="Open the query log." xml:space="preserve">
         <source>Open the query log.</source>
+        <target state="translated">打开查询日志</target>
         <note/>
       </trans-unit>
       <trans-unit id="Optional" xml:space="preserve">
         <source>Optional</source>
+        <target state="translated">可选</target>
         <note/>
       </trans-unit>
       <trans-unit id="Options" xml:space="preserve">
         <source>Options</source>
+        <target state="translated">选项</target>
         <note/>
       </trans-unit>
       <trans-unit id="PTR" translate="no" xml:space="preserve">
@@ -1528,46 +1655,57 @@
       </trans-unit>
       <trans-unit id="Parental" xml:space="preserve">
         <source>Parental</source>
+        <target state="translated">家长控制</target>
         <note/>
       </trans-unit>
       <trans-unit id="Parental: %@" xml:space="preserve">
         <source>Parental: %@</source>
+        <target state="translated">家长控制: %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="Paste from clipboard" xml:space="preserve">
         <source>Paste from clipboard</source>
+        <target state="translated">从剪贴板粘贴</target>
         <note>Accessibility label for the clipboard button</note>
       </trans-unit>
       <trans-unit id="Pi-hole Remote" translate="no" xml:space="preserve">
         <source>Pi-hole Remote</source>
+        <target state="translated">Pi-hole Remote</target>
         <note/>
       </trans-unit>
       <trans-unit id="Please add an instance in the iPhone app." xml:space="preserve">
         <source>Please add an instance in the iPhone app.</source>
+        <target state="translated">请在 iPhone App 中添加实例</target>
         <note/>
       </trans-unit>
       <trans-unit id="Presets" xml:space="preserve">
         <source>Presets</source>
+        <target state="translated">预设</target>
         <note/>
       </trans-unit>
       <trans-unit id="Processed" xml:space="preserve">
         <source>Processed</source>
+        <target state="translated">已处理</target>
         <note>Query status type.</note>
       </trans-unit>
       <trans-unit id="Processed: %@" xml:space="preserve">
         <source>Processed: %@</source>
+        <target state="translated">已处理: %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="Queries" xml:space="preserve">
         <source>Queries</source>
+        <target state="translated">查询记录</target>
         <note/>
       </trans-unit>
       <trans-unit id="Queries: %@" xml:space="preserve">
         <source>Queries: %@</source>
+        <target state="translated">查询记录: %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="Query Log" xml:space="preserve">
         <source>Query Log</source>
+        <target state="translated">查询日志</target>
         <note/>
       </trans-unit>
       <trans-unit id="RP" translate="no" xml:space="preserve">
@@ -1580,14 +1718,17 @@
       </trans-unit>
       <trans-unit id="Refreshing" xml:space="preserve">
         <source>Refreshing</source>
+        <target state="translated">正在刷新</target>
         <note/>
       </trans-unit>
       <trans-unit id="Regular" xml:space="preserve">
         <source>Regular</source>
+        <target state="translated">常规</target>
         <note>Dashboard size type</note>
       </trans-unit>
       <trans-unit id="Regular cards, combined chart" xml:space="preserve">
         <source>Regular cards, combined chart</source>
+        <target state="translated">常规卡片，与图表组合</target>
         <note>Dashboard size type explainer</note>
       </trans-unit>
       <trans-unit id="Remote for AdGuard DNS" translate="no" xml:space="preserve">
@@ -1596,22 +1737,27 @@
       </trans-unit>
       <trans-unit id="Remove Pro license" xml:space="preserve">
         <source>Remove Pro license</source>
+        <target state="translated">移除 Pro 许可</target>
         <note/>
       </trans-unit>
       <trans-unit id="Remove Statistics Limits" xml:space="preserve">
         <source>Remove Statistics Limits</source>
+        <target state="translated">移除统计数据限制</target>
         <note/>
       </trans-unit>
       <trans-unit id="Reorder by dragging, remove by swiping." xml:space="preserve">
         <source>Reorder by dragging, remove by swiping.</source>
+        <target state="translated">拖动重排，扫动删除。</target>
         <note>Used on the 'Add new disable preset' screen</note>
       </trans-unit>
       <trans-unit id="Request timed out." xml:space="preserve">
         <source>Request timed out.</source>
+        <target state="translated">请求超时。</target>
         <note/>
       </trans-unit>
       <trans-unit id="Result: %@" xml:space="preserve">
         <source>Result: %@</source>
+        <target state="translated">结果: %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="RocketScience IT" translate="no" xml:space="preserve">
@@ -1644,106 +1790,132 @@
       </trans-unit>
       <trans-unit id="Schedule" xml:space="preserve">
         <source>Schedule</source>
+        <target state="translated">计划任务</target>
         <note/>
       </trans-unit>
       <trans-unit id="Seconds" xml:space="preserve">
         <source>Seconds</source>
+        <target state="translated">秒</target>
         <note>Used on the 'Add new disable preset' screen</note>
       </trans-unit>
       <trans-unit id="Select an Instance" xml:space="preserve">
         <source>Select an Instance</source>
+        <target state="translated">选择一个实例</target>
         <note/>
       </trans-unit>
       <trans-unit id="Select..." xml:space="preserve">
         <source>Select...</source>
+        <target state="translated">选择…</target>
         <note>Used in the DHCP interface picker on the DHCP Settings screen.</note>
       </trans-unit>
       <trans-unit id="Selected" xml:space="preserve">
         <source>Selected</source>
+        <target state="translated">已选择</target>
         <note/>
       </trans-unit>
       <trans-unit id="Separate cards and charts" xml:space="preserve">
         <source>Separate cards and charts</source>
+        <target state="translated">分离卡片与图表</target>
         <note>Dashboard size type explainer</note>
       </trans-unit>
       <trans-unit id="Settings" xml:space="preserve">
         <source>Settings</source>
+        <target state="translated">设置</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show 'Indefinitely'" xml:space="preserve">
         <source>Show 'Indefinitely'</source>
+        <target state="translated">显示 ‘无限期’</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show 'Until tomorrow'" xml:space="preserve">
         <source>Show 'Until tomorrow'</source>
+        <target state="translated">显示 ‘直至明日’</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show Changelog again on startup" xml:space="preserve">
         <source>Show Changelog again on startup</source>
+        <target state="translated">启动时再次显示更新日志</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show Client IDs" xml:space="preserve">
         <source>Show Client IDs</source>
+        <target state="translated">显示客户端 ID</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show all icons" xml:space="preserve">
         <source>Show all icons</source>
+        <target state="translated">显示所有图标</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show chart" xml:space="preserve">
         <source>Show chart</source>
+        <target state="translated">显示图表</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show hostname" xml:space="preserve">
         <source>Show hostname</source>
+        <target state="translated">显示主机名</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show instance version" xml:space="preserve">
         <source>Show instance version</source>
+        <target state="translated">显示实例版本号</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show legend" xml:space="preserve">
         <source>Show legend</source>
+        <target state="translated">显示图例</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show more..." xml:space="preserve">
         <source>Show more...</source>
+        <target state="translated">显示更多…</target>
         <note>Used on the Statistics-screen.</note>
       </trans-unit>
       <trans-unit id="Show version" xml:space="preserve">
         <source>Show version</source>
+        <target state="translated">显示版本号</target>
         <note/>
       </trans-unit>
       <trans-unit id="Sidebar" xml:space="preserve">
         <source>Sidebar</source>
+        <target state="translated">侧栏</target>
         <note>Used in the 'Preferences Other' screen in the navigation style picker (only visible for iPad)</note>
       </trans-unit>
       <trans-unit id="Small cards, combined chart" xml:space="preserve">
         <source>Small cards, combined chart</source>
+        <target state="translated">小卡片，与图表组合</target>
         <note>Dashboard size type explainer</note>
       </trans-unit>
       <trans-unit id="Something went wrong with your purchase." xml:space="preserve">
         <source>Something went wrong with your purchase.</source>
+        <target state="translated">您的购买发生了故障</target>
         <note/>
       </trans-unit>
       <trans-unit id="Something went wrong." xml:space="preserve">
         <source>Something went wrong.</source>
+        <target state="translated">发生故障</target>
         <note/>
       </trans-unit>
       <trans-unit id="Statistics" xml:space="preserve">
         <source>Statistics</source>
+        <target state="translated">统计数据</target>
         <note/>
       </trans-unit>
       <trans-unit id="Status" xml:space="preserve">
         <source>Status</source>
+        <target state="translated">状态</target>
         <note/>
       </trans-unit>
       <trans-unit id="Sub-buttons" xml:space="preserve">
         <source>Sub-buttons</source>
+        <target state="translated">子按钮</target>
         <note/>
       </trans-unit>
       <trans-unit id="Support" xml:space="preserve">
         <source>Support</source>
+        <target state="translated">支持</target>
         <note/>
       </trans-unit>
       <trans-unit id="TA" translate="no" xml:space="preserve">
@@ -1768,78 +1940,97 @@
       </trans-unit>
       <trans-unit id="Tabbar" xml:space="preserve">
         <source>Tabbar</source>
+        <target state="translated">标签栏</target>
         <note>Used in the 'Preferences Other' screen in the navigation style picker (only visible for iPad)</note>
       </trans-unit>
       <trans-unit id="Target" xml:space="preserve">
         <source>Target</source>
+        <target state="translated">目标</target>
         <note/>
       </trans-unit>
       <trans-unit id="TestFlight Debug" xml:space="preserve">
         <source>TestFlight Debug</source>
+        <target state="translated">TestFlight Debug</target>
         <note/>
       </trans-unit>
       <trans-unit id="The original enddate when blocking would be enabled again." xml:space="preserve">
         <source>The original enddate when blocking would be enabled again.</source>
+        <target state="translated">拦截时过期时间将会再次启用。</target>
         <note/>
       </trans-unit>
       <trans-unit id="This version requires iOS 15, watchOS 8, macOS 12 (or newer)." xml:space="preserve">
         <source>This version requires iOS 15, watchOS 8, macOS 12 (or newer).</source>
+        <target state="translated">此版本需要 iOS 15，watchOS 8，macOS 12 (或更新)。</target>
         <note/>
       </trans-unit>
       <trans-unit id="This version requires iOS 16.2 &amp; watchOS 10.0 (or newer)." xml:space="preserve">
         <source>This version requires iOS 16.2 &amp; watchOS 10.0 (or newer).</source>
+        <target state="translated">此版本需要 iOS 16.2 和 watchOS 10.0 (或更新)。</target>
         <note/>
       </trans-unit>
       <trans-unit id="Toggle Protection" xml:space="preserve">
         <source>Toggle Protection</source>
+        <target state="translated">切换保护</target>
         <note/>
       </trans-unit>
       <trans-unit id="Toggle between enabled &amp; disabled" xml:space="preserve">
         <source>Toggle between enabled &amp; disabled</source>
+        <target state="translated">在已启用和已禁用间切换</target>
         <note/>
       </trans-unit>
       <trans-unit id="Toggle only between enabled &amp; disabled. Hold the button for more options." xml:space="preserve">
         <source>Toggle only between enabled &amp; disabled. Hold the button for more options.</source>
+        <target state="translated">仅在已启用和已禁用间切换。长按按钮显示更多选项。</target>
         <note/>
       </trans-unit>
       <trans-unit id="Top Blocked Domains" xml:space="preserve">
         <source>Top Blocked Domains</source>
+        <target state="translated">被拦截域名排行</target>
         <note>Used on the Statistics-screen.</note>
       </trans-unit>
       <trans-unit id="Top Blocked Domains: %@" xml:space="preserve">
         <source>Top Blocked Domains: %@</source>
+        <target state="translated">被拦截域名排行: %@</target>
         <note>Used on the Statistics-screen, with the instance name.</note>
       </trans-unit>
       <trans-unit id="Top Clients" xml:space="preserve">
         <source>Top Clients</source>
+        <target state="translated">客户端排行</target>
         <note>Used on the Statistics-screen.</note>
       </trans-unit>
       <trans-unit id="Top Clients: %@" xml:space="preserve">
         <source>Top Clients: %@</source>
+        <target state="translated">客户端排行: %@</target>
         <note>Used on the Statistics-screen, with the instance name.</note>
       </trans-unit>
       <trans-unit id="Top Queried Domains" xml:space="preserve">
         <source>Top Queried Domains</source>
+        <target state="translated">请求域名排行</target>
         <note>Used on the Statistics-screen.</note>
       </trans-unit>
       <trans-unit id="Top Queried Domains: %@" xml:space="preserve">
         <source>Top Queried Domains: %@</source>
+        <target state="translated">请求域名排行: %@</target>
         <note>Used on the Statistics-screen, with the instance name.</note>
       </trans-unit>
       <trans-unit id="Top Upstreams" xml:space="preserve">
         <source>Top Upstreams</source>
+        <target state="translated">上游服务器排行</target>
         <note>Used on the Statistics-screen.</note>
       </trans-unit>
       <trans-unit id="Top Upstreams: %@" xml:space="preserve">
         <source>Top Upstreams: %@</source>
+        <target state="translated">上游服务器排行: %@</target>
         <note>Used on the Statistics-screen, with the instance name.</note>
       </trans-unit>
       <trans-unit id="Total" xml:space="preserve">
         <source>Total</source>
+        <target state="translated">所有</target>
         <note>Query status type.</note>
       </trans-unit>
       <trans-unit id="Total: %@" xml:space="preserve">
         <source>Total: %@</source>
+        <target state="translated">所有: %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="URI" translate="no" xml:space="preserve">
@@ -1848,42 +2039,52 @@
       </trans-unit>
       <trans-unit id="Unknown" xml:space="preserve">
         <source>Unknown</source>
+        <target state="translated">未知</target>
         <note/>
       </trans-unit>
       <trans-unit id="Unknown Error" xml:space="preserve">
         <source>Unknown Error</source>
+        <target state="translated">未知错误</target>
         <note/>
       </trans-unit>
       <trans-unit id="Until tomorrow" xml:space="preserve">
         <source>Until tomorrow</source>
+        <target state="translated">直至明日</target>
         <note/>
       </trans-unit>
       <trans-unit id="Use NextDNS? Have I got an app for you." xml:space="preserve">
         <source>Use NextDNS? Have I got an app for you.</source>
+        <target state="translated">使用 NextDNS? 我为您做了一款 App</target>
         <note/>
       </trans-unit>
       <trans-unit id="User Interface" xml:space="preserve">
         <source>User Interface</source>
+        <target state="translated">用户界面</target>
         <note/>
       </trans-unit>
       <trans-unit id="Utility Radar" xml:space="preserve">
         <source>Utility Radar</source>
+        <target state="translated">效用雷达</target>
         <note/>
       </trans-unit>
       <trans-unit id="Version" xml:space="preserve">
         <source>Version</source>
+        <target state="translated">版本</target>
         <note/>
       </trans-unit>
       <trans-unit id="Version: %@." xml:space="preserve">
         <source>Version: %@.</source>
+        <target state="translated">版本: %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="Watch App Not Installed" xml:space="preserve">
         <source>Watch App Not Installed</source>
+        <target state="translated">手表 App 未安装</target>
         <note/>
       </trans-unit>
       <trans-unit id="You've reached the maximum of 6 presets." xml:space="preserve">
         <source>You've reached the maximum of 6 presets.</source>
+        <target state="translated">您已达到最多 6 个预设。</target>
         <note>Used on the 'Add new disable preset' screen</note>
       </trans-unit>
       <trans-unit id="ZONEMD" translate="no" xml:space="preserve">
@@ -1942,17 +2143,17 @@
       </trans-unit>
       <trans-unit id="appintents_duration" xml:space="preserve">
         <source>Duration</source>
-        <target state="translated">持续期间</target>
+        <target state="translated">持续时间</target>
         <note/>
       </trans-unit>
       <trans-unit id="appintents_duration_explainer" xml:space="preserve">
         <source>Specifies the duration to disable for, in minutes. Set to '0' to disable indefinitely.</source>
-        <target state="translated">指定禁用保护的持续期间，以分钟为单位。设置为 '0' 可无限期禁用。</target>
+        <target state="translated">指定禁用保护的持续时间，以分钟为单位。设置为 '0' 可无限期禁用。</target>
         <note/>
       </trans-unit>
       <trans-unit id="appintents_duration_minutes" xml:space="preserve">
         <source>Duration (minutes)</source>
-        <target state="translated">持续期间 (minutes)</target>
+        <target state="translated">持续时间 (以分钟为单位)</target>
         <note/>
       </trans-unit>
       <trans-unit id="appintents_state" xml:space="preserve">
@@ -1967,6 +2168,7 @@
       </trans-unit>
       <trans-unit id="avg %@ms" xml:space="preserve">
         <source>avg %@ms</source>
+        <target state="translated">平均耗时 %@ 毫秒</target>
         <note/>
       </trans-unit>
       <trans-unit id="blocked_services" xml:space="preserve">
@@ -1996,6 +2198,7 @@
       </trans-unit>
       <trans-unit id="cache" xml:space="preserve">
         <source>cache</source>
+        <target state="translated">缓存</target>
         <note/>
       </trans-unit>
       <trans-unit id="cancel" xml:space="preserve">
@@ -3106,6 +3309,7 @@ Search</source>
       </trans-unit>
       <trans-unit id="example.com" xml:space="preserve">
         <source>example.com</source>
+        <target state="translated">example.com</target>
         <note/>
       </trans-unit>
       <trans-unit id="filtering_addfilter_allowlist" xml:space="preserve">
@@ -3510,6 +3714,7 @@ Search</source>
       </trans-unit>
       <trans-unit id="important" xml:space="preserve">
         <source>important</source>
+        <target state="translated">重要</target>
         <note/>
       </trans-unit>
       <trans-unit id="indefinitely" xml:space="preserve">
@@ -3549,7 +3754,7 @@ Search</source>
       </trans-unit>
       <trans-unit id="instance_connecting_to_%@" xml:space="preserve">
         <source>Connecting to: '%@'</source>
-        <target state="translated">Connecting to: '%@'</target>
+        <target state="translated">连接到: '%@'</target>
         <note/>
       </trans-unit>
       <trans-unit id="instance_custom_headers" xml:space="preserve">
@@ -3619,38 +3824,47 @@ Search</source>
       </trans-unit>
       <trans-unit id="key" xml:space="preserve">
         <source>key</source>
+        <target state="translated">键值</target>
         <note>Placeholder of the 'custom header key' textfield in instance settings.</note>
       </trans-unit>
       <trans-unit id="last 3 days" xml:space="preserve">
         <source>last 3 days</source>
+        <target state="translated">近 3 天</target>
         <note/>
       </trans-unit>
       <trans-unit id="last 6 hours" xml:space="preserve">
         <source>last 6 hours</source>
+        <target state="translated">近 6 小时</target>
         <note/>
       </trans-unit>
       <trans-unit id="last 7 days" xml:space="preserve">
         <source>last 7 days</source>
+        <target state="translated">近 7 天</target>
         <note/>
       </trans-unit>
       <trans-unit id="last 12 hours" xml:space="preserve">
         <source>last 12 hours</source>
+        <target state="translated">近 12 小时</target>
         <note/>
       </trans-unit>
       <trans-unit id="last 24 hours" xml:space="preserve">
         <source>last 24 hours</source>
+        <target state="translated">近 24 小时</target>
         <note/>
       </trans-unit>
       <trans-unit id="last 30 days" xml:space="preserve">
         <source>last 30 days</source>
+        <target state="translated">近 30 天</target>
         <note/>
       </trans-unit>
       <trans-unit id="last 90 days" xml:space="preserve">
         <source>last 90 days</source>
+        <target state="translated">近 90 天</target>
         <note/>
       </trans-unit>
       <trans-unit id="last hour" xml:space="preserve">
         <source>last hour</source>
+        <target state="translated">近 1 小时</target>
         <note/>
       </trans-unit>
       <trans-unit id="liveactivity_ends" xml:space="preserve">
@@ -3815,6 +4029,7 @@ Search</source>
       </trans-unit>
       <trans-unit id="off" xml:space="preserve">
         <source>off</source>
+        <target state="translated">关</target>
         <note/>
       </trans-unit>
       <trans-unit id="ok" xml:space="preserve">
@@ -3824,10 +4039,12 @@ Search</source>
       </trans-unit>
       <trans-unit id="on" xml:space="preserve">
         <source>on</source>
+        <target state="translated">开</target>
         <note/>
       </trans-unit>
       <trans-unit id="original_enddate" xml:space="preserve">
         <source>Original Enddate</source>
+        <target state="translated">过期时间</target>
         <note/>
       </trans-unit>
       <trans-unit id="other" xml:space="preserve">
@@ -4247,7 +4464,7 @@ Remote Pro</target>
       </trans-unit>
       <trans-unit id="query_status_FilteredParental" xml:space="preserve">
         <source>Parental Control</source>
-        <target state="needs-review-l10n">已拦截 | 家长控制</target>
+        <target state="translated">家长控制</target>
         <note/>
       </trans-unit>
       <trans-unit id="query_status_FilteredSafeBrowsing" xml:space="preserve">
@@ -4257,7 +4474,7 @@ Remote Pro</target>
       </trans-unit>
       <trans-unit id="query_status_FilteredSafeSearch" xml:space="preserve">
         <source>Safe Search</source>
-        <target state="needs-review-l10n">已拦截 | 安全搜索</target>
+        <target state="translated">安全搜索</target>
         <note/>
       </trans-unit>
       <trans-unit id="query_status_NotFilteredError" xml:space="preserve">
@@ -4537,7 +4754,7 @@ Remote Pro</target>
       </trans-unit>
       <trans-unit id="querylog_show_extra_detail" xml:space="preserve">
         <source>Show response details</source>
-        <target state="needs-review-l10n">显示额外细节</target>
+        <target state="translated">显示响应细节</target>
         <note/>
       </trans-unit>
       <trans-unit id="querylog_show_queries_status" xml:space="preserve">
@@ -4612,7 +4829,7 @@ Remote Pro</target>
       </trans-unit>
       <trans-unit id="remove" xml:space="preserve">
         <source>Remove</source>
-        <target state="translated">删除</target>
+        <target state="translated">移除</target>
         <note/>
       </trans-unit>
       <trans-unit id="reset" xml:space="preserve">
@@ -4726,10 +4943,12 @@ My main goal is to learn: design, development, testing, support, promotion - may
       </trans-unit>
       <trans-unit id="select_instance_and_duration" xml:space="preserve">
         <source>Select instance &amp; duration</source>
+        <target state="translated">选择实例和持续时间</target>
         <note/>
       </trans-unit>
       <trans-unit id="select_instance_and_duration_description" xml:space="preserve">
         <source>Disable protection for a certain duration.</source>
+        <target state="translated">在指定持续时间内禁用保护。</target>
         <note/>
       </trans-unit>
       <trans-unit id="services" xml:space="preserve">
@@ -5099,7 +5318,7 @@ If you want to tip, please download the app from the App Store! After that you c
       </trans-unit>
       <trans-unit id="total" xml:space="preserve">
         <source>Total</source>
-        <target state="translated">全部</target>
+        <target state="translated">所有</target>
         <note>MARK: Apple Watch</note>
       </trans-unit>
       <trans-unit id="unknown" xml:space="preserve">
@@ -5123,6 +5342,7 @@ If you want to tip, please download the app from the App Store! After that you c
       </trans-unit>
       <trans-unit id="value" xml:space="preserve">
         <source>value</source>
+        <target state="translated">键值</target>
         <note>Placeholder of the 'custom header value' textfield in instance settings.</note>
       </trans-unit>
       <trans-unit id="watch_stuck_reinstall" xml:space="preserve">
