@@ -456,6 +456,9 @@
         }
       }
     },
+    "Cancel" : {
+
+    },
     "Card color" : {
 
     },
@@ -976,6 +979,9 @@
           }
         }
       }
+    },
+    "Close" : {
+
     },
     "CNAME" : {
       "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
@@ -2715,9 +2721,6 @@
         }
       }
     },
-    "Done" : {
-
-    },
     "DS" : {
       "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
       "shouldTranslate" : false
@@ -2751,6 +2754,9 @@
 
     },
     "Enable blocking" : {
+
+    },
+    "Enable cache" : {
 
     },
     "enable_protection" : {
@@ -4509,6 +4515,7 @@
       }
     },
     "preferences_dashboard_show_multipleInstanceToolbar" : {
+      "comment" : "Displayed in Dashboard Preferences.",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -4519,6 +4526,7 @@
       }
     },
     "preferences_dashboard_show_multipleInstanceToolbar_subtitle" : {
+      "comment" : "Displayed in Dashboard Preferences.",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -6327,9 +6335,6 @@
         }
       }
     },
-    "Settings" : {
-
-    },
     "settings_add-instance" : {
       "localizations" : {
         "en" : {
@@ -6779,6 +6784,9 @@
         }
       }
     },
+    "Show 'All' button" : {
+      "comment" : "Displayed in Dashboard Preferences."
+    },
     "Show 'Indefinitely'" : {
 
     },
@@ -6898,6 +6906,9 @@
       }
     },
     "Status" : {
+
+    },
+    "Store DNS responses locally" : {
 
     },
     "Sub-buttons" : {
