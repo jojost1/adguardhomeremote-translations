@@ -118,6 +118,19 @@
                 },
                 {
                     "id": 1,
+                    "title": "Usage with GL.iNet routers",
+                    "subtitle": "Trick to get it working",
+                    "imageName": "wifi.circle.fill",
+                    "supportPages": [{
+                            "id": 0,
+                            "title": "GL.iNet",
+                            "subtitle": "Follow these instructions to get it to work:",
+                            "buttonUrlString": "https://www.reddit.com/r/GlInet/comments/1hu6mje/tutorial_how_to_modify_adguard_home_on_glinet/"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
                     "title": "Painel",
                     "subtitle": "O que significam os botões?",
                     "imageName": "house.circle.fill",
