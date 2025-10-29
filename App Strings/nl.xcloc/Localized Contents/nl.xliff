@@ -1612,6 +1612,11 @@
         <target state="translated">Eén-tik-knop uitschakelduur</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Open" xml:space="preserve">
+        <source>Open</source>
+        <target state="translated">Open</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Open statistics." xml:space="preserve">
         <source>Open statistics.</source>
         <target state="translated">Open statistieken</target>
@@ -3235,6 +3240,11 @@ Zoeken</target>
         <target state="translated">IP of Domeinnaam</target>
         <note/>
       </trans-unit>
+      <trans-unit id="dnsrewrites_disable" xml:space="preserve">
+        <source>Disable</source>
+        <target state="translated">Uitschakelen</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="dnsrewrites_domain" xml:space="preserve">
         <source>Domain</source>
         <target state="translated">Domein</target>
@@ -3250,10 +3260,30 @@ Zoeken</target>
         <target state="translated">Bewerk DNS Herschrijving</target>
         <note/>
       </trans-unit>
+      <trans-unit id="dnsrewrites_enable" xml:space="preserve">
+        <source>Enable</source>
+        <target state="translated">Inschakelen</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="dnsrewrites_enabled" xml:space="preserve">
+        <source>Enabled</source>
+        <target state="translated">Ingeschakeld</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="dnsrewrites_entries" xml:space="preserve">
         <source>Entries</source>
         <target state="translated">Herschrijvingen</target>
-        <note>MARK: DNS Rewrites</note>
+        <note/>
+      </trans-unit>
+      <trans-unit id="dnsrewrites_global_enable" xml:space="preserve">
+        <source>Enable Rewrites</source>
+        <target state="translated">Herschrijvingen inschakelen</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="dnsrewrites_global_enable_footer" xml:space="preserve">
+        <source>Enables/disables all rewrite entries.</source>
+        <target state="translated">Schakelt alle herschrijvingen in/uit.</target>
+        <note/>
       </trans-unit>
       <trans-unit id="dnsrewrites_new" xml:space="preserve">
         <source>New DNS Rewrite</source>

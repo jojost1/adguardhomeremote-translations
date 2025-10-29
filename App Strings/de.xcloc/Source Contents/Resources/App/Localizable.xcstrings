@@ -2628,6 +2628,16 @@
         }
       }
     },
+    "dnsrewrites_disable" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Disable"
+          }
+        }
+      }
+    },
     "dnsrewrites_domain" : {
       "localizations" : {
         "en" : {
@@ -2658,13 +2668,52 @@
         }
       }
     },
+    "dnsrewrites_enable" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enable"
+          }
+        }
+      }
+    },
+    "dnsrewrites_enabled" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enabled"
+          }
+        }
+      }
+    },
     "dnsrewrites_entries" : {
-      "comment" : "MARK: DNS Rewrites",
       "localizations" : {
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Entries"
+          }
+        }
+      }
+    },
+    "dnsrewrites_global_enable" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enable Rewrites"
+          }
+        }
+      }
+    },
+    "dnsrewrites_global_enable_footer" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enables/disables all rewrite entries."
           }
         }
       }
@@ -4388,6 +4437,9 @@
           }
         }
       }
+    },
+    "Open" : {
+
     },
     "Open statistics." : {
 

@@ -1631,6 +1631,10 @@
         <target state="translated">单点禁用持续时间</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Open" xml:space="preserve">
+        <source>Open</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="Open statistics." xml:space="preserve">
         <source>Open statistics.</source>
         <target state="translated">打开统计数据</target>
@@ -3251,6 +3255,10 @@ Search</source>
         <target state="translated">IP 地址或域名</target>
         <note/>
       </trans-unit>
+      <trans-unit id="dnsrewrites_disable" xml:space="preserve">
+        <source>Disable</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="dnsrewrites_domain" xml:space="preserve">
         <source>Domain</source>
         <target state="translated">域名</target>
@@ -3266,10 +3274,26 @@ Search</source>
         <target state="translated">编辑 DNS 重写</target>
         <note/>
       </trans-unit>
+      <trans-unit id="dnsrewrites_enable" xml:space="preserve">
+        <source>Enable</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="dnsrewrites_enabled" xml:space="preserve">
+        <source>Enabled</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="dnsrewrites_entries" xml:space="preserve">
         <source>Entries</source>
         <target state="translated">条目</target>
-        <note>MARK: DNS Rewrites</note>
+        <note/>
+      </trans-unit>
+      <trans-unit id="dnsrewrites_global_enable" xml:space="preserve">
+        <source>Enable Rewrites</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="dnsrewrites_global_enable_footer" xml:space="preserve">
+        <source>Enables/disables all rewrite entries.</source>
+        <note/>
       </trans-unit>
       <trans-unit id="dnsrewrites_new" xml:space="preserve">
         <source>New DNS Rewrite</source>

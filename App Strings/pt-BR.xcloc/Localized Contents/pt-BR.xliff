@@ -1592,6 +1592,10 @@
         <source>One-tap disable duration</source>
         <note/>
       </trans-unit>
+      <trans-unit id="Open" xml:space="preserve">
+        <source>Open</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="Open statistics." xml:space="preserve">
         <source>Open statistics.</source>
         <note/>
@@ -3170,6 +3174,10 @@ Segura</target>
         <target state="translated">IP ou Nome do Domínio</target>
         <note/>
       </trans-unit>
+      <trans-unit id="dnsrewrites_disable" xml:space="preserve">
+        <source>Disable</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="dnsrewrites_domain" xml:space="preserve">
         <source>Domain</source>
         <target state="translated">Domínio</target>
@@ -3185,10 +3193,26 @@ Segura</target>
         <target state="translated">Editar Reescrita DNS</target>
         <note/>
       </trans-unit>
+      <trans-unit id="dnsrewrites_enable" xml:space="preserve">
+        <source>Enable</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="dnsrewrites_enabled" xml:space="preserve">
+        <source>Enabled</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="dnsrewrites_entries" xml:space="preserve">
         <source>Entries</source>
         <target state="translated">Entradas</target>
-        <note>MARK: DNS Rewrites</note>
+        <note/>
+      </trans-unit>
+      <trans-unit id="dnsrewrites_global_enable" xml:space="preserve">
+        <source>Enable Rewrites</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="dnsrewrites_global_enable_footer" xml:space="preserve">
+        <source>Enables/disables all rewrite entries.</source>
+        <note/>
       </trans-unit>
       <trans-unit id="dnsrewrites_new" xml:space="preserve">
         <source>New DNS Rewrite</source>
