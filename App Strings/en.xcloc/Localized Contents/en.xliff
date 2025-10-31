@@ -1020,6 +1020,11 @@
         <target state="translated">30 days</target>
         <note/>
       </trans-unit>
+      <trans-unit id="48h" xml:space="preserve">
+        <source>48h</source>
+        <target state="new">48h</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="80" translate="no" xml:space="preserve">
         <source>80</source>
         <target state="new">80</target>
@@ -3986,6 +3991,11 @@ Search</target>
       <trans-unit id="last 30 days" xml:space="preserve">
         <source>last 30 days</source>
         <target state="new">last 30 days</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="last 48 hours" xml:space="preserve">
+        <source>last 48 hours</source>
+        <target state="new">last 48 hours</target>
         <note/>
       </trans-unit>
       <trans-unit id="last 90 days" xml:space="preserve">

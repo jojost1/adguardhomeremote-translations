@@ -94,6 +94,9 @@
         }
       }
     },
+    "48h" : {
+
+    },
     "80" : {
       "comment" : "Placeholder of the 'port' textfield",
       "shouldTranslate" : false
@@ -3972,6 +3975,9 @@
 
     },
     "last 30 days" : {
+
+    },
+    "last 48 hours" : {
 
     },
     "last 90 days" : {

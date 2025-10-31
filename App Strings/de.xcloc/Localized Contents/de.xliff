@@ -968,6 +968,10 @@
         <target state="translated">30 Tage</target>
         <note/>
       </trans-unit>
+      <trans-unit id="48h" xml:space="preserve">
+        <source>48h</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="80" translate="no" xml:space="preserve">
         <source>80</source>
         <note>Placeholder of the 'port' textfield</note>
@@ -3658,34 +3662,47 @@ Search</source>
       </trans-unit>
       <trans-unit id="last 3 days" xml:space="preserve">
         <source>last 3 days</source>
+        <target state="translated">letzte 3 Tage</target>
         <note/>
       </trans-unit>
       <trans-unit id="last 6 hours" xml:space="preserve">
         <source>last 6 hours</source>
+        <target state="translated">letzte 6 Stunden</target>
         <note/>
       </trans-unit>
       <trans-unit id="last 7 days" xml:space="preserve">
         <source>last 7 days</source>
+        <target state="translated">letzte 7 Tage</target>
         <note/>
       </trans-unit>
       <trans-unit id="last 12 hours" xml:space="preserve">
         <source>last 12 hours</source>
+        <target state="translated">letzte 12 Stunden</target>
         <note/>
       </trans-unit>
       <trans-unit id="last 24 hours" xml:space="preserve">
         <source>last 24 hours</source>
+        <target state="translated">letzte 24 Stunden</target>
         <note/>
       </trans-unit>
       <trans-unit id="last 30 days" xml:space="preserve">
         <source>last 30 days</source>
+        <target state="translated">letzte 30 Tage</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="last 48 hours" xml:space="preserve">
+        <source>last 48 hours</source>
+        <target state="translated">letzte 48 Stunden</target>
         <note/>
       </trans-unit>
       <trans-unit id="last 90 days" xml:space="preserve">
         <source>last 90 days</source>
+        <target state="translated">letzte 90 Tage</target>
         <note/>
       </trans-unit>
       <trans-unit id="last hour" xml:space="preserve">
         <source>last hour</source>
+        <target state="translated">letzte Stunde</target>
         <note/>
       </trans-unit>
       <trans-unit id="liveactivity_ends" xml:space="preserve">

@@ -968,6 +968,10 @@
         <target state="translated">30 días</target>
         <note/>
       </trans-unit>
+      <trans-unit id="48h" xml:space="preserve">
+        <source>48h</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="80" translate="no" xml:space="preserve">
         <source>80</source>
         <note>Placeholder of the 'port' textfield</note>
@@ -3681,6 +3685,10 @@ Segura</target>
       </trans-unit>
       <trans-unit id="last 30 days" xml:space="preserve">
         <source>last 30 days</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="last 48 hours" xml:space="preserve">
+        <source>last 48 hours</source>
         <note/>
       </trans-unit>
       <trans-unit id="last 90 days" xml:space="preserve">
