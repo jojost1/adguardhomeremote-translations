@@ -2,7 +2,7 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="AdGuard Home Remote Watch App WatchKit Extension/AdGuard-Home-Remote-Watch-App-InfoPlist.xcstrings" source-language="en" target-language="ru" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.0.1" build-num="17A400"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.1.1" build-num="17B100"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -21,7 +21,7 @@
   </file>
   <file original="AdGuard Home Remote Widgets/Base.lproj/WidgetConfigs.intentdefinition" source-language="en" target-language="ru" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.0.1" build-num="17A400"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.1.1" build-num="17B100"/>
     </header>
     <body>
       <trans-unit id="0foAlr-1ekF7R" xml:space="preserve">
@@ -261,7 +261,7 @@
   </file>
   <file original="AdGuard Home Remote Widgets/InfoPlist.xcstrings" source-language="en" target-language="ru" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.0.1" build-num="17A400"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.1.1" build-num="17B100"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" translate="no" xml:space="preserve">
@@ -276,7 +276,7 @@
   </file>
   <file original="App Intents &amp; Shortcuts/Base.lproj/Intents.intentdefinition" source-language="en" target-language="ru" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.0.1" build-num="17A400"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.1.1" build-num="17B100"/>
     </header>
     <body>
       <trans-unit id="0sDcS3" xml:space="preserve">
@@ -803,7 +803,7 @@
   </file>
   <file original="App Intents &amp; Shortcuts/InfoPlist.xcstrings" source-language="en" target-language="ru" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.0.1" build-num="17A400"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.1.1" build-num="17B100"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" translate="no" xml:space="preserve">
@@ -822,7 +822,7 @@
   </file>
   <file original="App Intents &amp; Shortcuts/Localizable.xcstrings" source-language="en" target-language="ru" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.0.1" build-num="17A400"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.1.1" build-num="17B100"/>
     </header>
     <body>
       <trans-unit id="Can't reach AdGuard Home." xml:space="preserve">
@@ -849,7 +849,7 @@
   </file>
   <file original="iOS/InfoPlist.xcstrings" source-language="en" target-language="ru" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.0.1" build-num="17A400"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.1.1" build-num="17B100"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" translate="no" xml:space="preserve">
@@ -879,7 +879,7 @@
   </file>
   <file original="Resources/App/AdGuard Home Remote WidgetsExtension copy-InfoPlist.xcstrings" source-language="en" target-language="ru" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.0.1" build-num="17A400"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.1.1" build-num="17B100"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -894,7 +894,7 @@
   </file>
   <file original="Resources/App/en.lproj/AppShortcuts.strings" source-language="en" target-language="ru" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.0.1" build-num="17A400"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.1.1" build-num="17B100"/>
     </header>
     <body>
       <trans-unit id="Disable protection for ${duration} minutes in ${applicationName}" xml:space="preserve">
@@ -916,7 +916,7 @@
   </file>
   <file original="Resources/App/InfoPlist.xcstrings" source-language="en" target-language="ru" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.0.1" build-num="17A400"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.1.1" build-num="17B100"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" translate="no" xml:space="preserve">
@@ -931,7 +931,7 @@
   </file>
   <file original="Resources/App/Localizable.xcstrings" source-language="en" target-language="ru" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.0.1" build-num="17A400"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.1.1" build-num="17B100"/>
     </header>
     <body>
       <trans-unit id="%@" translate="no" xml:space="preserve">
@@ -1056,10 +1056,6 @@
         <target state="translated">Доступность</target>
         <note/>
       </trans-unit>
-      <trans-unit id="AdGuard Home Remote" translate="no" xml:space="preserve">
-        <source>AdGuard Home Remote</source>
-        <note/>
-      </trans-unit>
       <trans-unit id="AdGuard Home v0.107.28 or higher is required for some of these new features. Please update!" xml:space="preserve">
         <source>AdGuard Home v0.107.28 or higher is required for some of these new features. Please update!</source>
         <target state="translated">Для работы некоторых новых функций требуется AdGuard Home v0.107.28 или выше. Пожалуйста, обновитесь!</target>
@@ -1113,6 +1109,10 @@
       <trans-unit id="Apply Pro license" xml:space="preserve">
         <source>Apply Pro license</source>
         <target state="translated">Применить Pro-лицензию</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Artificial intelligence" xml:space="preserve">
+        <source>Artificial intelligence</source>
         <note/>
       </trans-unit>
       <trans-unit id="Auto-refresh" xml:space="preserve">
@@ -1267,6 +1267,10 @@
         <target state="translated">Контакт</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Content delivery networks (CDN)" xml:space="preserve">
+        <source>Content delivery networks (CDN)</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="Copy '%@'" xml:space="preserve">
         <source>Copy '%@'</source>
         <target state="translated">Копировать '%@'</target>
@@ -1325,6 +1329,10 @@
       <trans-unit id="Date" xml:space="preserve">
         <source>Date</source>
         <target state="translated">Дата</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Dating services" xml:space="preserve">
+        <source>Dating services</source>
         <note/>
       </trans-unit>
       <trans-unit id="Default count" xml:space="preserve">
@@ -1429,6 +1437,14 @@
         <target state="translated">Цветные</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Gambling and betting" xml:space="preserve">
+        <source>Gambling and betting</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Gaming" xml:space="preserve">
+        <source>Gaming</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="HINFO" translate="no" xml:space="preserve">
         <source>HINFO</source>
         <note>Used in the DNS record type picker on the 'check filtering' screen.</note>
@@ -1529,6 +1545,10 @@
       <trans-unit id="ManGo - Anime &amp; Manga Tracker" xml:space="preserve">
         <source>ManGo - Anime &amp; Manga Tracker</source>
         <target state="translated">ManGo - Трекер аниме и манги</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Messaging services" xml:space="preserve">
+        <source>Messaging services</source>
         <note/>
       </trans-unit>
       <trans-unit id="Monitor real-time electricity and gas prices in many European countries." xml:space="preserve">
@@ -1696,6 +1716,10 @@
         <target state="translated">Пресеты</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Privacy tools" xml:space="preserve">
+        <source>Privacy tools</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="Processed" xml:space="preserve">
         <source>Processed</source>
         <target state="translated">Обработано</target>
@@ -1831,6 +1855,10 @@
         <target state="translated">Отдельные карточки и диаграммы</target>
         <note>Dashboard size type explainer</note>
       </trans-unit>
+      <trans-unit id="Shopping" xml:space="preserve">
+        <source>Shopping</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="Show 'All' button" xml:space="preserve">
         <source>Show 'All' button</source>
         <note>Displayed in Dashboard Preferences.</note>
@@ -1900,6 +1928,14 @@
         <target state="translated">Маленькие карточки, комбинированный график</target>
         <note>Dashboard size type explainer</note>
       </trans-unit>
+      <trans-unit id="Social networks" xml:space="preserve">
+        <source>Social networks</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Software development" xml:space="preserve">
+        <source>Software development</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="Something went wrong with your purchase." xml:space="preserve">
         <source>Something went wrong with your purchase.</source>
         <target state="translated">Произошла ошибка при покупке</target>
@@ -1920,8 +1956,16 @@
         <target state="translated">Статус</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Stop Live Activity" xml:space="preserve">
+        <source>Stop Live Activity</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="Store DNS responses locally" xml:space="preserve">
         <source>Store DNS responses locally</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Streaming services" xml:space="preserve">
+        <source>Streaming services</source>
         <note/>
       </trans-unit>
       <trans-unit id="Sub-buttons" xml:space="preserve">
@@ -2096,6 +2140,10 @@
         <target state="translated">Приложение для Apple Watch не установлено</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Web hosting" xml:space="preserve">
+        <source>Web hosting</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="You've reached the maximum of 6 presets." xml:space="preserve">
         <source>You've reached the maximum of 6 presets.</source>
         <target state="translated">Достигнут максимум (6 пресетов)</target>
@@ -2138,7 +2186,7 @@
       <trans-unit id="add" xml:space="preserve">
         <source>Add</source>
         <target state="translated">Добавить</target>
-        <note/>
+        <note>Used in the Settings-tab in the 'instances' section header.</note>
       </trans-unit>
       <trans-unit id="adult" xml:space="preserve">
         <source>Adult</source>
@@ -3914,7 +3962,7 @@ Search</source>
       <trans-unit id="liveactivity_time_remaining" xml:space="preserve">
         <source>Time remaining</source>
         <target state="translated">Времени осталось</target>
-        <note>MARK: Live Activity</note>
+        <note/>
       </trans-unit>
       <trans-unit id="loading" xml:space="preserve">
         <source>Loading</source>

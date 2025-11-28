@@ -202,6 +202,7 @@
 
     },
     "add" : {
+      "comment" : "Used in the Settings-tab in the 'instances' section header.",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -212,7 +213,8 @@
       }
     },
     "Add" : {
-      "comment" : "Used in the Settings-tab in the 'instances' section header."
+      "comment" : "Used in the Settings-tab in the 'instances' section header.",
+      "extractionState" : "stale"
     },
     "Add '%@'" : {
       "comment" : "Used on the 'Add new disable preset' screen, e.g. 'Add 30 seconds'"
@@ -234,10 +236,6 @@
     },
     "Additional info" : {
 
-    },
-    "AdGuard Home Remote" : {
-      "extractionState" : "stale",
-      "shouldTranslate" : false
     },
     "AdGuard Home v0.107.28 or higher is required for some of these new features. Please update!" : {
 
@@ -330,6 +328,9 @@
       }
     },
     "Apply Pro license" : {
+
+    },
+    "Artificial intelligence" : {
 
     },
     "Auto-refresh" : {
@@ -996,6 +997,9 @@
     "Contact" : {
 
     },
+    "Content delivery networks (CDN)" : {
+
+    },
     "Copy '%@'" : {
 
     },
@@ -1261,6 +1265,9 @@
 
     },
     "Date" : {
+
+    },
+    "Dating services" : {
 
     },
     "Default count" : {
@@ -3670,6 +3677,12 @@
     "Full Color" : {
 
     },
+    "Gambling and betting" : {
+
+    },
+    "Gaming" : {
+
+    },
     "global" : {
       "localizations" : {
         "en" : {
@@ -4003,7 +4016,6 @@
       }
     },
     "liveactivity_time_remaining" : {
-      "comment" : "MARK: Live Activity",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -4076,6 +4088,9 @@
       }
     },
     "ManGo - Anime & Manga Tracker" : {
+
+    },
+    "Messaging services" : {
 
     },
     "Monitor real-time electricity and gas prices in many European countries." : {
@@ -4818,6 +4833,9 @@
       }
     },
     "Presets" : {
+
+    },
+    "Privacy tools" : {
 
     },
     "pro" : {
@@ -6842,6 +6860,9 @@
         }
       }
     },
+    "Shopping" : {
+
+    },
     "Show 'All' button" : {
       "comment" : "Displayed in Dashboard Preferences."
     },
@@ -6895,6 +6916,12 @@
     "SOA" : {
       "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
       "shouldTranslate" : false
+    },
+    "Social networks" : {
+
+    },
+    "Software development" : {
+
     },
     "Something went wrong with your purchase." : {
 
@@ -6966,7 +6993,13 @@
     "Status" : {
 
     },
+    "Stop Live Activity" : {
+
+    },
     "Store DNS responses locally" : {
+
+    },
+    "Streaming services" : {
 
     },
     "Sub-buttons" : {
@@ -7354,6 +7387,9 @@
           }
         }
       }
+    },
+    "Web hosting" : {
+
     },
     "widget_dashboard" : {
       "comment" : "MARK: Widgets",
