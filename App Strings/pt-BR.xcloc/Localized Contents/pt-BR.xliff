@@ -2,26 +2,29 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="AdGuard Home Remote Watch App WatchKit Extension/AdGuard-Home-Remote-Watch-App-InfoPlist.xcstrings" source-language="en" target-language="pt-BR" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.1.1" build-num="17B100"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
     </header>
     <body>
-      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+      <trans-unit id="CFBundleDisplayName" translate="no" xml:space="preserve">
         <source>AdGuard Home</source>
+        <target state="translated">AdGuard Home</target>
         <note>Bundle display name</note>
       </trans-unit>
-      <trans-unit id="CFBundleName" xml:space="preserve">
+      <trans-unit id="CFBundleName" translate="no" xml:space="preserve">
         <source>AdGuard Home</source>
+        <target state="translated">AdGuard Home</target>
         <note>Bundle name</note>
       </trans-unit>
-      <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
+      <trans-unit id="NSHumanReadableCopyright" translate="no" xml:space="preserve">
         <source/>
+        <target state="translated"/>
         <note>Copyright (human-readable)</note>
       </trans-unit>
     </body>
   </file>
   <file original="AdGuard Home Remote Widgets/Base.lproj/WidgetConfigs.intentdefinition" source-language="en" target-language="pt-BR" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.1.1" build-num="17B100"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
     </header>
     <body>
       <trans-unit id="0foAlr-1ekF7R" xml:space="preserve">
@@ -56,7 +59,7 @@
       </trans-unit>
       <trans-unit id="6AmxhP" xml:space="preserve">
         <source>Toggle Protection Widget</source>
-        <target>Alternar O Widget De Proteção</target>
+        <target>Alternar o Widget De Proteção</target>
         <note/>
       </trans-unit>
       <trans-unit id="7IZPYe" xml:space="preserve">
@@ -86,7 +89,7 @@
       </trans-unit>
       <trans-unit id="E0Klym" xml:space="preserve">
         <source>Show 'Safe Search'</source>
-        <target>Mostrar'Pesquisa Segura'</target>
+        <target>Mostrar 'Pesquisa Segura'</target>
         <note/>
       </trans-unit>
       <trans-unit id="HPvqfT" xml:space="preserve">
@@ -151,7 +154,7 @@
       </trans-unit>
       <trans-unit id="WGDFpS" xml:space="preserve">
         <source>Show 'Safe Browsing'</source>
-        <target>Mostrar'Navegação Segura'</target>
+        <target>Mostrar 'Navegação Segura'</target>
         <note/>
       </trans-unit>
       <trans-unit id="Z9sGKc" xml:space="preserve">
@@ -186,7 +189,7 @@
       </trans-unit>
       <trans-unit id="gjZzpr" xml:space="preserve">
         <source>Toggle Protection Widget</source>
-        <target>Alternar O Widget De Proteção</target>
+        <target>Alternar o Widget De Proteção</target>
         <note/>
       </trans-unit>
       <trans-unit id="gpCwrM" xml:space="preserve">
@@ -196,12 +199,12 @@
       </trans-unit>
       <trans-unit id="hF59s3" xml:space="preserve">
         <source>Disable Buttons Widget</source>
-        <target>Desativar O Widget Botões</target>
+        <target>Desativar o Widget Botões</target>
         <note/>
       </trans-unit>
       <trans-unit id="ko3bBU" xml:space="preserve">
         <source>Disable Buttons Widget</source>
-        <target>Desativar O Widget Botões</target>
+        <target>Desativar o Widget Botões</target>
         <note/>
       </trans-unit>
       <trans-unit id="m19WLB" xml:space="preserve">
@@ -273,7 +276,7 @@
   </file>
   <file original="AdGuard Home Remote Widgets/InfoPlist.xcstrings" source-language="en" target-language="pt-BR" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.1.1" build-num="17B100"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" translate="no" xml:space="preserve">
@@ -290,7 +293,7 @@
   </file>
   <file original="App Intents &amp; Shortcuts/Base.lproj/Intents.intentdefinition" source-language="en" target-language="pt-BR" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.1.1" build-num="17B100"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
     </header>
     <body>
       <trans-unit id="0sDcS3" xml:space="preserve">
@@ -817,7 +820,7 @@
   </file>
   <file original="App Intents &amp; Shortcuts/InfoPlist.xcstrings" source-language="en" target-language="pt-BR" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.1.1" build-num="17B100"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" translate="no" xml:space="preserve">
@@ -831,14 +834,14 @@
         <note>Bundle name</note>
       </trans-unit>
       <trans-unit id="NSHumanReadableCopyright" translate="no" xml:space="preserve">
-        <source>Copyright © 2025 RocketScience IT</source>
+        <source>Copyright © 2026 RocketScience IT</source>
         <note>Copyright (human-readable)</note>
       </trans-unit>
     </body>
   </file>
   <file original="App Intents &amp; Shortcuts/Localizable.xcstrings" source-language="en" target-language="pt-BR" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.1.1" build-num="17B100"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
     </header>
     <body>
       <trans-unit id="Can't reach AdGuard Home." xml:space="preserve">
@@ -865,7 +868,7 @@
   </file>
   <file original="iOS/InfoPlist.xcstrings" source-language="en" target-language="pt-BR" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.1.1" build-num="17B100"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" translate="no" xml:space="preserve">
@@ -884,7 +887,8 @@
         <note>Privacy - Face ID Usage Description</note>
       </trans-unit>
       <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
-        <source>Copyright © 2025 RocketScience IT</source>
+        <source>Copyright © 2026 RocketScience IT</source>
+        <target state="translated">Copyright © 2026 RocketScience IT</target>
         <note>Copyright (human-readable)</note>
       </trans-unit>
       <trans-unit id="NSLocalNetworkUsageDescription" xml:space="preserve">
@@ -896,15 +900,15 @@
   </file>
   <file original="Resources/App/AdGuard Home Remote WidgetsExtension copy-InfoPlist.xcstrings" source-language="en" target-language="pt-BR" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.1.1" build-num="17B100"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
     </header>
     <body>
-      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+      <trans-unit id="CFBundleDisplayName" translate="no" xml:space="preserve">
         <source>AdGuard Home Remote Widgets Watch</source>
         <target state="translated">AdGuard Início Widgets Remotos Assistir</target>
         <note>Bundle display name</note>
       </trans-unit>
-      <trans-unit id="CFBundleName" xml:space="preserve">
+      <trans-unit id="CFBundleName" translate="no" xml:space="preserve">
         <source>AdGuard Home Remote WidgetsExtension Watch</source>
         <target state="translated">AdGuard Início Remoto WidgetsExtension Relógio</target>
         <note>Bundle name</note>
@@ -913,7 +917,7 @@
   </file>
   <file original="Resources/App/en.lproj/AppShortcuts.strings" source-language="en" target-language="pt-BR" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.1.1" build-num="17B100"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
     </header>
     <body>
       <trans-unit id="Disable protection for ${duration} minutes in ${applicationName}" xml:space="preserve">
@@ -935,7 +939,7 @@
   </file>
   <file original="Resources/App/InfoPlist.xcstrings" source-language="en" target-language="pt-BR" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.1.1" build-num="17B100"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" translate="no" xml:space="preserve">
@@ -952,7 +956,7 @@
   </file>
   <file original="Resources/App/Localizable.xcstrings" source-language="en" target-language="pt-BR" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.1.1" build-num="17B100"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
     </header>
     <body>
       <trans-unit id="%@" translate="no" xml:space="preserve">
@@ -970,6 +974,7 @@
       </trans-unit>
       <trans-unit id="%@ entries" xml:space="preserve">
         <source>%@ entries</source>
+        <target state="translated">%@ entries</target>
         <note>Used on the Statistics-screen in the preferences menu.</note>
       </trans-unit>
       <trans-unit id="%@ms" xml:space="preserve">
@@ -1075,16 +1080,13 @@
       </trans-unit>
       <trans-unit id="Accessibility" xml:space="preserve">
         <source>Accessibility</source>
+        <target state="translated">Acessibilidade</target>
         <note/>
       </trans-unit>
       <trans-unit id="AdGuard Home v0.107.28 or higher is required for some of these new features. Please update!" xml:space="preserve">
         <source>AdGuard Home v0.107.28 or higher is required for some of these new features. Please update!</source>
         <target state="translated">O AdGuard Home v0.107. 28 ou superior é necessário para alguns desses novos recursos. Por favor, atualize!</target>
         <note/>
-      </trans-unit>
-      <trans-unit id="Add" xml:space="preserve">
-        <source>Add</source>
-        <note>Used in the Settings-tab in the 'instances' section header.</note>
       </trans-unit>
       <trans-unit id="Add '%@'" xml:space="preserve">
         <source>Add '%@'</source>
@@ -1098,18 +1100,22 @@
       </trans-unit>
       <trans-unit id="Add Instance" xml:space="preserve">
         <source>Add Instance</source>
+        <target state="translated">Add Instância</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add new preset" xml:space="preserve">
         <source>Add new preset</source>
+        <target state="translated">Adicionar nova predefinição</target>
         <note>Used on the 'Add new disable preset' screen</note>
       </trans-unit>
       <trans-unit id="Add your AdGuard Home instances to control them and view statistics." xml:space="preserve">
         <source>Add your AdGuard Home instances to control them and view statistics.</source>
+        <target state="translated">Add your AdGuard Home Instâncias to control them and view statistics.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Adding new presets requires Pro." xml:space="preserve">
         <source>Adding new presets requires Pro.</source>
+        <target state="translated">Adicionar novos predefinições requer Pro.</target>
         <note>Used on the 'Add new disable preset' screen</note>
       </trans-unit>
       <trans-unit id="Additional info" xml:space="preserve">
@@ -1119,6 +1125,7 @@
       </trans-unit>
       <trans-unit id="All" xml:space="preserve">
         <source>All</source>
+        <target state="translated">Todos</target>
         <note/>
       </trans-unit>
       <trans-unit id="Apply Pro license" xml:space="preserve">
@@ -1128,10 +1135,12 @@
       </trans-unit>
       <trans-unit id="Artificial intelligence" xml:space="preserve">
         <source>Artificial intelligence</source>
+        <target state="translated">Inteligência artificial</target>
         <note/>
       </trans-unit>
       <trans-unit id="Auto-refresh" xml:space="preserve">
         <source>Auto-refresh</source>
+        <target state="translated">Atualização automática</target>
         <note/>
       </trans-unit>
       <trans-unit id="Automatic" xml:space="preserve">
@@ -1141,42 +1150,52 @@
       </trans-unit>
       <trans-unit id="Average processing time: %@ ms" xml:space="preserve">
         <source>Average processing time: %@ ms</source>
+        <target state="translated">Tempo médio de processamento: %@ ms</target>
         <note/>
       </trans-unit>
       <trans-unit id="Average processing time: %@ ms." xml:space="preserve">
         <source>Average processing time: %@ ms.</source>
+        <target state="translated">Tempo médio de processamento: %@ ms.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Bar-chart" xml:space="preserve">
         <source>Bar-chart</source>
+        <target state="translated">Gráfico de barras</target>
         <note>Chart type.</note>
       </trans-unit>
       <trans-unit id="Blocked by filters" xml:space="preserve">
         <source>Blocked by filters</source>
+        <target state="translated">Consultas Bloqueadas</target>
         <note>Query status type.</note>
       </trans-unit>
       <trans-unit id="Blocked by filters: %@ (%@)" xml:space="preserve">
         <source>Blocked by filters: %1$@ (%2$@)</source>
+        <target state="translated">Consultas Bloqueadas: %1$@ (%2$@)</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocked malware" xml:space="preserve">
         <source>Blocked malware</source>
+        <target state="translated">Malwares Bloqueados</target>
         <note>Query status type.</note>
       </trans-unit>
       <trans-unit id="Blocked malware: %@" xml:space="preserve">
         <source>Blocked malware: %@</source>
+        <target state="translated">Malwares Bloqueados: %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocked parental" xml:space="preserve">
         <source>Blocked parental</source>
+        <target state="translated">Bloqueios Parentais</target>
         <note>Query status type.</note>
       </trans-unit>
       <trans-unit id="Blocked parental: %@" xml:space="preserve">
         <source>Blocked parental: %@</source>
+        <target state="translated">Bloqueios Parentais: %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocking" xml:space="preserve">
         <source>Blocking</source>
+        <target state="translated">Bloqueando</target>
         <note/>
       </trans-unit>
       <trans-unit id="CAA" translate="no" xml:space="preserve">
@@ -1210,18 +1229,22 @@
       </trans-unit>
       <trans-unit id="Cancel" xml:space="preserve">
         <source>Cancel</source>
+        <target state="translated">Cancelar</target>
         <note/>
       </trans-unit>
       <trans-unit id="Card color" xml:space="preserve">
         <source>Card color</source>
+        <target state="translated">Cor do cartão</target>
         <note/>
       </trans-unit>
       <trans-unit id="Chart" xml:space="preserve">
         <source>Chart</source>
+        <target state="translated">Gráfico</target>
         <note/>
       </trans-unit>
       <trans-unit id="Chart Type" xml:space="preserve">
         <source>Chart Type</source>
+        <target state="translated">Tipo de Gráfico</target>
         <note/>
       </trans-unit>
       <trans-unit id="Check Filtering" xml:space="preserve">
@@ -1256,10 +1279,12 @@
       </trans-unit>
       <trans-unit id="Close" xml:space="preserve">
         <source>Close</source>
+        <target state="translated">Fechar</target>
         <note/>
       </trans-unit>
       <trans-unit id="Compact" xml:space="preserve">
         <source>Compact</source>
+        <target state="translated">Compacto</target>
         <note>Dashboard size type</note>
       </trans-unit>
       <trans-unit id="Contact" xml:space="preserve">
@@ -1269,14 +1294,17 @@
       </trans-unit>
       <trans-unit id="Content delivery networks (CDN)" xml:space="preserve">
         <source>Content delivery networks (CDN)</source>
+        <target state="translated">Redes de entrega de conteúdo (CDN)</target>
         <note/>
       </trans-unit>
       <trans-unit id="Copy '%@'" xml:space="preserve">
         <source>Copy '%@'</source>
+        <target state="translated">Copiar '%@'</target>
         <note/>
       </trans-unit>
       <trans-unit id="Custom disable presets" xml:space="preserve">
         <source>Custom disable presets</source>
+        <target state="translated">Predefinições personalizadas de desativação</target>
         <note/>
       </trans-unit>
       <trans-unit id="DHCID" translate="no" xml:space="preserve">
@@ -1293,11 +1321,12 @@
       </trans-unit>
       <trans-unit id="DNS Queries" xml:space="preserve">
         <source>DNS Queries</source>
+        <target state="translated">Consultas ao DNS</target>
         <note/>
       </trans-unit>
       <trans-unit id="DNS Queries: %@" xml:space="preserve">
         <source>DNS Queries: %@</source>
-        <target state="translated">Consultas DNS: %@</target>
+        <target state="translated">Consultas ao DNS: %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="DNS Record Type" xml:space="preserve">
@@ -1320,22 +1349,27 @@
       </trans-unit>
       <trans-unit id="Datapoints" xml:space="preserve">
         <source>Datapoints</source>
+        <target state="translated">Pontos de dados</target>
         <note/>
       </trans-unit>
       <trans-unit id="Date" xml:space="preserve">
         <source>Date</source>
+        <target state="translated">Data</target>
         <note/>
       </trans-unit>
       <trans-unit id="Dating services" xml:space="preserve">
         <source>Dating services</source>
+        <target state="translated">Serviços de namoro</target>
         <note/>
       </trans-unit>
       <trans-unit id="Default count" xml:space="preserve">
         <source>Default count</source>
+        <target state="translated">Contagem padrão</target>
         <note/>
       </trans-unit>
       <trans-unit id="Design" xml:space="preserve">
         <source>Design</source>
+        <target state="translated">Design</target>
         <note/>
       </trans-unit>
       <trans-unit id="Disabled" xml:space="preserve">
@@ -1345,14 +1379,17 @@
       </trans-unit>
       <trans-unit id="Duration" xml:space="preserve">
         <source>Duration</source>
+        <target state="translated">Duração</target>
         <note/>
       </trans-unit>
       <trans-unit id="Duration Presets" xml:space="preserve">
         <source>Duration Presets</source>
+        <target state="translated">Predefinições de Duração</target>
         <note/>
       </trans-unit>
       <trans-unit id="Duration in seconds" xml:space="preserve">
         <source>Duration in seconds</source>
+        <target state="translated">Duração em segundos</target>
         <note/>
       </trans-unit>
       <trans-unit id="EUI48" translate="no" xml:space="preserve">
@@ -1365,10 +1402,12 @@
       </trans-unit>
       <trans-unit id="Edit presets..." xml:space="preserve">
         <source>Edit presets...</source>
+        <target state="translated">Editar predefinições...</target>
         <note/>
       </trans-unit>
       <trans-unit id="Editing presets requires Pro." xml:space="preserve">
         <source>Editing presets requires Pro.</source>
+        <target state="translated">Editar predefinições requer Pro.</target>
         <note>Used on the 'Add new disable preset' screen</note>
       </trans-unit>
       <trans-unit id="Enable and disable protection." xml:space="preserve">
@@ -1378,22 +1417,27 @@
       </trans-unit>
       <trans-unit id="Enable blocking" xml:space="preserve">
         <source>Enable blocking</source>
+        <target state="translated">Habilitar bloqueio</target>
         <note/>
       </trans-unit>
       <trans-unit id="Enable cache" xml:space="preserve">
         <source>Enable cache</source>
+        <target state="translated">Habilitar cache</target>
         <note/>
       </trans-unit>
       <trans-unit id="Enabled" xml:space="preserve">
         <source>Enabled</source>
+        <target state="translated">Habilitado</target>
         <note/>
       </trans-unit>
       <trans-unit id="Every 10 seconds" xml:space="preserve">
         <source>Every 10 seconds</source>
+        <target state="translated">A cada 10 segundos</target>
         <note/>
       </trans-unit>
       <trans-unit id="Expanded" xml:space="preserve">
         <source>Expanded</source>
+        <target state="translated">Expandido</target>
         <note>Dashboard size type</note>
       </trans-unit>
       <trans-unit id="Expires in %lld minutes" xml:space="preserve">
@@ -1403,10 +1447,12 @@
       </trans-unit>
       <trans-unit id="Filters" xml:space="preserve">
         <source>Filters</source>
+        <target state="translated">Filtros</target>
         <note/>
       </trans-unit>
       <trans-unit id="Filters: %@" xml:space="preserve">
         <source>Filters: %@</source>
+        <target state="translated">Filtros: %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="Force Watch Sync" xml:space="preserve">
@@ -1416,14 +1462,17 @@
       </trans-unit>
       <trans-unit id="Full Color" xml:space="preserve">
         <source>Full Color</source>
+        <target state="translated">Cor Completa</target>
         <note/>
       </trans-unit>
       <trans-unit id="Gambling and betting" xml:space="preserve">
         <source>Gambling and betting</source>
+        <target state="translated">Jogos de azar e apostas</target>
         <note/>
       </trans-unit>
       <trans-unit id="Gaming" xml:space="preserve">
         <source>Gaming</source>
+        <target state="translated">Jogos</target>
         <note/>
       </trans-unit>
       <trans-unit id="HINFO" translate="no" xml:space="preserve">
@@ -1449,6 +1498,7 @@
       </trans-unit>
       <trans-unit id="Icon" xml:space="preserve">
         <source>Icon</source>
+        <target state="translated">Ícone</target>
         <note/>
       </trans-unit>
       <trans-unit id="If you already did, please go to your instance, press 'Edit' and press 'Save' again. It should show up after that. If not, try a restart of the Watch app." xml:space="preserve">
@@ -1458,18 +1508,22 @@
       </trans-unit>
       <trans-unit id="Indefinitely" xml:space="preserve">
         <source>Indefinitely</source>
+        <target state="translated">Indefinidamente</target>
         <note/>
       </trans-unit>
       <trans-unit id="Info" xml:space="preserve">
         <source>Info</source>
+        <target state="translated">Informações</target>
         <note/>
       </trans-unit>
       <trans-unit id="Instance" xml:space="preserve">
         <source>Instance</source>
+        <target state="translated">Instância</target>
         <note/>
       </trans-unit>
       <trans-unit id="Instances" xml:space="preserve">
         <source>Instances</source>
+        <target state="translated">Instâncias</target>
         <note/>
       </trans-unit>
       <trans-unit id="Invalid authentication or privacy setting." xml:space="preserve">
@@ -1501,6 +1555,7 @@
       </trans-unit>
       <trans-unit id="Line-chart" xml:space="preserve">
         <source>Line-chart</source>
+        <target state="translated">Gráfico de linha</target>
         <note>Chart type.</note>
       </trans-unit>
       <trans-unit id="MX" translate="no" xml:space="preserve">
@@ -1509,10 +1564,12 @@
       </trans-unit>
       <trans-unit id="Malware" xml:space="preserve">
         <source>Malware</source>
+        <target state="translated">Malware</target>
         <note/>
       </trans-unit>
       <trans-unit id="Malware: %@" xml:space="preserve">
         <source>Malware: %@</source>
+        <target state="translated">Malware: %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="ManGo - Anime &amp; Manga Tracker" xml:space="preserve">
@@ -1522,6 +1579,7 @@
       </trans-unit>
       <trans-unit id="Messaging services" xml:space="preserve">
         <source>Messaging services</source>
+        <target state="translated">Serviços de mensagens</target>
         <note/>
       </trans-unit>
       <trans-unit id="Monitor real-time electricity and gas prices in many European countries." xml:space="preserve">
@@ -1531,6 +1589,7 @@
       </trans-unit>
       <trans-unit id="Muted" xml:space="preserve">
         <source>Muted</source>
+        <target state="translated">Suavizado</target>
         <note/>
       </trans-unit>
       <trans-unit id="NAPTR" translate="no" xml:space="preserve">
@@ -1555,10 +1614,12 @@
       </trans-unit>
       <trans-unit id="Name" xml:space="preserve">
         <source>Name</source>
+        <target state="translated">Nome</target>
         <note/>
       </trans-unit>
       <trans-unit id="New Instance" xml:space="preserve">
         <source>New Instance</source>
+        <target state="translated">New Instância</target>
         <note/>
       </trans-unit>
       <trans-unit id="New OS versions are required for some of these new features. Please update your device!" xml:space="preserve">
@@ -1573,6 +1634,7 @@
       </trans-unit>
       <trans-unit id="No Instances" xml:space="preserve">
         <source>No Instances</source>
+        <target state="translated">No Instâncias</target>
         <note/>
       </trans-unit>
       <trans-unit id="No Watch Paired" xml:space="preserve">
@@ -1582,14 +1644,17 @@
       </trans-unit>
       <trans-unit id="No connection" xml:space="preserve">
         <source>No connection</source>
+        <target state="translated">Sem conexão</target>
         <note/>
       </trans-unit>
       <trans-unit id="No data" xml:space="preserve">
         <source>No data</source>
+        <target state="translated">Sem dados</target>
         <note/>
       </trans-unit>
       <trans-unit id="No instance." xml:space="preserve">
         <source>No instance.</source>
+        <target state="translated">No Instância.</target>
         <note/>
       </trans-unit>
       <trans-unit id="No pages for this support item" xml:space="preserve">
@@ -1603,26 +1668,32 @@
       </trans-unit>
       <trans-unit id="One-tap button|==|device.mac" xml:space="preserve">
         <source>One-click button</source>
+        <target state="translated">One-click button</target>
         <note/>
       </trans-unit>
       <trans-unit id="One-tap button|==|device.other" xml:space="preserve">
         <source>One-tap button</source>
+        <target state="translated">One-tap button</target>
         <note/>
       </trans-unit>
       <trans-unit id="One-tap disable duration|==|device.mac" xml:space="preserve">
         <source>One-click disable duration</source>
+        <target state="translated">Duração da desativação com um toque</target>
         <note/>
       </trans-unit>
       <trans-unit id="One-tap disable duration|==|device.other" xml:space="preserve">
         <source>One-tap disable duration</source>
+        <target state="translated">Duração da desativação com um toque</target>
         <note/>
       </trans-unit>
       <trans-unit id="Open" xml:space="preserve">
         <source>Open</source>
+        <target state="translated">Abrir</target>
         <note/>
       </trans-unit>
       <trans-unit id="Open statistics." xml:space="preserve">
         <source>Open statistics.</source>
+        <target state="translated">Abrir estatísticas.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Open the dashboard." xml:space="preserve">
@@ -1651,10 +1722,12 @@
       </trans-unit>
       <trans-unit id="Parental" xml:space="preserve">
         <source>Parental</source>
+        <target state="translated">Parental</target>
         <note/>
       </trans-unit>
       <trans-unit id="Parental: %@" xml:space="preserve">
         <source>Parental: %@</source>
+        <target state="translated">Parental: %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="Paste from clipboard" xml:space="preserve">
@@ -1674,26 +1747,32 @@
       </trans-unit>
       <trans-unit id="Presets" xml:space="preserve">
         <source>Presets</source>
+        <target state="translated">Predefinições</target>
         <note/>
       </trans-unit>
       <trans-unit id="Privacy tools" xml:space="preserve">
         <source>Privacy tools</source>
+        <target state="translated">Ferramentas de privacidade</target>
         <note/>
       </trans-unit>
       <trans-unit id="Processed" xml:space="preserve">
         <source>Processed</source>
+        <target state="translated">Processado</target>
         <note>Query status type.</note>
       </trans-unit>
       <trans-unit id="Processed: %@" xml:space="preserve">
         <source>Processed: %@</source>
+        <target state="translated">Processado: %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="Queries" xml:space="preserve">
         <source>Queries</source>
+        <target state="translated">Consultas</target>
         <note/>
       </trans-unit>
       <trans-unit id="Queries: %@" xml:space="preserve">
         <source>Queries: %@</source>
+        <target state="translated">Consultas: %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="Query Log" xml:space="preserve">
@@ -1711,14 +1790,17 @@
       </trans-unit>
       <trans-unit id="Refreshing" xml:space="preserve">
         <source>Refreshing</source>
+        <target state="translated">Atualizando</target>
         <note/>
       </trans-unit>
       <trans-unit id="Regular" xml:space="preserve">
         <source>Regular</source>
+        <target state="translated">Regular</target>
         <note>Dashboard size type</note>
       </trans-unit>
       <trans-unit id="Regular cards, combined chart" xml:space="preserve">
         <source>Regular cards, combined chart</source>
+        <target state="translated">Cartões regulares, gráfico combinado</target>
         <note>Dashboard size type explainer</note>
       </trans-unit>
       <trans-unit id="Remote for AdGuard DNS" translate="no" xml:space="preserve">
@@ -1733,10 +1815,12 @@
       </trans-unit>
       <trans-unit id="Remove Statistics Limits" xml:space="preserve">
         <source>Remove Statistics Limits</source>
+        <target state="translated">Remover Limites de Estatísticas</target>
         <note/>
       </trans-unit>
       <trans-unit id="Reorder by dragging, remove by swiping." xml:space="preserve">
         <source>Reorder by dragging, remove by swiping.</source>
+        <target state="translated">Reordenar arrastando, remover deslizando.</target>
         <note>Used on the 'Add new disable preset' screen</note>
       </trans-unit>
       <trans-unit id="Request timed out." xml:space="preserve">
@@ -1785,6 +1869,7 @@
       </trans-unit>
       <trans-unit id="Seconds" xml:space="preserve">
         <source>Seconds</source>
+        <target state="translated">Segundos</target>
         <note>Used on the 'Add new disable preset' screen</note>
       </trans-unit>
       <trans-unit id="Select an Instance" xml:space="preserve">
@@ -1804,22 +1889,27 @@
       </trans-unit>
       <trans-unit id="Separate cards and charts" xml:space="preserve">
         <source>Separate cards and charts</source>
+        <target state="translated">Cartões e gráficos separados</target>
         <note>Dashboard size type explainer</note>
       </trans-unit>
       <trans-unit id="Shopping" xml:space="preserve">
         <source>Shopping</source>
+        <target state="translated">Compras</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show 'All' button" xml:space="preserve">
         <source>Show 'All' button</source>
+        <target state="translated">Mostrar botão 'Todos'</target>
         <note>Displayed in Dashboard Preferences.</note>
       </trans-unit>
       <trans-unit id="Show 'Indefinitely'" xml:space="preserve">
         <source>Show 'Indefinitely'</source>
+        <target state="translated">Mostrar 'Indefinidamente'</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show 'Until tomorrow'" xml:space="preserve">
         <source>Show 'Until tomorrow'</source>
+        <target state="translated">Mostrar 'Até amanhã'</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show Changelog again on startup" xml:space="preserve">
@@ -1829,34 +1919,42 @@
       </trans-unit>
       <trans-unit id="Show Client IDs" xml:space="preserve">
         <source>Show Client IDs</source>
+        <target state="translated">Mostrar IDs de Cliente</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show all icons" xml:space="preserve">
         <source>Show all icons</source>
+        <target state="translated">Mostrar todos os ícones</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show chart" xml:space="preserve">
         <source>Show chart</source>
+        <target state="translated">Mostrar gráfico</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show hostname" xml:space="preserve">
         <source>Show hostname</source>
+        <target state="translated">Mostrar nome do host</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show instance version" xml:space="preserve">
         <source>Show instance version</source>
+        <target state="translated">Show Instância version</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show legend" xml:space="preserve">
         <source>Show legend</source>
+        <target state="translated">Mostrar legenda</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show more..." xml:space="preserve">
         <source>Show more...</source>
+        <target state="translated">Mostrar mais...</target>
         <note>Used on the Statistics-screen.</note>
       </trans-unit>
       <trans-unit id="Show version" xml:space="preserve">
         <source>Show version</source>
+        <target state="translated">Mostrar versão</target>
         <note/>
       </trans-unit>
       <trans-unit id="Sidebar" xml:space="preserve">
@@ -1866,14 +1964,17 @@
       </trans-unit>
       <trans-unit id="Small cards, combined chart" xml:space="preserve">
         <source>Small cards, combined chart</source>
+        <target state="translated">Cartões pequenos, gráfico combinado</target>
         <note>Dashboard size type explainer</note>
       </trans-unit>
       <trans-unit id="Social networks" xml:space="preserve">
         <source>Social networks</source>
+        <target state="translated">Redes sociais</target>
         <note/>
       </trans-unit>
       <trans-unit id="Software development" xml:space="preserve">
         <source>Software development</source>
+        <target state="translated">Desenvolvimento de software</target>
         <note/>
       </trans-unit>
       <trans-unit id="Something went wrong with your purchase." xml:space="preserve">
@@ -1883,10 +1984,12 @@
       </trans-unit>
       <trans-unit id="Something went wrong." xml:space="preserve">
         <source>Something went wrong.</source>
+        <target state="translated">Algo deu errado.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Statistics" xml:space="preserve">
         <source>Statistics</source>
+        <target state="translated">Estatísticas</target>
         <note/>
       </trans-unit>
       <trans-unit id="Status" xml:space="preserve">
@@ -1896,18 +1999,22 @@
       </trans-unit>
       <trans-unit id="Stop Live Activity" xml:space="preserve">
         <source>Stop Live Activity</source>
+        <target state="translated">Parar Atividade ao Vivo</target>
         <note/>
       </trans-unit>
       <trans-unit id="Store DNS responses locally" xml:space="preserve">
         <source>Store DNS responses locally</source>
+        <target state="translated">Armazenar respostas DNS localmente</target>
         <note/>
       </trans-unit>
       <trans-unit id="Streaming services" xml:space="preserve">
         <source>Streaming services</source>
+        <target state="translated">Serviços de streaming</target>
         <note/>
       </trans-unit>
       <trans-unit id="Sub-buttons" xml:space="preserve">
         <source>Sub-buttons</source>
+        <target state="translated">Sub-botões</target>
         <note/>
       </trans-unit>
       <trans-unit id="Support" xml:space="preserve">
@@ -1937,7 +2044,7 @@
       </trans-unit>
       <trans-unit id="Tabbar" xml:space="preserve">
         <source>Tabbar</source>
-        <target state="translated">Tabbar</target>
+        <target state="translated">Barra de abas</target>
         <note>Used in the 'Preferences Other' screen in the navigation style picker (only visible for iPad)</note>
       </trans-unit>
       <trans-unit id="Target" xml:space="preserve">
@@ -1947,7 +2054,7 @@
       </trans-unit>
       <trans-unit id="TestFlight Debug" xml:space="preserve">
         <source>TestFlight Debug</source>
-        <target state="translated">TestFlight Debug</target>
+        <target state="translated">TestFClaro Debug</target>
         <note/>
       </trans-unit>
       <trans-unit id="The original enddate when blocking would be enabled again." xml:space="preserve">
@@ -1972,50 +2079,62 @@
       </trans-unit>
       <trans-unit id="Toggle between enabled &amp; disabled" xml:space="preserve">
         <source>Toggle between enabled &amp; disabled</source>
+        <target state="translated">Alternar entre habilitado e desabilitado</target>
         <note/>
       </trans-unit>
       <trans-unit id="Toggle only between enabled &amp; disabled. Hold the button for more options." xml:space="preserve">
         <source>Toggle only between enabled &amp; disabled. Hold the button for more options.</source>
+        <target state="translated">Alternar apenas entre habilitado e desabilitado. Mantenha o botão pressionado para mais opções.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Top Blocked Domains" xml:space="preserve">
         <source>Top Blocked Domains</source>
+        <target state="translated">Principais Domínios Bloqueados</target>
         <note>Used on the Statistics-screen.</note>
       </trans-unit>
       <trans-unit id="Top Blocked Domains: %@" xml:space="preserve">
         <source>Top Blocked Domains: %@</source>
+        <target state="translated">Principais Domínios Bloqueados: %@</target>
         <note>Used on the Statistics-screen, with the instance name.</note>
       </trans-unit>
       <trans-unit id="Top Clients" xml:space="preserve">
         <source>Top Clients</source>
+        <target state="translated">Principais Clientes</target>
         <note>Used on the Statistics-screen.</note>
       </trans-unit>
       <trans-unit id="Top Clients: %@" xml:space="preserve">
         <source>Top Clients: %@</source>
+        <target state="translated">Principais Clientes: %@</target>
         <note>Used on the Statistics-screen, with the instance name.</note>
       </trans-unit>
       <trans-unit id="Top Queried Domains" xml:space="preserve">
         <source>Top Queried Domains</source>
+        <target state="translated">Principais Domínios Consultados</target>
         <note>Used on the Statistics-screen.</note>
       </trans-unit>
       <trans-unit id="Top Queried Domains: %@" xml:space="preserve">
         <source>Top Queried Domains: %@</source>
+        <target state="translated">Principais Domínios Consultados: %@</target>
         <note>Used on the Statistics-screen, with the instance name.</note>
       </trans-unit>
       <trans-unit id="Top Upstreams" xml:space="preserve">
         <source>Top Upstreams</source>
+        <target state="translated">Principais Upstreams</target>
         <note>Used on the Statistics-screen.</note>
       </trans-unit>
       <trans-unit id="Top Upstreams: %@" xml:space="preserve">
         <source>Top Upstreams: %@</source>
+        <target state="translated">Principais Upstreams: %@</target>
         <note>Used on the Statistics-screen, with the instance name.</note>
       </trans-unit>
       <trans-unit id="Total" xml:space="preserve">
         <source>Total</source>
+        <target state="translated">Total</target>
         <note>Query status type.</note>
       </trans-unit>
       <trans-unit id="Total: %@" xml:space="preserve">
         <source>Total: %@</source>
+        <target state="translated">Total: %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="URI" translate="no" xml:space="preserve">
@@ -2024,6 +2143,7 @@
       </trans-unit>
       <trans-unit id="Unknown" xml:space="preserve">
         <source>Unknown</source>
+        <target state="translated">Desconhecido</target>
         <note/>
       </trans-unit>
       <trans-unit id="Unknown Error" xml:space="preserve">
@@ -2043,19 +2163,22 @@
       </trans-unit>
       <trans-unit id="User Interface" xml:space="preserve">
         <source>User Interface</source>
+        <target state="translated">Interface do usuário</target>
         <note/>
       </trans-unit>
       <trans-unit id="Utility Radar" xml:space="preserve">
         <source>Utility Radar</source>
-        <target state="translated">Utility Radar</target>
+        <target state="translated">Radar de Utilitários</target>
         <note/>
       </trans-unit>
       <trans-unit id="Version" xml:space="preserve">
         <source>Version</source>
+        <target state="translated">Versão</target>
         <note/>
       </trans-unit>
       <trans-unit id="Version: %@." xml:space="preserve">
         <source>Version: %@.</source>
+        <target state="translated">Versão: %@.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Watch App Not Installed" xml:space="preserve">
@@ -2065,10 +2188,12 @@
       </trans-unit>
       <trans-unit id="Web hosting" xml:space="preserve">
         <source>Web hosting</source>
+        <target state="translated">Hospedagem web</target>
         <note/>
       </trans-unit>
       <trans-unit id="You've reached the maximum of 6 presets." xml:space="preserve">
         <source>You've reached the maximum of 6 presets.</source>
+        <target state="translated">Você atingiu o máximo de 6 predefinições.</target>
         <note>Used on the 'Add new disable preset' screen</note>
       </trans-unit>
       <trans-unit id="ZONEMD" translate="no" xml:space="preserve">
@@ -2152,6 +2277,7 @@
       </trans-unit>
       <trans-unit id="avg %@ms" xml:space="preserve">
         <source>avg %@ms</source>
+        <target state="translated">média %@ms</target>
         <note/>
       </trans-unit>
       <trans-unit id="blocked_services" xml:space="preserve">
@@ -2697,16 +2823,6 @@ Segura</target>
         <target state="translated">Tema</target>
         <note/>
       </trans-unit>
-      <trans-unit id="dhcp_add_client_by_ip" xml:space="preserve">
-        <source>dhcp_add_client_by_ip</source>
-        <target state="translated">dhcp_add_client_by_ip</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="dhcp_add_client_by_mac" xml:space="preserve">
-        <source>dhcp_add_client_by_mac</source>
-        <target state="translated">dhcp_add_client_by_mac</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="dhcp_add_client_with_ip" xml:space="preserve">
         <source>New Client (with IP)</source>
         <target state="translated">Novo Cliente (com IP)</target>
@@ -3229,6 +3345,7 @@ Segura</target>
       </trans-unit>
       <trans-unit id="dnsrewrites_disable" xml:space="preserve">
         <source>Disable</source>
+        <target state="translated">Desabilitar</target>
         <note/>
       </trans-unit>
       <trans-unit id="dnsrewrites_domain" xml:space="preserve">
@@ -3248,10 +3365,12 @@ Segura</target>
       </trans-unit>
       <trans-unit id="dnsrewrites_enable" xml:space="preserve">
         <source>Enable</source>
+        <target state="translated">Habilitar</target>
         <note/>
       </trans-unit>
       <trans-unit id="dnsrewrites_enabled" xml:space="preserve">
         <source>Enabled</source>
+        <target state="translated">Habilitado</target>
         <note/>
       </trans-unit>
       <trans-unit id="dnsrewrites_entries" xml:space="preserve">
@@ -3261,10 +3380,12 @@ Segura</target>
       </trans-unit>
       <trans-unit id="dnsrewrites_global_enable" xml:space="preserve">
         <source>Enable Rewrites</source>
+        <target state="translated">Habilitar Reescrita DNS</target>
         <note/>
       </trans-unit>
       <trans-unit id="dnsrewrites_global_enable_footer" xml:space="preserve">
         <source>Enables/disables all rewrite entries.</source>
+        <target state="translated">Habilita/desabilita todas as entradas de reescrita.</target>
         <note/>
       </trans-unit>
       <trans-unit id="dnsrewrites_new" xml:space="preserve">
@@ -3709,7 +3830,7 @@ Segura</target>
       </trans-unit>
       <trans-unit id="global" xml:space="preserve">
         <source>Global</source>
-        <target state="translated">Global</target>
+        <target state="translated">global</target>
         <note/>
       </trans-unit>
       <trans-unit id="help_callout" xml:space="preserve">
@@ -3834,38 +3955,47 @@ Segura</target>
       </trans-unit>
       <trans-unit id="last 3 days" xml:space="preserve">
         <source>last 3 days</source>
+        <target state="translated">últimos 3 dias</target>
         <note/>
       </trans-unit>
       <trans-unit id="last 6 hours" xml:space="preserve">
         <source>last 6 hours</source>
+        <target state="translated">últimas 6 horas</target>
         <note/>
       </trans-unit>
       <trans-unit id="last 7 days" xml:space="preserve">
         <source>last 7 days</source>
+        <target state="translated">últimos 7 dias</target>
         <note/>
       </trans-unit>
       <trans-unit id="last 12 hours" xml:space="preserve">
         <source>last 12 hours</source>
+        <target state="translated">últimas 12 horas</target>
         <note/>
       </trans-unit>
       <trans-unit id="last 24 hours" xml:space="preserve">
         <source>last 24 hours</source>
+        <target state="translated">últimas 24 horas</target>
         <note/>
       </trans-unit>
       <trans-unit id="last 30 days" xml:space="preserve">
         <source>last 30 days</source>
+        <target state="translated">últimos 30 dias</target>
         <note/>
       </trans-unit>
       <trans-unit id="last 48 hours" xml:space="preserve">
         <source>last 48 hours</source>
+        <target state="translated">últimas 48 horas</target>
         <note/>
       </trans-unit>
       <trans-unit id="last 90 days" xml:space="preserve">
         <source>last 90 days</source>
+        <target state="translated">últimos 90 dias</target>
         <note/>
       </trans-unit>
       <trans-unit id="last hour" xml:space="preserve">
         <source>last hour</source>
+        <target state="translated">última hora</target>
         <note/>
       </trans-unit>
       <trans-unit id="liveactivity_ends" xml:space="preserve">
@@ -4030,7 +4160,7 @@ Segura</target>
       </trans-unit>
       <trans-unit id="off" xml:space="preserve">
         <source>off</source>
-        <target state="translated">off</target>
+        <target state="translated">desligado</target>
         <note/>
       </trans-unit>
       <trans-unit id="ok" xml:space="preserve">
@@ -4045,6 +4175,7 @@ Segura</target>
       </trans-unit>
       <trans-unit id="original_enddate" xml:space="preserve">
         <source>Original Enddate</source>
+        <target state="translated">Original Enddate</target>
         <note/>
       </trans-unit>
       <trans-unit id="other" xml:space="preserve">
@@ -4179,7 +4310,7 @@ Segura</target>
       </trans-unit>
       <trans-unit id="preferences_lock_unlock_footnote_tap|==|device.mac" xml:space="preserve">
         <source>Click above to unlock AdGuard Home Remote</source>
-        <target state="needs-review-l10n">Toque acima para desbloquear o AdGuard Home Remote</target>
+        <target state="translated">Toque acima para desbloquear o AdGuard Home Remote</target>
         <note/>
       </trans-unit>
       <trans-unit id="preferences_lock_unlock_footnote_tap|==|device.other" xml:space="preserve">
@@ -4284,7 +4415,7 @@ Segura</target>
       </trans-unit>
       <trans-unit id="pro_navtitle" xml:space="preserve">
         <source>Remote Pro</source>
-        <target state="translated">Remote Pro</target>
+        <target state="translated">Remoto Pro</target>
         <note/>
       </trans-unit>
       <trans-unit id="pro_purchase" xml:space="preserve">
@@ -4329,7 +4460,7 @@ Segura</target>
       </trans-unit>
       <trans-unit id="pro_testflight" xml:space="preserve">
         <source>TestFlight</source>
-        <target state="translated">TestFlight</target>
+        <target state="translated">TestFClaro</target>
         <note/>
       </trans-unit>
       <trans-unit id="pro_testflight_alert" xml:space="preserve">
@@ -4364,7 +4495,7 @@ Uma 'licença' Pro será invalidada a cada poucos dias enquanto estiver em uma v
         <source>AdGuard Home
 Remote Pro</source>
         <target state="translated">AdGuard Home
-Remote Pro</target>
+Remoto Pro</target>
         <note/>
       </trans-unit>
       <trans-unit id="pro_unlock_interactive_widgets" xml:space="preserve">
@@ -4464,7 +4595,7 @@ Remote Pro</target>
       </trans-unit>
       <trans-unit id="query_status_FilteredParental" xml:space="preserve">
         <source>Parental Control</source>
-        <target state="needs-review-l10n">Bloqueado | Parental</target>
+        <target state="translated">Bloqueado | Parental</target>
         <note/>
       </trans-unit>
       <trans-unit id="query_status_FilteredSafeBrowsing" xml:space="preserve">
@@ -4474,7 +4605,7 @@ Remote Pro</target>
       </trans-unit>
       <trans-unit id="query_status_FilteredSafeSearch" xml:space="preserve">
         <source>Safe Search</source>
-        <target state="needs-review-l10n">Bloqueado | Busca Segura</target>
+        <target state="translated">Bloqueado | Busca Segura</target>
         <note/>
       </trans-unit>
       <trans-unit id="query_status_NotFilteredError" xml:space="preserve">
@@ -4754,7 +4885,7 @@ Remote Pro</target>
       </trans-unit>
       <trans-unit id="querylog_show_extra_detail" xml:space="preserve">
         <source>Show response details</source>
-        <target state="needs-review-l10n">Mostrar detalhes extras</target>
+        <target state="translated">Mostrar detalhes extras</target>
         <note/>
       </trans-unit>
       <trans-unit id="querylog_show_queries_status" xml:space="preserve">
@@ -5208,12 +5339,12 @@ Meu principal objetivo é aprender: design, desenvolvimento, testes, suporte, pr
       </trans-unit>
       <trans-unit id="tags" xml:space="preserve">
         <source>Tags</source>
-        <target state="translated">Tags</target>
+        <target state="translated">tags</target>
         <note/>
       </trans-unit>
       <trans-unit id="tap_to_learn_more|==|device.mac" xml:space="preserve">
         <source>Click to learn more.</source>
-        <target state="needs-review-l10n">Toque para saber mais.</target>
+        <target state="translated">Toque para saber mais.</target>
         <note/>
       </trans-unit>
       <trans-unit id="tap_to_learn_more|==|device.other" xml:space="preserve">

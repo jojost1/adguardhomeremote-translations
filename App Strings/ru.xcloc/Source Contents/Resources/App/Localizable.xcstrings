@@ -212,10 +212,6 @@
         }
       }
     },
-    "Add" : {
-      "comment" : "Used in the Settings-tab in the 'instances' section header.",
-      "extractionState" : "stale"
-    },
     "Add '%@'" : {
       "comment" : "Used on the 'Add new disable preset' screen, e.g. 'Add 30 seconds'"
     },
@@ -1559,12 +1555,6 @@
     "DHCID" : {
       "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
       "shouldTranslate" : false
-    },
-    "dhcp_add_client_by_ip" : {
-      "extractionState" : "manual"
-    },
-    "dhcp_add_client_by_mac" : {
-      "extractionState" : "manual"
     },
     "dhcp_add_client_with_ip" : {
       "localizations" : {

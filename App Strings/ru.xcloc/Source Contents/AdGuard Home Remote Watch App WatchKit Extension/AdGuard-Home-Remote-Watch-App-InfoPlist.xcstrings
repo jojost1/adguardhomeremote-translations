@@ -11,7 +11,8 @@
             "value" : "AdGuard Home"
           }
         }
-      }
+      },
+      "shouldTranslate" : false
     },
     "CFBundleName" : {
       "comment" : "Bundle name",
@@ -23,7 +24,8 @@
             "value" : "AdGuard Home"
           }
         }
-      }
+      },
+      "shouldTranslate" : false
     },
     "NSHumanReadableCopyright" : {
       "comment" : "Copyright (human-readable)",
@@ -35,7 +37,8 @@
             "value" : ""
           }
         }
-      }
+      },
+      "shouldTranslate" : false
     }
   },
   "version" : "1.1"

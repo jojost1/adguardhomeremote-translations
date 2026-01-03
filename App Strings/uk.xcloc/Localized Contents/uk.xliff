@@ -2,18 +2,18 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="AdGuard Home Remote Watch App WatchKit Extension/AdGuard-Home-Remote-Watch-App-InfoPlist.xcstrings" source-language="en" target-language="uk" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.1.1" build-num="17B100"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
     </header>
     <body>
-      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+      <trans-unit id="CFBundleDisplayName" translate="no" xml:space="preserve">
         <source>AdGuard Home</source>
         <note>Bundle display name</note>
       </trans-unit>
-      <trans-unit id="CFBundleName" xml:space="preserve">
+      <trans-unit id="CFBundleName" translate="no" xml:space="preserve">
         <source>AdGuard Home</source>
         <note>Bundle name</note>
       </trans-unit>
-      <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
+      <trans-unit id="NSHumanReadableCopyright" translate="no" xml:space="preserve">
         <source/>
         <note>Copyright (human-readable)</note>
       </trans-unit>
@@ -21,7 +21,7 @@
   </file>
   <file original="AdGuard Home Remote Widgets/Base.lproj/WidgetConfigs.intentdefinition" source-language="en" target-language="uk" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.1.1" build-num="17B100"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
     </header>
     <body>
       <trans-unit id="0foAlr-1ekF7R" xml:space="preserve">
@@ -260,7 +260,7 @@
   </file>
   <file original="AdGuard Home Remote Widgets/InfoPlist.xcstrings" source-language="en" target-language="uk" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.1.1" build-num="17B100"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" translate="no" xml:space="preserve">
@@ -275,7 +275,7 @@
   </file>
   <file original="App Intents &amp; Shortcuts/Base.lproj/Intents.intentdefinition" source-language="en" target-language="uk" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.1.1" build-num="17B100"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
     </header>
     <body>
       <trans-unit id="0sDcS3" xml:space="preserve">
@@ -802,7 +802,7 @@
   </file>
   <file original="App Intents &amp; Shortcuts/InfoPlist.xcstrings" source-language="en" target-language="uk" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.1.1" build-num="17B100"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" translate="no" xml:space="preserve">
@@ -814,14 +814,14 @@
         <note>Bundle name</note>
       </trans-unit>
       <trans-unit id="NSHumanReadableCopyright" translate="no" xml:space="preserve">
-        <source>Copyright © 2025 RocketScience IT</source>
+        <source>Copyright © 2026 RocketScience IT</source>
         <note>Copyright (human-readable)</note>
       </trans-unit>
     </body>
   </file>
   <file original="App Intents &amp; Shortcuts/Localizable.xcstrings" source-language="en" target-language="uk" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.1.1" build-num="17B100"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
     </header>
     <body>
       <trans-unit id="Can't reach AdGuard Home." xml:space="preserve">
@@ -848,7 +848,7 @@
   </file>
   <file original="iOS/InfoPlist.xcstrings" source-language="en" target-language="uk" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.1.1" build-num="17B100"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" translate="no" xml:space="preserve">
@@ -864,7 +864,7 @@
         <note>Privacy - Face ID Usage Description</note>
       </trans-unit>
       <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
-        <source>Copyright © 2025 RocketScience IT</source>
+        <source>Copyright © 2026 RocketScience IT</source>
         <note>Copyright (human-readable)</note>
       </trans-unit>
       <trans-unit id="NSLocalNetworkUsageDescription" xml:space="preserve">
@@ -876,14 +876,14 @@
   </file>
   <file original="Resources/App/AdGuard Home Remote WidgetsExtension copy-InfoPlist.xcstrings" source-language="en" target-language="uk" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.1.1" build-num="17B100"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
     </header>
     <body>
-      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+      <trans-unit id="CFBundleDisplayName" translate="no" xml:space="preserve">
         <source>AdGuard Home Remote Widgets Watch</source>
         <note>Bundle display name</note>
       </trans-unit>
-      <trans-unit id="CFBundleName" xml:space="preserve">
+      <trans-unit id="CFBundleName" translate="no" xml:space="preserve">
         <source>AdGuard Home Remote WidgetsExtension Watch</source>
         <note>Bundle name</note>
       </trans-unit>
@@ -891,7 +891,7 @@
   </file>
   <file original="Resources/App/en.lproj/AppShortcuts.strings" source-language="en" target-language="uk" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.1.1" build-num="17B100"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
     </header>
     <body>
       <trans-unit id="Disable protection for ${duration} minutes in ${applicationName}" xml:space="preserve">
@@ -913,7 +913,7 @@
   </file>
   <file original="Resources/App/InfoPlist.xcstrings" source-language="en" target-language="uk" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.1.1" build-num="17B100"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" translate="no" xml:space="preserve">
@@ -928,7 +928,7 @@
   </file>
   <file original="Resources/App/Localizable.xcstrings" source-language="en" target-language="uk" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.1.1" build-num="17B100"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
     </header>
     <body>
       <trans-unit id="%@" translate="no" xml:space="preserve">
@@ -991,6 +991,7 @@
       </trans-unit>
       <trans-unit id="48h" xml:space="preserve">
         <source>48h</source>
+        <target state="translated">48г</target>
         <note/>
       </trans-unit>
       <trans-unit id="80" translate="no" xml:space="preserve">
@@ -1041,6 +1042,7 @@
       </trans-unit>
       <trans-unit id="AGHR's tabs" xml:space="preserve">
         <source>AGHR's tabs</source>
+        <target state="translated">Вкладки AGHR</target>
         <note/>
       </trans-unit>
       <trans-unit id="APL" translate="no" xml:space="preserve">
@@ -1056,11 +1058,6 @@
         <source>AdGuard Home v0.107.28 or higher is required for some of these new features. Please update!</source>
         <target state="translated">Для роботи деяких нових функцій потрібен AdGuard Home v0.107.28 або вище. Будь ласка, оновіться!</target>
         <note/>
-      </trans-unit>
-      <trans-unit id="Add" xml:space="preserve">
-        <source>Add</source>
-        <target state="translated">Додати</target>
-        <note>Used in the Settings-tab in the 'instances' section header.</note>
       </trans-unit>
       <trans-unit id="Add '%@'" xml:space="preserve">
         <source>Add '%@'</source>
@@ -1109,6 +1106,7 @@
       </trans-unit>
       <trans-unit id="Artificial intelligence" xml:space="preserve">
         <source>Artificial intelligence</source>
+        <target state="translated">Штучний інтелект</target>
         <note/>
       </trans-unit>
       <trans-unit id="Auto-refresh" xml:space="preserve">
@@ -1202,6 +1200,7 @@
       </trans-unit>
       <trans-unit id="Cancel" xml:space="preserve">
         <source>Cancel</source>
+        <target state="translated">Скасувати</target>
         <note/>
       </trans-unit>
       <trans-unit id="Card color" xml:space="preserve">
@@ -1251,6 +1250,7 @@
       </trans-unit>
       <trans-unit id="Close" xml:space="preserve">
         <source>Close</source>
+        <target state="translated">Закрити</target>
         <note/>
       </trans-unit>
       <trans-unit id="Compact" xml:space="preserve">
@@ -1265,6 +1265,7 @@
       </trans-unit>
       <trans-unit id="Content delivery networks (CDN)" xml:space="preserve">
         <source>Content delivery networks (CDN)</source>
+        <target state="translated">Мережі доставки контенту (CDN)</target>
         <note/>
       </trans-unit>
       <trans-unit id="Copy '%@'" xml:space="preserve">
@@ -1329,6 +1330,7 @@
       </trans-unit>
       <trans-unit id="Dating services" xml:space="preserve">
         <source>Dating services</source>
+        <target state="translated">Сервіси знайомств</target>
         <note/>
       </trans-unit>
       <trans-unit id="Default count" xml:space="preserve">
@@ -1391,6 +1393,7 @@
       </trans-unit>
       <trans-unit id="Enable cache" xml:space="preserve">
         <source>Enable cache</source>
+        <target state="translated">Увімкнути кеш</target>
         <note/>
       </trans-unit>
       <trans-unit id="Enabled" xml:space="preserve">
@@ -1435,10 +1438,12 @@
       </trans-unit>
       <trans-unit id="Gambling and betting" xml:space="preserve">
         <source>Gambling and betting</source>
+        <target state="translated">Азартні ігри та ставки</target>
         <note/>
       </trans-unit>
       <trans-unit id="Gaming" xml:space="preserve">
         <source>Gaming</source>
+        <target state="translated">Ігри</target>
         <note/>
       </trans-unit>
       <trans-unit id="HINFO" translate="no" xml:space="preserve">
@@ -1455,6 +1460,7 @@
       </trans-unit>
       <trans-unit id="Hostname or domain name" xml:space="preserve">
         <source>Hostname or domain name</source>
+        <target state="translated">Ім'я хоста або доменне ім'я</target>
         <note/>
       </trans-unit>
       <trans-unit id="IPSECKEY" translate="no" xml:space="preserve">
@@ -1544,6 +1550,7 @@
       </trans-unit>
       <trans-unit id="Messaging services" xml:space="preserve">
         <source>Messaging services</source>
+        <target state="translated">Месенджери</target>
         <note/>
       </trans-unit>
       <trans-unit id="Monitor real-time electricity and gas prices in many European countries." xml:space="preserve">
@@ -1588,6 +1595,7 @@
       </trans-unit>
       <trans-unit id="New OS versions are required for some of these new features. Please update your device!" xml:space="preserve">
         <source>New OS versions are required for some of these new features. Please update your device!</source>
+        <target state="translated">Для деяких нових функцій потрібні нові версії ОС. Будь ласка, оновіть свій пристрій!</target>
         <note/>
       </trans-unit>
       <trans-unit id="NextDNS Remote" translate="no" xml:space="preserve">
@@ -1650,6 +1658,7 @@
       </trans-unit>
       <trans-unit id="Open" xml:space="preserve">
         <source>Open</source>
+        <target state="translated">Відкрити</target>
         <note/>
       </trans-unit>
       <trans-unit id="Open statistics." xml:space="preserve">
@@ -1712,6 +1721,7 @@
       </trans-unit>
       <trans-unit id="Privacy tools" xml:space="preserve">
         <source>Privacy tools</source>
+        <target state="translated">Інструменти конфіденційності</target>
         <note/>
       </trans-unit>
       <trans-unit id="Processed" xml:space="preserve">
@@ -1851,10 +1861,12 @@
       </trans-unit>
       <trans-unit id="Shopping" xml:space="preserve">
         <source>Shopping</source>
+        <target state="translated">Покупки</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show 'All' button" xml:space="preserve">
         <source>Show 'All' button</source>
+        <target state="translated">Показати кнопку «Усі»</target>
         <note>Displayed in Dashboard Preferences.</note>
       </trans-unit>
       <trans-unit id="Show 'Indefinitely'" xml:space="preserve">
@@ -1924,10 +1936,12 @@
       </trans-unit>
       <trans-unit id="Social networks" xml:space="preserve">
         <source>Social networks</source>
+        <target state="translated">Соціальні мережі</target>
         <note/>
       </trans-unit>
       <trans-unit id="Software development" xml:space="preserve">
         <source>Software development</source>
+        <target state="translated">Розробка ПЗ</target>
         <note/>
       </trans-unit>
       <trans-unit id="Something went wrong with your purchase." xml:space="preserve">
@@ -1952,14 +1966,17 @@
       </trans-unit>
       <trans-unit id="Stop Live Activity" xml:space="preserve">
         <source>Stop Live Activity</source>
+        <target state="translated">Зупинити Live Activity</target>
         <note/>
       </trans-unit>
       <trans-unit id="Store DNS responses locally" xml:space="preserve">
         <source>Store DNS responses locally</source>
+        <target state="translated">Зберігати відповіді DNS локально</target>
         <note/>
       </trans-unit>
       <trans-unit id="Streaming services" xml:space="preserve">
         <source>Streaming services</source>
+        <target state="translated">Стрімінгові сервіси</target>
         <note/>
       </trans-unit>
       <trans-unit id="Sub-buttons" xml:space="preserve">
@@ -2004,6 +2021,7 @@
       </trans-unit>
       <trans-unit id="TestFlight Debug" xml:space="preserve">
         <source>TestFlight Debug</source>
+        <target state="translated">Налагодження TestFlight</target>
         <note/>
       </trans-unit>
       <trans-unit id="The original enddate when blocking would be enabled again." xml:space="preserve">
@@ -2117,6 +2135,7 @@
       </trans-unit>
       <trans-unit id="Utility Radar" xml:space="preserve">
         <source>Utility Radar</source>
+        <target state="translated">Utility Radar</target>
         <note/>
       </trans-unit>
       <trans-unit id="Version" xml:space="preserve">
@@ -2136,6 +2155,7 @@
       </trans-unit>
       <trans-unit id="Web hosting" xml:space="preserve">
         <source>Web hosting</source>
+        <target state="translated">Веб-хостинг</target>
         <note/>
       </trans-unit>
       <trans-unit id="You've reached the maximum of 6 presets." xml:space="preserve">
@@ -2770,14 +2790,6 @@ Search</source>
         <target state="translated">Тема</target>
         <note/>
       </trans-unit>
-      <trans-unit id="dhcp_add_client_by_ip" xml:space="preserve">
-        <source>dhcp_add_client_by_ip</source>
-        <note/>
-      </trans-unit>
-      <trans-unit id="dhcp_add_client_by_mac" xml:space="preserve">
-        <source>dhcp_add_client_by_mac</source>
-        <note/>
-      </trans-unit>
       <trans-unit id="dhcp_add_client_with_ip" xml:space="preserve">
         <source>New Client (with IP)</source>
         <target state="translated">Новий клієнт (з IP)</target>
@@ -3300,6 +3312,7 @@ Search</source>
       </trans-unit>
       <trans-unit id="dnsrewrites_disable" xml:space="preserve">
         <source>Disable</source>
+        <target state="translated">Вимкнути</target>
         <note/>
       </trans-unit>
       <trans-unit id="dnsrewrites_domain" xml:space="preserve">
@@ -3319,10 +3332,12 @@ Search</source>
       </trans-unit>
       <trans-unit id="dnsrewrites_enable" xml:space="preserve">
         <source>Enable</source>
+        <target state="translated">Увімкнути</target>
         <note/>
       </trans-unit>
       <trans-unit id="dnsrewrites_enabled" xml:space="preserve">
         <source>Enabled</source>
+        <target state="translated">Увімкнено</target>
         <note/>
       </trans-unit>
       <trans-unit id="dnsrewrites_entries" xml:space="preserve">
@@ -3332,10 +3347,12 @@ Search</source>
       </trans-unit>
       <trans-unit id="dnsrewrites_global_enable" xml:space="preserve">
         <source>Enable Rewrites</source>
+        <target state="translated">Увімкнути перезаписи</target>
         <note/>
       </trans-unit>
       <trans-unit id="dnsrewrites_global_enable_footer" xml:space="preserve">
         <source>Enables/disables all rewrite entries.</source>
+        <target state="translated">Вмикає/вимикає всі записи перезапису.</target>
         <note/>
       </trans-unit>
       <trans-unit id="dnsrewrites_new" xml:space="preserve">
@@ -3385,6 +3402,7 @@ Search</source>
       </trans-unit>
       <trans-unit id="example.com" xml:space="preserve">
         <source>example.com</source>
+        <target state="translated">example.com</target>
         <note/>
       </trans-unit>
       <trans-unit id="filtering_addfilter_allowlist" xml:space="preserve">
@@ -4109,6 +4127,7 @@ Search</source>
       </trans-unit>
       <trans-unit id="off" xml:space="preserve">
         <source>off</source>
+        <target state="translated">вимк</target>
         <note/>
       </trans-unit>
       <trans-unit id="ok" xml:space="preserve">
@@ -4118,10 +4137,12 @@ Search</source>
       </trans-unit>
       <trans-unit id="on" xml:space="preserve">
         <source>on</source>
+        <target state="translated">увімк</target>
         <note/>
       </trans-unit>
       <trans-unit id="original_enddate" xml:space="preserve">
         <source>Original Enddate</source>
+        <target state="translated">Початкова дата закінчення</target>
         <note/>
       </trans-unit>
       <trans-unit id="other" xml:space="preserve">
@@ -4256,7 +4277,7 @@ Search</source>
       </trans-unit>
       <trans-unit id="preferences_lock_unlock_footnote_tap|==|device.mac" xml:space="preserve">
         <source>Click above to unlock AdGuard Home Remote</source>
-        <target state="needs-review-l10n">Натисніть вище, щоб розблокувати AdGuard Home Remote</target>
+        <target state="translated">Натисніть вище, щоб розблокувати AdGuard Home Remote</target>
         <note/>
       </trans-unit>
       <trans-unit id="preferences_lock_unlock_footnote_tap|==|device.other" xml:space="preserve">
@@ -4541,7 +4562,7 @@ Remote Pro</target>
       </trans-unit>
       <trans-unit id="query_status_FilteredParental" xml:space="preserve">
         <source>Parental Control</source>
-        <target state="needs-review-l10n">Заблокировано | Батьківський контроль</target>
+        <target state="translated">Заблокировано | Батьківський контроль</target>
         <note/>
       </trans-unit>
       <trans-unit id="query_status_FilteredSafeBrowsing" xml:space="preserve">
@@ -4551,7 +4572,7 @@ Remote Pro</target>
       </trans-unit>
       <trans-unit id="query_status_FilteredSafeSearch" xml:space="preserve">
         <source>Safe Search</source>
-        <target state="needs-review-l10n">Заблокировано | Безпечний пошук</target>
+        <target state="translated">Заблокировано | Безпечний пошук</target>
         <note/>
       </trans-unit>
       <trans-unit id="query_status_NotFilteredError" xml:space="preserve">
@@ -4831,7 +4852,7 @@ Remote Pro</target>
       </trans-unit>
       <trans-unit id="querylog_show_extra_detail" xml:space="preserve">
         <source>Show response details</source>
-        <target state="needs-review-l10n">Розширене відображення</target>
+        <target state="translated">Розширене відображення</target>
         <note/>
       </trans-unit>
       <trans-unit id="querylog_show_queries_status" xml:space="preserve">
@@ -5020,10 +5041,12 @@ My main goal is to learn: design, development, testing, support, promotion - may
       </trans-unit>
       <trans-unit id="select_instance_and_duration" xml:space="preserve">
         <source>Select instance &amp; duration</source>
+        <target state="translated">Виберіть сервер і тривалість</target>
         <note/>
       </trans-unit>
       <trans-unit id="select_instance_and_duration_description" xml:space="preserve">
         <source>Disable protection for a certain duration.</source>
+        <target state="translated">Вимкнути захист на певний час.</target>
         <note/>
       </trans-unit>
       <trans-unit id="services" xml:space="preserve">
@@ -5288,7 +5311,7 @@ My main goal is to learn: design, development, testing, support, promotion - may
       </trans-unit>
       <trans-unit id="tap_to_learn_more|==|device.mac" xml:space="preserve">
         <source>Click to learn more.</source>
-        <target state="needs-review-l10n">Натисніть, щоб дізнатися більше.</target>
+        <target state="translated">Натисніть, щоб дізнатися більше.</target>
         <note/>
       </trans-unit>
       <trans-unit id="tap_to_learn_more|==|device.other" xml:space="preserve">
@@ -5413,10 +5436,12 @@ If you want to tip, please download the app from the App Store! After that you c
       </trans-unit>
       <trans-unit id="v%@ (%@)" translate="no" xml:space="preserve">
         <source>v%1$@ (%2$@)</source>
+        <target state="translated">v%1$@ (%2$@)</target>
         <note/>
       </trans-unit>
       <trans-unit id="value" xml:space="preserve">
         <source>value</source>
+        <target state="translated">значення</target>
         <note>Placeholder of the 'custom header value' textfield in instance settings.</note>
       </trans-unit>
       <trans-unit id="watch_stuck_reinstall" xml:space="preserve">

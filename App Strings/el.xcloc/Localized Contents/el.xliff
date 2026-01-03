@@ -2,18 +2,18 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="AdGuard Home Remote Watch App WatchKit Extension/AdGuard-Home-Remote-Watch-App-InfoPlist.xcstrings" source-language="en" target-language="el" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.1.1" build-num="17B100"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
     </header>
     <body>
-      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+      <trans-unit id="CFBundleDisplayName" translate="no" xml:space="preserve">
         <source>AdGuard Home</source>
         <note>Bundle display name</note>
       </trans-unit>
-      <trans-unit id="CFBundleName" xml:space="preserve">
+      <trans-unit id="CFBundleName" translate="no" xml:space="preserve">
         <source>AdGuard Home</source>
         <note>Bundle name</note>
       </trans-unit>
-      <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
+      <trans-unit id="NSHumanReadableCopyright" translate="no" xml:space="preserve">
         <source/>
         <note>Copyright (human-readable)</note>
       </trans-unit>
@@ -21,7 +21,7 @@
   </file>
   <file original="AdGuard Home Remote Widgets/Base.lproj/WidgetConfigs.intentdefinition" source-language="en" target-language="el" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.1.1" build-num="17B100"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
     </header>
     <body>
       <trans-unit id="0foAlr-1ekF7R" xml:space="preserve">
@@ -246,7 +246,7 @@
   </file>
   <file original="AdGuard Home Remote Widgets/InfoPlist.xcstrings" source-language="en" target-language="el" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.1.1" build-num="17B100"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" translate="no" xml:space="preserve">
@@ -261,7 +261,7 @@
   </file>
   <file original="App Intents &amp; Shortcuts/Base.lproj/Intents.intentdefinition" source-language="en" target-language="el" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.1.1" build-num="17B100"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
     </header>
     <body>
       <trans-unit id="0sDcS3" xml:space="preserve">
@@ -788,7 +788,7 @@
   </file>
   <file original="App Intents &amp; Shortcuts/InfoPlist.xcstrings" source-language="en" target-language="el" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.1.1" build-num="17B100"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" translate="no" xml:space="preserve">
@@ -800,37 +800,41 @@
         <note>Bundle name</note>
       </trans-unit>
       <trans-unit id="NSHumanReadableCopyright" translate="no" xml:space="preserve">
-        <source>Copyright © 2025 RocketScience IT</source>
+        <source>Copyright © 2026 RocketScience IT</source>
         <note>Copyright (human-readable)</note>
       </trans-unit>
     </body>
   </file>
   <file original="App Intents &amp; Shortcuts/Localizable.xcstrings" source-language="en" target-language="el" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.1.1" build-num="17B100"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
     </header>
     <body>
       <trans-unit id="Can't reach AdGuard Home." xml:space="preserve">
         <source>Can't reach AdGuard Home.</source>
+        <target state="translated">Δεν είναι δυνατή η σύνδεση με το AdGuard Home.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Invalid authentication or privacy setting." xml:space="preserve">
         <source>Invalid authentication or privacy setting.</source>
+        <target state="translated">Μη έγκυρη ταυτοποίηση ή ρύθμιση απορρήτου.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Invalid hostname or port." xml:space="preserve">
         <source>Invalid hostname or port.</source>
+        <target state="translated">Μη έγκυρο όνομα κεντρικού υπολογιστή ή θύρα.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Request timed out." xml:space="preserve">
         <source>Request timed out.</source>
+        <target state="translated">Λήξη χρόνου αιτήματος.</target>
         <note/>
       </trans-unit>
     </body>
   </file>
   <file original="iOS/InfoPlist.xcstrings" source-language="en" target-language="el" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.1.1" build-num="17B100"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" translate="no" xml:space="preserve">
@@ -846,7 +850,7 @@
         <note>Privacy - Face ID Usage Description</note>
       </trans-unit>
       <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
-        <source>Copyright © 2025 RocketScience IT</source>
+        <source>Copyright © 2026 RocketScience IT</source>
         <note>Copyright (human-readable)</note>
       </trans-unit>
       <trans-unit id="NSLocalNetworkUsageDescription" xml:space="preserve">
@@ -858,14 +862,14 @@
   </file>
   <file original="Resources/App/AdGuard Home Remote WidgetsExtension copy-InfoPlist.xcstrings" source-language="en" target-language="el" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.1.1" build-num="17B100"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
     </header>
     <body>
-      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+      <trans-unit id="CFBundleDisplayName" translate="no" xml:space="preserve">
         <source>AdGuard Home Remote Widgets Watch</source>
         <note>Bundle display name</note>
       </trans-unit>
-      <trans-unit id="CFBundleName" xml:space="preserve">
+      <trans-unit id="CFBundleName" translate="no" xml:space="preserve">
         <source>AdGuard Home Remote WidgetsExtension Watch</source>
         <note>Bundle name</note>
       </trans-unit>
@@ -873,7 +877,7 @@
   </file>
   <file original="Resources/App/en.lproj/AppShortcuts.strings" source-language="en" target-language="el" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.1.1" build-num="17B100"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
     </header>
     <body>
       <trans-unit id="Disable protection for ${duration} minutes in ${applicationName}" xml:space="preserve">
@@ -895,7 +899,7 @@
   </file>
   <file original="Resources/App/InfoPlist.xcstrings" source-language="en" target-language="el" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.1.1" build-num="17B100"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" translate="no" xml:space="preserve">
@@ -910,7 +914,7 @@
   </file>
   <file original="Resources/App/Localizable.xcstrings" source-language="en" target-language="el" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.1.1" build-num="17B100"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
     </header>
     <body>
       <trans-unit id="%@" translate="no" xml:space="preserve">
@@ -923,14 +927,17 @@
       </trans-unit>
       <trans-unit id="%@ bytes" xml:space="preserve">
         <source>%@ bytes</source>
+        <target state="translated">%@ bytes</target>
         <note>Clients DNS cache size in bytes.</note>
       </trans-unit>
       <trans-unit id="%@ entries" xml:space="preserve">
         <source>%@ entries</source>
+        <target state="translated">%@ καταχωρήσεις</target>
         <note>Used on the Statistics-screen in the preferences menu.</note>
       </trans-unit>
       <trans-unit id="%@ms" xml:space="preserve">
         <source>%@ms</source>
+        <target state="translated">%@ms</target>
         <note>Used in the Query Log to display query duration like '5ms'.</note>
       </trans-unit>
       <trans-unit id="1h" xml:space="preserve">
@@ -970,6 +977,7 @@
       </trans-unit>
       <trans-unit id="48h" xml:space="preserve">
         <source>48h</source>
+        <target state="translated">48ω</target>
         <note/>
       </trans-unit>
       <trans-unit id="80" translate="no" xml:space="preserve">
@@ -1003,6 +1011,7 @@
       </trans-unit>
       <trans-unit id="A clean Anime &amp; Manga tracker app, using the MyAnimeList API." xml:space="preserve">
         <source>A clean Anime &amp; Manga tracker app, using the MyAnimeList API.</source>
+        <target state="translated">Μια καθαρή εφαρμογή παρακολούθησης Anime &amp; Manga, χρησιμοποιώντας το MyAnimeList API.</target>
         <note>Subtitle under 'ManGo' app on the Made by RocketScience screen.</note>
       </trans-unit>
       <trans-unit id="AAAA" translate="no" xml:space="preserve">
@@ -1019,6 +1028,7 @@
       </trans-unit>
       <trans-unit id="AGHR's tabs" xml:space="preserve">
         <source>AGHR's tabs</source>
+        <target state="translated">Καρτέλες AGHR</target>
         <note/>
       </trans-unit>
       <trans-unit id="APL" translate="no" xml:space="preserve">
@@ -1027,102 +1037,122 @@
       </trans-unit>
       <trans-unit id="Accessibility" xml:space="preserve">
         <source>Accessibility</source>
+        <target state="translated">Προσβασιμότητα</target>
         <note/>
       </trans-unit>
       <trans-unit id="AdGuard Home v0.107.28 or higher is required for some of these new features. Please update!" xml:space="preserve">
         <source>AdGuard Home v0.107.28 or higher is required for some of these new features. Please update!</source>
+        <target state="translated">Απαιτείται AdGuard Home v0.107.28 ή νεότερο για ορισμένες νέες λειτουργίες. Παρακαλώ ενημερώστε!</target>
         <note/>
-      </trans-unit>
-      <trans-unit id="Add" xml:space="preserve">
-        <source>Add</source>
-        <note>Used in the Settings-tab in the 'instances' section header.</note>
       </trans-unit>
       <trans-unit id="Add '%@'" xml:space="preserve">
         <source>Add '%@'</source>
+        <target state="translated">Προσθήκη '%@'</target>
         <note>Used on the 'Add new disable preset' screen, e.g. 'Add 30 seconds'</note>
       </trans-unit>
       <trans-unit id="Add 5 minutes" xml:space="preserve">
         <source>Add 5 minutes</source>
+        <target state="translated">Προσθήκη 5 λεπτών</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add Instance" xml:space="preserve">
         <source>Add Instance</source>
+        <target state="translated">Προσθήκη Εκδοχής</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add new preset" xml:space="preserve">
         <source>Add new preset</source>
+        <target state="translated">Προσθήκη νέας προεπιλογής</target>
         <note>Used on the 'Add new disable preset' screen</note>
       </trans-unit>
       <trans-unit id="Add your AdGuard Home instances to control them and view statistics." xml:space="preserve">
         <source>Add your AdGuard Home instances to control them and view statistics.</source>
+        <target state="translated">Προσθέστε τις εκδοχές AdGuard Home για να τις ελέγξετε και να δείτε στατιστικά.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Adding new presets requires Pro." xml:space="preserve">
         <source>Adding new presets requires Pro.</source>
+        <target state="translated">Η προσθήκη νέων προεπιλογών απαιτεί Pro.</target>
         <note>Used on the 'Add new disable preset' screen</note>
       </trans-unit>
       <trans-unit id="Additional info" xml:space="preserve">
         <source>Additional info</source>
+        <target state="translated">Επιπλέον πληροφορίες</target>
         <note/>
       </trans-unit>
       <trans-unit id="All" xml:space="preserve">
         <source>All</source>
+        <target state="translated">Όλα</target>
         <note/>
       </trans-unit>
       <trans-unit id="Apply Pro license" xml:space="preserve">
         <source>Apply Pro license</source>
+        <target state="translated">Εφαρμογή άδειας Pro</target>
         <note/>
       </trans-unit>
       <trans-unit id="Artificial intelligence" xml:space="preserve">
         <source>Artificial intelligence</source>
+        <target state="translated">Τεχνητή νοημοσύνη</target>
         <note/>
       </trans-unit>
       <trans-unit id="Auto-refresh" xml:space="preserve">
         <source>Auto-refresh</source>
+        <target state="translated">Αυτόματη ανανέωση</target>
         <note/>
       </trans-unit>
       <trans-unit id="Automatic" xml:space="preserve">
         <source>Automatic</source>
+        <target state="translated">Αυτόματο</target>
         <note>Used in the 'Preferences Other' screen in the navigation style picker (only visible for iPad)</note>
       </trans-unit>
       <trans-unit id="Average processing time: %@ ms" xml:space="preserve">
         <source>Average processing time: %@ ms</source>
+        <target state="translated">Μέσος χρόνος επεξεργασίας: %@ ms</target>
         <note/>
       </trans-unit>
       <trans-unit id="Average processing time: %@ ms." xml:space="preserve">
         <source>Average processing time: %@ ms.</source>
+        <target state="translated">Μέσος χρόνος επεξεργασίας: %@ ms.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Bar-chart" xml:space="preserve">
         <source>Bar-chart</source>
+        <target state="translated">Ραβδόγραμμα</target>
         <note>Chart type.</note>
       </trans-unit>
       <trans-unit id="Blocked by filters" xml:space="preserve">
         <source>Blocked by filters</source>
+        <target state="translated">Αποκλείστηκε από φίλτρα</target>
         <note>Query status type.</note>
       </trans-unit>
       <trans-unit id="Blocked by filters: %@ (%@)" xml:space="preserve">
         <source>Blocked by filters: %1$@ (%2$@)</source>
+        <target state="translated">Αποκλείστηκε από φίλτρα: %1$@ (%2$@)</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocked malware" xml:space="preserve">
         <source>Blocked malware</source>
+        <target state="translated">Αποκλεισμένο κακόβουλο λογισμικό</target>
         <note>Query status type.</note>
       </trans-unit>
       <trans-unit id="Blocked malware: %@" xml:space="preserve">
         <source>Blocked malware: %@</source>
+        <target state="translated">Αποκλεισμένο κακόβουλο λογισμικό: %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocked parental" xml:space="preserve">
         <source>Blocked parental</source>
+        <target state="translated">Γονικός έλεγχος αποκλείστηκε</target>
         <note>Query status type.</note>
       </trans-unit>
       <trans-unit id="Blocked parental: %@" xml:space="preserve">
         <source>Blocked parental: %@</source>
+        <target state="translated">Γονικός έλεγχος αποκλείστηκε: %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="Blocking" xml:space="preserve">
         <source>Blocking</source>
+        <target state="translated">Αποκλεισμός</target>
         <note/>
       </trans-unit>
       <trans-unit id="CAA" translate="no" xml:space="preserve">
@@ -1151,70 +1181,87 @@
       </trans-unit>
       <trans-unit id="Can't reach AdGuard Home." xml:space="preserve">
         <source>Can't reach AdGuard Home.</source>
+        <target state="translated">Δεν είναι δυνατή η σύνδεση με το AdGuard Home.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Cancel" xml:space="preserve">
         <source>Cancel</source>
+        <target state="translated">Ακύρωση</target>
         <note/>
       </trans-unit>
       <trans-unit id="Card color" xml:space="preserve">
         <source>Card color</source>
+        <target state="translated">Χρώμα κάρτας</target>
         <note/>
       </trans-unit>
       <trans-unit id="Chart" xml:space="preserve">
         <source>Chart</source>
+        <target state="translated">Γράφημα</target>
         <note/>
       </trans-unit>
       <trans-unit id="Chart Type" xml:space="preserve">
         <source>Chart Type</source>
+        <target state="translated">Τύπος γραφήματος</target>
         <note/>
       </trans-unit>
       <trans-unit id="Check Filtering" xml:space="preserve">
         <source>Check Filtering</source>
+        <target state="translated">Έλεγχος φιλτραρίσματος</target>
         <note/>
       </trans-unit>
       <trans-unit id="Check filtering" xml:space="preserve">
         <source>Check filtering</source>
+        <target state="translated">Έλεγχος φιλτραρίσματος</target>
         <note/>
       </trans-unit>
       <trans-unit id="Check if a host name is filtered." xml:space="preserve">
         <source>Check if a host name is filtered.</source>
+        <target state="translated">Ελέγξτε αν ένα όνομα κεντρικού υπολογιστή φιλτράρεται.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Clear hostname textfield" xml:space="preserve">
         <source>Clear hostname textfield</source>
+        <target state="translated">Εκκαθάριση πεδίου ονόματος κεντρικού υπολογιστή</target>
         <note>Accessibility label for the X button of the hostname textfield</note>
       </trans-unit>
       <trans-unit id="Client identifier" xml:space="preserve">
         <source>Client identifier</source>
+        <target state="translated">Αναγνωριστικό πελάτη</target>
         <note/>
       </trans-unit>
       <trans-unit id="ClientID or IP" xml:space="preserve">
         <source>ClientID or IP</source>
+        <target state="translated">ID πελάτη ή IP</target>
         <note/>
       </trans-unit>
       <trans-unit id="Close" xml:space="preserve">
         <source>Close</source>
+        <target state="translated">Κλείσιμο</target>
         <note/>
       </trans-unit>
       <trans-unit id="Compact" xml:space="preserve">
         <source>Compact</source>
+        <target state="translated">Συμπαγές</target>
         <note>Dashboard size type</note>
       </trans-unit>
       <trans-unit id="Contact" xml:space="preserve">
         <source>Contact</source>
+        <target state="translated">Επικοινωνία</target>
         <note/>
       </trans-unit>
       <trans-unit id="Content delivery networks (CDN)" xml:space="preserve">
         <source>Content delivery networks (CDN)</source>
+        <target state="translated">Δίκτυα παράδοσης περιεχομένου (CDN)</target>
         <note/>
       </trans-unit>
       <trans-unit id="Copy '%@'" xml:space="preserve">
         <source>Copy '%@'</source>
+        <target state="translated">Αντιγραφή '%@'</target>
         <note/>
       </trans-unit>
       <trans-unit id="Custom disable presets" xml:space="preserve">
         <source>Custom disable presets</source>
+        <target state="translated">Προσαρμοσμένες προεπιλογές απενεργοποίησης</target>
         <note/>
       </trans-unit>
       <trans-unit id="DHCID" translate="no" xml:space="preserve">
@@ -1231,14 +1278,17 @@
       </trans-unit>
       <trans-unit id="DNS Queries" xml:space="preserve">
         <source>DNS Queries</source>
+        <target state="translated">Ερωτήματα DNS</target>
         <note/>
       </trans-unit>
       <trans-unit id="DNS Queries: %@" xml:space="preserve">
         <source>DNS Queries: %@</source>
+        <target state="translated">Ερωτήματα DNS: %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="DNS Record Type" xml:space="preserve">
         <source>DNS Record Type</source>
+        <target state="translated">Τύπος εγγραφής DNS</target>
         <note/>
       </trans-unit>
       <trans-unit id="DNSKEY" translate="no" xml:space="preserve">
@@ -1251,42 +1301,52 @@
       </trans-unit>
       <trans-unit id="Dashboard" xml:space="preserve">
         <source>Dashboard</source>
+        <target state="translated">Πίνακας ελέγχου</target>
         <note/>
       </trans-unit>
       <trans-unit id="Datapoints" xml:space="preserve">
         <source>Datapoints</source>
+        <target state="translated">Σημεία δεδομένων</target>
         <note/>
       </trans-unit>
       <trans-unit id="Date" xml:space="preserve">
         <source>Date</source>
+        <target state="translated">Ημερομηνία</target>
         <note/>
       </trans-unit>
       <trans-unit id="Dating services" xml:space="preserve">
         <source>Dating services</source>
+        <target state="translated">Υπηρεσίες γνωριμιών</target>
         <note/>
       </trans-unit>
       <trans-unit id="Default count" xml:space="preserve">
         <source>Default count</source>
+        <target state="translated">Προεπιλεγμένος αριθμός</target>
         <note/>
       </trans-unit>
       <trans-unit id="Design" xml:space="preserve">
         <source>Design</source>
+        <target state="translated">Σχεδίαση</target>
         <note/>
       </trans-unit>
       <trans-unit id="Disabled" xml:space="preserve">
         <source>Disabled</source>
+        <target state="translated">Απενεργοποιημένο</target>
         <note/>
       </trans-unit>
       <trans-unit id="Duration" xml:space="preserve">
         <source>Duration</source>
+        <target state="translated">Διάρκεια</target>
         <note/>
       </trans-unit>
       <trans-unit id="Duration Presets" xml:space="preserve">
         <source>Duration Presets</source>
+        <target state="translated">Προεπιλογές διάρκειας</target>
         <note/>
       </trans-unit>
       <trans-unit id="Duration in seconds" xml:space="preserve">
         <source>Duration in seconds</source>
+        <target state="translated">Διάρκεια σε δευτερόλεπτα</target>
         <note/>
       </trans-unit>
       <trans-unit id="EUI48" translate="no" xml:space="preserve">
@@ -1299,62 +1359,77 @@
       </trans-unit>
       <trans-unit id="Edit presets..." xml:space="preserve">
         <source>Edit presets...</source>
+        <target state="translated">Επεξεργασία προεπιλογών...</target>
         <note/>
       </trans-unit>
       <trans-unit id="Editing presets requires Pro." xml:space="preserve">
         <source>Editing presets requires Pro.</source>
+        <target state="translated">Η επεξεργασία προεπιλογών απαιτεί Pro.</target>
         <note>Used on the 'Add new disable preset' screen</note>
       </trans-unit>
       <trans-unit id="Enable and disable protection." xml:space="preserve">
         <source>Enable and disable protection.</source>
+        <target state="translated">Ενεργοποίηση και απενεργοποίηση προστασίας.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Enable blocking" xml:space="preserve">
         <source>Enable blocking</source>
+        <target state="translated">Ενεργοποίηση αποκλεισμού</target>
         <note/>
       </trans-unit>
       <trans-unit id="Enable cache" xml:space="preserve">
         <source>Enable cache</source>
+        <target state="translated">Ενεργοποίηση προσωρινής μνήμης</target>
         <note/>
       </trans-unit>
       <trans-unit id="Enabled" xml:space="preserve">
         <source>Enabled</source>
+        <target state="translated">Ενεργοποιημένο</target>
         <note/>
       </trans-unit>
       <trans-unit id="Every 10 seconds" xml:space="preserve">
         <source>Every 10 seconds</source>
+        <target state="translated">Κάθε 10 δευτερόλεπτα</target>
         <note/>
       </trans-unit>
       <trans-unit id="Expanded" xml:space="preserve">
         <source>Expanded</source>
+        <target state="translated">Επεκταμένο</target>
         <note>Dashboard size type</note>
       </trans-unit>
       <trans-unit id="Expires in %lld minutes" xml:space="preserve">
         <source>Expires in %lld minutes</source>
+        <target state="translated">Λήγει σε %lld λεπτά</target>
         <note/>
       </trans-unit>
       <trans-unit id="Filters" xml:space="preserve">
         <source>Filters</source>
+        <target state="translated">Φίλτρα</target>
         <note/>
       </trans-unit>
       <trans-unit id="Filters: %@" xml:space="preserve">
         <source>Filters: %@</source>
+        <target state="translated">Φίλτρα: %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="Force Watch Sync" xml:space="preserve">
         <source>Force Watch Sync</source>
+        <target state="translated">Αναγκαστικός συγχρονισμός Watch</target>
         <note/>
       </trans-unit>
       <trans-unit id="Full Color" xml:space="preserve">
         <source>Full Color</source>
+        <target state="translated">Πλήρες χρώμα</target>
         <note/>
       </trans-unit>
       <trans-unit id="Gambling and betting" xml:space="preserve">
         <source>Gambling and betting</source>
+        <target state="translated">Τυχερά παιχνίδια και στοιχήματα</target>
         <note/>
       </trans-unit>
       <trans-unit id="Gaming" xml:space="preserve">
         <source>Gaming</source>
+        <target state="translated">Παιχνίδια</target>
         <note/>
       </trans-unit>
       <trans-unit id="HINFO" translate="no" xml:space="preserve">
@@ -1371,6 +1446,7 @@
       </trans-unit>
       <trans-unit id="Hostname or domain name" xml:space="preserve">
         <source>Hostname or domain name</source>
+        <target state="translated">Όνομα κεντρικού υπολογιστή ή τομέα</target>
         <note/>
       </trans-unit>
       <trans-unit id="IPSECKEY" translate="no" xml:space="preserve">
@@ -1379,34 +1455,42 @@
       </trans-unit>
       <trans-unit id="Icon" xml:space="preserve">
         <source>Icon</source>
+        <target state="translated">Εικονίδιο</target>
         <note/>
       </trans-unit>
       <trans-unit id="If you already did, please go to your instance, press 'Edit' and press 'Save' again. It should show up after that. If not, try a restart of the Watch app." xml:space="preserve">
         <source>If you already did, please go to your instance, press 'Edit' and press 'Save' again. It should show up after that. If not, try a restart of the Watch app.</source>
+        <target state="translated">Αν το κάνατε ήδη, πηγαίνετε στην εκδοχή σας, πατήστε 'Επεξεργασία' και πατήστε 'Αποθήκευση' ξανά. Θα πρέπει να εμφανιστεί μετά. Αν όχι, δοκιμάστε επανεκκίνηση της εφαρμογής Watch.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Indefinitely" xml:space="preserve">
         <source>Indefinitely</source>
+        <target state="translated">Επ' αόριστον</target>
         <note/>
       </trans-unit>
       <trans-unit id="Info" xml:space="preserve">
         <source>Info</source>
+        <target state="translated">Πληροφορίες</target>
         <note/>
       </trans-unit>
       <trans-unit id="Instance" xml:space="preserve">
         <source>Instance</source>
+        <target state="translated">Εκδοχή</target>
         <note/>
       </trans-unit>
       <trans-unit id="Instances" xml:space="preserve">
         <source>Instances</source>
+        <target state="translated">Εκδοχές</target>
         <note/>
       </trans-unit>
       <trans-unit id="Invalid authentication or privacy setting." xml:space="preserve">
         <source>Invalid authentication or privacy setting.</source>
+        <target state="translated">Μη έγκυρη ταυτοποίηση ή ρύθμιση απορρήτου.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Invalid hostname or port." xml:space="preserve">
         <source>Invalid hostname or port.</source>
+        <target state="translated">Μη έγκυρο όνομα κεντρικού υπολογιστή ή θύρα.</target>
         <note/>
       </trans-unit>
       <trans-unit id="KEY" translate="no" xml:space="preserve">
@@ -1423,10 +1507,12 @@
       </trans-unit>
       <trans-unit id="Launch App" xml:space="preserve">
         <source>Launch App</source>
+        <target state="translated">Εκκίνηση εφαρμογής</target>
         <note/>
       </trans-unit>
       <trans-unit id="Line-chart" xml:space="preserve">
         <source>Line-chart</source>
+        <target state="translated">Γραμμικό γράφημα</target>
         <note>Chart type.</note>
       </trans-unit>
       <trans-unit id="MX" translate="no" xml:space="preserve">
@@ -1435,26 +1521,32 @@
       </trans-unit>
       <trans-unit id="Malware" xml:space="preserve">
         <source>Malware</source>
+        <target state="translated">Κακόβουλο λογισμικό</target>
         <note/>
       </trans-unit>
       <trans-unit id="Malware: %@" xml:space="preserve">
         <source>Malware: %@</source>
+        <target state="translated">Κακόβουλο λογισμικό: %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="ManGo - Anime &amp; Manga Tracker" xml:space="preserve">
         <source>ManGo - Anime &amp; Manga Tracker</source>
+        <target state="translated">ManGo - Anime &amp; Manga Tracker</target>
         <note/>
       </trans-unit>
       <trans-unit id="Messaging services" xml:space="preserve">
         <source>Messaging services</source>
+        <target state="translated">Υπηρεσίες μηνυμάτων</target>
         <note/>
       </trans-unit>
       <trans-unit id="Monitor real-time electricity and gas prices in many European countries." xml:space="preserve">
         <source>Monitor real-time electricity and gas prices in many European countries.</source>
+        <target state="translated">Παρακολουθήστε τιμές ηλεκτρικού και φυσικού αερίου σε πραγματικό χρόνο σε πολλές ευρωπαϊκές χώρες.</target>
         <note>Subtitle under 'Utility Radar' app on the Made by RocketScience screen.</note>
       </trans-unit>
       <trans-unit id="Muted" xml:space="preserve">
         <source>Muted</source>
+        <target state="translated">Σίγαση</target>
         <note/>
       </trans-unit>
       <trans-unit id="NAPTR" translate="no" xml:space="preserve">
@@ -1479,14 +1571,17 @@
       </trans-unit>
       <trans-unit id="Name" xml:space="preserve">
         <source>Name</source>
+        <target state="translated">Όνομα</target>
         <note/>
       </trans-unit>
       <trans-unit id="New Instance" xml:space="preserve">
         <source>New Instance</source>
+        <target state="translated">Νέα εκδοχή</target>
         <note/>
       </trans-unit>
       <trans-unit id="New OS versions are required for some of these new features. Please update your device!" xml:space="preserve">
         <source>New OS versions are required for some of these new features. Please update your device!</source>
+        <target state="translated">Απαιτούνται νέες εκδόσεις OS για ορισμένες νέες λειτουργίες. Παρακαλώ ενημερώστε τη συσκευή σας!</target>
         <note/>
       </trans-unit>
       <trans-unit id="NextDNS Remote" translate="no" xml:space="preserve">
@@ -1495,70 +1590,76 @@
       </trans-unit>
       <trans-unit id="No Instances" xml:space="preserve">
         <source>No Instances</source>
+        <target state="translated">Χωρίς εκδοχές</target>
         <note/>
       </trans-unit>
       <trans-unit id="No Watch Paired" xml:space="preserve">
         <source>No Watch Paired</source>
+        <target state="translated">Χωρίς συζευγμένο Watch</target>
         <note/>
       </trans-unit>
       <trans-unit id="No connection" xml:space="preserve">
         <source>No connection</source>
+        <target state="translated">Χωρίς σύνδεση</target>
         <note/>
       </trans-unit>
       <trans-unit id="No data" xml:space="preserve">
         <source>No data</source>
+        <target state="translated">Χωρίς δεδομένα</target>
         <note/>
       </trans-unit>
       <trans-unit id="No instance." xml:space="preserve">
         <source>No instance.</source>
+        <target state="translated">Χωρίς εκδοχή.</target>
         <note/>
       </trans-unit>
       <trans-unit id="No pages for this support item" xml:space="preserve">
         <source>No pages for this support item</source>
+        <target state="translated">Χωρίς σελίδες για αυτό το στοιχείο υποστήριξης</target>
         <note/>
       </trans-unit>
       <trans-unit id="OPENPGPKEY" translate="no" xml:space="preserve">
         <source>OPENPGPKEY</source>
         <note>Used in the DNS record type picker on the 'check filtering' screen.</note>
       </trans-unit>
-      <trans-unit id="One-tap button|==|device.mac" xml:space="preserve">
-        <source>One-click button</source>
-        <note/>
-      </trans-unit>
-      <trans-unit id="One-tap button|==|device.other" xml:space="preserve">
+      <trans-unit id="One-tap button" xml:space="preserve">
         <source>One-tap button</source>
+        <target state="translated">Κουμπί ενός πατήματος</target>
         <note/>
       </trans-unit>
-      <trans-unit id="One-tap disable duration|==|device.mac" xml:space="preserve">
-        <source>One-click disable duration</source>
-        <note/>
-      </trans-unit>
-      <trans-unit id="One-tap disable duration|==|device.other" xml:space="preserve">
+      <trans-unit id="One-tap disable duration" xml:space="preserve">
         <source>One-tap disable duration</source>
+        <target state="translated">Διάρκεια απενεργοποίησης ενός πατήματος</target>
         <note/>
       </trans-unit>
       <trans-unit id="Open" xml:space="preserve">
         <source>Open</source>
+        <target state="translated">Άνοιγμα</target>
         <note/>
       </trans-unit>
       <trans-unit id="Open statistics." xml:space="preserve">
         <source>Open statistics.</source>
+        <target state="translated">Άνοιγμα στατιστικών.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Open the dashboard." xml:space="preserve">
         <source>Open the dashboard.</source>
+        <target state="translated">Άνοιγμα πίνακα ελέγχου.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Open the query log." xml:space="preserve">
         <source>Open the query log.</source>
+        <target state="translated">Άνοιγμα αρχείου ερωτημάτων.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Optional" xml:space="preserve">
         <source>Optional</source>
+        <target state="translated">Προαιρετικό</target>
         <note/>
       </trans-unit>
       <trans-unit id="Options" xml:space="preserve">
         <source>Options</source>
+        <target state="translated">Επιλογές</target>
         <note/>
       </trans-unit>
       <trans-unit id="PTR" translate="no" xml:space="preserve">
@@ -1567,14 +1668,17 @@
       </trans-unit>
       <trans-unit id="Parental" xml:space="preserve">
         <source>Parental</source>
+        <target state="translated">Γονικός έλεγχος</target>
         <note/>
       </trans-unit>
       <trans-unit id="Parental: %@" xml:space="preserve">
         <source>Parental: %@</source>
+        <target state="translated">Γονικός έλεγχος: %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="Paste from clipboard" xml:space="preserve">
         <source>Paste from clipboard</source>
+        <target state="translated">Επικόλληση από πρόχειρο</target>
         <note>Accessibility label for the clipboard button</note>
       </trans-unit>
       <trans-unit id="Pi-hole Remote" translate="no" xml:space="preserve">
@@ -1583,34 +1687,42 @@
       </trans-unit>
       <trans-unit id="Please add an instance in the iPhone app." xml:space="preserve">
         <source>Please add an instance in the iPhone app.</source>
+        <target state="translated">Παρακαλώ προσθέστε μια εκδοχή στην εφαρμογή iPhone.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Presets" xml:space="preserve">
         <source>Presets</source>
+        <target state="translated">Προεπιλογές</target>
         <note/>
       </trans-unit>
       <trans-unit id="Privacy tools" xml:space="preserve">
         <source>Privacy tools</source>
+        <target state="translated">Εργαλεία απορρήτου</target>
         <note/>
       </trans-unit>
       <trans-unit id="Processed" xml:space="preserve">
         <source>Processed</source>
+        <target state="translated">Επεξεργάστηκε</target>
         <note>Query status type.</note>
       </trans-unit>
       <trans-unit id="Processed: %@" xml:space="preserve">
         <source>Processed: %@</source>
+        <target state="translated">Επεξεργάστηκε: %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="Queries" xml:space="preserve">
         <source>Queries</source>
+        <target state="translated">Ερωτήματα</target>
         <note/>
       </trans-unit>
       <trans-unit id="Queries: %@" xml:space="preserve">
         <source>Queries: %@</source>
+        <target state="translated">Ερωτήματα: %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="Query Log" xml:space="preserve">
         <source>Query Log</source>
+        <target state="translated">Αρχείο ερωτημάτων</target>
         <note/>
       </trans-unit>
       <trans-unit id="RP" translate="no" xml:space="preserve">
@@ -1623,14 +1735,17 @@
       </trans-unit>
       <trans-unit id="Refreshing" xml:space="preserve">
         <source>Refreshing</source>
+        <target state="translated">Ανανέωση</target>
         <note/>
       </trans-unit>
       <trans-unit id="Regular" xml:space="preserve">
         <source>Regular</source>
+        <target state="translated">Κανονικό</target>
         <note>Dashboard size type</note>
       </trans-unit>
       <trans-unit id="Regular cards, combined chart" xml:space="preserve">
         <source>Regular cards, combined chart</source>
+        <target state="translated">Κανονικές κάρτες, συνδυασμένο γράφημα</target>
         <note>Dashboard size type explainer</note>
       </trans-unit>
       <trans-unit id="Remote for AdGuard DNS" translate="no" xml:space="preserve">
@@ -1639,22 +1754,27 @@
       </trans-unit>
       <trans-unit id="Remove Pro license" xml:space="preserve">
         <source>Remove Pro license</source>
+        <target state="translated">Αφαίρεση άδειας Pro</target>
         <note/>
       </trans-unit>
       <trans-unit id="Remove Statistics Limits" xml:space="preserve">
         <source>Remove Statistics Limits</source>
+        <target state="translated">Αφαίρεση ορίων στατιστικών</target>
         <note/>
       </trans-unit>
       <trans-unit id="Reorder by dragging, remove by swiping." xml:space="preserve">
         <source>Reorder by dragging, remove by swiping.</source>
+        <target state="translated">Αναδιάταξη με σύρσιμο, αφαίρεση με σάρωση.</target>
         <note>Used on the 'Add new disable preset' screen</note>
       </trans-unit>
       <trans-unit id="Request timed out." xml:space="preserve">
         <source>Request timed out.</source>
+        <target state="translated">Λήξη χρόνου αιτήματος.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Result: %@" xml:space="preserve">
         <source>Result: %@</source>
+        <target state="translated">Αποτέλεσμα: %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="RocketScience IT" translate="no" xml:space="preserve">
@@ -1687,130 +1807,162 @@
       </trans-unit>
       <trans-unit id="Schedule" xml:space="preserve">
         <source>Schedule</source>
+        <target state="translated">Χρονοδιάγραμμα</target>
         <note/>
       </trans-unit>
       <trans-unit id="Seconds" xml:space="preserve">
         <source>Seconds</source>
+        <target state="translated">Δευτερόλεπτα</target>
         <note>Used on the 'Add new disable preset' screen</note>
       </trans-unit>
       <trans-unit id="Select an Instance" xml:space="preserve">
         <source>Select an Instance</source>
+        <target state="translated">Επιλογή εκδοχής</target>
         <note/>
       </trans-unit>
       <trans-unit id="Select..." xml:space="preserve">
         <source>Select...</source>
+        <target state="translated">Επιλογή...</target>
         <note>Used in the DHCP interface picker on the DHCP Settings screen.</note>
       </trans-unit>
       <trans-unit id="Selected" xml:space="preserve">
         <source>Selected</source>
+        <target state="translated">Επιλεγμένο</target>
         <note/>
       </trans-unit>
       <trans-unit id="Separate cards and charts" xml:space="preserve">
         <source>Separate cards and charts</source>
+        <target state="translated">Ξεχωριστές κάρτες και γραφήματα</target>
         <note>Dashboard size type explainer</note>
       </trans-unit>
       <trans-unit id="Shopping" xml:space="preserve">
         <source>Shopping</source>
+        <target state="translated">Αγορές</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show 'All' button" xml:space="preserve">
         <source>Show 'All' button</source>
+        <target state="translated">Εμφάνιση κουμπιού 'Όλα'</target>
         <note>Displayed in Dashboard Preferences.</note>
       </trans-unit>
       <trans-unit id="Show 'Indefinitely'" xml:space="preserve">
         <source>Show 'Indefinitely'</source>
+        <target state="translated">Εμφάνιση 'Επ' αόριστον'</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show 'Until tomorrow'" xml:space="preserve">
         <source>Show 'Until tomorrow'</source>
+        <target state="translated">Εμφάνιση 'Μέχρι αύριο'</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show Changelog again on startup" xml:space="preserve">
         <source>Show Changelog again on startup</source>
+        <target state="translated">Εμφάνιση αλλαγών ξανά κατά την εκκίνηση</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show Client IDs" xml:space="preserve">
         <source>Show Client IDs</source>
+        <target state="translated">Εμφάνιση ID πελατών</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show all icons" xml:space="preserve">
         <source>Show all icons</source>
+        <target state="translated">Εμφάνιση όλων των εικονιδίων</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show chart" xml:space="preserve">
         <source>Show chart</source>
+        <target state="translated">Εμφάνιση γραφήματος</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show hostname" xml:space="preserve">
         <source>Show hostname</source>
+        <target state="translated">Εμφάνιση ονόματος κεντρικού υπολογιστή</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show instance version" xml:space="preserve">
         <source>Show instance version</source>
+        <target state="translated">Εμφάνιση έκδοσης εκδοχής</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show legend" xml:space="preserve">
         <source>Show legend</source>
+        <target state="translated">Εμφάνιση υπομνήματος</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show more..." xml:space="preserve">
         <source>Show more...</source>
+        <target state="translated">Εμφάνιση περισσότερων...</target>
         <note>Used on the Statistics-screen.</note>
       </trans-unit>
       <trans-unit id="Show version" xml:space="preserve">
         <source>Show version</source>
+        <target state="translated">Εμφάνιση έκδοσης</target>
         <note/>
       </trans-unit>
       <trans-unit id="Sidebar" xml:space="preserve">
         <source>Sidebar</source>
+        <target state="translated">Πλαϊνή μπάρα</target>
         <note>Used in the 'Preferences Other' screen in the navigation style picker (only visible for iPad)</note>
       </trans-unit>
       <trans-unit id="Small cards, combined chart" xml:space="preserve">
         <source>Small cards, combined chart</source>
+        <target state="translated">Μικρές κάρτες, συνδυασμένο γράφημα</target>
         <note>Dashboard size type explainer</note>
       </trans-unit>
       <trans-unit id="Social networks" xml:space="preserve">
         <source>Social networks</source>
+        <target state="translated">Κοινωνικά δίκτυα</target>
         <note/>
       </trans-unit>
       <trans-unit id="Software development" xml:space="preserve">
         <source>Software development</source>
+        <target state="translated">Ανάπτυξη λογισμικού</target>
         <note/>
       </trans-unit>
       <trans-unit id="Something went wrong with your purchase." xml:space="preserve">
         <source>Something went wrong with your purchase.</source>
+        <target state="translated">Κάτι πήγε στραβά με την αγορά σας.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Something went wrong." xml:space="preserve">
         <source>Something went wrong.</source>
+        <target state="translated">Κάτι πήγε στραβά.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Statistics" xml:space="preserve">
         <source>Statistics</source>
+        <target state="translated">Στατιστικά</target>
         <note/>
       </trans-unit>
       <trans-unit id="Status" xml:space="preserve">
         <source>Status</source>
+        <target state="translated">Κατάσταση</target>
         <note/>
       </trans-unit>
       <trans-unit id="Stop Live Activity" xml:space="preserve">
         <source>Stop Live Activity</source>
+        <target state="translated">Διακοπή ζωντανής δραστηριότητας</target>
         <note/>
       </trans-unit>
       <trans-unit id="Store DNS responses locally" xml:space="preserve">
         <source>Store DNS responses locally</source>
+        <target state="translated">Αποθήκευση απαντήσεων DNS τοπικά</target>
         <note/>
       </trans-unit>
       <trans-unit id="Streaming services" xml:space="preserve">
         <source>Streaming services</source>
+        <target state="translated">Υπηρεσίες streaming</target>
         <note/>
       </trans-unit>
       <trans-unit id="Sub-buttons" xml:space="preserve">
         <source>Sub-buttons</source>
+        <target state="translated">Υπο-κουμπιά</target>
         <note/>
       </trans-unit>
       <trans-unit id="Support" xml:space="preserve">
         <source>Support</source>
+        <target state="translated">Υποστήριξη</target>
         <note/>
       </trans-unit>
       <trans-unit id="TA" translate="no" xml:space="preserve">
@@ -1835,78 +1987,97 @@
       </trans-unit>
       <trans-unit id="Tabbar" xml:space="preserve">
         <source>Tabbar</source>
+        <target state="translated">Γραμμή καρτελών</target>
         <note>Used in the 'Preferences Other' screen in the navigation style picker (only visible for iPad)</note>
       </trans-unit>
       <trans-unit id="Target" xml:space="preserve">
         <source>Target</source>
+        <target state="translated">Στόχος</target>
         <note/>
       </trans-unit>
       <trans-unit id="TestFlight Debug" xml:space="preserve">
         <source>TestFlight Debug</source>
+        <target state="translated">Εντοπισμός σφαλμάτων TestFlight</target>
         <note/>
       </trans-unit>
       <trans-unit id="The original enddate when blocking would be enabled again." xml:space="preserve">
         <source>The original enddate when blocking would be enabled again.</source>
+        <target state="translated">Η αρχική ημερομηνία λήξης όταν ο αποκλεισμός θα ενεργοποιηθεί ξανά.</target>
         <note/>
       </trans-unit>
       <trans-unit id="This version requires iOS 15, watchOS 8, macOS 12 (or newer)." xml:space="preserve">
         <source>This version requires iOS 15, watchOS 8, macOS 12 (or newer).</source>
+        <target state="translated">Αυτή η έκδοση απαιτεί iOS 15, watchOS 8, macOS 12 (ή νεότερο).</target>
         <note/>
       </trans-unit>
       <trans-unit id="This version requires iOS 16.2 &amp; watchOS 10.0 (or newer)." xml:space="preserve">
         <source>This version requires iOS 16.2 &amp; watchOS 10.0 (or newer).</source>
+        <target state="translated">Αυτή η έκδοση απαιτεί iOS 16.2 &amp; watchOS 10.0 (ή νεότερο).</target>
         <note/>
       </trans-unit>
       <trans-unit id="Toggle Protection" xml:space="preserve">
         <source>Toggle Protection</source>
+        <target state="translated">Εναλλαγή προστασίας</target>
         <note/>
       </trans-unit>
       <trans-unit id="Toggle between enabled &amp; disabled" xml:space="preserve">
         <source>Toggle between enabled &amp; disabled</source>
+        <target state="translated">Εναλλαγή μεταξύ ενεργοποιημένου και απενεργοποιημένου</target>
         <note/>
       </trans-unit>
       <trans-unit id="Toggle only between enabled &amp; disabled. Hold the button for more options." xml:space="preserve">
         <source>Toggle only between enabled &amp; disabled. Hold the button for more options.</source>
+        <target state="translated">Εναλλαγή μόνο μεταξύ ενεργοποιημένου και απενεργοποιημένου. Κρατήστε το κουμπί για περισσότερες επιλογές.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Top Blocked Domains" xml:space="preserve">
         <source>Top Blocked Domains</source>
+        <target state="translated">Κορυφαίοι αποκλεισμένοι τομείς</target>
         <note>Used on the Statistics-screen.</note>
       </trans-unit>
       <trans-unit id="Top Blocked Domains: %@" xml:space="preserve">
         <source>Top Blocked Domains: %@</source>
+        <target state="translated">Κορυφαίοι αποκλεισμένοι τομείς: %@</target>
         <note>Used on the Statistics-screen, with the instance name.</note>
       </trans-unit>
       <trans-unit id="Top Clients" xml:space="preserve">
         <source>Top Clients</source>
+        <target state="translated">Κορυφαίοι πελάτες</target>
         <note>Used on the Statistics-screen.</note>
       </trans-unit>
       <trans-unit id="Top Clients: %@" xml:space="preserve">
         <source>Top Clients: %@</source>
+        <target state="translated">Κορυφαίοι πελάτες: %@</target>
         <note>Used on the Statistics-screen, with the instance name.</note>
       </trans-unit>
       <trans-unit id="Top Queried Domains" xml:space="preserve">
         <source>Top Queried Domains</source>
+        <target state="translated">Κορυφαίοι τομείς ερωτημάτων</target>
         <note>Used on the Statistics-screen.</note>
       </trans-unit>
       <trans-unit id="Top Queried Domains: %@" xml:space="preserve">
         <source>Top Queried Domains: %@</source>
+        <target state="translated">Κορυφαίοι τομείς ερωτημάτων: %@</target>
         <note>Used on the Statistics-screen, with the instance name.</note>
       </trans-unit>
       <trans-unit id="Top Upstreams" xml:space="preserve">
         <source>Top Upstreams</source>
+        <target state="translated">Κορυφαίοι upstream</target>
         <note>Used on the Statistics-screen.</note>
       </trans-unit>
       <trans-unit id="Top Upstreams: %@" xml:space="preserve">
         <source>Top Upstreams: %@</source>
+        <target state="translated">Κορυφαίοι upstream: %@</target>
         <note>Used on the Statistics-screen, with the instance name.</note>
       </trans-unit>
       <trans-unit id="Total" xml:space="preserve">
         <source>Total</source>
+        <target state="translated">Σύνολο</target>
         <note>Query status type.</note>
       </trans-unit>
       <trans-unit id="Total: %@" xml:space="preserve">
         <source>Total: %@</source>
+        <target state="translated">Σύνολο: %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="URI" translate="no" xml:space="preserve">
@@ -1915,46 +2086,57 @@
       </trans-unit>
       <trans-unit id="Unknown" xml:space="preserve">
         <source>Unknown</source>
+        <target state="translated">Άγνωστο</target>
         <note/>
       </trans-unit>
       <trans-unit id="Unknown Error" xml:space="preserve">
         <source>Unknown Error</source>
+        <target state="translated">Άγνωστο σφάλμα</target>
         <note/>
       </trans-unit>
       <trans-unit id="Until tomorrow" xml:space="preserve">
         <source>Until tomorrow</source>
+        <target state="translated">Μέχρι αύριο</target>
         <note/>
       </trans-unit>
       <trans-unit id="Use NextDNS? Have I got an app for you." xml:space="preserve">
         <source>Use NextDNS? Have I got an app for you.</source>
+        <target state="translated">Χρησιμοποιείτε NextDNS; Έχω μια εφαρμογή για εσάς.</target>
         <note/>
       </trans-unit>
       <trans-unit id="User Interface" xml:space="preserve">
         <source>User Interface</source>
+        <target state="translated">Διεπαφή χρήστη</target>
         <note/>
       </trans-unit>
       <trans-unit id="Utility Radar" xml:space="preserve">
         <source>Utility Radar</source>
+        <target state="translated">Utility Radar</target>
         <note/>
       </trans-unit>
       <trans-unit id="Version" xml:space="preserve">
         <source>Version</source>
+        <target state="translated">Έκδοση</target>
         <note/>
       </trans-unit>
       <trans-unit id="Version: %@." xml:space="preserve">
         <source>Version: %@.</source>
+        <target state="translated">Έκδοση: %@.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Watch App Not Installed" xml:space="preserve">
         <source>Watch App Not Installed</source>
+        <target state="translated">Η εφαρμογή Watch δεν είναι εγκατεστημένη</target>
         <note/>
       </trans-unit>
       <trans-unit id="Web hosting" xml:space="preserve">
         <source>Web hosting</source>
+        <target state="translated">Φιλοξενία ιστοσελίδων</target>
         <note/>
       </trans-unit>
       <trans-unit id="You've reached the maximum of 6 presets." xml:space="preserve">
         <source>You've reached the maximum of 6 presets.</source>
+        <target state="translated">Έχετε φτάσει το μέγιστο των 6 προεπιλογών.</target>
         <note>Used on the 'Add new disable preset' screen</note>
       </trans-unit>
       <trans-unit id="ZONEMD" translate="no" xml:space="preserve">
@@ -2038,6 +2220,7 @@
       </trans-unit>
       <trans-unit id="avg %@ms" xml:space="preserve">
         <source>avg %@ms</source>
+        <target state="translated">μέσος %@ms</target>
         <note/>
       </trans-unit>
       <trans-unit id="blocked_services" xml:space="preserve">
@@ -2067,6 +2250,7 @@
       </trans-unit>
       <trans-unit id="cache" xml:space="preserve">
         <source>cache</source>
+        <target state="translated">προσωρινή μνήμη</target>
         <note/>
       </trans-unit>
       <trans-unit id="cancel" xml:space="preserve">
@@ -2580,14 +2764,6 @@ Search</source>
       <trans-unit id="design_theme" xml:space="preserve">
         <source>Theme</source>
         <target state="translated">Θέμα</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="dhcp_add_client_by_ip" xml:space="preserve">
-        <source>dhcp_add_client_by_ip</source>
-        <note/>
-      </trans-unit>
-      <trans-unit id="dhcp_add_client_by_mac" xml:space="preserve">
-        <source>dhcp_add_client_by_mac</source>
         <note/>
       </trans-unit>
       <trans-unit id="dhcp_add_client_with_ip" xml:space="preserve">
@@ -3112,6 +3288,7 @@ Search</source>
       </trans-unit>
       <trans-unit id="dnsrewrites_disable" xml:space="preserve">
         <source>Disable</source>
+        <target state="translated">Απενεργοποίηση</target>
         <note/>
       </trans-unit>
       <trans-unit id="dnsrewrites_domain" xml:space="preserve">
@@ -3131,10 +3308,12 @@ Search</source>
       </trans-unit>
       <trans-unit id="dnsrewrites_enable" xml:space="preserve">
         <source>Enable</source>
+        <target state="translated">Ενεργοποίηση</target>
         <note/>
       </trans-unit>
       <trans-unit id="dnsrewrites_enabled" xml:space="preserve">
         <source>Enabled</source>
+        <target state="translated">Ενεργοποιημένο</target>
         <note/>
       </trans-unit>
       <trans-unit id="dnsrewrites_entries" xml:space="preserve">
@@ -3144,10 +3323,12 @@ Search</source>
       </trans-unit>
       <trans-unit id="dnsrewrites_global_enable" xml:space="preserve">
         <source>Enable Rewrites</source>
+        <target state="translated">Ενεργοποίηση επανεγγραφών</target>
         <note/>
       </trans-unit>
       <trans-unit id="dnsrewrites_global_enable_footer" xml:space="preserve">
         <source>Enables/disables all rewrite entries.</source>
+        <target state="translated">Ενεργοποιεί/απενεργοποιεί όλες τις καταχωρήσεις επανεγγραφής.</target>
         <note/>
       </trans-unit>
       <trans-unit id="dnsrewrites_new" xml:space="preserve">
@@ -3197,6 +3378,7 @@ Search</source>
       </trans-unit>
       <trans-unit id="example.com" xml:space="preserve">
         <source>example.com</source>
+        <target state="translated">example.com</target>
         <note/>
       </trans-unit>
       <trans-unit id="filtering_addfilter_allowlist" xml:space="preserve">
@@ -3601,6 +3783,7 @@ Search</source>
       </trans-unit>
       <trans-unit id="important" xml:space="preserve">
         <source>important</source>
+        <target state="translated">σημαντικό</target>
         <note/>
       </trans-unit>
       <trans-unit id="indefinitely" xml:space="preserve">
@@ -3710,42 +3893,52 @@ Search</source>
       </trans-unit>
       <trans-unit id="key" xml:space="preserve">
         <source>key</source>
+        <target state="translated">κλειδί</target>
         <note>Placeholder of the 'custom header key' textfield in instance settings.</note>
       </trans-unit>
       <trans-unit id="last 3 days" xml:space="preserve">
         <source>last 3 days</source>
+        <target state="translated">τελευταίες 3 ημέρες</target>
         <note/>
       </trans-unit>
       <trans-unit id="last 6 hours" xml:space="preserve">
         <source>last 6 hours</source>
+        <target state="translated">τελευταίες 6 ώρες</target>
         <note/>
       </trans-unit>
       <trans-unit id="last 7 days" xml:space="preserve">
         <source>last 7 days</source>
+        <target state="translated">τελευταίες 7 ημέρες</target>
         <note/>
       </trans-unit>
       <trans-unit id="last 12 hours" xml:space="preserve">
         <source>last 12 hours</source>
+        <target state="translated">τελευταίες 12 ώρες</target>
         <note/>
       </trans-unit>
       <trans-unit id="last 24 hours" xml:space="preserve">
         <source>last 24 hours</source>
+        <target state="translated">τελευταίες 24 ώρες</target>
         <note/>
       </trans-unit>
       <trans-unit id="last 30 days" xml:space="preserve">
         <source>last 30 days</source>
+        <target state="translated">τελευταίες 30 ημέρες</target>
         <note/>
       </trans-unit>
       <trans-unit id="last 48 hours" xml:space="preserve">
         <source>last 48 hours</source>
+        <target state="translated">τελευταίες 48 ώρες</target>
         <note/>
       </trans-unit>
       <trans-unit id="last 90 days" xml:space="preserve">
         <source>last 90 days</source>
+        <target state="translated">τελευταίες 90 ημέρες</target>
         <note/>
       </trans-unit>
       <trans-unit id="last hour" xml:space="preserve">
         <source>last hour</source>
+        <target state="translated">τελευταία ώρα</target>
         <note/>
       </trans-unit>
       <trans-unit id="liveactivity_ends" xml:space="preserve">
@@ -3910,6 +4103,7 @@ Search</source>
       </trans-unit>
       <trans-unit id="off" xml:space="preserve">
         <source>off</source>
+        <target state="translated">απενεργοποιημένο</target>
         <note/>
       </trans-unit>
       <trans-unit id="ok" xml:space="preserve">
@@ -3919,10 +4113,12 @@ Search</source>
       </trans-unit>
       <trans-unit id="on" xml:space="preserve">
         <source>on</source>
+        <target state="translated">ενεργοποιημένο</target>
         <note/>
       </trans-unit>
       <trans-unit id="original_enddate" xml:space="preserve">
         <source>Original Enddate</source>
+        <target state="translated">Αρχική ημερομηνία λήξης</target>
         <note/>
       </trans-unit>
       <trans-unit id="other" xml:space="preserve">
@@ -4057,7 +4253,7 @@ Search</source>
       </trans-unit>
       <trans-unit id="preferences_lock_unlock_footnote_tap|==|device.mac" xml:space="preserve">
         <source>Click above to unlock AdGuard Home Remote</source>
-        <target state="needs-review-l10n">Tap above to unlock AdGuard Home Remote</target>
+        <target state="translated">Tap above to unlock AdGuard Home Remote</target>
         <note/>
       </trans-unit>
       <trans-unit id="preferences_lock_unlock_footnote_tap|==|device.other" xml:space="preserve">
@@ -4342,7 +4538,7 @@ Remote Pro</target>
       </trans-unit>
       <trans-unit id="query_status_FilteredParental" xml:space="preserve">
         <source>Parental Control</source>
-        <target state="needs-review-l10n">Αποκλεισμένα | Γονικός έλεγχος</target>
+        <target state="translated">Αποκλεισμένα | Γονικός έλεγχος</target>
         <note/>
       </trans-unit>
       <trans-unit id="query_status_FilteredSafeBrowsing" xml:space="preserve">
@@ -4352,7 +4548,7 @@ Remote Pro</target>
       </trans-unit>
       <trans-unit id="query_status_FilteredSafeSearch" xml:space="preserve">
         <source>Safe Search</source>
-        <target state="needs-review-l10n">Αποκλεισμένα | Ασφαλής αναζήτηση</target>
+        <target state="translated">Αποκλεισμένα | Ασφαλής αναζήτηση</target>
         <note/>
       </trans-unit>
       <trans-unit id="query_status_NotFilteredError" xml:space="preserve">
@@ -4632,7 +4828,7 @@ Remote Pro</target>
       </trans-unit>
       <trans-unit id="querylog_show_extra_detail" xml:space="preserve">
         <source>Show response details</source>
-        <target state="needs-review-l10n">Show extra detail</target>
+        <target state="translated">Show extra detail</target>
         <note/>
       </trans-unit>
       <trans-unit id="querylog_show_queries_status" xml:space="preserve">
@@ -4821,10 +5017,12 @@ My main goal is to learn: design, development, testing, support, promotion - may
       </trans-unit>
       <trans-unit id="select_instance_and_duration" xml:space="preserve">
         <source>Select instance &amp; duration</source>
+        <target state="translated">Επιλογή εκδοχής και διάρκειας</target>
         <note/>
       </trans-unit>
       <trans-unit id="select_instance_and_duration_description" xml:space="preserve">
         <source>Disable protection for a certain duration.</source>
+        <target state="translated">Απενεργοποίηση προστασίας για συγκεκριμένη διάρκεια.</target>
         <note/>
       </trans-unit>
       <trans-unit id="services" xml:space="preserve">
@@ -5089,7 +5287,7 @@ My main goal is to learn: design, development, testing, support, promotion - may
       </trans-unit>
       <trans-unit id="tap_to_learn_more|==|device.mac" xml:space="preserve">
         <source>Click to learn more.</source>
-        <target state="needs-review-l10n">Πατήστε για να μάθετε περισσότερα.</target>
+        <target state="translated">Πατήστε για να μάθετε περισσότερα.</target>
         <note/>
       </trans-unit>
       <trans-unit id="tap_to_learn_more|==|device.other" xml:space="preserve">
@@ -5214,10 +5412,12 @@ If you want to tip, please download the app from the App Store! After that you c
       </trans-unit>
       <trans-unit id="v%@ (%@)" translate="no" xml:space="preserve">
         <source>v%1$@ (%2$@)</source>
+        <target state="translated">v%1$@ (%2$@)</target>
         <note/>
       </trans-unit>
       <trans-unit id="value" xml:space="preserve">
         <source>value</source>
+        <target state="translated">τιμή</target>
         <note>Placeholder of the 'custom header value' textfield in instance settings.</note>
       </trans-unit>
       <trans-unit id="watch_stuck_reinstall" xml:space="preserve">

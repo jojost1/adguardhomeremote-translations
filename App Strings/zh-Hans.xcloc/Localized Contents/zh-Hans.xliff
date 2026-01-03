@@ -2,20 +2,18 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="AdGuard Home Remote Watch App WatchKit Extension/AdGuard-Home-Remote-Watch-App-InfoPlist.xcstrings" source-language="en" target-language="zh-Hans" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.1.1" build-num="17B100"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
     </header>
     <body>
-      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+      <trans-unit id="CFBundleDisplayName" translate="no" xml:space="preserve">
         <source>AdGuard Home</source>
-        <target state="needs-translation"/>
         <note>Bundle display name</note>
       </trans-unit>
-      <trans-unit id="CFBundleName" xml:space="preserve">
+      <trans-unit id="CFBundleName" translate="no" xml:space="preserve">
         <source>AdGuard Home</source>
-        <target state="needs-translation"/>
         <note>Bundle name</note>
       </trans-unit>
-      <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
+      <trans-unit id="NSHumanReadableCopyright" translate="no" xml:space="preserve">
         <source/>
         <note>Copyright (human-readable)</note>
       </trans-unit>
@@ -23,7 +21,7 @@
   </file>
   <file original="AdGuard Home Remote Widgets/Base.lproj/WidgetConfigs.intentdefinition" source-language="en" target-language="zh-Hans" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.1.1" build-num="17B100"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
     </header>
     <body>
       <trans-unit id="0foAlr-1ekF7R" xml:space="preserve">
@@ -63,7 +61,7 @@
       </trans-unit>
       <trans-unit id="7IZPYe" xml:space="preserve">
         <source>false</source>
-        <target state="translated">false</target>
+        <target>false</target>
         <note/>
       </trans-unit>
       <trans-unit id="9MYzi8" xml:space="preserve">
@@ -83,7 +81,7 @@
       </trans-unit>
       <trans-unit id="CcFtAj" xml:space="preserve">
         <source>false</source>
-        <target state="translated">false</target>
+        <target>false</target>
         <note/>
       </trans-unit>
       <trans-unit id="E0Klym" xml:space="preserve">
@@ -108,7 +106,7 @@
       </trans-unit>
       <trans-unit id="LFaJho" xml:space="preserve">
         <source>false</source>
-        <target state="translated">false</target>
+        <target>false</target>
         <note/>
       </trans-unit>
       <trans-unit id="MtnrjZ" xml:space="preserve">
@@ -118,22 +116,22 @@
       </trans-unit>
       <trans-unit id="OAPSjn" xml:space="preserve">
         <source>true</source>
-        <target state="translated">true</target>
+        <target>true</target>
         <note/>
       </trans-unit>
       <trans-unit id="OOhCnt" xml:space="preserve">
         <source>true</source>
-        <target state="translated">true</target>
+        <target>true</target>
         <note/>
       </trans-unit>
       <trans-unit id="PH25Un" xml:space="preserve">
         <source>true</source>
-        <target state="translated">true</target>
+        <target>true</target>
         <note/>
       </trans-unit>
       <trans-unit id="SQ2n8h" xml:space="preserve">
         <source>true</source>
-        <target state="translated">true</target>
+        <target>true</target>
         <note/>
       </trans-unit>
       <trans-unit id="Sjc6JT" xml:space="preserve">
@@ -168,12 +166,12 @@
       </trans-unit>
       <trans-unit id="dkqgdY" xml:space="preserve">
         <source>true</source>
-        <target state="translated">true</target>
+        <target>true</target>
         <note/>
       </trans-unit>
       <trans-unit id="dxWkA0" xml:space="preserve">
         <source>true</source>
-        <target state="translated">true</target>
+        <target>true</target>
         <note/>
       </trans-unit>
       <trans-unit id="eJpT9K" xml:space="preserve">
@@ -213,7 +211,7 @@
       </trans-unit>
       <trans-unit id="mBaeNg" xml:space="preserve">
         <source>false</source>
-        <target state="translated">false</target>
+        <target>false</target>
         <note/>
       </trans-unit>
       <trans-unit id="tVvJ9c" xml:space="preserve">
@@ -258,7 +256,7 @@
       </trans-unit>
       <trans-unit id="xGmdln" xml:space="preserve">
         <source>false</source>
-        <target state="translated">false</target>
+        <target>false</target>
         <note/>
       </trans-unit>
       <trans-unit id="xq4Ojz" xml:space="preserve">
@@ -268,14 +266,14 @@
       </trans-unit>
       <trans-unit id="zG2P2r" xml:space="preserve">
         <source>false</source>
-        <target state="translated">false</target>
+        <target>false</target>
         <note/>
       </trans-unit>
     </body>
   </file>
   <file original="AdGuard Home Remote Widgets/InfoPlist.xcstrings" source-language="en" target-language="zh-Hans" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.1.1" build-num="17B100"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" translate="no" xml:space="preserve">
@@ -290,7 +288,7 @@
   </file>
   <file original="App Intents &amp; Shortcuts/Base.lproj/Intents.intentdefinition" source-language="en" target-language="zh-Hans" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.1.1" build-num="17B100"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
     </header>
     <body>
       <trans-unit id="0sDcS3" xml:space="preserve">
@@ -817,7 +815,7 @@
   </file>
   <file original="App Intents &amp; Shortcuts/InfoPlist.xcstrings" source-language="en" target-language="zh-Hans" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.1.1" build-num="17B100"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" translate="no" xml:space="preserve">
@@ -829,14 +827,14 @@
         <note>Bundle name</note>
       </trans-unit>
       <trans-unit id="NSHumanReadableCopyright" translate="no" xml:space="preserve">
-        <source>Copyright © 2025 RocketScience IT</source>
+        <source>Copyright © 2026 RocketScience IT</source>
         <note>Copyright (human-readable)</note>
       </trans-unit>
     </body>
   </file>
   <file original="App Intents &amp; Shortcuts/Localizable.xcstrings" source-language="en" target-language="zh-Hans" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.1.1" build-num="17B100"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
     </header>
     <body>
       <trans-unit id="Can't reach AdGuard Home." xml:space="preserve">
@@ -863,7 +861,7 @@
   </file>
   <file original="iOS/InfoPlist.xcstrings" source-language="en" target-language="zh-Hans" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.1.1" build-num="17B100"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" translate="no" xml:space="preserve">
@@ -880,8 +878,8 @@
         <note>Privacy - Face ID Usage Description</note>
       </trans-unit>
       <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
-        <source>Copyright © 2025 RocketScience IT</source>
-        <target state="translated">版权所有 © 2025 RocketScience IT</target>
+        <source>Copyright © 2026 RocketScience IT</source>
+        <target state="translated">版权所有 © 2026 RocketScience IT</target>
         <note>Copyright (human-readable)</note>
       </trans-unit>
       <trans-unit id="NSLocalNetworkUsageDescription" xml:space="preserve">
@@ -893,15 +891,15 @@
   </file>
   <file original="Resources/App/AdGuard Home Remote WidgetsExtension copy-InfoPlist.xcstrings" source-language="en" target-language="zh-Hans" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.1.1" build-num="17B100"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
     </header>
     <body>
-      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+      <trans-unit id="CFBundleDisplayName" translate="no" xml:space="preserve">
         <source>AdGuard Home Remote Widgets Watch</source>
         <target state="translated">AdGuard Home Remote 手表小组件</target>
         <note>Bundle display name</note>
       </trans-unit>
-      <trans-unit id="CFBundleName" xml:space="preserve">
+      <trans-unit id="CFBundleName" translate="no" xml:space="preserve">
         <source>AdGuard Home Remote WidgetsExtension Watch</source>
         <target state="translated">AdGuard Home Remote 扩展手表小组件</target>
         <note>Bundle name</note>
@@ -910,7 +908,7 @@
   </file>
   <file original="Resources/App/en.lproj/AppShortcuts.strings" source-language="en" target-language="zh-Hans" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.1.1" build-num="17B100"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
     </header>
     <body>
       <trans-unit id="Disable protection for ${duration} minutes in ${applicationName}" xml:space="preserve">
@@ -932,7 +930,7 @@
   </file>
   <file original="Resources/App/InfoPlist.xcstrings" source-language="en" target-language="zh-Hans" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.1.1" build-num="17B100"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" translate="no" xml:space="preserve">
@@ -947,7 +945,7 @@
   </file>
   <file original="Resources/App/Localizable.xcstrings" source-language="en" target-language="zh-Hans" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.1.1" build-num="17B100"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
     </header>
     <body>
       <trans-unit id="%@" translate="no" xml:space="preserve">
@@ -1077,11 +1075,6 @@
         <source>AdGuard Home v0.107.28 or higher is required for some of these new features. Please update!</source>
         <target state="translated">部分新功能需要 AdGuard Home v0.107.28 或更高版本。请更新版本!</target>
         <note/>
-      </trans-unit>
-      <trans-unit id="Add" xml:space="preserve">
-        <source>Add</source>
-        <target state="translated">添加</target>
-        <note>Used in the Settings-tab in the 'instances' section header.</note>
       </trans-unit>
       <trans-unit id="Add '%@'" xml:space="preserve">
         <source>Add '%@'</source>
@@ -2814,16 +2807,6 @@ Search</source>
         <target state="translated">主题外观</target>
         <note/>
       </trans-unit>
-      <trans-unit id="dhcp_add_client_by_ip" xml:space="preserve">
-        <source>dhcp_add_client_by_ip</source>
-        <target state="translated">dhcp_add_client_by_ip</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="dhcp_add_client_by_mac" xml:space="preserve">
-        <source>dhcp_add_client_by_mac</source>
-        <target state="translated">dhcp_add_client_by_mac</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="dhcp_add_client_with_ip" xml:space="preserve">
         <source>New Client (with IP)</source>
         <target state="translated">新客户端 (使用 IP)</target>
@@ -4311,7 +4294,7 @@ Search</source>
       </trans-unit>
       <trans-unit id="preferences_lock_unlock_footnote_tap|==|device.mac" xml:space="preserve">
         <source>Click above to unlock AdGuard Home Remote</source>
-        <target state="needs-review-l10n">点击上方解锁 AdGuard Home Remote</target>
+        <target state="translated">点击上方解锁 AdGuard Home Remote</target>
         <note/>
       </trans-unit>
       <trans-unit id="preferences_lock_unlock_footnote_tap|==|device.other" xml:space="preserve">
@@ -5345,7 +5328,7 @@ My main goal is to learn: design, development, testing, support, promotion - may
       </trans-unit>
       <trans-unit id="tap_to_learn_more|==|device.mac" xml:space="preserve">
         <source>Click to learn more.</source>
-        <target state="needs-review-l10n">点击了解更多</target>
+        <target state="translated">点击了解更多</target>
         <note/>
       </trans-unit>
       <trans-unit id="tap_to_learn_more|==|device.other" xml:space="preserve">
