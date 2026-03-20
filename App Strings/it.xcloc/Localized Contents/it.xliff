@@ -1,8 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="AdGuard Home Remote Share Extension/InfoPlist.xcstrings" source-language="en" target-language="it" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.3" build-num="17C529"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+        <source>AdGuard Home Remote Share Extension</source>
+        <note>Bundle display name</note>
+      </trans-unit>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>AdGuard Home Remote Share Extension</source>
+        <note>Bundle name</note>
+      </trans-unit>
+      <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
+        <source>Copyright © 2026 RocketScience. All rights reserved.</source>
+        <note>Copyright (human-readable)</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="AdGuard Home Remote tvOS/AdGuard-Home-Remote-tvOS-InfoPlist.xcstrings" source-language="en" target-language="it" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.3" build-num="17C529"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+        <source>AdGuard Home</source>
+        <note>Bundle display name</note>
+      </trans-unit>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>AdGuard Home Remote tvOS</source>
+        <note>Bundle name</note>
+      </trans-unit>
+      <trans-unit id="NSLocalNetworkUsageDescription" xml:space="preserve">
+        <source>AdGuard Home Remote uses the local network to connect with your AdGuard Home instances.</source>
+        <note>Privacy - Local Network Usage Description</note>
+      </trans-unit>
+    </body>
+  </file>
   <file original="AdGuard Home Remote Watch App WatchKit Extension/AdGuard-Home-Remote-Watch-App-InfoPlist.xcstrings" source-language="en" target-language="it" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.3" build-num="17C529"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" translate="no" xml:space="preserve">
@@ -21,7 +59,7 @@
   </file>
   <file original="AdGuard Home Remote Widgets/Base.lproj/WidgetConfigs.intentdefinition" source-language="en" target-language="it" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.3" build-num="17C529"/>
     </header>
     <body>
       <trans-unit id="0foAlr-1ekF7R" xml:space="preserve">
@@ -56,6 +94,7 @@
       </trans-unit>
       <trans-unit id="6AmxhP" xml:space="preserve">
         <source>Toggle Protection Widget</source>
+        <target>Widget per attivare/disattivare la protezione</target>
         <note/>
       </trans-unit>
       <trans-unit id="7IZPYe" xml:space="preserve">
@@ -167,6 +206,7 @@
       </trans-unit>
       <trans-unit id="gjZzpr" xml:space="preserve">
         <source>Toggle Protection Widget</source>
+        <target>Widget per attivare/disattivare la protezione</target>
         <note/>
       </trans-unit>
       <trans-unit id="gpCwrM" xml:space="preserve">
@@ -176,10 +216,12 @@
       </trans-unit>
       <trans-unit id="hF59s3" xml:space="preserve">
         <source>Disable Buttons Widget</source>
+        <target>Widget per disattivare i pulsanti</target>
         <note/>
       </trans-unit>
       <trans-unit id="ko3bBU" xml:space="preserve">
         <source>Disable Buttons Widget</source>
+        <target>Widget per disattivare i pulsanti</target>
         <note/>
       </trans-unit>
       <trans-unit id="m19WLB" xml:space="preserve">
@@ -246,7 +288,7 @@
   </file>
   <file original="AdGuard Home Remote Widgets/InfoPlist.xcstrings" source-language="en" target-language="it" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.3" build-num="17C529"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" translate="no" xml:space="preserve">
@@ -259,9 +301,48 @@
       </trans-unit>
     </body>
   </file>
+  <file original="AdGuard Home Remote Widgets/Localizable.xcstrings" source-language="en" target-language="it" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.3" build-num="17C529"/>
+    </header>
+    <body>
+      <trans-unit id="Bar-chart" xml:space="preserve">
+        <source>Bar-chart</source>
+        <note>Chart type.</note>
+      </trans-unit>
+      <trans-unit id="Compact" xml:space="preserve">
+        <source>Compact</source>
+        <note>Dashboard size type</note>
+      </trans-unit>
+      <trans-unit id="Expanded" xml:space="preserve">
+        <source>Expanded</source>
+        <note>Dashboard size type</note>
+      </trans-unit>
+      <trans-unit id="Line-chart" xml:space="preserve">
+        <source>Line-chart</source>
+        <note>Chart type.</note>
+      </trans-unit>
+      <trans-unit id="Regular" xml:space="preserve">
+        <source>Regular</source>
+        <note>Dashboard size type</note>
+      </trans-unit>
+      <trans-unit id="Regular cards, combined chart" xml:space="preserve">
+        <source>Regular cards, combined chart</source>
+        <note>Dashboard size type explainer</note>
+      </trans-unit>
+      <trans-unit id="Separate cards and charts" xml:space="preserve">
+        <source>Separate cards and charts</source>
+        <note>Dashboard size type explainer</note>
+      </trans-unit>
+      <trans-unit id="Small cards, combined chart" xml:space="preserve">
+        <source>Small cards, combined chart</source>
+        <note>Dashboard size type explainer</note>
+      </trans-unit>
+    </body>
+  </file>
   <file original="App Intents &amp; Shortcuts/Base.lproj/Intents.intentdefinition" source-language="en" target-language="it" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.3" build-num="17C529"/>
     </header>
     <body>
       <trans-unit id="0sDcS3" xml:space="preserve">
@@ -788,7 +869,7 @@
   </file>
   <file original="App Intents &amp; Shortcuts/InfoPlist.xcstrings" source-language="en" target-language="it" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.3" build-num="17C529"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" translate="no" xml:space="preserve">
@@ -807,13 +888,25 @@
   </file>
   <file original="App Intents &amp; Shortcuts/Localizable.xcstrings" source-language="en" target-language="it" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.3" build-num="17C529"/>
     </header>
     <body>
+      <trans-unit id="Bar-chart" xml:space="preserve">
+        <source>Bar-chart</source>
+        <note>Chart type.</note>
+      </trans-unit>
       <trans-unit id="Can't reach AdGuard Home." xml:space="preserve">
         <source>Can't reach AdGuard Home.</source>
         <target state="translated">Impossibile raggiungere AdGuard Home.</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="Compact" xml:space="preserve">
+        <source>Compact</source>
+        <note>Dashboard size type</note>
+      </trans-unit>
+      <trans-unit id="Expanded" xml:space="preserve">
+        <source>Expanded</source>
+        <note>Dashboard size type</note>
       </trans-unit>
       <trans-unit id="Invalid authentication or privacy setting." xml:space="preserve">
         <source>Invalid authentication or privacy setting.</source>
@@ -825,16 +918,36 @@
         <target state="translated">Nome host o porta non validi.</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Line-chart" xml:space="preserve">
+        <source>Line-chart</source>
+        <note>Chart type.</note>
+      </trans-unit>
+      <trans-unit id="Regular" xml:space="preserve">
+        <source>Regular</source>
+        <note>Dashboard size type</note>
+      </trans-unit>
+      <trans-unit id="Regular cards, combined chart" xml:space="preserve">
+        <source>Regular cards, combined chart</source>
+        <note>Dashboard size type explainer</note>
+      </trans-unit>
       <trans-unit id="Request timed out." xml:space="preserve">
         <source>Request timed out.</source>
         <target state="translated">Richiesta scaduta.</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Separate cards and charts" xml:space="preserve">
+        <source>Separate cards and charts</source>
+        <note>Dashboard size type explainer</note>
+      </trans-unit>
+      <trans-unit id="Small cards, combined chart" xml:space="preserve">
+        <source>Small cards, combined chart</source>
+        <note>Dashboard size type explainer</note>
+      </trans-unit>
     </body>
   </file>
   <file original="iOS/InfoPlist.xcstrings" source-language="en" target-language="it" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.3" build-num="17C529"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" translate="no" xml:space="preserve">
@@ -862,7 +975,7 @@
   </file>
   <file original="Resources/App/AdGuard Home Remote WidgetsExtension copy-InfoPlist.xcstrings" source-language="en" target-language="it" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.3" build-num="17C529"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" translate="no" xml:space="preserve">
@@ -877,7 +990,7 @@
   </file>
   <file original="Resources/App/en.lproj/AppShortcuts.strings" source-language="en" target-language="it" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.3" build-num="17C529"/>
     </header>
     <body>
       <trans-unit id="Disable protection for ${duration} minutes in ${applicationName}" xml:space="preserve">
@@ -899,7 +1012,7 @@
   </file>
   <file original="Resources/App/InfoPlist.xcstrings" source-language="en" target-language="it" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.3" build-num="17C529"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" translate="no" xml:space="preserve">
@@ -914,7 +1027,7 @@
   </file>
   <file original="Resources/App/Localizable.xcstrings" source-language="en" target-language="it" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.2" build-num="17C52"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.3" build-num="17C529"/>
     </header>
     <body>
       <trans-unit id="%@" translate="no" xml:space="preserve">
@@ -939,6 +1052,11 @@
         <source>%@ms</source>
         <target state="translated">%@ms</target>
         <note>Used in the Query Log to display query duration like '5ms'.</note>
+      </trans-unit>
+      <trans-unit id="'Add 5 min' feature" xml:space="preserve">
+        <source>'Add 5 min' feature</source>
+        <target state="translated">Funzione 'Aggiungi 5 min'</target>
+        <note>Used on the pro purchase screen.</note>
       </trans-unit>
       <trans-unit id="1h" xml:space="preserve">
         <source>1 hour</source>
@@ -1009,6 +1127,11 @@
         <source>A</source>
         <note>Used in the DNS record type picker on the 'check filtering' screen.</note>
       </trans-unit>
+      <trans-unit id="A **one time** purchase" xml:space="preserve">
+        <source>A **one time** purchase</source>
+        <target state="translated">Un acquisto **una tantum**</target>
+        <note>Used on the Pro purchase screen.</note>
+      </trans-unit>
       <trans-unit id="A clean Anime &amp; Manga tracker app, using the MyAnimeList API." xml:space="preserve">
         <source>A clean Anime &amp; Manga tracker app, using the MyAnimeList API.</source>
         <target state="translated">Un'app pulita per tracciare Anime e Manga, usando l'API di MyAnimeList.</target>
@@ -1035,10 +1158,30 @@
         <source>APL</source>
         <note>Used in the DNS record type picker on the 'check filtering' screen.</note>
       </trans-unit>
+      <trans-unit id="About" xml:space="preserve">
+        <source>About</source>
+        <target state="translated">Informazioni</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Accessibility" xml:space="preserve">
         <source>Accessibility</source>
         <target state="translated">Accessibilità</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="AdGuard Home Remote" xml:space="preserve">
+        <source>AdGuard Home Remote</source>
+        <target state="translated">AdGuard Home Remote</target>
+        <note>App title, do not translate.</note>
+      </trans-unit>
+      <trans-unit id="AdGuard Home Remote Pro" xml:space="preserve">
+        <source>AdGuard Home Remote Pro</source>
+        <target state="translated">AdGuard Home Remote Pro</target>
+        <note>Used on the pro purchase screen.</note>
+      </trans-unit>
+      <trans-unit id="AdGuard Home Remote is designed to protect your privacy and will never share any information with anyone." xml:space="preserve">
+        <source>AdGuard Home Remote is designed to protect your privacy and will never share any information with anyone.</source>
+        <target state="translated">AdGuard Home Remote è progettato per proteggere la tua privacy e non condividerà mai alcuna informazione con nessuno.</target>
+        <note>Displayed in the onboarding.</note>
       </trans-unit>
       <trans-unit id="AdGuard Home v0.107.28 or higher is required for some of these new features. Please update!" xml:space="preserve">
         <source>AdGuard Home v0.107.28 or higher is required for some of these new features. Please update!</source>
@@ -1058,6 +1201,11 @@
       <trans-unit id="Add Instance" xml:space="preserve">
         <source>Add Instance</source>
         <target state="translated">Aggiungi istanza</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Add an AdGuard Home instance using the iOS or macOS app. Instances are synced automatically via iCloud." xml:space="preserve">
+        <source>Add an AdGuard Home instance using the iOS or macOS app. Instances are synced automatically via iCloud.</source>
+        <target state="translated">Aggiungi un'istanza di AdGuard Home usando l'app iOS o macOS. Le istanze vengono sincronizzate automaticamente tramite iCloud.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add new preset" xml:space="preserve">
@@ -1085,6 +1233,21 @@
         <target state="translated">Tutto</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Allows Family Sharing" xml:space="preserve">
+        <source>Allows Family Sharing</source>
+        <target state="translated">Consente la condivisione in famiglia</target>
+        <note>Used on the pro purchase screen.</note>
+      </trans-unit>
+      <trans-unit id="Always" xml:space="preserve">
+        <source>Always</source>
+        <target state="translated">Sempre</target>
+        <note>Shown next to 'Pause Schedule' on the Filtering settings screen, when there are no active schedules.</note>
+      </trans-unit>
+      <trans-unit id="Apple TV features" xml:space="preserve">
+        <source>Apple TV features</source>
+        <target state="translated">Funzionalità Apple TV</target>
+        <note>Used on the pro purchase screen.</note>
+      </trans-unit>
       <trans-unit id="Apply Pro license" xml:space="preserve">
         <source>Apply Pro license</source>
         <target state="translated">Applica licenza Pro</target>
@@ -1105,14 +1268,19 @@
         <target state="translated">Automatico</target>
         <note>Used in the 'Preferences Other' screen in the navigation style picker (only visible for iPad)</note>
       </trans-unit>
-      <trans-unit id="Average processing time: %@ ms" xml:space="preserve">
-        <source>Average processing time: %@ ms</source>
-        <target state="translated">Tempo di elaborazione medio: %@ ms</target>
+      <trans-unit id="Average processing time: %@" xml:space="preserve">
+        <source>Average processing time: %@</source>
+        <target state="translated">Tempo di elaborazione medio: %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="Average processing time: %@ ms." xml:space="preserve">
         <source>Average processing time: %@ ms.</source>
         <target state="translated">Tempo di elaborazione medio: %@ ms.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Average processing time: %@." xml:space="preserve">
+        <source>Average processing time: %@.</source>
+        <target state="translated">Tempo di elaborazione medio: %@.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Bar-chart" xml:space="preserve">
@@ -1155,6 +1323,11 @@
         <target state="translated">Blocco</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Blocklist Management" xml:space="preserve">
+        <source>Blocklist Management</source>
+        <target state="translated">Gestione liste di blocco</target>
+        <note>Displayed in the onboarding.</note>
+      </trans-unit>
       <trans-unit id="CAA" translate="no" xml:space="preserve">
         <source>CAA</source>
         <note>Used in the DNS record type picker on the 'check filtering' screen.</note>
@@ -1194,6 +1367,11 @@
         <target state="translated">Colore scheda</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Changing this setting requires a force restart of the app." xml:space="preserve">
+        <source>Changing this setting requires a force restart of the app.</source>
+        <target state="translated">La modifica di questa impostazione richiede un riavvio forzato dell'app.</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Chart" xml:space="preserve">
         <source>Chart</source>
         <target state="translated">Grafico</target>
@@ -1223,6 +1401,11 @@
         <source>Clear hostname textfield</source>
         <target state="translated">Cancella campo nome host</target>
         <note>Accessibility label for the X button of the hostname textfield</note>
+      </trans-unit>
+      <trans-unit id="Client Management" xml:space="preserve">
+        <source>Client Management</source>
+        <target state="translated">Gestione client</target>
+        <note>Displayed in the onboarding.</note>
       </trans-unit>
       <trans-unit id="Client identifier" xml:space="preserve">
         <source>Client identifier</source>
@@ -1254,19 +1437,39 @@
         <target state="translated">Reti di distribuzione contenuti (CDN)</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Continue" xml:space="preserve">
+        <source>Continue</source>
+        <target state="translated">Continua</target>
+        <note>Used in onboarding and changelogs.</note>
+      </trans-unit>
       <trans-unit id="Copy '%@'" xml:space="preserve">
         <source>Copy '%@'</source>
         <target state="translated">Copia '%@'</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Custom disable presets" xml:space="preserve">
-        <source>Custom disable presets</source>
-        <target state="translated">Preset di disattivazione personalizzati</target>
+      <trans-unit id="Copy email" xml:space="preserve">
+        <source>Copy email</source>
+        <target state="translated">Copia email</target>
+        <note>Used on the pro purchase screen.</note>
+      </trans-unit>
+      <trans-unit id="Custom Presets" xml:space="preserve">
+        <source>Custom Presets</source>
+        <target state="translated">Preset personalizzati</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="Customize tint &amp; icon" xml:space="preserve">
+        <source>Customize tint &amp; icon</source>
+        <target state="translated">Personalizza tinta e icona</target>
+        <note>Used on the pro purchase screen.</note>
       </trans-unit>
       <trans-unit id="DHCID" translate="no" xml:space="preserve">
         <source>DHCID</source>
         <note>Used in the DNS record type picker on the 'check filtering' screen.</note>
+      </trans-unit>
+      <trans-unit id="DHCP &amp; DNS" xml:space="preserve">
+        <source>DHCP &amp; DNS</source>
+        <target state="translated">DHCP e DNS</target>
+        <note/>
       </trans-unit>
       <trans-unit id="DLV" translate="no" xml:space="preserve">
         <source>DLV</source>
@@ -1289,6 +1492,11 @@
       <trans-unit id="DNS Record Type" xml:space="preserve">
         <source>DNS Record Type</source>
         <target state="translated">Tipo record DNS</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="DNS Rewrites" xml:space="preserve">
+        <source>DNS Rewrites</source>
+        <target state="translated">Riscritture DNS</target>
         <note/>
       </trans-unit>
       <trans-unit id="DNSKEY" translate="no" xml:space="preserve">
@@ -1382,9 +1590,24 @@
         <target state="translated">Attiva cache</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Enable ignored domains" xml:space="preserve">
+        <source>Enable ignored domains</source>
+        <target state="translated">Abilita domini ignorati</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Enabled" xml:space="preserve">
         <source>Enabled</source>
         <target state="translated">Attivato</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Enjoy great widgets and a Live Activity when disabling protection." xml:space="preserve">
+        <source>Enjoy great widgets and a Live Activity when disabling protection.</source>
+        <target state="translated">Goditi fantastici widget e un'Attività in Tempo Reale quando disattivi la protezione.</target>
+        <note>Displayed in the onboarding.</note>
+      </trans-unit>
+      <trans-unit id="Error" xml:space="preserve">
+        <source>Error</source>
+        <target state="translated">Errore</target>
         <note/>
       </trans-unit>
       <trans-unit id="Every 10 seconds" xml:space="preserve">
@@ -1402,6 +1625,16 @@
         <target state="translated">Scade tra %lld minuti</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Explore all queries on your network and quickly block domains." xml:space="preserve">
+        <source>Explore all queries on your network and quickly block domains.</source>
+        <target state="translated">Esplora tutte le query sulla tua rete e blocca rapidamente i domini.</target>
+        <note>Displayed in the onboarding.</note>
+      </trans-unit>
+      <trans-unit id="Feature Overview" xml:space="preserve">
+        <source>Feature Overview</source>
+        <target state="translated">Panoramica delle funzioni</target>
+        <note>Used on the pro purchase screen.</note>
+      </trans-unit>
       <trans-unit id="Filters" xml:space="preserve">
         <source>Filters</source>
         <target state="translated">Filtri</target>
@@ -1417,6 +1650,11 @@
         <target state="translated">Forza sincronizzazione Watch</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Free" xml:space="preserve">
+        <source>Free</source>
+        <target state="translated">Gratuito</target>
+        <note>Used on the pro purchase screen.</note>
+      </trans-unit>
       <trans-unit id="Full Color" xml:space="preserve">
         <source>Full Color</source>
         <target state="translated">Colore pieno</target>
@@ -1430,6 +1668,11 @@
       <trans-unit id="Gaming" xml:space="preserve">
         <source>Gaming</source>
         <target state="translated">Gaming</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Get AGHR Pro - %@" xml:space="preserve">
+        <source>Get AGHR Pro - %@</source>
+        <target state="translated">Ottieni AGHR Pro - %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="HINFO" translate="no" xml:space="preserve">
@@ -1448,6 +1691,15 @@
         <source>Hostname or domain name</source>
         <target state="translated">Nome host o dominio</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="I see you don't have an active mail client on your device, please mail me with the request to join the TestFlight including a screenshot of this Pro screen so I can see you have purchased Pro.&#10;&#10;Please mail it to developer@rocketscience-it.nl!" xml:space="preserve">
+        <source>I see you don't have an active mail client on your device, please mail me with the request to join the TestFlight including a screenshot of this Pro screen so I can see you have purchased Pro.
+
+Please mail it to developer@rocketscience-it.nl!</source>
+        <target state="translated">Vedo che non hai un client email attivo sul tuo dispositivo. Per favore inviami un'email con la richiesta di unirti al TestFlight, includendo uno screenshot di questa schermata Pro in modo che possa vedere che hai acquistato Pro.
+
+Per favore inviala a developer@rocketscience-it.nl!</target>
+        <note>Used on the pro purchase screen.</note>
       </trans-unit>
       <trans-unit id="IPSECKEY" translate="no" xml:space="preserve">
         <source>IPSECKEY</source>
@@ -1483,6 +1735,11 @@
         <target state="translated">Istanze</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Interactive Widgets" xml:space="preserve">
+        <source>Interactive Widgets</source>
+        <target state="translated">Widget interattivi</target>
+        <note>Used on the pro purchase screen.</note>
+      </trans-unit>
       <trans-unit id="Invalid authentication or privacy setting." xml:space="preserve">
         <source>Invalid authentication or privacy setting.</source>
         <target state="translated">Autenticazione o impostazione privacy non valida.</target>
@@ -1510,14 +1767,34 @@
         <target state="translated">Avvia app</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Learn More" xml:space="preserve">
+        <source>Learn More</source>
+        <target state="translated">Scopri di più</target>
+        <note>Displayed in the onboarding.</note>
+      </trans-unit>
+      <trans-unit id="Lifetime Pro" xml:space="preserve">
+        <source>Lifetime Pro</source>
+        <target state="translated">Pro a vita</target>
+        <note>Used on the Pro purchase screen.</note>
+      </trans-unit>
       <trans-unit id="Line-chart" xml:space="preserve">
         <source>Line-chart</source>
         <target state="translated">Grafico a linee</target>
         <note>Chart type.</note>
       </trans-unit>
+      <trans-unit id="Live Log" xml:space="preserve">
+        <source>Live Log</source>
+        <target state="translated">Log in tempo reale</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="MX" translate="no" xml:space="preserve">
         <source>MX</source>
         <note>Used in the DNS record type picker on the 'check filtering' screen.</note>
+      </trans-unit>
+      <trans-unit id="Made with ❤️ by one person in 🇳🇱" xml:space="preserve">
+        <source>Made with ❤️ by one person in 🇳🇱</source>
+        <target state="translated">Fatto con ❤️ da una persona nei 🇳🇱</target>
+        <note>Used on the pro purchase screen.</note>
       </trans-unit>
       <trans-unit id="Malware" xml:space="preserve">
         <source>Malware</source>
@@ -1533,6 +1810,21 @@
         <source>ManGo - Anime &amp; Manga Tracker</source>
         <target state="translated">ManGo - Anime &amp; Manga Tracker</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="Manage Clients" xml:space="preserve">
+        <source>Manage Clients</source>
+        <target state="translated">Gestisci client</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Manage Filtering" xml:space="preserve">
+        <source>Manage Filtering</source>
+        <target state="translated">Gestisci filtraggio</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Manage filtering like blocklists, blocked services, pause schedules, and more." xml:space="preserve">
+        <source>Manage filtering like blocklists, blocked services, pause schedules, and more.</source>
+        <target state="translated">Gestisci il filtraggio come liste di blocco, servizi bloccati, pianificazioni di pausa e altro.</target>
+        <note>Displayed in the onboarding.</note>
       </trans-unit>
       <trans-unit id="Messaging services" xml:space="preserve">
         <source>Messaging services</source>
@@ -1618,6 +1910,11 @@
         <target state="translated">Nessuna pagina per questo elemento di supporto</target>
         <note/>
       </trans-unit>
+      <trans-unit id="OK" xml:space="preserve">
+        <source>OK</source>
+        <target state="translated">OK</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="OPENPGPKEY" translate="no" xml:space="preserve">
         <source>OPENPGPKEY</source>
         <note>Used in the DNS record type picker on the 'check filtering' screen.</note>
@@ -1662,6 +1959,11 @@
         <target state="translated">Opzioni</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Other" xml:space="preserve">
+        <source>Other</source>
+        <target state="translated">Altro</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="PTR" translate="no" xml:space="preserve">
         <source>PTR</source>
         <note>Used in the DNS record type picker on the 'check filtering' screen.</note>
@@ -1690,15 +1992,35 @@
         <target state="translated">Aggiungi un'istanza nell'app iPhone.</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Powerful AdGuard Home Client &amp; DHCP management." xml:space="preserve">
+        <source>Powerful AdGuard Home Client &amp; DHCP management.</source>
+        <target state="translated">Potente gestione client e DHCP di AdGuard Home.</target>
+        <note>Displayed in the onboarding.</note>
+      </trans-unit>
       <trans-unit id="Presets" xml:space="preserve">
         <source>Presets</source>
         <target state="translated">Preset</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Prevent screensaver start" xml:space="preserve">
+        <source>Prevent screensaver start</source>
+        <target state="translated">Impedisci avvio salvaschermo</target>
         <note/>
       </trans-unit>
       <trans-unit id="Privacy tools" xml:space="preserve">
         <source>Privacy tools</source>
         <target state="translated">Strumenti privacy</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="Pro" xml:space="preserve">
+        <source>Pro</source>
+        <target state="translated">Pro</target>
+        <note>Used on the pro purchase screen.</note>
+      </trans-unit>
+      <trans-unit id="Pro unlocks all these features, as well as new features in future updates. By purchasing Pro you will also support future development of the app, which is made by %@ (hi! 👋). I really appreciate it!" xml:space="preserve">
+        <source>Pro unlocks all these features, as well as new features in future updates. By purchasing Pro you will also support future development of the app, which is made by %@ (hi! 👋). I really appreciate it!</source>
+        <target state="translated">Pro sblocca tutte queste funzioni, così come nuove funzioni nei futuri aggiornamenti. Acquistando Pro supporterai anche lo sviluppo futuro dell'app, che è realizzata da %@ (ciao! 👋). Lo apprezzo davvero!</target>
+        <note>Used on the Pro purchase screen.</note>
       </trans-unit>
       <trans-unit id="Processed" xml:space="preserve">
         <source>Processed</source>
@@ -1725,6 +2047,11 @@
         <target state="translated">Registro query</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Quickly disable protection temporarily." xml:space="preserve">
+        <source>Quickly disable protection temporarily.</source>
+        <target state="translated">Disattiva rapidamente la protezione temporaneamente.</target>
+        <note>Displayed in the onboarding.</note>
+      </trans-unit>
       <trans-unit id="RP" translate="no" xml:space="preserve">
         <source>RP</source>
         <note>Used in the DNS record type picker on the 'check filtering' screen.</note>
@@ -1732,6 +2059,11 @@
       <trans-unit id="RRSIG" translate="no" xml:space="preserve">
         <source>RRSIG</source>
         <note>Used in the DNS record type picker on the 'check filtering' screen.</note>
+      </trans-unit>
+      <trans-unit id="Recent Queries" xml:space="preserve">
+        <source>Recent Queries</source>
+        <target state="translated">Query recenti</target>
+        <note/>
       </trans-unit>
       <trans-unit id="Refreshing" xml:space="preserve">
         <source>Refreshing</source>
@@ -1757,19 +2089,34 @@
         <target state="translated">Rimuovi licenza Pro</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Remove Statistics Limits" xml:space="preserve">
-        <source>Remove Statistics Limits</source>
-        <target state="translated">Rimuovi limiti statistiche</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="Reorder by dragging, remove by swiping." xml:space="preserve">
         <source>Reorder by dragging, remove by swiping.</source>
         <target state="translated">Riordina trascinando, rimuovi scorrendo.</target>
         <note>Used on the 'Add new disable preset' screen</note>
       </trans-unit>
+      <trans-unit id="Request Pro beta access" xml:space="preserve">
+        <source>Request Pro beta access</source>
+        <target state="translated">Richiedi accesso alla beta Pro</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Request timed out." xml:space="preserve">
         <source>Request timed out.</source>
         <target state="translated">Richiesta scaduta.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Requires Pro" xml:space="preserve">
+        <source>Requires Pro</source>
+        <target state="translated">Richiede Pro</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Restore Purchase" xml:space="preserve">
+        <source>Restore Purchase</source>
+        <target state="translated">Ripristina acquisto</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Restore Purchases" xml:space="preserve">
+        <source>Restore Purchases</source>
+        <target state="translated">Ripristina acquisti</target>
         <note/>
       </trans-unit>
       <trans-unit id="Result: %@" xml:space="preserve">
@@ -1815,6 +2162,11 @@
         <target state="translated">Secondi</target>
         <note>Used on the 'Add new disable preset' screen</note>
       </trans-unit>
+      <trans-unit id="See live DNS queries streaming through your AdGuard Home in real time." xml:space="preserve">
+        <source>See live DNS queries streaming through your AdGuard Home in real time.</source>
+        <target state="translated">Visualizza le query DNS in tempo reale che passano attraverso il tuo AdGuard Home.</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Select an Instance" xml:space="preserve">
         <source>Select an Instance</source>
         <target state="translated">Seleziona un'istanza</target>
@@ -1835,6 +2187,11 @@
         <target state="translated">Schede e grafici separati</target>
         <note>Dashboard size type explainer</note>
       </trans-unit>
+      <trans-unit id="Settings" xml:space="preserve">
+        <source>Settings</source>
+        <target state="translated">Impostazioni</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Shopping" xml:space="preserve">
         <source>Shopping</source>
         <target state="translated">Shopping</target>
@@ -1848,6 +2205,11 @@
       <trans-unit id="Show 'Indefinitely'" xml:space="preserve">
         <source>Show 'Indefinitely'</source>
         <target state="translated">Mostra 'Indefinitamente'</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Show 'Recent Queries' card" xml:space="preserve">
+        <source>Show 'Recent Queries' card</source>
+        <target state="translated">Mostra scheda 'Query recenti'</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show 'Until tomorrow'" xml:space="preserve">
@@ -1865,6 +2227,11 @@
         <target state="translated">Mostra ID client</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Show Onboarding" xml:space="preserve">
+        <source>Show Onboarding</source>
+        <target state="translated">Mostra introduzione</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Show all icons" xml:space="preserve">
         <source>Show all icons</source>
         <target state="translated">Mostra tutte le icone</target>
@@ -1873,6 +2240,11 @@
       <trans-unit id="Show chart" xml:space="preserve">
         <source>Show chart</source>
         <target state="translated">Mostra grafico</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Show full feature comparison" xml:space="preserve">
+        <source>Show full feature comparison</source>
+        <target state="translated">Mostra confronto completo delle funzioni</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show hostname" xml:space="preserve">
@@ -1920,14 +2292,14 @@
         <target state="translated">Sviluppo software</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Something went wrong with your purchase." xml:space="preserve">
-        <source>Something went wrong with your purchase.</source>
-        <target state="translated">Qualcosa è andato storto con il tuo acquisto.</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="Something went wrong." xml:space="preserve">
         <source>Something went wrong.</source>
         <target state="translated">Qualcosa è andato storto.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Something went wrong: %@" xml:space="preserve">
+        <source>Something went wrong: %@</source>
+        <target state="translated">Qualcosa è andato storto: %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="Statistics" xml:space="preserve">
@@ -1990,15 +2362,49 @@
         <target state="translated">Barra schede</target>
         <note>Used in the 'Preferences Other' screen in the navigation style picker (only visible for iPad)</note>
       </trans-unit>
+      <trans-unit id="Tabiko - Japan Journey Log" translate="no" xml:space="preserve">
+        <source>Tabiko - Japan Journey Log</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Take AdGuard Home Remote to the next level &amp; support future developement." xml:space="preserve">
+        <source>Take AdGuard Home Remote to the next level &amp; support future developement.</source>
+        <target state="translated">Porta AdGuard Home Remote al livello successivo e supporta lo sviluppo futuro.</target>
+        <note>Displayed in the onboarding.</note>
+      </trans-unit>
+      <trans-unit id="Take AdGuard Home Remote to the next level by removing limits and unlocking full AdGuard Home management, interactive widgets, multiple instances support, and more." xml:space="preserve">
+        <source>Take AdGuard Home Remote to the next level by removing limits and unlocking full AdGuard Home management, interactive widgets, multiple instances support, and more.</source>
+        <target state="translated">Porta AdGuard Home Remote al livello successivo rimuovendo i limiti e sbloccando la gestione completa di AdGuard Home, widget interattivi, supporto per istanze multiple e altro ancora.</target>
+        <note>Used on the pro purchase screen.</note>
+      </trans-unit>
       <trans-unit id="Target" xml:space="preserve">
         <source>Target</source>
         <target state="translated">Destinazione</target>
         <note/>
       </trans-unit>
+      <trans-unit id="TestFlight Beta Access" xml:space="preserve">
+        <source>TestFlight Beta Access</source>
+        <target state="translated">Accesso alla beta TestFlight</target>
+        <note>Used on the pro purchase screen.</note>
+      </trans-unit>
       <trans-unit id="TestFlight Debug" xml:space="preserve">
         <source>TestFlight Debug</source>
         <target state="translated">Debug TestFlight</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="TestFlight access" xml:space="preserve">
+        <source>TestFlight access</source>
+        <target state="translated">Accesso a TestFlight</target>
+        <note>Used on the pro purchase screen.</note>
+      </trans-unit>
+      <trans-unit id="Thank you for downloading the app! ❤️" xml:space="preserve">
+        <source>Thank you for downloading the app! ❤️</source>
+        <target state="translated">Grazie per aver scaricato l'app! ❤️</target>
+        <note>Displayed in the onboarding.</note>
+      </trans-unit>
+      <trans-unit id="Thank you! ❤️" xml:space="preserve">
+        <source>Thank you! ❤️</source>
+        <target state="translated">Grazie! ❤️</target>
+        <note>Used on the pro purchase screen.</note>
       </trans-unit>
       <trans-unit id="The original enddate when blocking would be enabled again." xml:space="preserve">
         <source>The original enddate when blocking would be enabled again.</source>
@@ -2018,7 +2424,7 @@
       <trans-unit id="Toggle Protection" xml:space="preserve">
         <source>Toggle Protection</source>
         <target state="translated">Attiva/disattiva protezione</target>
-        <note/>
+        <note>Displayed in the onboarding.</note>
       </trans-unit>
       <trans-unit id="Toggle between enabled &amp; disabled" xml:space="preserve">
         <source>Toggle between enabled &amp; disabled</source>
@@ -2084,6 +2490,11 @@
         <source>URI</source>
         <note>Used in the DNS record type picker on the 'check filtering' screen.</note>
       </trans-unit>
+      <trans-unit id="URL Share Extension" xml:space="preserve">
+        <source>URL Share Extension</source>
+        <target state="translated">Estensione di condivisione URL</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Unknown" xml:space="preserve">
         <source>Unknown</source>
         <target state="translated">Sconosciuto</target>
@@ -2097,6 +2508,11 @@
       <trans-unit id="Until tomorrow" xml:space="preserve">
         <source>Until tomorrow</source>
         <target state="translated">Fino a domani</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Upgrade to Pro" xml:space="preserve">
+        <source>Upgrade to Pro</source>
+        <target state="translated">Passa a Pro</target>
         <note/>
       </trans-unit>
       <trans-unit id="Use NextDNS? Have I got an app for you." xml:space="preserve">
@@ -2124,6 +2540,11 @@
         <target state="translated">Versione: %@.</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Waiting for queries..." xml:space="preserve">
+        <source>Waiting for queries...</source>
+        <target state="translated">In attesa di query...</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Watch App Not Installed" xml:space="preserve">
         <source>Watch App Not Installed</source>
         <target state="translated">App Watch non installata</target>
@@ -2134,10 +2555,30 @@
         <target state="translated">Web hosting</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Welcome!" xml:space="preserve">
+        <source>Welcome!</source>
+        <target state="translated">Benvenuto!</target>
+        <note>Onboarding subtitle.</note>
+      </trans-unit>
+      <trans-unit id="Widgets &amp; Live Activity" xml:space="preserve">
+        <source>Widgets &amp; Live Activity</source>
+        <target state="translated">Widget e Attività in Tempo Reale</target>
+        <note>Displayed in the onboarding.</note>
+      </trans-unit>
+      <trans-unit id="You have purchased Pro" xml:space="preserve">
+        <source>You have purchased Pro</source>
+        <target state="translated">Hai acquistato Pro</target>
+        <note>Used on the pro purchase screen.</note>
+      </trans-unit>
       <trans-unit id="You've reached the maximum of 6 presets." xml:space="preserve">
         <source>You've reached the maximum of 6 presets.</source>
         <target state="translated">Hai raggiunto il massimo di 6 preset.</target>
         <note>Used on the 'Add new disable preset' screen</note>
+      </trans-unit>
+      <trans-unit id="Your ultimate companion for exploring Japan." xml:space="preserve">
+        <source>Your ultimate companion for exploring Japan.</source>
+        <target state="translated">Il tuo compagno ideale per esplorare il Giappone.</target>
+        <note>Subtitle under 'Tabiko' app on the Made by RocketScience screen.</note>
       </trans-unit>
       <trans-unit id="ZONEMD" translate="no" xml:space="preserve">
         <source>ZONEMD</source>
@@ -2218,9 +2659,9 @@
         <target state="translated">Average processing time: </target>
         <note>MARK: v5.2 &amp; Includes ": " at the end</note>
       </trans-unit>
-      <trans-unit id="avg %@ms" xml:space="preserve">
-        <source>avg %@ms</source>
-        <target state="translated">media %@ms</target>
+      <trans-unit id="avg %@" xml:space="preserve">
+        <source>avg %@</source>
+        <target state="translated">media %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="blocked_services" xml:space="preserve">
@@ -4112,6 +4553,11 @@ Search</source>
         <target state="translated">acceso</target>
         <note/>
       </trans-unit>
+      <trans-unit id="one person only" xml:space="preserve">
+        <source>one person only</source>
+        <target state="translated">una sola persona</target>
+        <note>Used on the Pro purchase screen.</note>
+      </trans-unit>
       <trans-unit id="original_enddate" xml:space="preserve">
         <source>Original Enddate</source>
         <target state="translated">Data fine originale</target>
@@ -4282,34 +4728,9 @@ Search</source>
         <target state="translated">Pro</target>
         <note>MARK: - Pro</note>
       </trans-unit>
-      <trans-unit id="pro_alternative_icons" xml:space="preserve">
-        <source>Alternative App Icons</source>
-        <target state="translated">Icone app alternative</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="pro_beta_access" xml:space="preserve">
-        <source>TestFlight Beta Access</source>
-        <target state="translated">Accesso beta TestFlight</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="pro_beta_access_button" xml:space="preserve">
-        <source>Request Beta Access</source>
-        <target state="translated">Richiedi accesso alla beta</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="pro_description" xml:space="preserve">
         <source>Unlock power features &amp; support future development with a one-time purchase.</source>
         <target state="translated">Sblocca potenti funzionalità e supporta lo sviluppo futuro con un acquisto one-time.</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="pro_family_sharing" xml:space="preserve">
-        <source>Supports Family Sharing</source>
-        <target state="translated">Supporta la condivisione in famiglia</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="pro_features" xml:space="preserve">
-        <source>Pro Features</source>
-        <target state="translated">Funzionalità Pro</target>
         <note/>
       </trans-unit>
       <trans-unit id="pro_learn-more" xml:space="preserve">
@@ -4317,54 +4738,9 @@ Search</source>
         <target state="translated">Scopri di più...</target>
         <note/>
       </trans-unit>
-      <trans-unit id="pro_livelog" xml:space="preserve">
-        <source>View Live Query Log</source>
-        <target state="translated">Guarda il registro richieste in tempo reale</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="pro_manage_clients" xml:space="preserve">
-        <source>Manage Clients</source>
-        <target state="translated">Gestisci i clients</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="pro_manage_custom_filter_rules" xml:space="preserve">
-        <source>Manage Custom Filter Rules</source>
-        <target state="translated">Gestisci le regole di filtraggio personalizzate</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="pro_manage_dhcp" xml:space="preserve">
-        <source>Manage DHCP Settings</source>
-        <target state="translated">Gestisci le impostazioni DHCP</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="pro_manage_dns" xml:space="preserve">
-        <source>Manage DNS Settings</source>
-        <target state="translated">Gestisci le impostazioni DNS</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="pro_manage_filters" xml:space="preserve">
-        <source>Manage Filters</source>
-        <target state="translated">Gestisci i filtri</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="pro_manage_rewrites" xml:space="preserve">
-        <source>Manage DNS Rewrites</source>
-        <target state="translated">Gestisci le riscritture DNS</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="pro_navtitle" xml:space="preserve">
-        <source>Remote Pro</source>
-        <target state="translated">Remote Pro</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="pro_purchase" xml:space="preserve">
         <source>Purchase Pro</source>
         <target state="translated">Compra Pro</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="pro_purchased_date_%@" xml:space="preserve">
-        <source>Purchased on %@.</source>
-        <target state="translated">Comprato il %@.</target>
         <note/>
       </trans-unit>
       <trans-unit id="pro_restore_failed" xml:space="preserve">
@@ -4377,38 +4753,9 @@ Search</source>
         <target state="translated">Niente da ripristinare</target>
         <note/>
       </trans-unit>
-      <trans-unit id="pro_restore_purchase" xml:space="preserve">
-        <source>Restore Purchase</source>
-        <target state="translated">Ripristina acquisto</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="pro_restore_purchase_footer" xml:space="preserve">
-        <source>Use this if you've purchased Remote Pro before on a different device, or your Pro license doesn't show up after purchasing Remote Pro.</source>
-        <target state="translated">Use this if you've purchased Remote Pro before on a different device, or your Pro license doesn't show up after purchasing Remote Pro.</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="pro_restored" xml:space="preserve">
         <source>Pro Restored!</source>
         <target state="translated">Pro ripristinato!</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="pro_support_multiple_instances" xml:space="preserve">
-        <source>Unlimited Instances</source>
-        <target state="translated">Supporta più di 2 istanze</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="pro_testflight" xml:space="preserve">
-        <source>TestFlight</source>
-        <target state="translated">TestFlight</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="pro_testflight_alert" xml:space="preserve">
-        <source>I see you don't have an active mail client on your device, please mail me with the request to join the TestFlight including a screenshot of this Pro screen so I can see you have purchased Pro.
-
-Please mail it to developer@rocketscience-it.nl!</source>
-        <target state="translated">Vedo che non hai un client mail attivo sul tuo dispositivo, per favore scrivimi una mail per partecipare a TestFlight includendo uno screenshot di questa schermata Pro, così che io possa vedere che lo hai acquistato.
-
- Per favore invia tutto a: developer@rocketscience-it.nl!</target>
         <note/>
       </trans-unit>
       <trans-unit id="pro_testflight_explainer" xml:space="preserve">
@@ -4423,11 +4770,6 @@ Una licenza Pro viene sempre invalidata in pochi giorni su una build TestFlight.
       <trans-unit id="pro_thankyou" xml:space="preserve">
         <source>Thank you!</source>
         <target state="translated">Grazie!</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="pro_thankyou_heart" xml:space="preserve">
-        <source>Thank you! ❤️</source>
-        <target state="translated">Grazie! ❤️</target>
         <note/>
       </trans-unit>
       <trans-unit id="pro_title" xml:space="preserve">
@@ -4446,11 +4788,6 @@ Remote Pro</target>
         <source>Interactive widgets do not open the app, but work straight from your home screen &amp; lock screen. They come in different shapes and sizes!</source>
         <target state="translated">Interactive widgets do not open the app, but work straight from your home screen &amp; lock screen. They come in different shapes and sizes!</target>
         <note/>
-      </trans-unit>
-      <trans-unit id="pro_view_queries" xml:space="preserve">
-        <source>View 25+ Queries &amp; Set Filters</source>
-        <target state="translated">Vedi più di 25 richieste e imposta i filtri</target>
-        <note>MARK: Pro Features</note>
       </trans-unit>
       <trans-unit id="protection_disabled" xml:space="preserve">
         <source>Protection Disabled</source>
@@ -5460,6 +5797,23 @@ If you want to tip, please download the app from the App Store! After that you c
         <source>Enabled</source>
         <target state="translated">Enabled</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="• Remove limits&#10;• Custom disable presets&#10;• Live query log&#10;• Manage all settings&#10;• Interactive widgets&#10;• Multiple Instances&#10;• And much more!" xml:space="preserve">
+        <source>• Remove limits
+• Custom disable presets
+• Live query log
+• Manage all settings
+• Interactive widgets
+• Multiple Instances
+• And much more!</source>
+        <target state="translated">• Rimuovi limiti
+• Preset di disattivazione personalizzati
+• Log query in tempo reale
+• Gestisci tutte le impostazioni
+• Widget interattivi
+• Istanze multiple
+• E molto altro!</target>
+        <note>Displayed in the onboarding.</note>
       </trans-unit>
     </body>
   </file>

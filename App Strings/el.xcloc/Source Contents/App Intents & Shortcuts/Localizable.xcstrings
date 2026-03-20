@@ -1,8 +1,17 @@
 {
   "sourceLanguage" : "en",
   "strings" : {
+    "Bar-chart" : {
+      "comment" : "Chart type."
+    },
     "Can't reach AdGuard Home." : {
 
+    },
+    "Compact" : {
+      "comment" : "Dashboard size type"
+    },
+    "Expanded" : {
+      "comment" : "Dashboard size type"
     },
     "Invalid authentication or privacy setting." : {
 
@@ -10,8 +19,23 @@
     "Invalid hostname or port." : {
 
     },
+    "Line-chart" : {
+      "comment" : "Chart type."
+    },
+    "Regular" : {
+      "comment" : "Dashboard size type"
+    },
+    "Regular cards, combined chart" : {
+      "comment" : "Dashboard size type explainer"
+    },
     "Request timed out." : {
 
+    },
+    "Separate cards and charts" : {
+      "comment" : "Dashboard size type explainer"
+    },
+    "Small cards, combined chart" : {
+      "comment" : "Dashboard size type explainer"
     }
   },
   "version" : "1.0"

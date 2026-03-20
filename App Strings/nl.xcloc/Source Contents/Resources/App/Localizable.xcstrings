@@ -1,6 +1,9 @@
 {
   "sourceLanguage" : "en",
   "strings" : {
+    "'Add 5 min' feature" : {
+      "comment" : "Used on the pro purchase screen."
+    },
     "%@" : {
       "shouldTranslate" : false
     },
@@ -23,6 +26,9 @@
     },
     "%@ms" : {
       "comment" : "Used in the Query Log to display query duration like '5ms'."
+    },
+    "• Remove limits\n• Custom disable presets\n• Live query log\n• Manage all settings\n• Interactive widgets\n• Multiple Instances\n• And much more!" : {
+      "comment" : "Displayed in the onboarding."
     },
     "1h" : {
       "localizations" : {
@@ -131,12 +137,18 @@
       "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
       "shouldTranslate" : false
     },
+    "A **one time** purchase" : {
+      "comment" : "Used on the Pro purchase screen."
+    },
     "A clean Anime & Manga tracker app, using the MyAnimeList API." : {
       "comment" : "Subtitle under 'ManGo' app on the Made by RocketScience screen."
     },
     "AAAA" : {
       "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
       "shouldTranslate" : false
+    },
+    "About" : {
+
     },
     "access_settings_allowed_clients" : {
       "localizations" : {
@@ -218,6 +230,9 @@
     "Add 5 minutes" : {
 
     },
+    "Add an AdGuard Home instance using the iOS or macOS app. Instances are synced automatically via iCloud." : {
+
+    },
     "Add Instance" : {
 
     },
@@ -232,6 +247,15 @@
     },
     "Additional info" : {
 
+    },
+    "AdGuard Home Remote" : {
+      "comment" : "App title, do not translate."
+    },
+    "AdGuard Home Remote is designed to protect your privacy and will never share any information with anyone." : {
+      "comment" : "Displayed in the onboarding."
+    },
+    "AdGuard Home Remote Pro" : {
+      "comment" : "Used on the pro purchase screen."
     },
     "AdGuard Home v0.107.28 or higher is required for some of these new features. Please update!" : {
 
@@ -279,6 +303,12 @@
         }
       }
     },
+    "Allows Family Sharing" : {
+      "comment" : "Used on the pro purchase screen."
+    },
+    "Always" : {
+      "comment" : "Shown next to 'Pause Schedule' on the Filtering settings screen, when there are no active schedules."
+    },
     "APL" : {
       "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
       "shouldTranslate" : false
@@ -323,6 +353,9 @@
         }
       }
     },
+    "Apple TV features" : {
+      "comment" : "Used on the pro purchase screen."
+    },
     "Apply Pro license" : {
 
     },
@@ -335,10 +368,13 @@
     "Automatic" : {
       "comment" : "Used in the 'Preferences Other' screen in the navigation style picker (only visible for iPad)"
     },
-    "Average processing time: %@ ms" : {
+    "Average processing time: %@" : {
 
     },
     "Average processing time: %@ ms." : {
+
+    },
+    "Average processing time: %@." : {
 
     },
     "average_processing_time" : {
@@ -352,7 +388,7 @@
         }
       }
     },
-    "avg %@ms" : {
+    "avg %@" : {
 
     },
     "Bar-chart" : {
@@ -435,6 +471,9 @@
     },
     "Blocking" : {
 
+    },
+    "Blocklist Management" : {
+      "comment" : "Displayed in the onboarding."
     },
     "CAA" : {
       "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
@@ -595,6 +634,9 @@
         }
       }
     },
+    "Changing this setting requires a force restart of the app." : {
+
+    },
     "Chart" : {
 
     },
@@ -615,6 +657,9 @@
     },
     "Client identifier" : {
 
+    },
+    "Client Management" : {
+      "comment" : "Displayed in the onboarding."
     },
     "client_edit" : {
       "localizations" : {
@@ -996,8 +1041,14 @@
     "Content delivery networks (CDN)" : {
 
     },
+    "Continue" : {
+      "comment" : "Used in onboarding and changelogs."
+    },
     "Copy '%@'" : {
 
+    },
+    "Copy email" : {
+      "comment" : "Used on the pro purchase screen."
     },
     "CSYNC" : {
       "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
@@ -1013,8 +1064,11 @@
         }
       }
     },
-    "Custom disable presets" : {
+    "Custom Presets" : {
 
+    },
+    "Customize tint & icon" : {
+      "comment" : "Used on the pro purchase screen."
     },
     "Dashboard" : {
 
@@ -1556,6 +1610,9 @@
       "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
       "shouldTranslate" : false
     },
+    "DHCP & DNS" : {
+
+    },
     "dhcp_add_client_with_ip" : {
       "localizations" : {
         "en" : {
@@ -2048,6 +2105,9 @@
 
     },
     "DNS Record Type" : {
+
+    },
+    "DNS Rewrites" : {
 
     },
     "dns_access_settings" : {
@@ -2808,6 +2868,16 @@
     "Enable cache" : {
 
     },
+    "Enable ignored domains" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enable ignored domains"
+          }
+        }
+      }
+    },
     "enable_protection" : {
       "comment" : "MARK: App Intents, Shortcuts, Siri",
       "localizations" : {
@@ -2832,6 +2902,9 @@
     "Enabled" : {
 
     },
+    "Enjoy great widgets and a Live Activity when disabling protection." : {
+      "comment" : "Displayed in the onboarding."
+    },
     "error" : {
       "localizations" : {
         "en" : {
@@ -2841,6 +2914,9 @@
           }
         }
       }
+    },
+    "Error" : {
+
     },
     "EUI48" : {
       "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
@@ -2861,6 +2937,12 @@
     },
     "Expires in %lld minutes" : {
 
+    },
+    "Explore all queries on your network and quickly block domains." : {
+      "comment" : "Displayed in the onboarding."
+    },
+    "Feature Overview" : {
+      "comment" : "Used on the pro purchase screen."
     },
     "filtering_addfilter_allowlist" : {
       "localizations" : {
@@ -3664,6 +3746,9 @@
     "Force Watch Sync" : {
 
     },
+    "Free" : {
+      "comment" : "Used on the pro purchase screen."
+    },
     "Full Color" : {
 
     },
@@ -3671,6 +3756,9 @@
 
     },
     "Gaming" : {
+
+    },
+    "Get AGHR Pro - %@" : {
 
     },
     "global" : {
@@ -3708,6 +3796,9 @@
     "HTTPS" : {
       "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
       "shouldTranslate" : false
+    },
+    "I see you don't have an active mail client on your device, please mail me with the request to join the TestFlight including a screenshot of this Pro screen so I can see you have purchased Pro.\n\nPlease mail it to developer@rocketscience-it.nl!" : {
+      "comment" : "Used on the pro purchase screen."
     },
     "Icon" : {
 
@@ -3941,6 +4032,9 @@
     "Instances" : {
 
     },
+    "Interactive Widgets" : {
+      "comment" : "Used on the pro purchase screen."
+    },
     "Invalid authentication or privacy setting." : {
 
     },
@@ -3992,8 +4086,17 @@
     "Launch App" : {
 
     },
+    "Learn More" : {
+      "comment" : "Displayed in the onboarding."
+    },
+    "Lifetime Pro" : {
+      "comment" : "Used on the Pro purchase screen."
+    },
     "Line-chart" : {
       "comment" : "Chart type."
+    },
+    "Live Log" : {
+
     },
     "liveactivity_ends" : {
       "localizations" : {
@@ -4051,6 +4154,9 @@
       "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
       "shouldTranslate" : false
     },
+    "Made with ❤️ by one person in 🇳🇱" : {
+      "comment" : "Used on the pro purchase screen."
+    },
     "malware" : {
       "localizations" : {
         "en" : {
@@ -4076,6 +4182,15 @@
           }
         }
       }
+    },
+    "Manage Clients" : {
+
+    },
+    "Manage Filtering" : {
+
+    },
+    "Manage filtering like blocklists, blocked services, pause schedules, and more." : {
+      "comment" : "Displayed in the onboarding."
     },
     "ManGo - Anime & Manga Tracker" : {
 
@@ -4402,8 +4517,14 @@
         }
       }
     },
+    "OK" : {
+
+    },
     "on" : {
 
+    },
+    "one person only" : {
+      "comment" : "Used on the Pro purchase screen."
     },
     "One-tap button" : {
       "localizations" : {
@@ -4491,6 +4612,9 @@
         }
       }
     },
+    "Other" : {
+
+    },
     "Parental" : {
 
     },
@@ -4505,6 +4629,9 @@
     },
     "Please add an instance in the iPhone app." : {
 
+    },
+    "Powerful AdGuard Home Client & DHCP management." : {
+      "comment" : "Displayed in the onboarding."
     },
     "preferences_dashboard_graph_hide" : {
       "extractionState" : "manual",
@@ -4825,6 +4952,9 @@
     "Presets" : {
 
     },
+    "Prevent screensaver start" : {
+
+    },
     "Privacy tools" : {
 
     },
@@ -4839,35 +4969,11 @@
         }
       }
     },
-    "pro_alternative_icons" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Alternative App Icons"
-          }
-        }
-      }
+    "Pro" : {
+      "comment" : "Used on the pro purchase screen."
     },
-    "pro_beta_access" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "TestFlight Beta Access"
-          }
-        }
-      }
-    },
-    "pro_beta_access_button" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Request Beta Access"
-          }
-        }
-      }
+    "Pro unlocks all these features, as well as new features in future updates. By purchasing Pro you will also support future development of the app, which is made by %@ (hi! 👋). I really appreciate it!" : {
+      "comment" : "Used on the Pro purchase screen."
     },
     "pro_description" : {
       "localizations" : {
@@ -4875,26 +4981,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Unlock power features & support future development with a one-time purchase."
-          }
-        }
-      }
-    },
-    "pro_family_sharing" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Supports Family Sharing"
-          }
-        }
-      }
-    },
-    "pro_features" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pro Features"
           }
         }
       }
@@ -4909,102 +4995,12 @@
         }
       }
     },
-    "pro_livelog" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "View Live Query Log"
-          }
-        }
-      }
-    },
-    "pro_manage_clients" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Manage Clients"
-          }
-        }
-      }
-    },
-    "pro_manage_custom_filter_rules" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Manage Custom Filter Rules"
-          }
-        }
-      }
-    },
-    "pro_manage_dhcp" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Manage DHCP Settings"
-          }
-        }
-      }
-    },
-    "pro_manage_dns" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Manage DNS Settings"
-          }
-        }
-      }
-    },
-    "pro_manage_filters" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Manage Filters"
-          }
-        }
-      }
-    },
-    "pro_manage_rewrites" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Manage DNS Rewrites"
-          }
-        }
-      }
-    },
-    "pro_navtitle" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Remote Pro"
-          }
-        }
-      }
-    },
     "pro_purchase" : {
       "localizations" : {
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Purchase Pro"
-          }
-        }
-      }
-    },
-    "pro_purchased_date_%@" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Purchased on %@."
           }
         }
       }
@@ -5031,26 +5027,6 @@
         }
       }
     },
-    "pro_restore_purchase" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Restore Purchase"
-          }
-        }
-      }
-    },
-    "pro_restore_purchase_footer" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Use this if you've purchased Remote Pro before on a different device, or your Pro license doesn't show up after purchasing Remote Pro."
-          }
-        }
-      }
-    },
     "pro_restored" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -5058,36 +5034,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pro Restored!"
-          }
-        }
-      }
-    },
-    "pro_support_multiple_instances" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Unlimited Instances"
-          }
-        }
-      }
-    },
-    "pro_testflight" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "TestFlight"
-          }
-        }
-      }
-    },
-    "pro_testflight_alert" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "I see you don't have an active mail client on your device, please mail me with the request to join the TestFlight including a screenshot of this Pro screen so I can see you have purchased Pro.\n\nPlease mail it to developer@rocketscience-it.nl!"
           }
         }
       }
@@ -5109,16 +5055,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Thank you!"
-          }
-        }
-      }
-    },
-    "pro_thankyou_heart" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Thank you! ❤️"
           }
         }
       }
@@ -5149,17 +5085,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Interactive widgets do not open the app, but work straight from your home screen & lock screen. They come in different shapes and sizes!"
-          }
-        }
-      }
-    },
-    "pro_view_queries" : {
-      "comment" : "MARK: Pro Features",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "View 25+ Queries & Set Filters"
           }
         }
       }
@@ -6075,6 +6000,12 @@
         }
       }
     },
+    "Quickly disable protection temporarily." : {
+      "comment" : "Displayed in the onboarding."
+    },
+    "Recent Queries" : {
+
+    },
     "refresh" : {
       "localizations" : {
         "en" : {
@@ -6110,13 +6041,16 @@
     "Remove Pro license" : {
 
     },
-    "Remove Statistics Limits" : {
-
-    },
     "Reorder by dragging, remove by swiping." : {
       "comment" : "Used on the 'Add new disable preset' screen"
     },
+    "Request Pro beta access" : {
+
+    },
     "Request timed out." : {
+
+    },
+    "Requires Pro" : {
 
     },
     "reset" : {
@@ -6128,6 +6062,12 @@
           }
         }
       }
+    },
+    "Restore Purchase" : {
+
+    },
+    "Restore Purchases" : {
+
     },
     "Result: %@" : {
 
@@ -6339,6 +6279,9 @@
     "Seconds" : {
       "comment" : "Used on the 'Add new disable preset' screen"
     },
+    "See live DNS queries streaming through your AdGuard Home in real time." : {
+
+    },
     "Select an Instance" : {
 
     },
@@ -6400,6 +6343,9 @@
           }
         }
       }
+    },
+    "Settings" : {
+
     },
     "settings_add-instance" : {
       "localizations" : {
@@ -6859,6 +6805,9 @@
     "Show 'Indefinitely'" : {
 
     },
+    "Show 'Recent Queries' card" : {
+
+    },
     "Show 'Until tomorrow'" : {
 
     },
@@ -6874,6 +6823,9 @@
     "Show Client IDs" : {
 
     },
+    "Show full feature comparison" : {
+
+    },
     "Show hostname" : {
 
     },
@@ -6885,6 +6837,9 @@
     },
     "Show more..." : {
       "comment" : "Used on the Statistics-screen."
+    },
+    "Show Onboarding" : {
+
     },
     "Show version" : {
 
@@ -6913,7 +6868,7 @@
     "Software development" : {
 
     },
-    "Something went wrong with your purchase." : {
+    "Something went wrong: %@" : {
 
     },
     "Something went wrong." : {
@@ -7009,6 +6964,9 @@
     "Tabbar" : {
       "comment" : "Used in the 'Preferences Other' screen in the navigation style picker (only visible for iPad)"
     },
+    "Tabiko - Japan Journey Log" : {
+      "shouldTranslate" : false
+    },
     "tags" : {
       "localizations" : {
         "en" : {
@@ -7018,6 +6976,12 @@
           }
         }
       }
+    },
+    "Take AdGuard Home Remote to the next level & support future developement." : {
+      "comment" : "Displayed in the onboarding."
+    },
+    "Take AdGuard Home Remote to the next level by removing limits and unlocking full AdGuard Home management, interactive widgets, multiple instances support, and more." : {
+      "comment" : "Used on the pro purchase screen."
     },
     "tap_to_learn_more" : {
       "localizations" : {
@@ -7044,8 +7008,20 @@
     "Target" : {
 
     },
+    "TestFlight access" : {
+      "comment" : "Used on the pro purchase screen."
+    },
+    "TestFlight Beta Access" : {
+      "comment" : "Used on the pro purchase screen."
+    },
     "TestFlight Debug" : {
 
+    },
+    "Thank you for downloading the app! ❤️" : {
+      "comment" : "Displayed in the onboarding."
+    },
+    "Thank you! ❤️" : {
+      "comment" : "Used on the pro purchase screen."
     },
     "The original enddate when blocking would be enabled again." : {
 
@@ -7222,7 +7198,7 @@
 
     },
     "Toggle Protection" : {
-
+      "comment" : "Displayed in the onboarding."
     },
     "toggle_protection" : {
       "localizations" : {
@@ -7322,9 +7298,15 @@
         }
       }
     },
+    "Upgrade to Pro" : {
+
+    },
     "URI" : {
       "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
       "shouldTranslate" : false
+    },
+    "URL Share Extension" : {
+
     },
     "Use NextDNS? Have I got an app for you." : {
 
@@ -7365,6 +7347,9 @@
     "Version: %@." : {
 
     },
+    "Waiting for queries..." : {
+
+    },
     "Watch App Not Installed" : {
 
     },
@@ -7380,6 +7365,9 @@
     },
     "Web hosting" : {
 
+    },
+    "Welcome!" : {
+      "comment" : "Onboarding subtitle."
     },
     "widget_dashboard" : {
       "comment" : "MARK: Widgets",
@@ -7462,8 +7450,25 @@
         }
       }
     },
+    "Widgets & Live Activity" : {
+      "comment" : "Displayed in the onboarding."
+    },
+    "You have purchased Pro" : {
+      "comment" : "Used on the pro purchase screen."
+    },
     "You've reached the maximum of 6 presets." : {
       "comment" : "Used on the 'Add new disable preset' screen"
+    },
+    "Your ultimate companion for exploring Japan." : {
+      "comment" : "Subtitle under 'Tabiko' app on the Made by RocketScience screen.",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your ultimate companion for exploring Japan."
+          }
+        }
+      }
     },
     "ZONEMD" : {
       "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
