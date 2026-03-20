@@ -2043,7 +2043,7 @@
       </trans-unit>
       <trans-unit id="The original enddate when blocking would be enabled again." xml:space="preserve">
         <source>The original enddate when blocking would be enabled again.</source>
-        <target state="translated">拦截时过期时间将会再次启用。</target>
+        <target state="translated">原始结束日期，届时拦截将再次启用。</target>
         <note/>
       </trans-unit>
       <trans-unit id="This version requires iOS 15, watchOS 8, macOS 12 (or newer)." xml:space="preserve">
@@ -2401,7 +2401,7 @@
       </trans-unit>
       <trans-unit id="clients_disallowed_footer" xml:space="preserve">
         <source>AdGuard Home is dropping all DNS queries from these clients.</source>
-        <target state="translated">AdGuard Home 会放弃源自这些 IP 地址的请求。</target>
+        <target state="translated">AdGuard Home 将丢弃来自这些客户端的所有 DNS 查询。</target>
         <note/>
       </trans-unit>
       <trans-unit id="clients_disallowed_placeholder" xml:space="preserve">
@@ -4879,7 +4879,7 @@ Remote Pro</target>
       </trans-unit>
       <trans-unit id="querylog_show_search_suggestions" xml:space="preserve">
         <source>Show Search Suggestions</source>
-        <target state="translated">Show Search Suggestions</target>
+        <target state="translated">显示搜索建议</target>
         <note/>
       </trans-unit>
       <trans-unit id="querylog_status" xml:space="preserve">

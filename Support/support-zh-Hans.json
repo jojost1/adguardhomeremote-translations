@@ -1,0 +1,263 @@
+{
+    "headerItems": [
+        {
+            "id": 5,
+            "title": "添加实例",
+            "subtitle": "非常简单！",
+            "imageName": "server.rack",
+            "color": 2,
+            "supportPages": [{
+                    "id": 0,
+                    "title": "查找您的实例",
+                    "subtitle": "首先，找到 AdGuard Home 安装位置的 IP 地址和端口。您可以通过查看 Safari 地址栏来找到它！请在 Safari 中访问 AdGuard Home 控制面板。",
+                    "imageURL": "https://rocketscience-it.nl/images/adguardhomeremote/support/safari-dashboard.png",
+                    "darkImageURL": "https://rocketscience-it.nl/images/adguardhomeremote/support/safari-dashboard.png"
+                },
+                {
+                    "id": 1,
+                    "title": "查找 IP 和端口",
+                    "subtitle": "点击 Safari 地址栏，您会看到 IP（或主机名）和端口。如果您没有看到端口号也没关系，这种情况下您可以使用 80 作为 http 端口，443 作为 https 端口。下一步：在应用内输入这些数据！",
+                    "imageURL": "https://rocketscience-it.nl/images/adguardhomeremote/support/safari-dashboard-addressbar-annotated.png",
+                    "darkImageURL": "https://rocketscience-it.nl/images/adguardhomeremote/support/safari-dashboard-addressbar-annotated.png"
+                },
+                 {
+                     "id": 2,
+                     "title": "输入详情",
+                     "subtitle": "现在打开 AdGuard Home Remote，点击设置 > 添加实例。您可以在那里输入 IP 和端口！最后一步...",
+                    "imageURL": "https://rocketscience-it.nl/images/adguardhomeremote/support/app-addinstance-top-annotated.png",
+                    "darkImageURL": "https://rocketscience-it.nl/images/adguardhomeremote/support/app-addinstance-top-annotated.png"
+                 },
+                 {
+                     "id": 3,
+                     "title": "身份验证",
+                     "subtitle": "还记得安装 AdGuard Home 时设置的用户名和密码吗？现在需要用到它们了！在应用内输入它们。",
+                    "imageURL": "https://rocketscience-it.nl/images/adguardhomeremote/support/app-addinstance-bottom.png",
+                    "darkImageURL": "https://rocketscience-it.nl/images/adguardhomeremote/support/app-addinstance-bottom.png"
+                 },
+                 {
+                     "id": 4,
+                     "title": "完成！",
+                     "subtitle": "点击'测试连接'，您应该会看到一个绿色对勾！点击右上角的'保存'，就完成了。没有看到绿色对勾？请仔细检查您输入的所有数据。祝您使用愉快！",
+                     "imageURL": "https://rocketscience-it.nl/aghr/support/app-dashboard.png",
+                     "darkImageURL": "https://rocketscience-it.nl/aghr/support/app-dashboard-dark.png"
+                 }
+            ]
+        },
+        {
+            "id": 6,
+            "title": "查询日志使用技巧",
+            "subtitle": "一些实用技巧！",
+            "imageName": "doc.text.magnifyingglass",
+            "color": 1,
+            "supportPages": [
+                {
+                    "id": 7,
+                    "title": "长按",
+                    "subtitle": "您知道可以长按查询记录来查看快捷操作吗？",
+                    "imageURL": "https://rocketscience-it.nl/aghr/support/querylog-contextmenu-light.png",
+                    "darkImageURL": "https://rocketscience-it.nl/aghr/support/querylog-contextmenu-dark.png"
+                },
+                {
+                    "id": 8,
+                    "title": "显示更多详情",
+                    "subtitle": "开启'显示更多详情'，可以让查询日志显示更详细的信息。",
+                    "imageURL": "https://rocketscience-it.nl/aghr/support/querylog-extradetail.png",
+                    "darkImageURL": "https://rocketscience-it.nl/aghr/support/querylog-extradetail.png"
+                }
+            ]
+        }
+    ],
+    "highlightedSections": [
+        {
+            "id": 0,
+            "title": "设置",
+            "items": [
+                {
+                    "id": 0,
+                    "title": "添加 AdGuard Home",
+                    "subtitle": "如何添加实例？",
+                    "imageName": "plus.circle.fill",
+                    "supportPages": [{
+                            "id": 0,
+                            "title": "查找您的实例",
+                            "subtitle": "首先，找到 AdGuard Home 安装位置的 IP 地址和端口。您可以通过查看 Safari 地址栏来找到它！请在 Safari 中访问 AdGuard Home 控制面板。",
+                            "imageURL": "https://rocketscience-it.nl/images/adguardhomeremote/support/safari-dashboard.png",
+                            "darkImageURL": "https://rocketscience-it.nl/images/adguardhomeremote/support/safari-dashboard.png"
+                        },
+                        {
+                            "id": 1,
+                            "title": "查找 IP 和端口",
+                            "subtitle": "点击 Safari 地址栏，您会看到 IP（或主机名）和端口。如果您没有看到端口号也没关系，这种情况下您可以使用 80 作为 http 端口，443 作为 https 端口。下一步：在应用内输入这些数据！",
+                            "imageURL": "https://rocketscience-it.nl/images/adguardhomeremote/support/safari-dashboard-addressbar-annotated.png",
+                            "darkImageURL": "https://rocketscience-it.nl/images/adguardhomeremote/support/safari-dashboard-addressbar-annotated.png"
+                        },
+                        {
+                            "id": 2,
+                            "title": "输入详情",
+                            "subtitle": "现在打开 AdGuard Home Remote，点击设置 > 添加实例。您可以在那里输入 IP 和端口！最后一步...",
+                            "imageURL": "https://rocketscience-it.nl/images/adguardhomeremote/support/app-addinstance-top-annotated.png",
+                            "darkImageURL": "https://rocketscience-it.nl/images/adguardhomeremote/support/app-addinstance-top-annotated.png"
+                        },
+                        {
+                            "id": 3,
+                            "title": "身份验证",
+                            "subtitle": "还记得安装 AdGuard Home 时设置的用户名和密码吗？现在需要用到它们了！在应用内输入它们。",
+                            "imageURL": "https://rocketscience-it.nl/images/adguardhomeremote/support/app-addinstance-bottom.png",
+                            "darkImageURL": "https://rocketscience-it.nl/images/adguardhomeremote/support/app-addinstance-bottom.png"
+                        },
+                        {
+                            "id": 4,
+                            "title": "完成！",
+                            "subtitle": "点击'测试连接'，您应该会看到一个绿色对勾！点击右上角的'保存'，就完成了。没有看到绿色对勾？请仔细检查您输入的所有数据。祝您使用愉快！",
+                            "imageURL": "https://rocketscience-it.nl/aghr/support/app-dashboard.png",
+                            "darkImageURL": "https://rocketscience-it.nl/aghr/support/app-dashboard-dark.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 1,
+                    "title": "与 GL.iNet 路由器配合使用",
+                    "subtitle": "让它工作的技巧",
+                    "imageName": "wifi.circle.fill",
+                    "supportPages": [{
+                            "id": 0,
+                            "title": "GL.iNet",
+                            "subtitle": "按照以下说明使其工作：",
+                            "buttonUrlString": "https://www.reddit.com/r/GlInet/comments/1hu6mje/tutorial_how_to_modify_adguard_home_on_glinet/"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "控制面板",
+                    "subtitle": "这些按钮是什么意思？",
+                    "imageName": "house.circle.fill",
+                    "supportPages": [{
+                            "id": 0,
+                            "title": "规则过滤",
+                            "subtitle": "使用过滤规则和 hosts 文件阻止域名。",
+                            "imageURL": "https://rocketscience-it.nl/aghr/support/rule-filtering-light.png",
+                            "darkImageURL": "https://rocketscience-it.nl/aghr/support/rule-filtering-dark.png"
+                        },
+                        {
+                            "id": 1,
+                            "title": "安全浏览",
+                            "subtitle": "AdGuard Home 将检查域名是否被浏览安全 Web 服务阻止。它将使用隐私友好的查询 API 执行检查：只有域名 SHA256 哈希的短前缀会被发送到服务器。",
+                            "imageURL": "https://rocketscience-it.nl/aghr/support/safe-browsing-light.png",
+                            "darkImageURL": "https://rocketscience-it.nl/aghr/support/safe-browsing-dark.png"
+                        },
+                        {
+                            "id": 2,
+                            "title": "家长控制",
+                            "subtitle": "AdGuard Home 将检查域名是否包含成人内容。它使用与浏览安全 Web 服务相同的隐私友好 API。",
+                            "imageURL": "https://rocketscience-it.nl/aghr/support/parental-filtering-light.png",
+                            "darkImageURL": "https://rocketscience-it.nl/aghr/support/parental-filtering-dark.png"
+                        },
+                        {
+                            "id": 3,
+                            "title": "安全搜索",
+                            "subtitle": "AdGuard Home 将在以下搜索引擎中强制执行安全搜索：Google、YouTube、Bing、DuckDuckGo、Yandex、Pixabay。",
+                            "imageURL": "https://rocketscience-it.nl/aghr/support/safe-search-light.png",
+                            "darkImageURL": "https://rocketscience-it.nl/aghr/support/safe-search-dark.png"
+                        },
+                        {
+                            "id": 4,
+                            "title": "保护",
+                            "subtitle": "最后，左侧最远的按钮可以全局切换所有保护。因此，如果此按钮关闭，即使其他按钮处于打开状态，也不会进行任何阻止！",
+                            "imageURL": "https://rocketscience-it.nl/aghr/support/protection-light.png",
+                            "darkImageURL": "https://rocketscience-it.nl/aghr/support/protection-dark.png"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "title": "开发",
+            "items": [
+                {
+                    "id": 5,
+                    "title": "路线图",
+                    "subtitle": "对未来计划的大致想法（也许）。",
+                    "imageName": "map.circle.fill",
+                    "supportPages": [{
+                            "id": 6,
+                            "title": "大致路线图",
+                            "subtitle": "AdGuard Home Remote 只是我作为独立开发者构建的应用之一，再加上我的其他应用和工作，这让我很难准确预测路线图会是什么样子。但这是我对接下来的计划的最佳猜测。\n\n#1 - iOS 16 特定功能。\n\n#2 - 改进的查询日志搜索。提供一个选项来搜索所有日志，而不仅仅是当前显示的日志。\n\n除了这些，我还有很多其他想法。如果您有任何建议，请告诉我，我洗耳恭听！\n谢谢，Joost",
+                            "imageURL": "https://rocketscience-it.nl/aghr/support/blueprint-rounded-light.png",
+                            "darkImageURL": "https://rocketscience-it.nl/aghr/support/blueprint-rounded-dark.png"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "faqSections": [{
+            "id": 0,
+            "title": "常见问题",
+            "items": [
+                {
+                    "id": 0,
+                    "title": "我一打开应用就报错，帮帮我！",
+                    "text": "您运行的是最新版本的 AdGuard Home 和 AdGuard Home Remote 吗？您在 iOS 设置中授予了'本地网络访问'权限了吗？您可以尝试用 IP 地址代替主机名，或者反过来？您可以再次仔细检查您的登录凭证吗？"
+                },
+                {
+                    "id": 1,
+                    "title": "为什么我在外出时数据不加载？",
+                    "text": "您的 AdGuard Home 可能只能从本地网络访问（也就是说当您在家时）。能够从外部网络访问和使用 AdGuard Home 的最佳方式是运行 VPN。我推荐您了解 [PiVPN](https://pivpn.io) 或 [Tailscale](https://tailscale.com)。这样您就可以从任何地方安全地访问您的 AdGuard Home！"
+                },
+                {
+                    "id": 2,
+                    "title": "为什么我的主屏幕小组件不显示数据？",
+                    "text": "请确保您当前所在的网络可以让您的设备访问 AdGuard Home 实例，比如您家里的 WiFi。您也可以尝试重启设备，这将完全重启小组件。"
+                },
+                {
+                    "id": 3,
+                    "title": "为什么 Apple Watch 应用一直显示加载图标？",
+                    "text": "首先，请确保您的 iPhone 已登录 iCloud。然后重启您的手机和手表，打开 iPhone 应用，再打开手表应用。如果这不起作用，全新重装应用应该可以解决。对给您带来的不便深表歉意！"
+                },
+                {
+                    "id": 4,
+                    "title": "我正在使用 Home Assistant，如何设置应用？",
+                    "text": "在 Home Assistant > 配置 > 附加组件、备份与Supervisor > AdGuard Home > 配置中，有一个'网络主机'字段。在那里为 Web 界面分配一个端口号，然后在应用中输入它。"
+                },
+                {
+                    "id": 5,
+                    "title": "什么是 AdGuard Home？",
+                    "text": "AdGuard Home 是一款全网广告和追踪屏蔽软件。设置完成后，它将覆盖您家庭的所有设备，您无需在任何客户端设备上安装软件。欲了解更多关于 AdGuard Home 的信息，请访问 [GitHub](https://github.com/AdguardTeam/AdGuardHome#readme)。"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "反馈",
+            "items": [{
+                    "id": 0,
+                    "title": "我有建议！",
+                    "text": "我很乐意听到您的建议！AdGuard Home Remote 中的许多酷炫功能都直接来自用户反馈。请使用下面的联系按钮向我提出您的想法 😊"
+                },
+                {
+                    "id": 1,
+                    "title": "我想帮助将应用翻译成我的语言！",
+                    "text": "太棒了！请使用下面的联系按钮联系我 😊"
+                }
+            ]
+        }
+    ],
+
+    "contactItems": [{
+            "id": 0,
+            "title": "Twitter",
+            "url": "https://www.twitter.com/AdGuardHomeApp",
+            "imageName": "message.fill",
+            "color": 1
+        },
+        {
+            "id": 1,
+            "title": "电子邮件",
+            "url": "mailto:developer@rocketscience-it.nl",
+            "imageName": "envelope.fill",
+            "color": 2
+        }
+    ]
+}
