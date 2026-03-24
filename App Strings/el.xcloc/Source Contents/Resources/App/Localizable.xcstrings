@@ -30,6 +30,9 @@
     "• Remove limits\n• Custom disable presets\n• Live query log\n• Manage all settings\n• Interactive widgets\n• Multiple Instances\n• And much more!" : {
       "comment" : "Displayed in the onboarding."
     },
+    "${action} ${services} on ${instance}" : {
+
+    },
     "1h" : {
       "localizations" : {
         "en" : {
@@ -213,6 +216,9 @@
     "Accessibility" : {
 
     },
+    "Action" : {
+
+    },
     "add" : {
       "comment" : "Used in the Settings-tab in the 'instances' section header.",
       "localizations" : {
@@ -228,6 +234,9 @@
       "comment" : "Used on the 'Add new disable preset' screen, e.g. 'Add 30 seconds'"
     },
     "Add 5 minutes" : {
+
+    },
+    "Add an AdGuard Home instance using the iOS or macOS app." : {
 
     },
     "Add an AdGuard Home instance using the iOS or macOS app. Instances are synced automatically via iCloud." : {
@@ -278,6 +287,9 @@
       "shouldTranslate" : false
     },
     "AGHR's tabs" : {
+
+    },
+    "AGHR+ is required to use this feature." : {
 
     },
     "all" : {
@@ -394,6 +406,15 @@
     "Bar-chart" : {
       "comment" : "Chart type."
     },
+    "Block" : {
+
+    },
+    "Block or unblock services on your AdGuard Home. (Requires AGHR+)" : {
+
+    },
+    "Block or unblock the selected services." : {
+
+    },
     "Blocked by filters" : {
       "comment" : "Query status type."
     },
@@ -474,6 +495,9 @@
     },
     "Blocklist Management" : {
       "comment" : "Displayed in the onboarding."
+    },
+    "Browse your DNS query log, see which domains are being queried and which are being blocked." : {
+
     },
     "CAA" : {
       "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
@@ -2838,7 +2862,7 @@
 
     },
     "Duration in seconds" : {
-
+      "extractionState" : "stale"
     },
     "Duration Presets" : {
 
@@ -4464,6 +4488,12 @@
     "No pages for this support item" : {
 
     },
+    "No Queries" : {
+
+    },
+    "No recent queries found." : {
+
+    },
     "No Watch Paired" : {
 
     },
@@ -6016,6 +6046,9 @@
         }
       }
     },
+    "Refresh" : {
+
+    },
     "Refreshing" : {
 
     },
@@ -6277,7 +6310,8 @@
       }
     },
     "Seconds" : {
-      "comment" : "Used on the 'Add new disable preset' screen"
+      "comment" : "Used on the 'Add new disable preset' screen",
+      "extractionState" : "stale"
     },
     "See live DNS queries streaming through your AdGuard Home in real time." : {
 
@@ -6324,6 +6358,9 @@
     "Separate cards and charts" : {
       "comment" : "Dashboard size type explainer"
     },
+    "Service" : {
+
+    },
     "services" : {
       "localizations" : {
         "en" : {
@@ -6333,6 +6370,9 @@
           }
         }
       }
+    },
+    "Services" : {
+
     },
     "settings" : {
       "localizations" : {
@@ -6914,6 +6954,12 @@
         }
       }
     },
+    "Specify which instance to control." : {
+
+    },
+    "Specify which service(s) to toggle." : {
+
+    },
     "SRV" : {
       "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
       "shouldTranslate" : false
@@ -6948,6 +6994,12 @@
 
     },
     "Sub-buttons" : {
+
+    },
+    "Successfully blocked %@." : {
+
+    },
+    "Successfully unblocked %@." : {
 
     },
     "Support" : {
@@ -7194,6 +7246,9 @@
     "Toggle between enabled & disabled" : {
 
     },
+    "Toggle Blocked Services" : {
+
+    },
     "Toggle only between enabled & disabled. Hold the button for more options." : {
 
     },
@@ -7269,6 +7324,12 @@
       "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
       "shouldTranslate" : false
     },
+    "Unblock" : {
+
+    },
+    "Unit" : {
+
+    },
     "unknown" : {
       "localizations" : {
         "en" : {
@@ -7283,6 +7344,9 @@
 
     },
     "Unknown Error" : {
+
+    },
+    "Unknown error." : {
 
     },
     "Until tomorrow" : {

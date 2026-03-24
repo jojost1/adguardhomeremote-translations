@@ -1067,6 +1067,11 @@
         <target>Enable protection in ${applicationName}</target>
         <note>MARK: Protection Intents</note>
       </trans-unit>
+      <trans-unit id="Toggle blocked services in ${applicationName}" xml:space="preserve">
+        <source>Toggle blocked services in ${applicationName}</source>
+        <target>Toggle blocked services in ${applicationName}</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
     </body>
   </file>
   <file original="Resources/App/InfoPlist.xcstrings" source-language="en" target-language="en" datatype="plaintext">
@@ -1091,6 +1096,11 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.3" build-num="17C529"/>
     </header>
     <body>
+      <trans-unit id="${action} ${services} on ${instance}" xml:space="preserve">
+        <source>${action} ${services} on ${instance}</source>
+        <target state="new">${action} ${services} on ${instance}</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="%@" translate="no" xml:space="preserve">
         <source>%@</source>
         <target state="new">%@</target>
@@ -1226,6 +1236,11 @@
         <target state="new">AGHR's tabs</target>
         <note/>
       </trans-unit>
+      <trans-unit id="AGHR+ is required to use this feature." xml:space="preserve">
+        <source>AGHR+ is required to use this feature.</source>
+        <target state="new">AGHR+ is required to use this feature.</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="APL" translate="no" xml:space="preserve">
         <source>APL</source>
         <target state="new">APL</target>
@@ -1239,6 +1254,11 @@
       <trans-unit id="Accessibility" xml:space="preserve">
         <source>Accessibility</source>
         <target state="new">Accessibility</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Action" xml:space="preserve">
+        <source>Action</source>
+        <target state="new">Action</target>
         <note/>
       </trans-unit>
       <trans-unit id="AdGuard Home Remote" xml:space="preserve">
@@ -1274,6 +1294,11 @@
       <trans-unit id="Add Instance" xml:space="preserve">
         <source>Add Instance</source>
         <target state="new">Add Instance</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Add an AdGuard Home instance using the iOS or macOS app." xml:space="preserve">
+        <source>Add an AdGuard Home instance using the iOS or macOS app.</source>
+        <target state="new">Add an AdGuard Home instance using the iOS or macOS app.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add an AdGuard Home instance using the iOS or macOS app. Instances are synced automatically via iCloud." xml:space="preserve">
@@ -1361,6 +1386,21 @@
         <target state="new">Bar-chart</target>
         <note>Chart type.</note>
       </trans-unit>
+      <trans-unit id="Block" xml:space="preserve">
+        <source>Block</source>
+        <target state="new">Block</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Block or unblock services on your AdGuard Home. (Requires AGHR+)" xml:space="preserve">
+        <source>Block or unblock services on your AdGuard Home. (Requires AGHR+)</source>
+        <target state="new">Block or unblock services on your AdGuard Home. (Requires AGHR+)</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Block or unblock the selected services." xml:space="preserve">
+        <source>Block or unblock the selected services.</source>
+        <target state="new">Block or unblock the selected services.</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Blocked by filters" xml:space="preserve">
         <source>Blocked by filters</source>
         <target state="new">Blocked by filters</target>
@@ -1400,6 +1440,11 @@
         <source>Blocklist Management</source>
         <target state="new">Blocklist Management</target>
         <note>Displayed in the onboarding.</note>
+      </trans-unit>
+      <trans-unit id="Browse your DNS query log, see which domains are being queried and which are being blocked." xml:space="preserve">
+        <source>Browse your DNS query log, see which domains are being queried and which are being blocked.</source>
+        <target state="new">Browse your DNS query log, see which domains are being queried and which are being blocked.</target>
+        <note/>
       </trans-unit>
       <trans-unit id="CAA" translate="no" xml:space="preserve">
         <source>CAA</source>
@@ -1985,6 +2030,11 @@ Please mail it to developer@rocketscience-it.nl!</target>
         <target state="new">No Instances</target>
         <note/>
       </trans-unit>
+      <trans-unit id="No Queries" xml:space="preserve">
+        <source>No Queries</source>
+        <target state="new">No Queries</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="No Watch Paired" xml:space="preserve">
         <source>No Watch Paired</source>
         <target state="new">No Watch Paired</target>
@@ -2008,6 +2058,11 @@ Please mail it to developer@rocketscience-it.nl!</target>
       <trans-unit id="No pages for this support item" xml:space="preserve">
         <source>No pages for this support item</source>
         <target state="new">No pages for this support item</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="No recent queries found." xml:space="preserve">
+        <source>No recent queries found.</source>
+        <target state="new">No recent queries found.</target>
         <note/>
       </trans-unit>
       <trans-unit id="OK" xml:space="preserve">
@@ -2180,6 +2235,11 @@ Please mail it to developer@rocketscience-it.nl!</target>
         <target state="new">Recent Queries</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Refresh" xml:space="preserve">
+        <source>Refresh</source>
+        <target state="new">Refresh</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Refreshing" xml:space="preserve">
         <source>Refreshing</source>
         <target state="new">Refreshing</target>
@@ -2310,6 +2370,16 @@ Please mail it to developer@rocketscience-it.nl!</target>
         <target state="new">Separate cards and charts</target>
         <note>Dashboard size type explainer</note>
       </trans-unit>
+      <trans-unit id="Service" xml:space="preserve">
+        <source>Service</source>
+        <target state="new">Service</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Services" xml:space="preserve">
+        <source>Services</source>
+        <target state="new">Services</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Settings" xml:space="preserve">
         <source>Settings</source>
         <target state="new">Settings</target>
@@ -2425,6 +2495,16 @@ Please mail it to developer@rocketscience-it.nl!</target>
         <target state="new">Something went wrong: %@</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Specify which instance to control." xml:space="preserve">
+        <source>Specify which instance to control.</source>
+        <target state="new">Specify which instance to control.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Specify which service(s) to toggle." xml:space="preserve">
+        <source>Specify which service(s) to toggle.</source>
+        <target state="new">Specify which service(s) to toggle.</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Statistics" xml:space="preserve">
         <source>Statistics</source>
         <target state="new">Statistics</target>
@@ -2453,6 +2533,16 @@ Please mail it to developer@rocketscience-it.nl!</target>
       <trans-unit id="Sub-buttons" xml:space="preserve">
         <source>Sub-buttons</source>
         <target state="new">Sub-buttons</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Successfully blocked %@." xml:space="preserve">
+        <source>Successfully blocked %@.</source>
+        <target state="new">Successfully blocked %@.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Successfully unblocked %@." xml:space="preserve">
+        <source>Successfully unblocked %@.</source>
+        <target state="new">Successfully unblocked %@.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Support" xml:space="preserve">
@@ -2550,6 +2640,11 @@ Please mail it to developer@rocketscience-it.nl!</target>
         <target state="new">This version requires iOS 16.2 &amp; watchOS 10.0 (or newer).</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Toggle Blocked Services" xml:space="preserve">
+        <source>Toggle Blocked Services</source>
+        <target state="new">Toggle Blocked Services</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Toggle Protection" xml:space="preserve">
         <source>Toggle Protection</source>
         <target state="new">Toggle Protection</target>
@@ -2625,6 +2720,16 @@ Please mail it to developer@rocketscience-it.nl!</target>
         <target state="new">URL Share Extension</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Unblock" xml:space="preserve">
+        <source>Unblock</source>
+        <target state="new">Unblock</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Unit" xml:space="preserve">
+        <source>Unit</source>
+        <target state="new">Unit</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Unknown" xml:space="preserve">
         <source>Unknown</source>
         <target state="new">Unknown</target>
@@ -2633,6 +2738,11 @@ Please mail it to developer@rocketscience-it.nl!</target>
       <trans-unit id="Unknown Error" xml:space="preserve">
         <source>Unknown Error</source>
         <target state="new">Unknown Error</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Unknown error." xml:space="preserve">
+        <source>Unknown error.</source>
+        <target state="new">Unknown error.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Until tomorrow" xml:space="preserve">

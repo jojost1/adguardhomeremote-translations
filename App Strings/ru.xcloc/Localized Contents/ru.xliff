@@ -904,6 +904,7 @@
     <body>
       <trans-unit id="Bar-chart" xml:space="preserve">
         <source>Bar-chart</source>
+        <target state="translated">Столбчатая диаграмма</target>
         <note>Chart type.</note>
       </trans-unit>
       <trans-unit id="Can't reach AdGuard Home." xml:space="preserve">
@@ -913,10 +914,12 @@
       </trans-unit>
       <trans-unit id="Compact" xml:space="preserve">
         <source>Compact</source>
+        <target state="translated">Компактный</target>
         <note>Dashboard size type</note>
       </trans-unit>
       <trans-unit id="Expanded" xml:space="preserve">
         <source>Expanded</source>
+        <target state="translated">Расширенный</target>
         <note>Dashboard size type</note>
       </trans-unit>
       <trans-unit id="Invalid authentication or privacy setting." xml:space="preserve">
@@ -931,14 +934,17 @@
       </trans-unit>
       <trans-unit id="Line-chart" xml:space="preserve">
         <source>Line-chart</source>
+        <target state="translated">Линейная диаграмма</target>
         <note>Chart type.</note>
       </trans-unit>
       <trans-unit id="Regular" xml:space="preserve">
         <source>Regular</source>
+        <target state="translated">Обычный</target>
         <note>Dashboard size type</note>
       </trans-unit>
       <trans-unit id="Regular cards, combined chart" xml:space="preserve">
         <source>Regular cards, combined chart</source>
+        <target state="translated">Обычные карточки, объединённый график</target>
         <note>Dashboard size type explainer</note>
       </trans-unit>
       <trans-unit id="Request timed out." xml:space="preserve">
@@ -948,10 +954,12 @@
       </trans-unit>
       <trans-unit id="Separate cards and charts" xml:space="preserve">
         <source>Separate cards and charts</source>
+        <target state="translated">Отдельные карточки и графики</target>
         <note>Dashboard size type explainer</note>
       </trans-unit>
       <trans-unit id="Small cards, combined chart" xml:space="preserve">
         <source>Small cards, combined chart</source>
+        <target state="translated">Маленькие карточки, объединённый график</target>
         <note>Dashboard size type explainer</note>
       </trans-unit>
     </body>
@@ -1021,6 +1029,10 @@
         <target>Включи защиту в ${applicationName}</target>
         <note>MARK: Protection Intents</note>
       </trans-unit>
+      <trans-unit id="Toggle blocked services in ${applicationName}" xml:space="preserve">
+        <source>Toggle blocked services in ${applicationName}</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
     </body>
   </file>
   <file original="Resources/App/InfoPlist.xcstrings" source-language="en" target-language="ru" datatype="plaintext">
@@ -1043,6 +1055,10 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.3" build-num="17C529"/>
     </header>
     <body>
+      <trans-unit id="${action} ${services} on ${instance}" xml:space="preserve">
+        <source>${action} ${services} on ${instance}</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="%@" translate="no" xml:space="preserve">
         <source>%@</source>
         <note/>
@@ -1167,6 +1183,11 @@
         <target state="translated">Вкладки AGHR</target>
         <note/>
       </trans-unit>
+      <trans-unit id="AGHR+ is required to use this feature." xml:space="preserve">
+        <source>AGHR+ is required to use this feature.</source>
+        <target state="translated">Для использования этой функции требуется AGHR+.</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="APL" translate="no" xml:space="preserve">
         <source>APL</source>
         <note>Used in the DNS record type picker on the 'check filtering' screen.</note>
@@ -1179,6 +1200,11 @@
       <trans-unit id="Accessibility" xml:space="preserve">
         <source>Accessibility</source>
         <target state="translated">Доступность</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Action" xml:space="preserve">
+        <source>Action</source>
+        <target state="translated">Действие</target>
         <note/>
       </trans-unit>
       <trans-unit id="AdGuard Home Remote" xml:space="preserve">
@@ -1214,6 +1240,11 @@
       <trans-unit id="Add Instance" xml:space="preserve">
         <source>Add Instance</source>
         <target state="translated">Добавить сервер</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Add an AdGuard Home instance using the iOS or macOS app." xml:space="preserve">
+        <source>Add an AdGuard Home instance using the iOS or macOS app.</source>
+        <target state="translated">Добавьте экземпляр AdGuard Home с помощью приложения для iOS или macOS.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add an AdGuard Home instance using the iOS or macOS app. Instances are synced automatically via iCloud." xml:space="preserve">
@@ -1301,6 +1332,21 @@
         <target state="translated">Гистограмма</target>
         <note>Chart type.</note>
       </trans-unit>
+      <trans-unit id="Block" xml:space="preserve">
+        <source>Block</source>
+        <target state="translated">Заблокировать</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Block or unblock services on your AdGuard Home. (Requires AGHR+)" xml:space="preserve">
+        <source>Block or unblock services on your AdGuard Home. (Requires AGHR+)</source>
+        <target state="translated">Блокировка или разблокировка сервисов на вашем AdGuard Home. (Требуется AGHR+)</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Block or unblock the selected services." xml:space="preserve">
+        <source>Block or unblock the selected services.</source>
+        <target state="translated">Заблокировать или разблокировать выбранные сервисы.</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Blocked by filters" xml:space="preserve">
         <source>Blocked by filters</source>
         <target state="translated">Заблокировано фильтрами</target>
@@ -1340,6 +1386,11 @@
         <source>Blocklist Management</source>
         <target state="translated">Управление списками блокировки</target>
         <note>Displayed in the onboarding.</note>
+      </trans-unit>
+      <trans-unit id="Browse your DNS query log, see which domains are being queried and which are being blocked." xml:space="preserve">
+        <source>Browse your DNS query log, see which domains are being queried and which are being blocked.</source>
+        <target state="translated">Просматривайте журнал DNS-запросов, какие домены запрашиваются и какие блокируются.</target>
+        <note/>
       </trans-unit>
       <trans-unit id="CAA" translate="no" xml:space="preserve">
         <source>CAA</source>
@@ -1898,6 +1949,11 @@ Please mail it to developer@rocketscience-it.nl!</source>
         <target state="translated">Нет серверов</target>
         <note/>
       </trans-unit>
+      <trans-unit id="No Queries" xml:space="preserve">
+        <source>No Queries</source>
+        <target state="translated">Нет запросов</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="No Watch Paired" xml:space="preserve">
         <source>No Watch Paired</source>
         <target state="translated">Нет привязанных Apple Watch</target>
@@ -1921,6 +1977,11 @@ Please mail it to developer@rocketscience-it.nl!</source>
       <trans-unit id="No pages for this support item" xml:space="preserve">
         <source>No pages for this support item</source>
         <target state="translated">Нет страниц для этого элемента поддержки</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="No recent queries found." xml:space="preserve">
+        <source>No recent queries found.</source>
+        <target state="translated">Недавние запросы не найдены.</target>
         <note/>
       </trans-unit>
       <trans-unit id="OK" xml:space="preserve">
@@ -2088,6 +2149,11 @@ Please mail it to developer@rocketscience-it.nl!</source>
         <target state="translated">Недавние запросы</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Refresh" xml:space="preserve">
+        <source>Refresh</source>
+        <target state="translated">Обновить</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Refreshing" xml:space="preserve">
         <source>Refreshing</source>
         <target state="translated">Обновление</target>
@@ -2210,6 +2276,15 @@ Please mail it to developer@rocketscience-it.nl!</source>
         <target state="translated">Отдельные карточки и диаграммы</target>
         <note>Dashboard size type explainer</note>
       </trans-unit>
+      <trans-unit id="Service" xml:space="preserve">
+        <source>Service</source>
+        <target state="translated">Сервис</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Services" xml:space="preserve">
+        <source>Services</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="Settings" xml:space="preserve">
         <source>Settings</source>
         <target state="translated">Настройки</target>
@@ -2325,6 +2400,16 @@ Please mail it to developer@rocketscience-it.nl!</source>
         <target state="translated">Что-то пошло не так: %@</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Specify which instance to control." xml:space="preserve">
+        <source>Specify which instance to control.</source>
+        <target state="translated">Укажите, каким сервером управлять.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Specify which service(s) to toggle." xml:space="preserve">
+        <source>Specify which service(s) to toggle.</source>
+        <target state="translated">Укажите, какие сервисы переключить.</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Statistics" xml:space="preserve">
         <source>Statistics</source>
         <target state="translated">Статистика</target>
@@ -2353,6 +2438,16 @@ Please mail it to developer@rocketscience-it.nl!</source>
       <trans-unit id="Sub-buttons" xml:space="preserve">
         <source>Sub-buttons</source>
         <target state="translated">Кнопки статусов</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Successfully blocked %@." xml:space="preserve">
+        <source>Successfully blocked %@.</source>
+        <target state="translated">%@ успешно заблокировано.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Successfully unblocked %@." xml:space="preserve">
+        <source>Successfully unblocked %@.</source>
+        <target state="translated">%@ успешно разблокировано.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Support" xml:space="preserve">
@@ -2444,6 +2539,11 @@ Please mail it to developer@rocketscience-it.nl!</source>
         <target state="translated">Эта версия требует iOS 16.2 и watchOS 10.0 (или новее)</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Toggle Blocked Services" xml:space="preserve">
+        <source>Toggle Blocked Services</source>
+        <target state="translated">Переключить заблокированные сервисы</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Toggle Protection" xml:space="preserve">
         <source>Toggle Protection</source>
         <target state="translated">Переключить защиту</target>
@@ -2518,6 +2618,15 @@ Please mail it to developer@rocketscience-it.nl!</source>
         <target state="translated">Расширение «Поделиться URL»</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Unblock" xml:space="preserve">
+        <source>Unblock</source>
+        <target state="translated">Разблокировать</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Unit" xml:space="preserve">
+        <source>Unit</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="Unknown" xml:space="preserve">
         <source>Unknown</source>
         <target state="translated">Неизвестно</target>
@@ -2526,6 +2635,11 @@ Please mail it to developer@rocketscience-it.nl!</source>
       <trans-unit id="Unknown Error" xml:space="preserve">
         <source>Unknown Error</source>
         <target state="translated">Неизвестная ошибка</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Unknown error." xml:space="preserve">
+        <source>Unknown error.</source>
+        <target state="translated">Неизвестная ошибка.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Until tomorrow" xml:space="preserve">

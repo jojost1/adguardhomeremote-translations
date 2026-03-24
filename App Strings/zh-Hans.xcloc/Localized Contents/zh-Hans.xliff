@@ -916,6 +916,7 @@
     <body>
       <trans-unit id="Bar-chart" xml:space="preserve">
         <source>Bar-chart</source>
+        <target state="translated">柱状图</target>
         <note>Chart type.</note>
       </trans-unit>
       <trans-unit id="Can't reach AdGuard Home." xml:space="preserve">
@@ -925,10 +926,12 @@
       </trans-unit>
       <trans-unit id="Compact" xml:space="preserve">
         <source>Compact</source>
+        <target state="translated">紧凑</target>
         <note>Dashboard size type</note>
       </trans-unit>
       <trans-unit id="Expanded" xml:space="preserve">
         <source>Expanded</source>
+        <target state="translated">展开</target>
         <note>Dashboard size type</note>
       </trans-unit>
       <trans-unit id="Invalid authentication or privacy setting." xml:space="preserve">
@@ -943,14 +946,17 @@
       </trans-unit>
       <trans-unit id="Line-chart" xml:space="preserve">
         <source>Line-chart</source>
+        <target state="translated">折线图</target>
         <note>Chart type.</note>
       </trans-unit>
       <trans-unit id="Regular" xml:space="preserve">
         <source>Regular</source>
+        <target state="translated">常规</target>
         <note>Dashboard size type</note>
       </trans-unit>
       <trans-unit id="Regular cards, combined chart" xml:space="preserve">
         <source>Regular cards, combined chart</source>
+        <target state="translated">常规卡片，组合图表</target>
         <note>Dashboard size type explainer</note>
       </trans-unit>
       <trans-unit id="Request timed out." xml:space="preserve">
@@ -960,10 +966,12 @@
       </trans-unit>
       <trans-unit id="Separate cards and charts" xml:space="preserve">
         <source>Separate cards and charts</source>
+        <target state="translated">单独的卡片和图表</target>
         <note>Dashboard size type explainer</note>
       </trans-unit>
       <trans-unit id="Small cards, combined chart" xml:space="preserve">
         <source>Small cards, combined chart</source>
+        <target state="translated">小卡片，组合图表</target>
         <note>Dashboard size type explainer</note>
       </trans-unit>
     </body>
@@ -1035,6 +1043,10 @@
         <target>在 ${applicationName} 中启用保护</target>
         <note>MARK: Protection Intents</note>
       </trans-unit>
+      <trans-unit id="Toggle blocked services in ${applicationName}" xml:space="preserve">
+        <source>Toggle blocked services in ${applicationName}</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
     </body>
   </file>
   <file original="Resources/App/InfoPlist.xcstrings" source-language="en" target-language="zh-Hans" datatype="plaintext">
@@ -1057,6 +1069,10 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.3" build-num="17C529"/>
     </header>
     <body>
+      <trans-unit id="${action} ${services} on ${instance}" xml:space="preserve">
+        <source>${action} ${services} on ${instance}</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="%@" translate="no" xml:space="preserve">
         <source>%@</source>
         <note/>
@@ -1181,6 +1197,11 @@
         <target state="translated">AGHR 标签页</target>
         <note/>
       </trans-unit>
+      <trans-unit id="AGHR+ is required to use this feature." xml:space="preserve">
+        <source>AGHR+ is required to use this feature.</source>
+        <target state="translated">使用此功能需要 AGHR+。</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="APL" translate="no" xml:space="preserve">
         <source>APL</source>
         <note>Used in the DNS record type picker on the 'check filtering' screen.</note>
@@ -1193,6 +1214,11 @@
       <trans-unit id="Accessibility" xml:space="preserve">
         <source>Accessibility</source>
         <target state="translated">无障碍</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Action" xml:space="preserve">
+        <source>Action</source>
+        <target state="translated">操作</target>
         <note/>
       </trans-unit>
       <trans-unit id="AdGuard Home Remote" xml:space="preserve">
@@ -1228,6 +1254,11 @@
       <trans-unit id="Add Instance" xml:space="preserve">
         <source>Add Instance</source>
         <target state="translated">添加实例</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Add an AdGuard Home instance using the iOS or macOS app." xml:space="preserve">
+        <source>Add an AdGuard Home instance using the iOS or macOS app.</source>
+        <target state="translated">使用 iOS 或 macOS 应用添加 AdGuard Home 实例。</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add an AdGuard Home instance using the iOS or macOS app. Instances are synced automatically via iCloud." xml:space="preserve">
@@ -1315,6 +1346,21 @@
         <target state="translated">条形图</target>
         <note>Chart type.</note>
       </trans-unit>
+      <trans-unit id="Block" xml:space="preserve">
+        <source>Block</source>
+        <target state="translated">屏蔽</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Block or unblock services on your AdGuard Home. (Requires AGHR+)" xml:space="preserve">
+        <source>Block or unblock services on your AdGuard Home. (Requires AGHR+)</source>
+        <target state="translated">在您的 AdGuard Home 上屏蔽或取消屏蔽服务。（需要 AGHR+）</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Block or unblock the selected services." xml:space="preserve">
+        <source>Block or unblock the selected services.</source>
+        <target state="translated">屏蔽或取消屏蔽所选服务。</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Blocked by filters" xml:space="preserve">
         <source>Blocked by filters</source>
         <target state="translated">已被过滤器拦截</target>
@@ -1354,6 +1400,11 @@
         <source>Blocklist Management</source>
         <target state="translated">屏蔽列表管理</target>
         <note>Displayed in the onboarding.</note>
+      </trans-unit>
+      <trans-unit id="Browse your DNS query log, see which domains are being queried and which are being blocked." xml:space="preserve">
+        <source>Browse your DNS query log, see which domains are being queried and which are being blocked.</source>
+        <target state="translated">浏览 DNS 查询日志，查看哪些域名被查询以及哪些被拦截。</target>
+        <note/>
       </trans-unit>
       <trans-unit id="CAA" translate="no" xml:space="preserve">
         <source>CAA</source>
@@ -1912,6 +1963,11 @@ Please mail it to developer@rocketscience-it.nl!</source>
         <target state="translated">无实例</target>
         <note/>
       </trans-unit>
+      <trans-unit id="No Queries" xml:space="preserve">
+        <source>No Queries</source>
+        <target state="translated">无查询</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="No Watch Paired" xml:space="preserve">
         <source>No Watch Paired</source>
         <target state="translated">无已配对手表</target>
@@ -1935,6 +1991,11 @@ Please mail it to developer@rocketscience-it.nl!</source>
       <trans-unit id="No pages for this support item" xml:space="preserve">
         <source>No pages for this support item</source>
         <target state="translated">此支持条目无页面</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="No recent queries found." xml:space="preserve">
+        <source>No recent queries found.</source>
+        <target state="translated">未找到最近的查询。</target>
         <note/>
       </trans-unit>
       <trans-unit id="OK" xml:space="preserve">
@@ -2102,6 +2163,11 @@ Please mail it to developer@rocketscience-it.nl!</source>
         <target state="translated">最近查询</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Refresh" xml:space="preserve">
+        <source>Refresh</source>
+        <target state="translated">刷新</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Refreshing" xml:space="preserve">
         <source>Refreshing</source>
         <target state="translated">正在刷新</target>
@@ -2224,6 +2290,15 @@ Please mail it to developer@rocketscience-it.nl!</source>
         <target state="translated">分离卡片与图表</target>
         <note>Dashboard size type explainer</note>
       </trans-unit>
+      <trans-unit id="Service" xml:space="preserve">
+        <source>Service</source>
+        <target state="translated">服务</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Services" xml:space="preserve">
+        <source>Services</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="Settings" xml:space="preserve">
         <source>Settings</source>
         <target state="translated">设置</target>
@@ -2339,6 +2414,16 @@ Please mail it to developer@rocketscience-it.nl!</source>
         <target state="translated">出现错误：%@</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Specify which instance to control." xml:space="preserve">
+        <source>Specify which instance to control.</source>
+        <target state="translated">指定要控制的实例。</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Specify which service(s) to toggle." xml:space="preserve">
+        <source>Specify which service(s) to toggle.</source>
+        <target state="translated">指定要切换的服务。</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Statistics" xml:space="preserve">
         <source>Statistics</source>
         <target state="translated">统计数据</target>
@@ -2367,6 +2452,16 @@ Please mail it to developer@rocketscience-it.nl!</source>
       <trans-unit id="Sub-buttons" xml:space="preserve">
         <source>Sub-buttons</source>
         <target state="translated">子按钮</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Successfully blocked %@." xml:space="preserve">
+        <source>Successfully blocked %@.</source>
+        <target state="translated">已成功屏蔽 %@。</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Successfully unblocked %@." xml:space="preserve">
+        <source>Successfully unblocked %@.</source>
+        <target state="translated">已成功取消屏蔽 %@。</target>
         <note/>
       </trans-unit>
       <trans-unit id="Support" xml:space="preserve">
@@ -2458,6 +2553,11 @@ Please mail it to developer@rocketscience-it.nl!</source>
         <target state="translated">此版本需要 iOS 16.2 和 watchOS 10.0 (或更新)。</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Toggle Blocked Services" xml:space="preserve">
+        <source>Toggle Blocked Services</source>
+        <target state="translated">切换已屏蔽服务</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Toggle Protection" xml:space="preserve">
         <source>Toggle Protection</source>
         <target state="translated">切换保护</target>
@@ -2532,6 +2632,15 @@ Please mail it to developer@rocketscience-it.nl!</source>
         <target state="translated">URL 共享扩展</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Unblock" xml:space="preserve">
+        <source>Unblock</source>
+        <target state="translated">取消屏蔽</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Unit" xml:space="preserve">
+        <source>Unit</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="Unknown" xml:space="preserve">
         <source>Unknown</source>
         <target state="translated">未知</target>
@@ -2540,6 +2649,11 @@ Please mail it to developer@rocketscience-it.nl!</source>
       <trans-unit id="Unknown Error" xml:space="preserve">
         <source>Unknown Error</source>
         <target state="translated">未知错误</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Unknown error." xml:space="preserve">
+        <source>Unknown error.</source>
+        <target state="translated">未知错误。</target>
         <note/>
       </trans-unit>
       <trans-unit id="Until tomorrow" xml:space="preserve">
