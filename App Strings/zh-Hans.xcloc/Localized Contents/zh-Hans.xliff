@@ -2,7 +2,7 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="AdGuard Home Remote Share Extension/InfoPlist.xcstrings" source-language="en" target-language="zh-Hans" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.3" build-num="17C529"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.4" build-num="17E192"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -21,7 +21,7 @@
   </file>
   <file original="AdGuard Home Remote tvOS/AdGuard-Home-Remote-tvOS-InfoPlist.xcstrings" source-language="en" target-language="zh-Hans" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.3" build-num="17C529"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.4" build-num="17E192"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -40,7 +40,7 @@
   </file>
   <file original="AdGuard Home Remote Watch App WatchKit Extension/AdGuard-Home-Remote-Watch-App-InfoPlist.xcstrings" source-language="en" target-language="zh-Hans" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.3" build-num="17C529"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.4" build-num="17E192"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" translate="no" xml:space="preserve">
@@ -59,7 +59,7 @@
   </file>
   <file original="AdGuard Home Remote Widgets/Base.lproj/WidgetConfigs.intentdefinition" source-language="en" target-language="zh-Hans" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.3" build-num="17C529"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.4" build-num="17E192"/>
     </header>
     <body>
       <trans-unit id="0foAlr-1ekF7R" xml:space="preserve">
@@ -311,7 +311,7 @@
   </file>
   <file original="AdGuard Home Remote Widgets/InfoPlist.xcstrings" source-language="en" target-language="zh-Hans" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.3" build-num="17C529"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.4" build-num="17E192"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" translate="no" xml:space="preserve">
@@ -326,7 +326,7 @@
   </file>
   <file original="AdGuard Home Remote Widgets/Localizable.xcstrings" source-language="en" target-language="zh-Hans" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.3" build-num="17C529"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.4" build-num="17E192"/>
     </header>
     <body>
       <trans-unit id="Bar-chart" xml:space="preserve">
@@ -365,7 +365,7 @@
   </file>
   <file original="App Intents &amp; Shortcuts/Base.lproj/Intents.intentdefinition" source-language="en" target-language="zh-Hans" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.3" build-num="17C529"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.4" build-num="17E192"/>
     </header>
     <body>
       <trans-unit id="0sDcS3" xml:space="preserve">
@@ -892,7 +892,7 @@
   </file>
   <file original="App Intents &amp; Shortcuts/InfoPlist.xcstrings" source-language="en" target-language="zh-Hans" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.3" build-num="17C529"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.4" build-num="17E192"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" translate="no" xml:space="preserve">
@@ -911,7 +911,7 @@
   </file>
   <file original="App Intents &amp; Shortcuts/Localizable.xcstrings" source-language="en" target-language="zh-Hans" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.3" build-num="17C529"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.4" build-num="17E192"/>
     </header>
     <body>
       <trans-unit id="Bar-chart" xml:space="preserve">
@@ -978,7 +978,7 @@
   </file>
   <file original="iOS/InfoPlist.xcstrings" source-language="en" target-language="zh-Hans" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.3" build-num="17C529"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.4" build-num="17E192"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" translate="no" xml:space="preserve">
@@ -1004,11 +1004,16 @@
         <target state="translated">AdGuard Home Remote 使用本地网络来连接您的 AdGuard Home 实例。</target>
         <note>Privacy - Local Network Usage Description</note>
       </trans-unit>
+      <trans-unit id="NSLocationWhenInUseUsageDescription" xml:space="preserve">
+        <source>AdGuard Home Remote uses your location to detect your Wi-Fi network name, so it can automatically connect using the correct address. Your location is never stored or transmitted.</source>
+        <target state="translated">AdGuard Home Remote 使用您的位置来检测您的 Wi-Fi 网络名称，以便自动使用正确的地址连接。您的位置永远不会被存储或传输。</target>
+        <note>Privacy - Location When In Use Usage Description</note>
+      </trans-unit>
     </body>
   </file>
   <file original="Resources/App/AdGuard Home Remote WidgetsExtension copy-InfoPlist.xcstrings" source-language="en" target-language="zh-Hans" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.3" build-num="17C529"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.4" build-num="17E192"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" translate="no" xml:space="preserve">
@@ -1025,7 +1030,7 @@
   </file>
   <file original="Resources/App/en.lproj/AppShortcuts.strings" source-language="en" target-language="zh-Hans" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.3" build-num="17C529"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.4" build-num="17E192"/>
     </header>
     <body>
       <trans-unit id="Disable protection for ${duration} minutes in ${applicationName}" xml:space="preserve">
@@ -1051,7 +1056,7 @@
   </file>
   <file original="Resources/App/InfoPlist.xcstrings" source-language="en" target-language="zh-Hans" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.3" build-num="17C529"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.4" build-num="17E192"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" translate="no" xml:space="preserve">
@@ -1066,11 +1071,12 @@
   </file>
   <file original="Resources/App/Localizable.xcstrings" source-language="en" target-language="zh-Hans" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.3" build-num="17C529"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.4" build-num="17E192"/>
     </header>
     <body>
       <trans-unit id="${action} ${services} on ${instance}" xml:space="preserve">
         <source>${action} ${services} on ${instance}</source>
+        <target state="translated">在${instance}上${action}${services}</target>
         <note/>
       </trans-unit>
       <trans-unit id="%@" translate="no" xml:space="preserve">
@@ -1152,11 +1158,15 @@
       </trans-unit>
       <trans-unit id="192.168.1.1" translate="no" xml:space="preserve">
         <source>192.168.1.1</source>
-        <note>Placeholder of the 'host' textfield in instance settings</note>
+        <note>Placeholder for the hostname textfield on the instance settings screen.</note>
       </trans-unit>
       <trans-unit id="255.255.255.0" translate="no" xml:space="preserve">
         <source>255.255.255.0</source>
         <note>Placeholder of the 'subnet mask' textfield in DHCP settings</note>
+      </trans-unit>
+      <trans-unit id="443" translate="no" xml:space="preserve">
+        <source>443</source>
+        <note/>
       </trans-unit>
       <trans-unit id="2001::1" translate="no" xml:space="preserve">
         <source>2001::1</source>
@@ -1251,6 +1261,11 @@
         <target state="translated">增加 5 分钟</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Add Current Wi-Fi (%@)" xml:space="preserve">
+        <source>Add Current Wi-Fi (%@)</source>
+        <target state="translated">添加当前 Wi-Fi (%@)</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Add Instance" xml:space="preserve">
         <source>Add Instance</source>
         <target state="translated">添加实例</target>
@@ -1271,9 +1286,19 @@
         <target state="translated">增加新预设</target>
         <note>Used on the 'Add new disable preset' screen</note>
       </trans-unit>
+      <trans-unit id="Add the Wi-Fi networks where the 'Home Connection' settings (local IP) should be used." xml:space="preserve">
+        <source>Add the Wi-Fi networks where the 'Home Connection' settings (local IP) should be used.</source>
+        <target state="translated">添加应使用“家庭连接”设置（本地 IP）的 Wi-Fi 网络。</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Add your AdGuard Home instances to control them and view statistics." xml:space="preserve">
         <source>Add your AdGuard Home instances to control them and view statistics.</source>
         <target state="translated">添加您的 AdGuard Home 实例来控制其并查看统计信息。</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Add..." xml:space="preserve">
+        <source>Add...</source>
+        <target state="translated">添加…</target>
         <note/>
       </trans-unit>
       <trans-unit id="Adding new presets requires Pro." xml:space="preserve">
@@ -1291,6 +1316,11 @@
         <target state="translated">全部</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Allow Location Access" xml:space="preserve">
+        <source>Allow Location Access</source>
+        <target state="translated">允许位置访问</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Allows Family Sharing" xml:space="preserve">
         <source>Allows Family Sharing</source>
         <target state="translated">允许家庭共享</target>
@@ -1306,9 +1336,32 @@
         <target state="translated">Apple TV 功能</target>
         <note>Used on the pro purchase screen.</note>
       </trans-unit>
+      <trans-unit id="Apple Watch" xml:space="preserve">
+        <source>Apple Watch</source>
+        <target state="translated">Apple Watch</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Apply Pro license" xml:space="preserve">
         <source>Apply Pro license</source>
         <target state="translated">应用 Pro 授权</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Apply different connection settings when you're away from home. Works really well with a VPN (like WireGuard or Tailscale) that automatically enables based on your Wi-Fi network.&#10;&#10;Specify the SSID(s) of your local Wi-Fi networks where the default 'Home Connection' settings (previous screen) should be used. When you're not on any of these networks, the connection settings below under 'Away Connection' will be used instead.&#10;&#10;Your default 'Home Connection' will then be used on home network(s) and on devices that don't support overrides (widgets, macOS, Apple Watch, Apple TV)." xml:space="preserve">
+        <source>Apply different connection settings when you're away from home. Works really well with a VPN (like WireGuard or Tailscale) that automatically enables based on your Wi-Fi network.
+
+Specify the SSID(s) of your local Wi-Fi networks where the default 'Home Connection' settings (previous screen) should be used. When you're not on any of these networks, the connection settings below under 'Away Connection' will be used instead.
+
+Your default 'Home Connection' will then be used on home network(s) and on devices that don't support overrides (widgets, macOS, Apple Watch, Apple TV).</source>
+        <target state="translated">当您不在家时，应用不同的连接设置。与根据您的 Wi-Fi 网络自动启用的 VPN（如 WireGuard 或 Tailscale）配合使用效果非常好。
+
+指定您的本地 Wi-Fi 网络的 SSID，在这些网络上应使用默认“家庭连接”设置（上一屏幕）。当您不在这些网络上时，将使用下方“外出连接”的连接设置。
+
+您的默认“家庭连接”将用于家庭网络和不支持覆盖的设备（小组件、macOS、Apple Watch、Apple TV）。</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Are you sure you want to remove the away connection? The default home connection will be used everywhere." xml:space="preserve">
+        <source>Are you sure you want to remove the away connection? The default home connection will be used everywhere.</source>
+        <target state="translated">您确定要移除外出连接吗？默认家庭连接将在所有地方使用。</target>
         <note/>
       </trans-unit>
       <trans-unit id="Artificial intelligence" xml:space="preserve">
@@ -1326,6 +1379,11 @@
         <target state="translated">自动</target>
         <note>Used in the 'Preferences Other' screen in the navigation style picker (only visible for iPad)</note>
       </trans-unit>
+      <trans-unit id="Automatically use a different hostname/IP when away from home, for example in combination with a VPN." xml:space="preserve">
+        <source>Automatically use a different hostname/IP when away from home, for example in combination with a VPN.</source>
+        <target state="translated">当您不在家时自动使用不同的主机名/IP，例如与 VPN 结合使用。</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Average processing time: %@" xml:space="preserve">
         <source>Average processing time: %@</source>
         <target state="translated">平均处理时间: %@</target>
@@ -1339,6 +1397,11 @@
       <trans-unit id="Average processing time: %@." xml:space="preserve">
         <source>Average processing time: %@.</source>
         <target state="translated">平均处理时间: %@。</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Away Connection" xml:space="preserve">
+        <source>Away Connection</source>
+        <target state="translated">外出连接</target>
         <note/>
       </trans-unit>
       <trans-unit id="Bar-chart" xml:space="preserve">
@@ -1475,11 +1538,6 @@
         <target state="translated">检查主机名是否被过滤。</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Clear hostname textfield" xml:space="preserve">
-        <source>Clear hostname textfield</source>
-        <target state="translated">清空主机名文本框</target>
-        <note>Accessibility label for the X button of the hostname textfield</note>
-      </trans-unit>
       <trans-unit id="Client Management" xml:space="preserve">
         <source>Client Management</source>
         <target state="translated">客户端管理</target>
@@ -1610,6 +1668,11 @@
         <target state="translated">默认计数</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Delete" xml:space="preserve">
+        <source>Delete</source>
+        <target state="translated">删除</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Design" xml:space="preserve">
         <source>Design</source>
         <target state="translated">外观设计</target>
@@ -1628,11 +1691,6 @@
       <trans-unit id="Duration Presets" xml:space="preserve">
         <source>Duration Presets</source>
         <target state="translated">持续时间预设</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Duration in seconds" xml:space="preserve">
-        <source>Duration in seconds</source>
-        <target state="translated">持续时间以秒为单位</target>
         <note/>
       </trans-unit>
       <trans-unit id="EUI48" translate="no" xml:space="preserve">
@@ -1761,9 +1819,44 @@
         <source>HIP</source>
         <note>Used in the DNS record type picker on the 'check filtering' screen.</note>
       </trans-unit>
+      <trans-unit id="HTTP" xml:space="preserve">
+        <source>HTTP</source>
+        <target state="translated">HTTP</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="HTTPS" translate="no" xml:space="preserve">
         <source>HTTPS</source>
         <note>Used in the DNS record type picker on the 'check filtering' screen.</note>
+      </trans-unit>
+      <trans-unit id="Home" xml:space="preserve">
+        <source>Home</source>
+        <target state="translated">家庭</target>
+        <note>Placeholder for the name textfield on the instance settings screen.</note>
+      </trans-unit>
+      <trans-unit id="Home Connection" xml:space="preserve">
+        <source>Home Connection</source>
+        <target state="translated">家庭连接</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Home Wi-Fi Networks" xml:space="preserve">
+        <source>Home Wi-Fi Networks</source>
+        <target state="translated">家庭 Wi-Fi 网络</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Host" xml:space="preserve">
+        <source>Host</source>
+        <target state="translated">主机</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Hostname or IP" xml:space="preserve">
+        <source>Hostname or IP</source>
+        <target state="translated">主机名或 IP</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Hostname or IP address" xml:space="preserve">
+        <source>Hostname or IP address</source>
+        <target state="translated">主机名或 IP 地址</target>
+        <note/>
       </trans-unit>
       <trans-unit id="Hostname or domain name" xml:space="preserve">
         <source>Hostname or domain name</source>
@@ -1865,6 +1958,16 @@ Please mail it to developer@rocketscience-it.nl!</source>
         <target state="translated">实时日志</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Location Permission Required" xml:space="preserve">
+        <source>Location Permission Required</source>
+        <target state="translated">需要位置权限</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Location access was previously denied. Please enable it in Settings." xml:space="preserve">
+        <source>Location access was previously denied. Please enable it in Settings.</source>
+        <target state="translated">位置访问之前已被拒绝。请在“设置”中启用它。</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="MX" translate="no" xml:space="preserve">
         <source>MX</source>
         <note>Used in the DNS record type picker on the 'check filtering' screen.</note>
@@ -1887,6 +1990,11 @@ Please mail it to developer@rocketscience-it.nl!</source>
       <trans-unit id="ManGo - Anime &amp; Manga Tracker" xml:space="preserve">
         <source>ManGo - Anime &amp; Manga Tracker</source>
         <target state="translated">ManGo - 动漫追踪器</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Manage Away Connection" xml:space="preserve">
+        <source>Manage Away Connection</source>
+        <target state="translated">管理外出连接</target>
         <note/>
       </trans-unit>
       <trans-unit id="Manage Clients" xml:space="preserve">
@@ -2032,6 +2140,11 @@ Please mail it to developer@rocketscience-it.nl!</source>
         <target state="translated">打开</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Open Settings" xml:space="preserve">
+        <source>Open Settings</source>
+        <target state="translated">打开设置</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Open statistics." xml:space="preserve">
         <source>Open statistics.</source>
         <target state="translated">打开统计数据</target>
@@ -2090,6 +2203,11 @@ Please mail it to developer@rocketscience-it.nl!</source>
         <target state="translated">请在 iPhone App 中添加实例</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Port" xml:space="preserve">
+        <source>Port</source>
+        <target state="translated">端口</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Powerful AdGuard Home Client &amp; DHCP management." xml:space="preserve">
         <source>Powerful AdGuard Home Client &amp; DHCP management.</source>
         <target state="translated">强大的 AdGuard Home 客户端和 DHCP 管理。</target>
@@ -2128,6 +2246,16 @@ Please mail it to developer@rocketscience-it.nl!</source>
       <trans-unit id="Processed: %@" xml:space="preserve">
         <source>Processed: %@</source>
         <target state="translated">已处理: %@</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Protocol" xml:space="preserve">
+        <source>Protocol</source>
+        <target state="translated">协议</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Purge iCloud Data" xml:space="preserve">
+        <source>Purge iCloud Data</source>
+        <target state="translated">清除 iCloud 数据</target>
         <note/>
       </trans-unit>
       <trans-unit id="Queries" xml:space="preserve">
@@ -2185,6 +2313,16 @@ Please mail it to developer@rocketscience-it.nl!</source>
       </trans-unit>
       <trans-unit id="Remote for AdGuard DNS" translate="no" xml:space="preserve">
         <source>Remote for AdGuard DNS</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Remove" xml:space="preserve">
+        <source>Remove</source>
+        <target state="translated">移除</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Remove Away Connection" xml:space="preserve">
+        <source>Remove Away Connection</source>
+        <target state="translated">移除外出连接</target>
         <note/>
       </trans-unit>
       <trans-unit id="Remove Pro license" xml:space="preserve">
@@ -2255,15 +2393,15 @@ Please mail it to developer@rocketscience-it.nl!</source>
         <source>SVCB</source>
         <note>Used in the DNS record type picker on the 'check filtering' screen.</note>
       </trans-unit>
+      <trans-unit id="Save" xml:space="preserve">
+        <source>Save</source>
+        <target state="translated">保存</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Schedule" xml:space="preserve">
         <source>Schedule</source>
         <target state="translated">计划任务</target>
         <note/>
-      </trans-unit>
-      <trans-unit id="Seconds" xml:space="preserve">
-        <source>Seconds</source>
-        <target state="translated">秒</target>
-        <note>Used on the 'Add new disable preset' screen</note>
       </trans-unit>
       <trans-unit id="See live DNS queries streaming through your AdGuard Home in real time." xml:space="preserve">
         <source>See live DNS queries streaming through your AdGuard Home in real time.</source>
@@ -2297,6 +2435,7 @@ Please mail it to developer@rocketscience-it.nl!</source>
       </trans-unit>
       <trans-unit id="Services" xml:space="preserve">
         <source>Services</source>
+        <target state="translated">服务</target>
         <note/>
       </trans-unit>
       <trans-unit id="Settings" xml:space="preserve">
@@ -2543,6 +2682,11 @@ Please mail it to developer@rocketscience-it.nl!</source>
         <target state="translated">原始结束日期，届时拦截将再次启用。</target>
         <note/>
       </trans-unit>
+      <trans-unit id="These settings are used when you're not on any of the home Wi-Fi networks above (e.g. cellular, VPN, or other Wi-Fi)." xml:space="preserve">
+        <source>These settings are used when you're not on any of the home Wi-Fi networks above (e.g. cellular, VPN, or other Wi-Fi).</source>
+        <target state="translated">当您不在上述任何家庭 Wi-Fi 网络上时，将使用这些设置（例如蜂窝数据、VPN 或其他 Wi-Fi）。</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="This version requires iOS 15, watchOS 8, macOS 12 (or newer)." xml:space="preserve">
         <source>This version requires iOS 15, watchOS 8, macOS 12 (or newer).</source>
         <target state="translated">此版本需要 iOS 15，watchOS 8，macOS 12 (或更新)。</target>
@@ -2551,6 +2695,20 @@ Please mail it to developer@rocketscience-it.nl!</source>
       <trans-unit id="This version requires iOS 16.2 &amp; watchOS 10.0 (or newer)." xml:space="preserve">
         <source>This version requires iOS 16.2 &amp; watchOS 10.0 (or newer).</source>
         <target state="translated">此版本需要 iOS 16.2 和 watchOS 10.0 (或更新)。</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="To detect your Wi-Fi network name, Apple requires 'While Using App' location permission. This is a system requirement for reading Wi-Fi information.&#10;&#10;Your location is never stored or transmitted by AdGuard Home Remote." xml:space="preserve">
+        <source>To detect your Wi-Fi network name, Apple requires 'While Using App' location permission. This is a system requirement for reading Wi-Fi information.
+
+Your location is never stored or transmitted by AdGuard Home Remote.</source>
+        <target state="translated">要检测您的 Wi-Fi 网络名称，Apple 需要“使用应用期间”的位置权限。这是读取 Wi-Fi 信息的系统要求。
+
+AdGuard Home Remote 永远不会存储或传输您的位置。</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="To re-sync after purging, edit &amp; save an instance." xml:space="preserve">
+        <source>To re-sync after purging, edit &amp; save an instance.</source>
+        <target state="translated">清除后如需重新同步，请编辑并保存一个实例。</target>
         <note/>
       </trans-unit>
       <trans-unit id="Toggle Blocked Services" xml:space="preserve">
@@ -2639,6 +2797,7 @@ Please mail it to developer@rocketscience-it.nl!</source>
       </trans-unit>
       <trans-unit id="Unit" xml:space="preserve">
         <source>Unit</source>
+        <target state="translated">单位</target>
         <note/>
       </trans-unit>
       <trans-unit id="Unknown" xml:space="preserve">
@@ -2661,6 +2820,11 @@ Please mail it to developer@rocketscience-it.nl!</source>
         <target state="translated">直到明天</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Upgrade to AGHR Pro to automatically use a different hostname/IP when away from home, for example in combination with a VPN." xml:space="preserve">
+        <source>Upgrade to AGHR Pro to automatically use a different hostname/IP when away from home, for example in combination with a VPN.</source>
+        <target state="translated">升级到 AGHR Pro，当您不在家时自动使用不同的主机名/IP，例如与 VPN 结合使用。</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Upgrade to Pro" xml:space="preserve">
         <source>Upgrade to Pro</source>
         <target state="translated">升级到 Pro</target>
@@ -2669,6 +2833,11 @@ Please mail it to developer@rocketscience-it.nl!</source>
       <trans-unit id="Use NextDNS? Have I got an app for you." xml:space="preserve">
         <source>Use NextDNS? Have I got an app for you.</source>
         <target state="translated">使用 NextDNS? 我为您做了一款 App</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Used when **not** connected to Wi-Fi SSID: %@" xml:space="preserve">
+        <source>Used when **not** connected to Wi-Fi SSID: %@</source>
+        <target state="translated">当**未**连接到 Wi-Fi SSID 时使用：%@</target>
         <note/>
       </trans-unit>
       <trans-unit id="User Interface" xml:space="preserve">
@@ -2710,6 +2879,11 @@ Please mail it to developer@rocketscience-it.nl!</source>
         <source>Welcome!</source>
         <target state="translated">欢迎！</target>
         <note>Onboarding subtitle.</note>
+      </trans-unit>
+      <trans-unit id="Wi-Fi network name (SSID)" xml:space="preserve">
+        <source>Wi-Fi network name (SSID)</source>
+        <target state="translated">Wi-Fi 网络名称 (SSID)</target>
+        <note/>
       </trans-unit>
       <trans-unit id="Widgets &amp; Live Activity" xml:space="preserve">
         <source>Widgets &amp; Live Activity</source>
@@ -4373,6 +4547,11 @@ Search</source>
         <target state="translated">需要帮助？</target>
         <note>MARK: Help</note>
       </trans-unit>
+      <trans-unit id="iCloud" xml:space="preserve">
+        <source>iCloud</source>
+        <target state="translated">iCloud</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="important" xml:space="preserve">
         <source>important</source>
         <target state="translated">重要</target>
@@ -4423,19 +4602,9 @@ Search</source>
         <target state="translated">自定义消息标头</target>
         <note/>
       </trans-unit>
-      <trans-unit id="instance_display_name_placeholder" xml:space="preserve">
-        <source>AdGuard Home</source>
-        <target state="translated">AdGuard Home</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="instance_hide" xml:space="preserve">
         <source>Hide Instance</source>
         <target state="translated">隐藏实例</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="instance_ip_hostname" xml:space="preserve">
-        <source>IP or Hostname</source>
-        <target state="translated">IP 地址或 主机名</target>
         <note/>
       </trans-unit>
       <trans-unit id="instance_new" xml:space="preserve">
@@ -4461,21 +4630,6 @@ Search</source>
       <trans-unit id="instance_remove_alert_title" xml:space="preserve">
         <source>Remove AdGuard Home Instance</source>
         <target state="translated">删除 AdGuard Home 实例</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="instance_ssl_http" xml:space="preserve">
-        <source>http</source>
-        <target state="translated">http</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="instance_ssl_https" xml:space="preserve">
-        <source>https</source>
-        <target state="translated">https</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="instance_ssl_label" xml:space="preserve">
-        <source>Use http (default) or https?</source>
-        <target state="translated">使用 http (默认) 还是 https?</target>
         <note/>
       </trans-unit>
       <trans-unit id="instance_test_connection" xml:space="preserve">

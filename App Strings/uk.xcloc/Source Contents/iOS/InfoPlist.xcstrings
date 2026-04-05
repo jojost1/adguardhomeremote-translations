@@ -62,6 +62,18 @@
           }
         }
       }
+    },
+    "NSLocationWhenInUseUsageDescription" : {
+      "comment" : "Privacy - Location When In Use Usage Description",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "AdGuard Home Remote uses your location to detect your Wi-Fi network name, so it can automatically connect using the correct address. Your location is never stored or transmitted."
+          }
+        }
+      }
     }
   },
   "version" : "1.0"

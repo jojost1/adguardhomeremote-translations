@@ -121,11 +121,14 @@
       }
     },
     "192.168.1.1" : {
-      "comment" : "Placeholder of the 'host' textfield in instance settings",
+      "comment" : "Placeholder for the hostname textfield on the instance settings screen.",
       "shouldTranslate" : false
     },
     "255.255.255.0" : {
       "comment" : "Placeholder of the 'subnet mask' textfield in DHCP settings",
+      "shouldTranslate" : false
+    },
+    "443" : {
       "shouldTranslate" : false
     },
     "2001::1" : {
@@ -242,13 +245,22 @@
     "Add an AdGuard Home instance using the iOS or macOS app. Instances are synced automatically via iCloud." : {
 
     },
+    "Add Current Wi-Fi (%@)" : {
+
+    },
     "Add Instance" : {
 
     },
     "Add new preset" : {
       "comment" : "Used on the 'Add new disable preset' screen"
     },
+    "Add the Wi-Fi networks where the 'Home Connection' settings (local IP) should be used." : {
+
+    },
     "Add your AdGuard Home instances to control them and view statistics." : {
+
+    },
+    "Add..." : {
 
     },
     "Adding new presets requires Pro." : {
@@ -315,6 +327,9 @@
         }
       }
     },
+    "Allow Location Access" : {
+
+    },
     "Allows Family Sharing" : {
       "comment" : "Used on the pro purchase screen."
     },
@@ -368,7 +383,16 @@
     "Apple TV features" : {
       "comment" : "Used on the pro purchase screen."
     },
+    "Apple Watch" : {
+
+    },
+    "Apply different connection settings when you're away from home. Works really well with a VPN (like WireGuard or Tailscale) that automatically enables based on your Wi-Fi network.\n\nSpecify the SSID(s) of your local Wi-Fi networks where the default 'Home Connection' settings (previous screen) should be used. When you're not on any of these networks, the connection settings below under 'Away Connection' will be used instead.\n\nYour default 'Home Connection' will then be used on home network(s) and on devices that don't support overrides (widgets, macOS, Apple Watch, Apple TV)." : {
+
+    },
     "Apply Pro license" : {
+
+    },
+    "Are you sure you want to remove the away connection? The default home connection will be used everywhere." : {
 
     },
     "Artificial intelligence" : {
@@ -379,6 +403,9 @@
     },
     "Automatic" : {
       "comment" : "Used in the 'Preferences Other' screen in the navigation style picker (only visible for iPad)"
+    },
+    "Automatically use a different hostname/IP when away from home, for example in combination with a VPN." : {
+
     },
     "Average processing time: %@" : {
 
@@ -401,6 +428,9 @@
       }
     },
     "avg %@" : {
+
+    },
+    "Away Connection" : {
 
     },
     "Bar-chart" : {
@@ -675,9 +705,6 @@
     },
     "Check if a host name is filtered." : {
 
-    },
-    "Clear hostname textfield" : {
-      "comment" : "Accessibility label for the X button of the hostname textfield"
     },
     "Client identifier" : {
 
@@ -1345,6 +1372,9 @@
 
     },
     "Default count" : {
+
+    },
+    "Delete" : {
 
     },
     "deselect_all" : {
@@ -2861,9 +2891,6 @@
     "Duration" : {
 
     },
-    "Duration in seconds" : {
-      "extractionState" : "stale"
-    },
     "Duration Presets" : {
 
     },
@@ -3814,7 +3841,28 @@
       "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
       "shouldTranslate" : false
     },
+    "Home" : {
+      "comment" : "Placeholder for the name textfield on the instance settings screen."
+    },
+    "Home Connection" : {
+
+    },
+    "Home Wi-Fi Networks" : {
+
+    },
+    "Host" : {
+
+    },
     "Hostname or domain name" : {
+
+    },
+    "Hostname or IP" : {
+
+    },
+    "Hostname or IP address" : {
+
+    },
+    "HTTP" : {
 
     },
     "HTTPS" : {
@@ -3823,6 +3871,9 @@
     },
     "I see you don't have an active mail client on your device, please mail me with the request to join the TestFlight including a screenshot of this Pro screen so I can see you have purchased Pro.\n\nPlease mail it to developer@rocketscience-it.nl!" : {
       "comment" : "Used on the pro purchase screen."
+    },
+    "iCloud" : {
+
     },
     "Icon" : {
 
@@ -3933,32 +3984,12 @@
         }
       }
     },
-    "instance_display_name_placeholder" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "AdGuard Home"
-          }
-        }
-      }
-    },
     "instance_hide" : {
       "localizations" : {
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hide Instance"
-          }
-        }
-      }
-    },
-    "instance_ip_hostname" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "IP or Hostname"
           }
         }
       }
@@ -4009,36 +4040,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Remove AdGuard Home Instance"
-          }
-        }
-      }
-    },
-    "instance_ssl_http" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "http"
-          }
-        }
-      }
-    },
-    "instance_ssl_https" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "https"
-          }
-        }
-      }
-    },
-    "instance_ssl_label" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Use http (default) or https?"
           }
         }
       }
@@ -4178,6 +4179,12 @@
       "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
       "shouldTranslate" : false
     },
+    "Location access was previously denied. Please enable it in Settings." : {
+
+    },
+    "Location Permission Required" : {
+
+    },
     "Made with ❤️ by one person in 🇳🇱" : {
       "comment" : "Used on the pro purchase screen."
     },
@@ -4206,6 +4213,9 @@
           }
         }
       }
+    },
+    "Manage Away Connection" : {
+
     },
     "Manage Clients" : {
 
@@ -4603,6 +4613,9 @@
     "Open" : {
 
     },
+    "Open Settings" : {
+
+    },
     "Open statistics." : {
 
     },
@@ -4658,6 +4671,9 @@
       "shouldTranslate" : false
     },
     "Please add an instance in the iPhone app." : {
+
+    },
+    "Port" : {
 
     },
     "Powerful AdGuard Home Client & DHCP management." : {
@@ -5156,6 +5172,9 @@
         }
       }
     },
+    "Protocol" : {
+
+    },
     "PTR" : {
       "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
       "shouldTranslate" : false
@@ -5214,6 +5233,9 @@
           }
         }
       }
+    },
+    "Purge iCloud Data" : {
+
     },
     "Queries" : {
 
@@ -6071,6 +6093,12 @@
         }
       }
     },
+    "Remove" : {
+
+    },
+    "Remove Away Connection" : {
+
+    },
     "Remove Pro license" : {
 
     },
@@ -6296,6 +6324,9 @@
         }
       }
     },
+    "Save" : {
+
+    },
     "Schedule" : {
 
     },
@@ -6308,10 +6339,6 @@
           }
         }
       }
-    },
-    "Seconds" : {
-      "comment" : "Used on the 'Add new disable preset' screen",
-      "extractionState" : "stale"
     },
     "See live DNS queries streaming through your AdGuard Home in real time." : {
 
@@ -7078,6 +7105,9 @@
     "The original enddate when blocking would be enabled again." : {
 
     },
+    "These settings are used when you're not on any of the home Wi-Fi networks above (e.g. cellular, VPN, or other Wi-Fi)." : {
+
+    },
     "This version requires iOS 15, watchOS 8, macOS 12 (or newer)." : {
 
     },
@@ -7243,6 +7273,12 @@
       "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
       "shouldTranslate" : false
     },
+    "To detect your Wi-Fi network name, Apple requires 'While Using App' location permission. This is a system requirement for reading Wi-Fi information.\n\nYour location is never stored or transmitted by AdGuard Home Remote." : {
+
+    },
+    "To re-sync after purging, edit & save an instance." : {
+
+    },
     "Toggle between enabled & disabled" : {
 
     },
@@ -7362,6 +7398,9 @@
         }
       }
     },
+    "Upgrade to AGHR Pro to automatically use a different hostname/IP when away from home, for example in combination with a VPN." : {
+
+    },
     "Upgrade to Pro" : {
 
     },
@@ -7384,6 +7423,9 @@
           }
         }
       }
+    },
+    "Used when **not** connected to Wi-Fi SSID: %@" : {
+
     },
     "User Interface" : {
 
@@ -7432,6 +7474,9 @@
     },
     "Welcome!" : {
       "comment" : "Onboarding subtitle."
+    },
+    "Wi-Fi network name (SSID)" : {
+
     },
     "widget_dashboard" : {
       "comment" : "MARK: Widgets",
