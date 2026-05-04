@@ -222,6 +222,9 @@
     "Action" : {
 
     },
+    "ACTIVE" : {
+
+    },
     "add" : {
       "comment" : "Used in the Settings-tab in the 'instances' section header.",
       "localizations" : {
@@ -1086,6 +1089,9 @@
     "Compact" : {
       "comment" : "Dashboard size type"
     },
+    "Connection" : {
+
+    },
     "Contact" : {
 
     },
@@ -1100,6 +1106,9 @@
     },
     "Copy email" : {
       "comment" : "Used on the pro purchase screen."
+    },
+    "Copy host" : {
+
     },
     "CSYNC" : {
       "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
@@ -2152,6 +2161,9 @@
       "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
       "shouldTranslate" : false
     },
+    "DNS Caching" : {
+
+    },
     "DNS Queries" : {
 
     },
@@ -2903,6 +2915,9 @@
           }
         }
       }
+    },
+    "Edit" : {
+
     },
     "Edit presets..." : {
 
@@ -3812,6 +3827,9 @@
     "Get AGHR Pro - %@" : {
 
     },
+    "Get Pro" : {
+
+    },
     "global" : {
       "localizations" : {
         "en" : {
@@ -4154,6 +4172,9 @@
           }
         }
       }
+    },
+    "Loading" : {
+
     },
     "loading_dots" : {
       "localizations" : {
@@ -5139,6 +5160,9 @@
       "comment" : "Query status type."
     },
     "Processed: %@" : {
+
+    },
+    "Protection" : {
 
     },
     "protection_disabled" : {
@@ -6385,6 +6409,9 @@
     "Separate cards and charts" : {
       "comment" : "Dashboard size type explainer"
     },
+    "Server IP" : {
+
+    },
     "Service" : {
 
     },
@@ -6402,6 +6429,7 @@
 
     },
     "settings" : {
+      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -6516,6 +6544,7 @@
       }
     },
     "settings_edit-instance" : {
+      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -7036,6 +7065,12 @@
       "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
       "shouldTranslate" : false
     },
+    "Switches to 'Away' when not connected to Wi-Fi SSID: %@" : {
+
+    },
+    "Switches to 'Home' when connected to Wi-Fi SSID: %@" : {
+
+    },
     "TA" : {
       "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
       "shouldTranslate" : false
@@ -7106,6 +7141,9 @@
 
     },
     "These settings are used when you're not on any of the home Wi-Fi networks above (e.g. cellular, VPN, or other Wi-Fi)." : {
+
+    },
+    "This update also fixes some crashes on older OS versions (iOS 16/17 and equivalent). If you experienced these crashes, I'm sorry the fix took a while!" : {
 
     },
     "This version requires iOS 15, watchOS 8, macOS 12 (or newer)." : {
@@ -7402,6 +7440,12 @@
 
     },
     "Upgrade to Pro" : {
+
+    },
+    "Upstream IP" : {
+
+    },
+    "Upstreams" : {
 
     },
     "URI" : {
