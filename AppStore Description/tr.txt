@@ -1,13 +1,22 @@
-AdGuard Home Remote, AdGuard Home'unuzu yönetmeyi hızlı ve kolay hale getirir. Engelleme özelliklerini hızlı bir şekilde etkinleştirin/devre dışı bırakın, ayrıca en iyi istemciler ve en iyi alanlar gibi istatistikleri görüntüleyin. İstemcilerinizi, filtrelerinizi, DNS yeniden yazma işlemlerini ve daha fazlasını yönetin.
+AdGuard Home Remote, AdGuard Home'unuzu iPhone, iPad, Mac, Apple Watch ve Apple TV üzerinden hızlı ve kolay bir şekilde yönetmenizi sağlar. Engelleme özelliklerini hızlıca etkinleştirin/devre dışı bırakın, en iyi istemciler ve alan adları gibi istatistikleri görüntüleyin ve istemcilerinizi, filtrelerinizi, DNS yeniden yazma işlemlerini ve daha fazlasını yönetin.
 
 *Kontrol Engelleme*
 Filtreleme ve güvenli tarama/aramayı hızla etkinleştirebilir veya devre dışı bırakabilirsiniz. Hatta müşterileriniz için belirli ayarları yönetebilirsiniz!
 
 *İstatistik*
-Sorgularınızın yanı sıra en iyi müşteriler ve alan adlarının grafiklerini görüntüleyin. Ayrıntılı istek ve yanıt bilgileriyle Sorgu Günlüğünde sorgularınızı arayın.
+Sorgularınızın yanı sıra en iyi müşteriler ve alan adlarının grafiklerini görüntüleyin. Ayrıntılı istek ve yanıt bilgileriyle Sorgu Günlüğünde sorgularınızı arayın. İstatistiklerinizi tek dokunuşla şık bir görsel olarak paylaşın.
 
 *Ayarları Yönet*
 İstemcilerinizi ekleyin veya düzenleyin, bazı yeni filtreler ekleyin veya bunları bir süreliğine devre dışı bırakın, filtrelerinizi güncelleyin, engellenen hizmetleri düzenleyin, DHCP ve DNS ayarlarını yönetin, yeni DNS kuralları oluşturun veya Sorgu Günlüğü ayarlarınızı düzenleyin.
+
+*Birden Çok Örnek, Senkronize*
+Birden fazla AdGuard Home sunucunuz mu var? Aralarında tek dokunuşla geçiş yapın, örnekler arası ayarları senkronize edin ve Away Connection'ın Wi-Fi'nize göre otomatik olarak doğru örneği seçmesine izin verin (Pro gerektirir).
+
+*Sistem Entegrasyonu*
+Canlı Etkinlik, Ana Ekran ve Kilit Ekranı widget'ları, Kontrol Merkezi denetimleri, Siri Kısayolları ve doğrudan tarayıcınızdan alan adlarını hızlıca engellemek veya engellemesini kaldırmak için bir Paylaşım Eklentisi. AdGuard Home Remote ihtiyacınız olan her yerde.
+
+*iPhone, iPad, Mac, Watch ve Apple TV*
+Her platformda en iyi uygulama olmak için özel olarak tasarlandı.
 
 ==
 
@@ -15,17 +24,24 @@ Sorgularınızın yanı sıra en iyi müşteriler ve alan adlarının grafikleri
 - Kontrol Filtreleme ve Güvenli Tarama/Arama
 - Temel ve gelişmiş istatistikleri görüntüleyin
 - Arama ve filtrelerle Sorgu Günlüğü
+- Herhangi bir tarayıcıdan alan adlarını engellemek/engellemesini kaldırmak için Paylaşım Eklentisi (Pro gerektirir)
 - Gerçek zamanlı olarak gerçekleşirken sorgu günlüğünü gösteren Canlı Günlük (Pro gerektirir)
 - Filtreleme ayarları, engellenen hizmetler ve etiketler dahil olmak üzere İstemcileri Yönetin (Pro gerektirir)
 - Engelleme ve izin verilenler listeleri ve özel filtreleme kuralları dahil olmak üzere Filtreleri Yönetin (Pro gerektirir)
 - Statik kiralamalar dahil DHCP ayarlarını yönetin (Pro gerektirir)
-- DNS ayarlarını yönetin (Pro gerektirir)
+- İstemciye özel upstream'ler dahil DNS ayarlarını yönetin (Pro gerektirir)
 - DNS Yeniden Yazmalarını Yönetin (Pro gerektirir)
 - Birden çok örnek için destek (Pro gerektirir)
-- Widget'lar
-- iOS ve iPadOS arasında iCloud senkronizasyonu
+- Örnekler arası ayarları senkronize edin (Pro gerektirir)
+- Away Connection: Wi-Fi'ye göre otomatik örnek geçişi (Pro gerektirir)
+- İstatistiklerinizi görsel olarak paylaşın (iPhone ve iPad)
+- İnteraktif Widget'lar
+- Canlı Etkinlik
+- Kontrol Merkezi denetimleri
+- Siri Kısayolları
+- iPhone, iPad ve Apple Watch arasında iCloud senkronizasyonu
 - Özelleştirilebilir renk şemaları ve uygulama simgeleri
-- iOS, iPadOS, macOS, watchOS desteği
+- iOS, iPadOS, macOS, watchOS, tvOS desteği
 - Temiz ve modern %100 SwiftUI tasarımı
 
 * AdGuard Home Remote Pro:

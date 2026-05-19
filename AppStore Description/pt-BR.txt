@@ -1,18 +1,21 @@
-AdGuard Home Remote faz o gerenciamento do seu AdGuard Home rápido e fácil. Você pode ativar ou desativar rapidamente recursos de bloqueio, bem como visualizar estatísticas como principais clientes e domínios. Gerencie seus clientes, filtros, regras de DNS e mais.
+AdGuard Home Remote faz o gerenciamento do seu AdGuard Home rápido e fácil, no iPhone, iPad, Mac, Apple Watch e Apple TV. Você pode ativar ou desativar rapidamente recursos de bloqueio, bem como visualizar estatísticas como principais clientes e domínios. Gerencie seus clientes, filtros, regras de DNS e mais.
 
 *Controlando o Bloqueio*
 Você pode ativar ou desativar rapidamente o filtro e a navegação segura/pesquisa. Também é possível gerenciar configurações específicas para seus clientes!
 
 *Estatísticas*
-Visualize gráficos das suas consultas, bem como principais clientes e domínios. Pesquise através do Log de Consultas com informações detalhadas de solicitação e resposta.
+Visualize gráficos das suas consultas, bem como principais clientes e domínios. Pesquise através do Log de Consultas com informações detalhadas de solicitação e resposta. Compartilhe suas estatísticas como uma imagem elegante com um toque.
 
 *Gerenciando Configurações*
 Adicione ou edite seus clientes, adicione novos filtros ou desative-os temporariamente, atualize seus filtros, edite serviços bloqueados, gerencie configurações de DHCP e DNS, crie novas regras de DNS ou edite configurações do Log de Consultas.
 
-*Atividade ao Vivo e Widgets Interativos*
-A Atividade ao Vivo, assim como o suporte extensivo para widgets na Tela Inicial e na Tela de Bloqueio, tornam o controle do seu AdGuard Home simples e fácil!
+*Múltiplas Instâncias, Sincronizadas*
+Tem mais de um servidor AdGuard Home? Alterne entre eles com um toque, sincronize as configurações entre instâncias e deixe o Away Connection escolher automaticamente a instância certa com base no seu Wi-Fi (requer Pro).
 
-*iPhone, iPad, Mac, Watch*
+*Integração com o Sistema*
+Atividade ao Vivo, widgets para Tela Inicial e Tela de Bloqueio, controles da Central de Controle, Atalhos da Siri e uma Extensão de Compartilhamento para bloquear ou desbloquear domínios diretamente do seu navegador. AdGuard Home Remote está onde você precisa.
+
+*iPhone, iPad, Mac, Watch e Apple TV*
 Especificamente desenvolvido para ser o melhor aplicativo em todas as plataformas.
 
 ==
@@ -21,19 +24,24 @@ Características:
 - Controle de Filtro e Navegação Segura/Pesquisa
 - Visualização de estatísticas básicas e avançadas
 - Log de Consultas com pesquisa e filtros
+- Extensão de Compartilhamento para bloquear/desbloquear domínios de qualquer navegador (requer Pro)
 - Log ao Vivo mostrando consultas em tempo real (requer Pro)
 - Gerenciar Clientes, incluindo configurações de filtro, serviços bloqueados e tags (requer Pro)
 - Gerenciar Filtros, incluindo listas de bloqueio e permitidos e regras de filtro personalizadas (requer Pro)
 - Gerenciar configurações de DHCP, incluindo concessões estáticas (requer Pro)
-- Gerenciar configurações de DNS (requer Pro)
+- Gerenciar configurações de DNS, incluindo upstreams específicos por cliente (requer Pro)
 - Gerenciar regras de DNS (requer Pro)
 - Suporte para múltiplas instâncias (requer Pro)
+- Sincronizar configurações entre instâncias (requer Pro)
+- Away Connection: alternância automática entre instâncias com base no Wi-Fi (requer Pro)
+- Compartilhe suas estatísticas como imagem (iPhone e iPad)
 - Widgets Interativos
 - Atividade ao Vivo
+- Controles da Central de Controle
 - Atalhos da Siri
 - Sincronização iCloud entre iPhone, iPad e Apple Watch
 - Esquemas de cores e ícones de aplicativos personalizáveis
-- Suporte para iOS, iPadOS, macOS, watchOS
+- Suporte para iOS, iPadOS, macOS, watchOS, tvOS
 - Design 100% SwiftUI limpo e moderno
 
 *AdGuard Home Remote Pro:

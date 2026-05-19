@@ -1,29 +1,47 @@
-AdGuard Home Remote rend la gestion de votre AdGuard Home rapide et facile. Activez/désactivez rapidement les fonctions de blocage, et consultez les statistiques telles que les principaux clients et domaines. Gérez vos clients, vos filtres, vos réécritures DNS, etc...
+AdGuard Home Remote rend la gestion de votre AdGuard Home rapide et facile, depuis votre iPhone, iPad, Mac, Apple Watch et Apple TV. Activez/désactivez rapidement les fonctions de blocage, consultez les statistiques telles que les principaux clients et domaines, et gérez vos clients, vos filtres, vos réécritures DNS, etc...
 
 *Contrôlez le filtrage*
-Vous pouvez rapidement activer ou désactiver le filtrage et la navigation/recherche sécurisée. Vous pouvez même gérer des paramètres spécifiques pour vos appareil !
+Vous pouvez rapidement activer ou désactiver le filtrage et la navigation/recherche sécurisée. Vous pouvez même gérer des paramètres spécifiques pour vos appareils !
 
 *Statistiques*
-Visualisez les graphiques de vos requêtes ainsi que les principaux clients et domaines. Recherchez dans le journal des requêtes avec des informations détaillées sur les demandes et les réponses.
+Visualisez les graphiques de vos requêtes ainsi que les principaux clients et domaines. Recherchez dans le journal des requêtes avec des informations détaillées sur les demandes et les réponses. Partagez vos statistiques sous forme de visuel élégant en un seul geste.
 
 *Gérer les paramètres*
-Ajoutez ou modifiez vos appareils, ajoutez de nouveaux filtres ou désactivez-les pour temporairement, mettez à jour vos filtres, modifiez les services bloqués, gérez les paramètres DHCP et DNS, créez de nouvelles règles DNS ou modifiez les paramètres du journal des requêtes.
+Ajoutez ou modifiez vos appareils, ajoutez de nouveaux filtres ou désactivez-les temporairement, mettez à jour vos filtres, modifiez les services bloqués, gérez les paramètres DHCP et DNS, créez de nouvelles règles DNS ou modifiez les paramètres du journal des requêtes.
+
+*Plusieurs instances, synchronisées*
+Vous avez plusieurs serveurs AdGuard Home ? Basculez entre eux en un geste, synchronisez les réglages entre instances, et laissez Away Connection choisir automatiquement la bonne instance en fonction de votre Wi-Fi (nécessite la version Pro).
+
+*Intégration système*
+Activité en direct, widgets pour l'écran d'accueil et l'écran verrouillé, commandes du Centre de contrôle, raccourcis Siri et une extension de partage pour bloquer ou débloquer des domaines directement depuis votre navigateur. AdGuard Home Remote est là où vous en avez besoin.
+
+*iPhone, iPad, Mac, Watch & Apple TV*
+Spécialement conçu pour être la meilleure application sur chaque plateforme.
 
 ==
 
 Caractéristiques :
-- Contrôlez le filtrage et la sécurité de navigation et de recherche.
+- Contrôlez le filtrage et la sécurité de navigation et de recherche
 - Affichage des statistiques de base et avancées
 - Journal des requêtes avec recherche et filtres
+- Extension de partage pour bloquer/débloquer des domaines depuis n'importe quel navigateur (nécessite la version Pro)
+- Journal en direct affichant les requêtes en temps réel (nécessite la version Pro)
 - Gérer les clients, y compris les paramètres de filtrage, les services bloqués et les tags (nécessite la version Pro)
 - Gestion des filtres, y compris les listes de blocage et d'autorisations et les règles de filtrage personnalisées (nécessite la version Pro)
 - Gestion des paramètres DHCP, y compris les baux statiques (nécessite la version Pro)
-- Gestion des paramètres DNS (nécessite la version Pro)
+- Gestion des paramètres DNS, y compris les upstreams par client (nécessite la version Pro)
 - Gestion des réécritures DNS (nécessite la version Pro)
 - Prise en charge de plusieurs instances (nécessite la version Pro)
-- Widgets
+- Synchronisation des réglages entre instances (nécessite la version Pro)
+- Away Connection : bascule automatique entre instances selon le Wi-Fi (nécessite la version Pro)
+- Partagez vos statistiques sous forme de visuel (iPhone & iPad)
+- Widgets interactifs
+- Activité en direct
+- Commandes du Centre de contrôle
+- Raccourcis Siri
+- Synchronisation iCloud entre iPhone, iPad et Apple Watch
 - Jeux de couleurs et icônes d'applications personnalisables
-- Prise en charge d'iOS, iPadOS, macOS et watchOS
+- Prise en charge d'iOS, iPadOS, macOS, watchOS et tvOS
 - Design propre et moderne 100% SwiftUI
 
 * AdGuard Home Remote Pro :

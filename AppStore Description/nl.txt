@@ -1,13 +1,22 @@
-Met AdGuard Home Remote beheer je je AdGuard Home snel en makkelijk. Zet blokkeren en filteren snel aan/uit en bekijk statistieken zoals Top Cliënten en Top Domeinen. Beheer je cliënten, filters, DNS herschrijvingen en meer.
+Met AdGuard Home Remote beheer je je AdGuard Home server snel en makkelijk vanaf je iPhone, iPad, Mac, Apple Watch én Apple TV. Zet blokkeren en filteren snel aan/uit en bekijk statistieken zoals Top Cliënten en Top Domeinen. Beheer je cliënten, filters, DNS herschrijvingen en meer.
 
 *Filteren & Blokkeren*
 Zet snel filters aan of uit en beheer instellingen voor veilig browsen/zoeken. Je kan ook specifieke instellingen voor cliënten beheren!
 
 *Statistieken*
-Bekijk grafieken van je queries en top-lijsten voor cliënten en domeinen. Zoek door de queries in de Query Log met gedetailleerde request/response informatie.
+Bekijk grafieken van je queries en top-lijsten voor cliënten en domeinen. Zoek door de queries in de Query Log met gedetailleerde request/response informatie. Deel je statistieken met één tik als strakke afbeelding.
 
 *Beheer Instellingen*
 Voeg nieuwe cliënten toe, update filters, bewerk je geblokkeerde diensten, of voeg wat statische leases toe. Bijna alle instellingen van je AdGuard Home zijn te beheren.
+
+*Meerdere Instanties, Gesynchroniseerd*
+Meerdere AdGuard Home servers? Wissel met één tik tussen je instanties, synchroniseer instellingen tussen ze, en laat Away Connection automatisch de juiste instantie kiezen op basis van je Wi-Fi (Pro vereist).
+
+*Systeemintegratie*
+Live Activiteit, Home Screen- & Lock Screen-widgets, Bedieningspaneel-knoppen, Siri Shortcuts en een Deel-extensie om domeinen direct vanuit je browser te blokkeren of vrij te geven. AdGuard Home Remote is overal waar je 'm nodig hebt.
+
+*iPhone, iPad, Mac, Watch & Apple TV*
+Speciaal ontworpen om op elk platform de beste app te zijn.
 
 ==
 
@@ -15,18 +24,24 @@ Functies:
 - Stel Filtering, Veilig Browsen, Veilig Zoeken en Ouderlijk Toezicht in
 - Bekijk basis & geavanceerde statistieken
 - Query Log met zoeken en filters
+- Deel-extensie om domeinen te blokkeren/vrij te geven vanuit elke browser (Pro vereist)
 - Live Log om queries in real-time te bekijken (Pro vereist)
 - Beheer cliënten, inclusief filtering/diensten/tag instellingen (Pro vereist)
 - Beheer filters, inclusief blokkeer- & toestemmingslijsten en aangepaste filter regels (Pro vereist)
 - Beheer DHCP instellingen, inclusief statische leases (Pro vereist)
-- Beheer DNS instellingen (Pro vereist)
+- Beheer DNS instellingen, inclusief cliënt-specifieke upstreams (Pro vereist)
 - Beheer DNS herschrijvingen (Pro vereist)
 - Ondersteuning voor meerdere instanties (Pro vereist)
-- Widgets
+- Synchroniseer instellingen tussen instanties (Pro vereist)
+- Away Connection: automatisch tussen instanties wisselen op basis van Wi-Fi (Pro vereist)
+- Deel je statistieken als afbeelding (iPhone & iPad)
+- Interactieve Widgets
+- Live Activiteit
+- Bedieningspaneel-knoppen
 - Siri Shortcuts
 - Synchronisatie via iCloud tussen iPhone, iPad, Apple Watch
 - Aanpasbaar kleurenschema en app icoon
-- Ondersteuning voor iOS, iPadOS, macOS, watchOS
+- Ondersteuning voor iOS, iPadOS, macOS, watchOS, tvOS
 - Modern 100% SwiftUI ontwerp
 
 * AdGuard Home Remote Pro:
@@ -34,5 +49,5 @@ Extra functionaliteiten worden ontgrendeld met een eenmalige aankoop, waarmee je
 
 ==
 
-Opmerking: 
+Opmerking:
 AdGuard Home Remote is een third-party applicatie en is niet direct verwant aan AdGuard. Voor meer informatie over AdGuard Home, ga naar https://adguard.com/adguard-home/overview.html.

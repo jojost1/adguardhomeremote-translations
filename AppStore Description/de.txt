@@ -1,13 +1,22 @@
-AdGuard Home Remote macht die Verwaltung Deines AdGuard Home schnell und einfach. Aktivieren und deaktivieren Sie schnell die Filterfunktionen, und sehe Dir Statistiken wie die Top-Clients und Top-Domains an. Verwalte Deine Clients, Filter, DNS-Umschreibungen und vieles mehr.
+AdGuard Home Remote macht die Verwaltung Deines AdGuard Home schnell und einfach. Auf iPhone, iPad, Mac, Apple Watch und Apple TV. Aktiviere oder deaktiviere schnell die Filterfunktionen, sehe Statistiken wie Top-Clients und Top-Domains ein und verwalte Deine Clients, Filter, DNS-Umschreibungen und vieles mehr.
 
 *Filter kontrollieren*
 Du kannst schnell Filterregeln, die Internetsicherheit und die sichere Suche aktivieren beziehungsweise deaktivieren. Es ist sogar möglich, spezifische Einstellungen für Deine Clients zu verwalten!
 
 *Statistiken*
-Sehe Dir Diagramme zu Deinen Anfragen sowie zu den Top-Clients und Top-Domains an. Durchsuche Deine Anfragen im Anfrageprotokoll mit detaillierten Informationen zur Anfrage und der Antwort.
+Sehe Dir Diagramme zu Deinen Anfragen sowie zu den Top-Clients und Top-Domains an. Durchsuche Deine Anfragen im Anfrageprotokoll mit detaillierten Informationen zur Anfrage und der Antwort. Teile Deine Statistiken mit einem Tipp als schicke Grafik.
 
 *Einstellungen verwalten*
 Füge Deine Clients hinzu oder bearbeite diese, füge neue Filter hinzu oder deaktiviere diese, aktualisiere Deine Filter, bearbeite blockierte Dienste, verwalte Deine DHCP- und die DNS-Einstellungen, erstelle neue DNS-Regeln oder bearbeite Deine Anfrageprotokoll-Einstellungen.
+
+*Mehrere Instanzen, synchronisiert*
+Betreibst Du mehr als einen AdGuard Home-Server? Wechsle mit einem Tipp zwischen ihnen, synchronisiere Einstellungen zwischen Instanzen, und lass „Away Connection“ automatisch die passende Instanz auf Basis Deines WLANs auswählen (erfordert Remote Pro).
+
+*System-Integration*
+Live-Aktivität, Home-Bildschirm- & Sperrbildschirm-Widgets, Kontrollzentrum-Bedienelemente, Siri-Kurzbefehle und eine Freigabeerweiterung zum schnellen Blockieren oder Freigeben von Domains direkt aus Deinem Browser. AdGuard Home Remote ist überall dort, wo Du es brauchst.
+
+*iPhone, iPad, Mac, Watch & Apple TV*
+Speziell entwickelt, um auf jeder Plattform die beste App zu sein.
 
 ==
 
@@ -15,18 +24,24 @@ Funktionen:
 - Filter, Internetsicherheit & sichere Suche verwalten
 - Grundlegende und erweiterte Statistiken anzeigen
 - Anfragenprotokoll mit Suche und Filter
+- Freigabeerweiterung zum Blockieren/Freigeben von Domains aus jedem Browser (erfordert Remote Pro)
 - Live-Protokoll mit Auskunft über Anfragen, während diese in Echtzeit stattfinden (erfordert Remote Pro)
 - Clients einschließlich Filtereinstellungen, gesperrten Diensten und Schlagwörtern verwalten (erfordert Remote Pro)
 - Filter einschließlich Sperr- & Freigabelisten und benutzerdefinierten Filterregeln verwalten (erfordert Remote Pro)
 - DHCP-Einstellungen einschließlich statischer Leases verwalten (erfordert Remote Pro)
-- DNS-Einstellungen verwalten (erfordert Remote Pro)
+- DNS-Einstellungen einschließlich Client-spezifischer Upstreams verwalten (erfordert Remote Pro)
 - DNS-Umschreibungen verwalten (erfordert Remote Pro)
 - Unterstützung mehrerer Instanzen (erfordert Remote Pro)
-- Widgets
-- Siri Shortcuts
+- Einstellungen zwischen Instanzen synchronisieren (erfordert Remote Pro)
+- Away Connection: automatischer Instanzwechsel anhand des WLANs (erfordert Remote Pro)
+- Statistiken als Grafik teilen (iPhone & iPad)
+- Interaktive Widgets
+- Live-Aktivität
+- Kontrollzentrum-Bedienelemente
+- Siri-Kurzbefehle
 - iCloud-Synchronisierung zwischen iPhone, iPad und Apple Watch
 - Anpassbare Farbschemen und App-Icons
-- Unterstützt iOS, iPadOS, macOS und watchOS
+- Unterstützt iOS, iPadOS, macOS, watchOS und tvOS
 - 100% reines und modernes SwiftUI-Design
 
 AdGuard Home Remote Pro:
@@ -34,5 +49,5 @@ Weitere leistungsstarke Funktionen werden mit einem einmaligen Kauf freigeschalt
 
 ==
 
-Beachte: 
+Beachte:
 AdGuard Home Remote ist eine Drittanbieter-App und steht in keiner direkten Verbindung mit AdGuard Software Limited. Weitere Informationen zu AdGuard Home findest Du unter https://adguard.com/adguard-home.html
