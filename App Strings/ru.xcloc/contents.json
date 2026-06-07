@@ -3,10 +3,10 @@
   "project" : "AdGuardHome.xcodeproj",
   "targetLocale" : "ru",
   "toolInfo" : {
-    "toolBuildNumber" : "17E202",
+    "toolBuildNumber" : "17F42",
     "toolID" : "com.apple.dt.xcode",
     "toolName" : "Xcode",
-    "toolVersion" : "26.4.1"
+    "toolVersion" : "26.5"
   },
   "version" : "1.0"
 }

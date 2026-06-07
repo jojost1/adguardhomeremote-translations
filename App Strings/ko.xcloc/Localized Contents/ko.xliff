@@ -2,7 +2,7 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="AdGuard Home Remote Share Extension/InfoPlist.xcstrings" source-language="en" target-language="ko" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.4.1" build-num="17E202"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.5" build-num="17F42"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -21,7 +21,7 @@
   </file>
   <file original="AdGuard Home Remote tvOS/AdGuard-Home-Remote-tvOS-InfoPlist.xcstrings" source-language="en" target-language="ko" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.4.1" build-num="17E202"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.5" build-num="17F42"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -40,7 +40,7 @@
   </file>
   <file original="AdGuard Home Remote Watch App WatchKit Extension/AdGuard-Home-Remote-Watch-App-InfoPlist.xcstrings" source-language="en" target-language="ko" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.4.1" build-num="17E202"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.5" build-num="17F42"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" translate="no" xml:space="preserve">
@@ -59,7 +59,7 @@
   </file>
   <file original="AdGuard Home Remote Widgets/Base.lproj/WidgetConfigs.intentdefinition" source-language="en" target-language="ko" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.4.1" build-num="17E202"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.5" build-num="17F42"/>
     </header>
     <body>
       <trans-unit id="0foAlr-1ekF7R" xml:space="preserve">
@@ -288,7 +288,7 @@
   </file>
   <file original="AdGuard Home Remote Widgets/InfoPlist.xcstrings" source-language="en" target-language="ko" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.4.1" build-num="17E202"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.5" build-num="17F42"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" translate="no" xml:space="preserve">
@@ -303,7 +303,7 @@
   </file>
   <file original="AdGuard Home Remote Widgets/Localizable.xcstrings" source-language="en" target-language="ko" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.4.1" build-num="17E202"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.5" build-num="17F42"/>
     </header>
     <body>
       <trans-unit id="Bar-chart" xml:space="preserve">
@@ -342,7 +342,7 @@
   </file>
   <file original="App Intents &amp; Shortcuts/Base.lproj/Intents.intentdefinition" source-language="en" target-language="ko" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.4.1" build-num="17E202"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.5" build-num="17F42"/>
     </header>
     <body>
       <trans-unit id="0sDcS3" xml:space="preserve">
@@ -869,7 +869,7 @@
   </file>
   <file original="App Intents &amp; Shortcuts/InfoPlist.xcstrings" source-language="en" target-language="ko" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.4.1" build-num="17E202"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.5" build-num="17F42"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" translate="no" xml:space="preserve">
@@ -888,7 +888,7 @@
   </file>
   <file original="App Intents &amp; Shortcuts/Localizable.xcstrings" source-language="en" target-language="ko" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.4.1" build-num="17E202"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.5" build-num="17F42"/>
     </header>
     <body>
       <trans-unit id="Bar-chart" xml:space="preserve">
@@ -951,11 +951,21 @@
         <target state="translated">작은 카드, 결합 차트</target>
         <note>Dashboard size type explainer</note>
       </trans-unit>
+      <trans-unit id="for_%@_minutes" xml:space="preserve">
+        <source>for_%@_minutes</source>
+        <target state="translated">%@분 동안</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="something_went_wrong" xml:space="preserve">
+        <source>something_went_wrong</source>
+        <target state="translated">문제가 발생했습니다.</target>
+        <note/>
+      </trans-unit>
     </body>
   </file>
   <file original="iOS/InfoPlist.xcstrings" source-language="en" target-language="ko" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.4.1" build-num="17E202"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.5" build-num="17F42"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" translate="no" xml:space="preserve">
@@ -990,7 +1000,7 @@
   </file>
   <file original="Resources/App/AdGuard Home Remote WidgetsExtension copy-InfoPlist.xcstrings" source-language="en" target-language="ko" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.4.1" build-num="17E202"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.5" build-num="17F42"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" translate="no" xml:space="preserve">
@@ -1005,7 +1015,7 @@
   </file>
   <file original="Resources/App/en.lproj/AppShortcuts.strings" source-language="en" target-language="ko" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.4.1" build-num="17E202"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.5" build-num="17F42"/>
     </header>
     <body>
       <trans-unit id="Disable protection for ${duration} minutes in ${applicationName}" xml:space="preserve">
@@ -1031,7 +1041,7 @@
   </file>
   <file original="Resources/App/InfoPlist.xcstrings" source-language="en" target-language="ko" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.4.1" build-num="17E202"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.5" build-num="17F42"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" translate="no" xml:space="preserve">
@@ -1046,7 +1056,7 @@
   </file>
   <file original="Resources/App/Localizable.xcstrings" source-language="en" target-language="ko" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.4.1" build-num="17E202"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.5" build-num="17F42"/>
     </header>
     <body>
       <trans-unit id="${action} ${services} on ${instance}" xml:space="preserve">
@@ -1062,6 +1072,11 @@
         <source>%1$@ %2$@</source>
         <note/>
       </trans-unit>
+      <trans-unit id="%@ - AdGuard Home Remote" xml:space="preserve">
+        <source>%@ - AdGuard Home Remote</source>
+        <target state="translated">%@ - AdGuard Home Remote</target>
+        <note>Title used as the share-sheet preview heading and the subject of an email when sharing an AdGuard Home stats image. The placeholder is the instance name, or 'AdGuard Home' when anonymise is enabled.</note>
+      </trans-unit>
       <trans-unit id="%@ bytes" xml:space="preserve">
         <source>%@ bytes</source>
         <target state="translated">%@ 바이트</target>
@@ -1071,6 +1086,10 @@
         <source>%@ entries</source>
         <target state="translated">%@ 항목</target>
         <note>Used on the Statistics-screen in the preferences menu.</note>
+      </trans-unit>
+      <trans-unit id="%@, %@, %@" translate="no" xml:space="preserve">
+        <source>%1$@, %2$@, %3$@</source>
+        <note/>
       </trans-unit>
       <trans-unit id="%@ms" xml:space="preserve">
         <source>%@ms</source>
@@ -1165,6 +1184,11 @@
         <target state="translated">MyAnimeList API를 사용하는 깔끔한 애니메이션 및 만화 트래커 앱.</target>
         <note>Subtitle under 'ManGo' app on the Made by RocketScience screen.</note>
       </trans-unit>
+      <trans-unit id="A standard notification will appear when protection re-enables." xml:space="preserve">
+        <source>A standard notification will appear when protection re-enables.</source>
+        <target state="translated">보호가 다시 활성화되면 표준 알림이 표시됩니다.</target>
+        <note>Used on the Notifications-settings screen.</note>
+      </trans-unit>
       <trans-unit id="AAAA" translate="no" xml:space="preserve">
         <source>AAAA</source>
         <note>Used in the DNS record type picker on the 'check filtering' screen.</note>
@@ -1172,6 +1196,11 @@
       <trans-unit id="ACTIVE" xml:space="preserve">
         <source>ACTIVE</source>
         <target state="translated">활성</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="ADD" xml:space="preserve">
+        <source>ADD</source>
+        <target state="translated">추가</target>
         <note/>
       </trans-unit>
       <trans-unit id="AFSDB" translate="no" xml:space="preserve">
@@ -1251,6 +1280,11 @@
         <target state="translated">인스턴스 추가</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Add a second instance to sync settings between them." xml:space="preserve">
+        <source>Add a second instance to sync settings between them.</source>
+        <target state="translated">두 번째 인스턴스를 추가하여 설정을 동기화하세요.</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Add an AdGuard Home instance using the iOS or macOS app." xml:space="preserve">
         <source>Add an AdGuard Home instance using the iOS or macOS app.</source>
         <target state="translated">iOS 또는 macOS 앱을 사용하여 AdGuard Home 인스턴스를 추가하세요.</target>
@@ -1269,6 +1303,16 @@
       <trans-unit id="Add the Wi-Fi networks where the 'Home Connection' settings (local IP) should be used." xml:space="preserve">
         <source>Add the Wi-Fi networks where the 'Home Connection' settings (local IP) should be used.</source>
         <target state="translated">'홈 연결' 설정(로컈 IP)을 사용해야 하는 Wi-Fi 네트워크를 추가하세요.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Add the missing clients to %@ and update the ones whose settings differ?" xml:space="preserve">
+        <source>Add the missing clients to %@ and update the ones whose settings differ?</source>
+        <target state="translated">%@에 누락된 클라이언트를 추가하고 설정이 다른 클라이언트를 업데이트할까요?</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Add the missing rewrites to %@?" xml:space="preserve">
+        <source>Add the missing rewrites to %@?</source>
+        <target state="translated">%@에 누락된 재작성 항목을 추가할까요?</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add your AdGuard Home instances to control them and view statistics." xml:space="preserve">
@@ -1291,14 +1335,64 @@
         <target state="translated">추가 정보</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Adds clients from the source that don't exist on the destination, and updates same-named clients whose settings differ. Nothing is deleted." xml:space="preserve">
+        <source>Adds clients from the source that don't exist on the destination, and updates same-named clients whose settings differ. Nothing is deleted.</source>
+        <target state="translated">대상에 없는 소스의 클라이언트를 추가하고, 이름이 같지만 설정이 다른 클라이언트를 업데이트합니다. 아무것도 삭제되지 않습니다.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Adds entries from the source that don't exist on the destination. Nothing is deleted." xml:space="preserve">
+        <source>Adds entries from the source that don't exist on the destination. Nothing is deleted.</source>
+        <target state="translated">대상에 없는 소스의 항목을 추가합니다. 아무것도 삭제되지 않습니다.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="After sync" xml:space="preserve">
+        <source>After sync</source>
+        <target state="translated">동기화 후</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Alarm" xml:space="preserve">
+        <source>Alarm</source>
+        <target state="translated">알람</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Alarms require AGHR+." xml:space="preserve">
+        <source>Alarms require AGHR+.</source>
+        <target state="translated">알람에는 AGHR+가 필요합니다.</target>
+        <note>Used on the Notifications-settings screen.</note>
+      </trans-unit>
+      <trans-unit id="Alarms take over the screen when protection re-enables, with sound that ignores silent mode." xml:space="preserve">
+        <source>Alarms take over the screen when protection re-enables, with sound that ignores silent mode.</source>
+        <target state="translated">보호가 다시 활성화되면 알람이 화면을 차지하며, 무음 모드를 무시하는 소리가 재생됩니다.</target>
+        <note>Used on the Notifications-settings screen.</note>
+      </trans-unit>
+      <trans-unit id="Alert Style" xml:space="preserve">
+        <source>Alert Style</source>
+        <target state="translated">알림 스타일</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="All" xml:space="preserve">
         <source>All</source>
         <target state="translated">전체</target>
         <note/>
       </trans-unit>
+      <trans-unit id="All instances" xml:space="preserve">
+        <source>All instances</source>
+        <target state="translated">모든 인스턴스</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Allow Location Access" xml:space="preserve">
         <source>Allow Location Access</source>
         <target state="translated">위치 접근 허용</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Allow list changes" xml:space="preserve">
+        <source>Allow list changes</source>
+        <target state="translated">허용 목록 변경사항</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Allow lists" xml:space="preserve">
+        <source>Allow lists</source>
+        <target state="translated">허용 목록</target>
         <note/>
       </trans-unit>
       <trans-unit id="Allows Family Sharing" xml:space="preserve">
@@ -1310,6 +1404,11 @@
         <source>Always</source>
         <target state="translated">항상</target>
         <note>Shown next to 'Pause Schedule' on the Filtering settings screen, when there are no active schedules.</note>
+      </trans-unit>
+      <trans-unit id="Anonymise" xml:space="preserve">
+        <source>Anonymise</source>
+        <target state="translated">익명화</target>
+        <note/>
       </trans-unit>
       <trans-unit id="Apple TV features" xml:space="preserve">
         <source>Apple TV features</source>
@@ -1347,6 +1446,11 @@ Your default 'Home Connection' will then be used on home network(s) and on devic
       <trans-unit id="Artificial intelligence" xml:space="preserve">
         <source>Artificial intelligence</source>
         <target state="translated">인공지능</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Aspect ratio" xml:space="preserve">
+        <source>Aspect ratio</source>
+        <target state="translated">화면 비율</target>
         <note/>
       </trans-unit>
       <trans-unit id="Auto-refresh" xml:space="preserve">
@@ -1392,6 +1496,16 @@ Your default 'Home Connection' will then be used on home network(s) and on devic
       <trans-unit id="Block" xml:space="preserve">
         <source>Block</source>
         <target state="translated">차단</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Block list changes" xml:space="preserve">
+        <source>Block list changes</source>
+        <target state="translated">차단 목록 변경사항</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Block lists" xml:space="preserve">
+        <source>Block lists</source>
+        <target state="translated">차단 목록</target>
         <note/>
       </trans-unit>
       <trans-unit id="Block or unblock services on your AdGuard Home. (Requires AGHR+)" xml:space="preserve">
@@ -1518,6 +1632,11 @@ Your default 'Home Connection' will then be used on home network(s) and on devic
         <target state="translated">호스트 이름이 필터링되는지 확인합니다.</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Classic" xml:space="preserve">
+        <source>Classic</source>
+        <target state="translated">클래식</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Client Management" xml:space="preserve">
         <source>Client Management</source>
         <target state="translated">클라이언트 관리</target>
@@ -1533,9 +1652,29 @@ Your default 'Home Connection' will then be used on home network(s) and on devic
         <target state="translated">클라이언트 ID 또는 IP</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Clients" xml:space="preserve">
+        <source>Clients</source>
+        <target state="translated">클라이언트</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Clients are matched by name. A same-named client whose settings differ (IDs, tags, filtering, blocked services, upstreams...) is updated, including its IDs. Only persistent clients are synced. Auto-discovered clients and the allowed/disallowed/blocked access list are not touched." xml:space="preserve">
+        <source>Clients are matched by name. A same-named client whose settings differ (IDs, tags, filtering, blocked services, upstreams...) is updated, including its IDs. Only persistent clients are synced. Auto-discovered clients and the allowed/disallowed/blocked access list are not touched.</source>
+        <target state="translated">클라이언트는 이름으로 일치시킵니다. 이름이 같지만 설정이 다른 클라이언트(식별자, 태그, 필터링, 차단된 서비스, 업스트림 등)는 식별자를 포함하여 업데이트됩니다. 영구 클라이언트만 동기화됩니다. 자동으로 검색된 클라이언트와 허용/거부/차단 접근 목록은 변경되지 않습니다.</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Close" xml:space="preserve">
         <source>Close</source>
         <target state="translated">닫기</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Color Scheme" xml:space="preserve">
+        <source>Color Scheme</source>
+        <target state="translated">색 구성표</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Coming soon" xml:space="preserve">
+        <source>Coming soon</source>
+        <target state="translated">곧 출시 예정</target>
         <note/>
       </trans-unit>
       <trans-unit id="Compact" xml:space="preserve">
@@ -1578,9 +1717,39 @@ Your default 'Home Connection' will then be used on home network(s) and on devic
         <target state="translated">호스트 복사</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Couldn't check" xml:space="preserve">
+        <source>Couldn't check</source>
+        <target state="translated">확인할 수 없음</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Couldn't load clients from one or both instances." xml:space="preserve">
+        <source>Couldn't load clients from one or both instances.</source>
+        <target state="translated">하나 또는 두 인스턴스에서 클라이언트를 불러올 수 없습니다.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Couldn't load settings from one or both instances." xml:space="preserve">
+        <source>Couldn't load settings from one or both instances.</source>
+        <target state="translated">하나 또는 두 인스턴스에서 설정을 불러올 수 없습니다.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Currently" xml:space="preserve">
+        <source>Currently</source>
+        <target state="translated">현재</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Custom DNS rewrite entries" xml:space="preserve">
+        <source>Custom DNS rewrite entries</source>
+        <target state="translated">사용자 지정 DNS 재작성 항목</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Custom Presets" xml:space="preserve">
         <source>Custom Presets</source>
         <target state="translated">사용자 지정 프리셋</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Custom rules" xml:space="preserve">
+        <source>Custom rules</source>
+        <target state="translated">사용자 지정 규칙</target>
         <note/>
       </trans-unit>
       <trans-unit id="Customize tint &amp; icon" xml:space="preserve">
@@ -1595,6 +1764,16 @@ Your default 'Home Connection' will then be used on home network(s) and on devic
       <trans-unit id="DHCP &amp; DNS" xml:space="preserve">
         <source>DHCP &amp; DNS</source>
         <target state="translated">DHCP 및 DNS</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="DHCP settings" xml:space="preserve">
+        <source>DHCP settings</source>
+        <target state="translated">DHCP 설정</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="DHCP settings from %@ will overwrite those on %@. This can't be undone." xml:space="preserve">
+        <source>DHCP settings from %1$@ will overwrite those on %2$@. This can't be undone.</source>
+        <target state="translated">%1$@의 DHCP 설정이 %2$@의 설정을 덮어씁니다. 이 작업은 취소할 수 없습니다.</target>
         <note/>
       </trans-unit>
       <trans-unit id="DLV" translate="no" xml:space="preserve">
@@ -1630,6 +1809,16 @@ Your default 'Home Connection' will then be used on home network(s) and on devic
         <target state="translated">DNS 재작성</target>
         <note/>
       </trans-unit>
+      <trans-unit id="DNS settings" xml:space="preserve">
+        <source>DNS settings</source>
+        <target state="translated">DNS 설정</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="DNS settings from %@ will overwrite those on %@. This can't be undone." xml:space="preserve">
+        <source>DNS settings from %1$@ will overwrite those on %2$@. This can't be undone.</source>
+        <target state="translated">%1$@의 DNS 설정이 %2$@의 설정을 덮어씁니다. 이 작업은 취소할 수 없습니다.</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="DNSKEY" translate="no" xml:space="preserve">
         <source>DNSKEY</source>
         <note>Used in the DNS record type picker on the 'check filtering' screen.</note>
@@ -1637,6 +1826,11 @@ Your default 'Home Connection' will then be used on home network(s) and on devic
       <trans-unit id="DS" translate="no" xml:space="preserve">
         <source>DS</source>
         <note>Used in the DNS record type picker on the 'check filtering' screen.</note>
+      </trans-unit>
+      <trans-unit id="Dark background" xml:space="preserve">
+        <source>Dark background</source>
+        <target state="translated">어두운 배경</target>
+        <note/>
       </trans-unit>
       <trans-unit id="Dashboard" xml:space="preserve">
         <source>Dashboard</source>
@@ -1658,6 +1852,11 @@ Your default 'Home Connection' will then be used on home network(s) and on devic
         <target state="translated">데이트 서비스</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Default" xml:space="preserve">
+        <source>Default</source>
+        <target state="translated">기본</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Default count" xml:space="preserve">
         <source>Default count</source>
         <target state="translated">기본 개수</target>
@@ -1673,9 +1872,44 @@ Your default 'Home Connection' will then be used on home network(s) and on devic
         <target state="translated">디자인</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Destination" xml:space="preserve">
+        <source>Destination</source>
+        <target state="translated">대상</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Differences" xml:space="preserve">
+        <source>Differences</source>
+        <target state="translated">차이점</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Disable 5 more minutes" xml:space="preserve">
+        <source>Disable 5 more minutes</source>
+        <target state="translated">5분 더 비활성화</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Disable for 1 minute" xml:space="preserve">
+        <source>Disable for 1 minute</source>
+        <target state="translated">1분 동안 비활성화</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Disable for 5 minutes" xml:space="preserve">
+        <source>Disable for 5 minutes</source>
+        <target state="translated">5분 동안 비활성화</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Disable indefinitely" xml:space="preserve">
+        <source>Disable indefinitely</source>
+        <target state="translated">무기한 비활성화</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Disabled" xml:space="preserve">
         <source>Disabled</source>
         <target state="translated">비활성화됨</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Done" xml:space="preserve">
+        <source>Done</source>
+        <target state="translated">완료</target>
         <note/>
       </trans-unit>
       <trans-unit id="Duration" xml:space="preserve">
@@ -1690,11 +1924,18 @@ Your default 'Home Connection' will then be used on home network(s) and on devic
       </trans-unit>
       <trans-unit id="EUI48" translate="no" xml:space="preserve">
         <source>EUI48</source>
+        <target state="translated">EUI48</target>
         <note>Used in the DNS record type picker on the 'check filtering' screen.</note>
       </trans-unit>
       <trans-unit id="EUI64" translate="no" xml:space="preserve">
         <source>EUI64</source>
+        <target state="translated">EUI64</target>
         <note>Used in the DNS record type picker on the 'check filtering' screen.</note>
+      </trans-unit>
+      <trans-unit id="Earthy" xml:space="preserve">
+        <source>Earthy</source>
+        <target state="translated">어스 톤</target>
+        <note/>
       </trans-unit>
       <trans-unit id="Edit" xml:space="preserve">
         <source>Edit</source>
@@ -1736,6 +1977,11 @@ Your default 'Home Connection' will then be used on home network(s) and on devic
         <target state="translated">활성화됨</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Enabling notifications requires AGHR+." xml:space="preserve">
+        <source>Enabling notifications requires AGHR+.</source>
+        <target state="translated">알림을 활성화하려면 AGHR+가 필요합니다.</target>
+        <note>Used on the Notifications-settings screen.</note>
+      </trans-unit>
       <trans-unit id="Enjoy great widgets and a Live Activity when disabling protection." xml:space="preserve">
         <source>Enjoy great widgets and a Live Activity when disabling protection.</source>
         <target state="translated">보호 비활성화 시 멋진 위젯과 라이브 활동을 즐기세요.</target>
@@ -1746,9 +1992,29 @@ Your default 'Home Connection' will then be used on home network(s) and on devic
         <target state="translated">오류</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Every 1 second" xml:space="preserve">
+        <source>Every 1 second</source>
+        <target state="translated">1초마다</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Every 5 seconds" xml:space="preserve">
+        <source>Every 5 seconds</source>
+        <target state="translated">5초마다</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Every 10 seconds" xml:space="preserve">
         <source>Every 10 seconds</source>
         <target state="translated">10초마다</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Every 30 seconds" xml:space="preserve">
+        <source>Every 30 seconds</source>
+        <target state="translated">30초마다</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Every 60 seconds" xml:space="preserve">
+        <source>Every 60 seconds</source>
+        <target state="translated">60초마다</target>
         <note/>
       </trans-unit>
       <trans-unit id="Expanded" xml:space="preserve">
@@ -1771,6 +2037,21 @@ Your default 'Home Connection' will then be used on home network(s) and on devic
         <target state="translated">기능 개요</target>
         <note>Used on the pro purchase screen.</note>
       </trans-unit>
+      <trans-unit id="Filtering" xml:space="preserve">
+        <source>Filtering</source>
+        <target state="translated">필터링</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Filtering enabled" xml:space="preserve">
+        <source>Filtering enabled</source>
+        <target state="translated">필터링 활성화됨</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Filtering settings from %@ will overwrite those on %@. This can't be undone." xml:space="preserve">
+        <source>Filtering settings from %1$@ will overwrite those on %2$@. This can't be undone.</source>
+        <target state="translated">%1$@의 필터링 설정이 %2$@의 설정을 덮어씁니다. 이 작업은 취소할 수 없습니다.</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Filters" xml:space="preserve">
         <source>Filters</source>
         <target state="translated">필터</target>
@@ -1779,6 +2060,11 @@ Your default 'Home Connection' will then be used on home network(s) and on devic
       <trans-unit id="Filters: %@" xml:space="preserve">
         <source>Filters: %@</source>
         <target state="translated">필터: %@</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="For any reason" xml:space="preserve">
+        <source>For any reason</source>
+        <target state="translated">모든 사유</target>
         <note/>
       </trans-unit>
       <trans-unit id="Force Watch Sync" xml:space="preserve">
@@ -1790,6 +2076,11 @@ Your default 'Home Connection' will then be used on home network(s) and on devic
         <source>Free</source>
         <target state="translated">무료</target>
         <note>Used on the pro purchase screen.</note>
+      </trans-unit>
+      <trans-unit id="Free on the App Store" xml:space="preserve">
+        <source>Free on the App Store</source>
+        <target state="translated">App Store에서 무료</target>
+        <note/>
       </trans-unit>
       <trans-unit id="Full Color" xml:space="preserve">
         <source>Full Color</source>
@@ -1832,6 +2123,11 @@ Your default 'Home Connection' will then be used on home network(s) and on devic
       <trans-unit id="HTTPS" translate="no" xml:space="preserve">
         <source>HTTPS</source>
         <note>Used in the DNS record type picker on the 'check filtering' screen.</note>
+      </trans-unit>
+      <trans-unit id="Hides instance name" xml:space="preserve">
+        <source>Hides instance name</source>
+        <target state="translated">인스턴스 이름을 숨깁니다</target>
+        <note/>
       </trans-unit>
       <trans-unit id="Home" xml:space="preserve">
         <source>Home</source>
@@ -1891,6 +2187,16 @@ developer@rocketscience-it.nl로 보내주세요!</target>
         <target state="translated">이미 하셨다면 인스턴스로 이동하여 '편집'을 누르고 다시 '저장'을 눌러주세요. 그 후에 나타나야 합니다. 그렇지 않으면 Watch 앱을 재시작해 보세요.</target>
         <note/>
       </trans-unit>
+      <trans-unit id="In sync" xml:space="preserve">
+        <source>In sync</source>
+        <target state="translated">동기화됨</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Include chart" xml:space="preserve">
+        <source>Include chart</source>
+        <target state="translated">차트 포함</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Indefinitely" xml:space="preserve">
         <source>Indefinitely</source>
         <target state="translated">무기한</target>
@@ -1916,6 +2222,16 @@ developer@rocketscience-it.nl로 보내주세요!</target>
         <target state="translated">인터랙티브 위젯</target>
         <note>Used on the pro purchase screen.</note>
       </trans-unit>
+      <trans-unit id="Interface name is copied as-is. Make sure it exists on the destination." xml:space="preserve">
+        <source>Interface name is copied as-is. Make sure it exists on the destination.</source>
+        <target state="translated">인터페이스 이름이 그대로 복사됩니다. 대상에 존재하는지 확인하세요.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Interface, IPv4 and IPv6 ranges" xml:space="preserve">
+        <source>Interface, IPv4 and IPv6 ranges</source>
+        <target state="translated">인터페이스, IPv4 및 IPv6 범위</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Invalid authentication or privacy setting." xml:space="preserve">
         <source>Invalid authentication or privacy setting.</source>
         <target state="translated">유효하지 않은 인증 또는 개인정보 설정입니다.</target>
@@ -1924,6 +2240,11 @@ developer@rocketscience-it.nl로 보내주세요!</target>
       <trans-unit id="Invalid hostname or port." xml:space="preserve">
         <source>Invalid hostname or port.</source>
         <target state="translated">유효하지 않은 호스트 이름 또는 포트입니다.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="KEEP" xml:space="preserve">
+        <source>KEEP</source>
+        <target state="translated">유지</target>
         <note/>
       </trans-unit>
       <trans-unit id="KEY" translate="no" xml:space="preserve">
@@ -1937,6 +2258,11 @@ developer@rocketscience-it.nl로 보내주세요!</target>
       <trans-unit id="LOC" translate="no" xml:space="preserve">
         <source>LOC</source>
         <note>Used in the DNS record type picker on the 'check filtering' screen.</note>
+      </trans-unit>
+      <trans-unit id="Landscape" xml:space="preserve">
+        <source>Landscape</source>
+        <target state="translated">가로</target>
+        <note/>
       </trans-unit>
       <trans-unit id="Launch App" xml:space="preserve">
         <source>Launch App</source>
@@ -1987,6 +2313,16 @@ developer@rocketscience-it.nl로 보내주세요!</target>
         <target state="translated">🇳🇱에서 한 사람이 ❤️으로 만듦</target>
         <note>Used on the pro purchase screen.</note>
       </trans-unit>
+      <trans-unit id="Makes the destination identical to the source. Entries only on the destination will be deleted." xml:space="preserve">
+        <source>Makes the destination identical to the source. Entries only on the destination will be deleted.</source>
+        <target state="translated">대상을 소스와 동일하게 만듭니다. 대상에만 있는 항목은 삭제됩니다.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Makes the destination's clients identical to the source. Clients only on the destination will be deleted." xml:space="preserve">
+        <source>Makes the destination's clients identical to the source. Clients only on the destination will be deleted.</source>
+        <target state="translated">대상의 클라이언트를 소스와 동일하게 만듭니다. 대상에만 있는 클라이언트는 삭제됩니다.</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Malware" xml:space="preserve">
         <source>Malware</source>
         <target state="translated">악성코드</target>
@@ -2022,9 +2358,24 @@ developer@rocketscience-it.nl로 보내주세요!</target>
         <target state="translated">차단 목록, 차단된 서비스, 일시정지 일정 등의 필터링을 관리하세요.</target>
         <note>Displayed in the onboarding.</note>
       </trans-unit>
+      <trans-unit id="Mark as 'Time Sensitive'" xml:space="preserve">
+        <source>Mark as 'Time Sensitive'</source>
+        <target state="translated">'시간에 민감함'으로 표시</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Merge" xml:space="preserve">
+        <source>Merge</source>
+        <target state="translated">병합</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Messaging services" xml:space="preserve">
         <source>Messaging services</source>
         <target state="translated">메시징 서비스</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Mode" xml:space="preserve">
+        <source>Mode</source>
+        <target state="translated">모드</target>
         <note/>
       </trans-unit>
       <trans-unit id="Monitor real-time electricity and gas prices in many European countries." xml:space="preserve">
@@ -2037,9 +2388,19 @@ developer@rocketscience-it.nl로 보내주세요!</target>
         <target state="translated">음소거</target>
         <note/>
       </trans-unit>
+      <trans-unit id="My AdGuard Home stats, shared with AdGuard Home Remote https://apps.apple.com/app/id1543143740" xml:space="preserve">
+        <source>My AdGuard Home stats, shared with AdGuard Home Remote https://apps.apple.com/app/id1543143740</source>
+        <target state="translated">AdGuard Home Remote로 공유한 내 AdGuard Home 통계 https://apps.apple.com/app/id1543143740</target>
+        <note>Pre-filled message body when sharing an AdGuard Home stats image to apps that accept text (Messages, Mail, social apps). Includes the App Store link as a soft CTA.</note>
+      </trans-unit>
       <trans-unit id="NAPTR" translate="no" xml:space="preserve">
         <source>NAPTR</source>
         <note>Used in the DNS record type picker on the 'check filtering' screen.</note>
+      </trans-unit>
+      <trans-unit id="NEW" xml:space="preserve">
+        <source>NEW</source>
+        <target state="translated">새로움</target>
+        <note/>
       </trans-unit>
       <trans-unit id="NS" translate="no" xml:space="preserve">
         <source>NS</source>
@@ -2051,15 +2412,22 @@ developer@rocketscience-it.nl로 보내주세요!</target>
       </trans-unit>
       <trans-unit id="NSEC3" translate="no" xml:space="preserve">
         <source>NSEC3</source>
+        <target state="translated">NSEC3</target>
         <note>Used in the DNS record type picker on the 'check filtering' screen.</note>
       </trans-unit>
       <trans-unit id="NSEC3PARAM" translate="no" xml:space="preserve">
         <source>NSEC3PARAM</source>
+        <target state="translated">NSEC3PARAM</target>
         <note>Used in the DNS record type picker on the 'check filtering' screen.</note>
       </trans-unit>
       <trans-unit id="Name" xml:space="preserve">
         <source>Name</source>
         <target state="translated">이름</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Need two instances" xml:space="preserve">
+        <source>Need two instances</source>
+        <target state="translated">두 개의 인스턴스 필요</target>
         <note/>
       </trans-unit>
       <trans-unit id="New Instance" xml:space="preserve">
@@ -2070,6 +2438,11 @@ developer@rocketscience-it.nl로 보내주세요!</target>
       <trans-unit id="New OS versions are required for some of these new features. Please update your device!" xml:space="preserve">
         <source>New OS versions are required for some of these new features. Please update your device!</source>
         <target state="translated">일부 새로운 기능에는 새 OS 버전이 필요합니다. 기기를 업데이트하세요!</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="New!" xml:space="preserve">
+        <source>New!</source>
+        <target state="translated">새로움!</target>
         <note/>
       </trans-unit>
       <trans-unit id="NextDNS Remote" translate="no" xml:space="preserve">
@@ -2101,6 +2474,11 @@ developer@rocketscience-it.nl로 보내주세요!</target>
         <target state="translated">데이터 없음</target>
         <note/>
       </trans-unit>
+      <trans-unit id="No differences" xml:space="preserve">
+        <source>No differences</source>
+        <target state="translated">차이 없음</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="No instance." xml:space="preserve">
         <source>No instance.</source>
         <target state="translated">인스턴스 없음.</target>
@@ -2114,6 +2492,26 @@ developer@rocketscience-it.nl로 보내주세요!</target>
       <trans-unit id="No recent queries found." xml:space="preserve">
         <source>No recent queries found.</source>
         <target state="translated">최근 쿼리를 찾을 수 없습니다.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Notification" xml:space="preserve">
+        <source>Notification</source>
+        <target state="translated">알림</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Notifications" xml:space="preserve">
+        <source>Notifications</source>
+        <target state="translated">알림</target>
+        <note>Used on the Notifications-settings screen.</note>
+      </trans-unit>
+      <trans-unit id="Notifications &amp; Alarms" xml:space="preserve">
+        <source>Notifications &amp; Alarms</source>
+        <target state="translated">알림 및 알람</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Notifications..." xml:space="preserve">
+        <source>Notifications...</source>
+        <target state="translated">알림...</target>
         <note/>
       </trans-unit>
       <trans-unit id="OK" xml:space="preserve">
@@ -2135,6 +2533,11 @@ developer@rocketscience-it.nl로 보내주세요!</target>
         <target state="translated">원탭 비활성화 기간</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Only on %@ (kept)" xml:space="preserve">
+        <source>Only on %@ (kept)</source>
+        <target state="translated">%@에만 있음 (유지됨)</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Open" xml:space="preserve">
         <source>Open</source>
         <target state="translated">열기</target>
@@ -2143,6 +2546,26 @@ developer@rocketscience-it.nl로 보내주세요!</target>
       <trans-unit id="Open Settings" xml:space="preserve">
         <source>Open Settings</source>
         <target state="translated">설정 열기</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Open Settings to allow 'Time Sensitive Notifications'" xml:space="preserve">
+        <source>Open Settings to allow 'Time Sensitive Notifications'</source>
+        <target state="translated">'시간에 민감한 알림'을 허용하려면 설정 열기</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Open Settings to allow Alarms" xml:space="preserve">
+        <source>Open Settings to allow Alarms</source>
+        <target state="translated">알람을 허용하려면 설정 열기</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Open Settings to allow banners" xml:space="preserve">
+        <source>Open Settings to allow banners</source>
+        <target state="translated">배너를 허용하려면 설정 열기</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Open Settings to allow notifications" xml:space="preserve">
+        <source>Open Settings to allow notifications</source>
+        <target state="translated">알림을 허용하려면 설정 열기</target>
         <note/>
       </trans-unit>
       <trans-unit id="Open statistics." xml:space="preserve">
@@ -2175,6 +2598,16 @@ developer@rocketscience-it.nl로 보내주세요!</target>
         <target state="translated">기타</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Overwrite clients on %@?" xml:space="preserve">
+        <source>Overwrite clients on %@?</source>
+        <target state="translated">%@의 클라이언트를 덮어쓸까요?</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Overwrite settings on %@?" xml:space="preserve">
+        <source>Overwrite settings on %@?</source>
+        <target state="translated">%@의 설정을 덮어쓸까요?</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="PTR" translate="no" xml:space="preserve">
         <source>PTR</source>
         <note>Used in the DNS record type picker on the 'check filtering' screen.</note>
@@ -2194,8 +2627,28 @@ developer@rocketscience-it.nl로 보내주세요!</target>
         <target state="translated">클립보드에서 붙여넣기</target>
         <note>Accessibility label for the clipboard button</note>
       </trans-unit>
+      <trans-unit id="Pastel" xml:space="preserve">
+        <source>Pastel</source>
+        <target state="translated">파스텔</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Per-client configuration" xml:space="preserve">
+        <source>Per-client configuration</source>
+        <target state="translated">클라이언트별 구성</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Pi-hole Remote" translate="no" xml:space="preserve">
         <source>Pi-hole Remote</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Pick instance" xml:space="preserve">
+        <source>Pick instance</source>
+        <target state="translated">인스턴스 선택</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Pick what to copy from the source to the destination. You'll see a preview and confirmation before anything is changed." xml:space="preserve">
+        <source>Pick what to copy from the source to the destination. You'll see a preview and confirmation before anything is changed.</source>
+        <target state="translated">소스에서 대상으로 복사할 항목을 선택하세요. 변경하기 전에 미리보기와 확인을 볼 수 있습니다.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Please add an instance in the iPhone app." xml:space="preserve">
@@ -2206,6 +2659,11 @@ developer@rocketscience-it.nl로 보내주세요!</target>
       <trans-unit id="Port" xml:space="preserve">
         <source>Port</source>
         <target state="translated">포트</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Portrait" xml:space="preserve">
+        <source>Portrait</source>
+        <target state="translated">세로</target>
         <note/>
       </trans-unit>
       <trans-unit id="Powerful AdGuard Home Client &amp; DHCP management." xml:space="preserve">
@@ -2253,6 +2711,26 @@ developer@rocketscience-it.nl로 보내주세요!</target>
         <target state="translated">보호</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Protection Enabled" xml:space="preserve">
+        <source>Protection Enabled</source>
+        <target state="translated">보호 활성화됨</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Protection Notifications" xml:space="preserve">
+        <source>Protection Notifications</source>
+        <target state="translated">보호 알림</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Protection has been re-enabled on all instances." xml:space="preserve">
+        <source>Protection has been re-enabled on all instances.</source>
+        <target state="translated">모든 인스턴스에서 보호가 다시 활성화되었습니다.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Protection has been re-enabled." xml:space="preserve">
+        <source>Protection has been re-enabled.</source>
+        <target state="translated">보호가 다시 활성화되었습니다.</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Protocol" xml:space="preserve">
         <source>Protocol</source>
         <target state="translated">프로토콜</target>
@@ -2283,6 +2761,11 @@ developer@rocketscience-it.nl로 보내주세요!</target>
         <target state="translated">보호를 빠르게 일시적으로 비활성화합니다.</target>
         <note>Displayed in the onboarding.</note>
       </trans-unit>
+      <trans-unit id="REMOVE" xml:space="preserve">
+        <source>REMOVE</source>
+        <target state="translated">제거</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="RP" translate="no" xml:space="preserve">
         <source>RP</source>
         <note>Used in the DNS record type picker on the 'check filtering' screen.</note>
@@ -2299,6 +2782,11 @@ developer@rocketscience-it.nl로 보내주세요!</target>
       <trans-unit id="Refresh" xml:space="preserve">
         <source>Refresh</source>
         <target state="translated">새로고침</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Refresh interval" xml:space="preserve">
+        <source>Refresh interval</source>
+        <target state="translated">새로고침 간격</target>
         <note/>
       </trans-unit>
       <trans-unit id="Refreshing" xml:space="preserve">
@@ -2339,6 +2827,31 @@ developer@rocketscience-it.nl로 보내주세요!</target>
         <source>Reorder by dragging, remove by swiping.</source>
         <target state="translated">드래그하여 재정렬, 스와이프하여 제거.</target>
         <note>Used on the 'Add new disable preset' screen</note>
+      </trans-unit>
+      <trans-unit id="Replace" xml:space="preserve">
+        <source>Replace</source>
+        <target state="translated">교체</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Replace %@'s clients with the source's? Clients only on %@ will be deleted." xml:space="preserve">
+        <source>Replace %@'s clients with the source's? Clients only on %@ will be deleted.</source>
+        <target state="translated">%1$@의 클라이언트를 소스의 것으로 교체할까요? %2$@에만 있는 클라이언트는 삭제됩니다.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Replace %@'s rewrites with the source's? Entries only on %@ will be deleted." xml:space="preserve">
+        <source>Replace %1$@'s rewrites with the source's? Entries only on %2$@ will be deleted.</source>
+        <target state="translated">%1$@의 재작성을 소스의 것으로 교체할까요? %2$@에만 있는 항목은 삭제됩니다.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Replaces DHCP configuration on the destination. Static leases are not synced." xml:space="preserve">
+        <source>Replaces DHCP configuration on the destination. Static leases are not synced.</source>
+        <target state="translated">대상의 DHCP 구성을 교체합니다. 고정 임대는 동기화되지 않습니다.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Replaces all DNS settings on the destination with those from the source." xml:space="preserve">
+        <source>Replaces all DNS settings on the destination with those from the source.</source>
+        <target state="translated">대상의 모든 DNS 설정을 소스의 설정으로 교체합니다.</target>
+        <note/>
       </trans-unit>
       <trans-unit id="Request Pro beta access" xml:space="preserve">
         <source>Request Pro beta access</source>
@@ -2428,6 +2941,11 @@ developer@rocketscience-it.nl로 보내주세요!</target>
         <target state="translated">선택됨</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Send Notifications" xml:space="preserve">
+        <source>Send Notifications</source>
+        <target state="translated">알림 보내기</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Separate cards and charts" xml:space="preserve">
         <source>Separate cards and charts</source>
         <target state="translated">별도의 카드 및 차트</target>
@@ -2451,6 +2969,21 @@ developer@rocketscience-it.nl로 보내주세요!</target>
       <trans-unit id="Settings" xml:space="preserve">
         <source>Settings</source>
         <target state="translated">설정</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Share" xml:space="preserve">
+        <source>Share</source>
+        <target state="translated">공유</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Share Statistics" xml:space="preserve">
+        <source>Share Statistics</source>
+        <target state="translated">통계 공유</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Sharing statistics is not available on this platform." xml:space="preserve">
+        <source>Sharing statistics is not available on this platform.</source>
+        <target state="translated">이 플랫폼에서는 통계 공유를 사용할 수 없습니다.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Shopping" xml:space="preserve">
@@ -2528,6 +3061,11 @@ developer@rocketscience-it.nl로 보내주세요!</target>
         <target state="translated">더 보기...</target>
         <note>Used on the Statistics-screen.</note>
       </trans-unit>
+      <trans-unit id="Show share button" xml:space="preserve">
+        <source>Show share button</source>
+        <target state="translated">공유 버튼 표시</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Show version" xml:space="preserve">
         <source>Show version</source>
         <target state="translated">버전 표시</target>
@@ -2563,6 +3101,11 @@ developer@rocketscience-it.nl로 보내주세요!</target>
         <target state="translated">문제가 발생했습니다: %@</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Source" xml:space="preserve">
+        <source>Source</source>
+        <target state="translated">소스</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Specify which instance to control." xml:space="preserve">
         <source>Specify which instance to control.</source>
         <target state="translated">제어할 인스턴스를 지정합니다.</target>
@@ -2573,6 +3116,11 @@ developer@rocketscience-it.nl로 보내주세요!</target>
         <target state="translated">전환할 서비스를 지정합니다.</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Square" xml:space="preserve">
+        <source>Square</source>
+        <target state="translated">정사각형</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Statistics" xml:space="preserve">
         <source>Statistics</source>
         <target state="translated">통계</target>
@@ -2581,6 +3129,16 @@ developer@rocketscience-it.nl로 보내주세요!</target>
       <trans-unit id="Status" xml:space="preserve">
         <source>Status</source>
         <target state="translated">상태</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Status, interval, custom rules and block/allow lists" xml:space="preserve">
+        <source>Status, interval, custom rules and block/allow lists</source>
+        <target state="translated">상태, 간격, 사용자 지정 규칙 및 차단/허용 목록</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Stop" xml:space="preserve">
+        <source>Stop</source>
+        <target state="translated">정지</target>
         <note/>
       </trans-unit>
       <trans-unit id="Stop Live Activity" xml:space="preserve">
@@ -2618,6 +3176,11 @@ developer@rocketscience-it.nl로 보내주세요!</target>
         <target state="translated">지원</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Swap source and destination" xml:space="preserve">
+        <source>Swap source and destination</source>
+        <target state="translated">소스와 대상 바꾸기</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Switches to 'Away' when not connected to Wi-Fi SSID: %@" xml:space="preserve">
         <source>Switches to 'Away' when not connected to Wi-Fi SSID: %@</source>
         <target state="translated">Wi-Fi SSID에 연결되지 않으면 '외출'로 전환: %@</target>
@@ -2626,6 +3189,36 @@ developer@rocketscience-it.nl로 보내주세요!</target>
       <trans-unit id="Switches to 'Home' when connected to Wi-Fi SSID: %@" xml:space="preserve">
         <source>Switches to 'Home' when connected to Wi-Fi SSID: %@</source>
         <target state="translated">Wi-Fi SSID에 연결되면 '집'으로 전환: %@</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Sync" xml:space="preserve">
+        <source>Sync</source>
+        <target state="translated">동기화</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Sync Instances" xml:space="preserve">
+        <source>Sync Instances</source>
+        <target state="translated">인스턴스 동기화</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Sync failed." xml:space="preserve">
+        <source>Sync failed.</source>
+        <target state="translated">동기화에 실패했습니다.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Sync to %@" xml:space="preserve">
+        <source>Sync to %@</source>
+        <target state="translated">%@와 동기화</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Syncing…" xml:space="preserve">
+        <source>Syncing…</source>
+        <target state="translated">동기화 중…</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="System Settings" xml:space="preserve">
+        <source>System Settings</source>
+        <target state="translated">시스템 설정</target>
         <note/>
       </trans-unit>
       <trans-unit id="TA" translate="no" xml:space="preserve">
@@ -2655,6 +3248,7 @@ developer@rocketscience-it.nl로 보내주세요!</target>
       </trans-unit>
       <trans-unit id="Tabiko - Japan Journey Log" translate="no" xml:space="preserve">
         <source>Tabiko - Japan Journey Log</source>
+        <target state="translated">Tabiko - Japan Journey Log</target>
         <note/>
       </trans-unit>
       <trans-unit id="Take AdGuard Home Remote to the next level &amp; support future developement." xml:space="preserve">
@@ -2670,6 +3264,11 @@ developer@rocketscience-it.nl로 보내주세요!</target>
       <trans-unit id="Target" xml:space="preserve">
         <source>Target</source>
         <target state="translated">대상</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Temporarily disabled protection? Get notified when it's re-enabled. Use notification actions to quickly extend the disabled period." xml:space="preserve">
+        <source>Temporarily disabled protection? Get notified when it's re-enabled. Use notification actions to quickly extend the disabled period.</source>
+        <target state="translated">보호를 일시적으로 비활성화하셨나요? 다시 활성화될 때 알림을 받으세요. 알림 작업을 사용하여 비활성화 기간을 빠르게 연장할 수 있습니다.</target>
         <note/>
       </trans-unit>
       <trans-unit id="TestFlight Beta Access" xml:space="preserve">
@@ -2721,6 +3320,11 @@ developer@rocketscience-it.nl로 보내주세요!</target>
         <source>This version requires iOS 16.2 &amp; watchOS 10.0 (or newer).</source>
         <target state="translated">이 버전은 iOS 16.2 및 watchOS 10.0(또는 그 이상)이 필요합니다.</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="Time Sensitive notifications have the option to break through focus modes." xml:space="preserve">
+        <source>Time Sensitive notifications have the option to break through focus modes.</source>
+        <target state="translated">시간에 민감한 알림은 집중 모드를 통과할 수 있습니다.</target>
+        <note>Used on the Notifications-settings screen.</note>
       </trans-unit>
       <trans-unit id="To detect your Wi-Fi network name, Apple requires 'While Using App' location permission. This is a system requirement for reading Wi-Fi information.&#10;&#10;Your location is never stored or transmitted by AdGuard Home Remote." xml:space="preserve">
         <source>To detect your Wi-Fi network name, Apple requires 'While Using App' location permission. This is a system requirement for reading Wi-Fi information.
@@ -2806,6 +3410,11 @@ Your location is never stored or transmitted by AdGuard Home Remote.</source>
         <target state="translated">총계: %@</target>
         <note/>
       </trans-unit>
+      <trans-unit id="UPDATE" xml:space="preserve">
+        <source>UPDATE</source>
+        <target state="translated">업데이트</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="URI" translate="no" xml:space="preserve">
         <source>URI</source>
         <note>Used in the DNS record type picker on the 'check filtering' screen.</note>
@@ -2845,6 +3454,16 @@ Your location is never stored or transmitted by AdGuard Home Remote.</source>
         <target state="translated">내일까지</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Update interval (hours)" xml:space="preserve">
+        <source>Update interval (hours)</source>
+        <target state="translated">업데이트 간격 (시간)</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Updates the destination with the source's status, interval, custom rules and filter lists." xml:space="preserve">
+        <source>Updates the destination with the source's status, interval, custom rules and filter lists.</source>
+        <target state="translated">소스의 상태, 간격, 사용자 지정 규칙 및 필터 목록으로 대상을 업데이트합니다.</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Upgrade to AGHR Pro to automatically use a different hostname/IP when away from home, for example in combination with a VPN." xml:space="preserve">
         <source>Upgrade to AGHR Pro to automatically use a different hostname/IP when away from home, for example in combination with a VPN.</source>
         <target state="translated">AGHR Pro로 업그레이드하면 집에서 멀리 있을 때 자동으로 다른 호스트 이름/IP를 사용할 수 있습니다. 예를 들어 VPN과 함께 사용할 수 있습니다.</target>
@@ -2858,6 +3477,11 @@ Your location is never stored or transmitted by AdGuard Home Remote.</source>
       <trans-unit id="Upstream IP" xml:space="preserve">
         <source>Upstream IP</source>
         <target state="translated">업스트림 IP</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Upstream, cache, blocking and security settings" xml:space="preserve">
+        <source>Upstream, cache, blocking and security settings</source>
+        <target state="translated">업스트림, 캐시, 차단 및 보안 설정</target>
         <note/>
       </trans-unit>
       <trans-unit id="Upstreams" xml:space="preserve">
@@ -2915,6 +3539,11 @@ Your location is never stored or transmitted by AdGuard Home Remote.</source>
         <target state="translated">환영합니다!</target>
         <note>Onboarding subtitle.</note>
       </trans-unit>
+      <trans-unit id="What to sync" xml:space="preserve">
+        <source>What to sync</source>
+        <target state="translated">동기화할 항목</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Wi-Fi network name (SSID)" xml:space="preserve">
         <source>Wi-Fi network name (SSID)</source>
         <target state="translated">Wi-Fi 네트워크 이름 (SSID)</target>
@@ -2924,6 +3553,21 @@ Your location is never stored or transmitted by AdGuard Home Remote.</source>
         <source>Widgets &amp; Live Activity</source>
         <target state="translated">위젯 및 라이브 활동</target>
         <note>Displayed in the onboarding.</note>
+      </trans-unit>
+      <trans-unit id="Will be added to %@" xml:space="preserve">
+        <source>Will be added to %@</source>
+        <target state="translated">%@에 추가될 예정</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Will be removed from %@" xml:space="preserve">
+        <source>Will be removed from %@</source>
+        <target state="translated">%@에서 제거될 예정</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Will be updated on %@" xml:space="preserve">
+        <source>Will be updated on %@</source>
+        <target state="translated">%@에 업데이트됩니다</target>
+        <note/>
       </trans-unit>
       <trans-unit id="You have purchased Pro" xml:space="preserve">
         <source>You have purchased Pro</source>
@@ -3550,6 +4194,11 @@ Search</source>
       <trans-unit id="design_color_scheme_default" xml:space="preserve">
         <source>Default</source>
         <target state="translated">기본</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="design_color_scheme_earthy" xml:space="preserve">
+        <source>Earthy</source>
+        <target state="translated">어스 톤</target>
         <note/>
       </trans-unit>
       <trans-unit id="design_color_scheme_pastel" xml:space="preserve">
@@ -5203,6 +5852,11 @@ Remote Pro</target>
         <target state="translated">차단됨 | 필터</target>
         <note/>
       </trans-unit>
+      <trans-unit id="query_status_FilteredBlockedService" xml:space="preserve">
+        <source>Blocked | Service</source>
+        <target state="translated">차단됨 | 서비스</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="query_status_FilteredBlockedService_%@" xml:space="preserve">
         <source>Blocked Service%@</source>
         <target state="translated">차단된 서비스 %@</target>
@@ -5533,21 +6187,6 @@ Remote Pro</target>
         <target state="translated">차단됨</target>
         <note/>
       </trans-unit>
-      <trans-unit id="querylog_status-blocked_parental" xml:space="preserve">
-        <source>Blocked by parental filtering</source>
-        <target state="translated">자녀 보호로 차단됨</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="querylog_status-blocked_safebrowsing" xml:space="preserve">
-        <source>Blocked by safe browsing</source>
-        <target state="translated">차단된 위협</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="querylog_status-blocked_services" xml:space="preserve">
-        <source>Blocked services</source>
-        <target state="translated">차단된 서비스</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="querylog_status-filtered" xml:space="preserve">
         <source>Filtered</source>
         <target state="translated">필터링됨</target>
@@ -5556,21 +6195,6 @@ Remote Pro</target>
       <trans-unit id="querylog_status-processed" xml:space="preserve">
         <source>Processed</source>
         <target state="translated">처리됨</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="querylog_status-rewritten" xml:space="preserve">
-        <source>Rewritten</source>
-        <target state="translated">재작성됨</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="querylog_status-safe_search" xml:space="preserve">
-        <source>Safe search</source>
-        <target state="translated">세이프 서치</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="querylog_status-whitelisted" xml:space="preserve">
-        <source>Allowed</source>
-        <target state="translated">허용됨</target>
         <note/>
       </trans-unit>
       <trans-unit id="refresh" xml:space="preserve">
@@ -5707,11 +6331,6 @@ My main goal is to learn: design, development, testing, support, promotion - may
         <target state="translated">특정 서비스 차단</target>
         <note/>
       </trans-unit>
-      <trans-unit id="settings" xml:space="preserve">
-        <source>Settings</source>
-        <target state="translated">설정</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="settings_add-instance" xml:space="preserve">
         <source>Add Instance</source>
         <target state="translated">인스턴스 추가</target>
@@ -5755,11 +6374,6 @@ My main goal is to learn: design, development, testing, support, promotion - may
       <trans-unit id="settings_dns_rewrites" xml:space="preserve">
         <source>DNS Rewrites</source>
         <target state="translated">DNS 변경</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="settings_edit-instance" xml:space="preserve">
-        <source>Edit</source>
-        <target state="translated">편집</target>
         <note/>
       </trans-unit>
       <trans-unit id="settings_edit_instance" xml:space="preserve">
@@ -6140,6 +6754,21 @@ If you want to tip, please download the app from the App Store! After that you c
       <trans-unit id="widget_enabled" xml:space="preserve">
         <source>Enabled</source>
         <target state="translated">Enabled</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="will be added to destination" xml:space="preserve">
+        <source>will be added to destination</source>
+        <target state="translated">대상에 추가될 예정</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="will be removed from destination" xml:space="preserve">
+        <source>will be removed from destination</source>
+        <target state="translated">대상에서 제거될 예정</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="will be updated on destination" xml:space="preserve">
+        <source>will be updated on destination</source>
+        <target state="translated">대상에서 업데이트될 예정</target>
         <note/>
       </trans-unit>
       <trans-unit id="• Remove limits&#10;• Custom disable presets&#10;• Live query log&#10;• Manage all settings&#10;• Interactive widgets&#10;• Multiple Instances&#10;• And much more!" xml:space="preserve">

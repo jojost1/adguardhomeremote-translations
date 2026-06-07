@@ -2,7 +2,7 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="AdGuard Home Remote Share Extension/InfoPlist.xcstrings" source-language="en" target-language="pt-BR" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.4.1" build-num="17E202"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.5" build-num="17F42"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -21,7 +21,7 @@
   </file>
   <file original="AdGuard Home Remote tvOS/AdGuard-Home-Remote-tvOS-InfoPlist.xcstrings" source-language="en" target-language="pt-BR" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.4.1" build-num="17E202"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.5" build-num="17F42"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -40,7 +40,7 @@
   </file>
   <file original="AdGuard Home Remote Watch App WatchKit Extension/AdGuard-Home-Remote-Watch-App-InfoPlist.xcstrings" source-language="en" target-language="pt-BR" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.4.1" build-num="17E202"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.5" build-num="17F42"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" translate="no" xml:space="preserve">
@@ -62,7 +62,7 @@
   </file>
   <file original="AdGuard Home Remote Widgets/Base.lproj/WidgetConfigs.intentdefinition" source-language="en" target-language="pt-BR" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.4.1" build-num="17E202"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.5" build-num="17F42"/>
     </header>
     <body>
       <trans-unit id="0foAlr-1ekF7R" xml:space="preserve">
@@ -314,7 +314,7 @@
   </file>
   <file original="AdGuard Home Remote Widgets/InfoPlist.xcstrings" source-language="en" target-language="pt-BR" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.4.1" build-num="17E202"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.5" build-num="17F42"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" translate="no" xml:space="preserve">
@@ -331,7 +331,7 @@
   </file>
   <file original="AdGuard Home Remote Widgets/Localizable.xcstrings" source-language="en" target-language="pt-BR" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.4.1" build-num="17E202"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.5" build-num="17F42"/>
     </header>
     <body>
       <trans-unit id="Bar-chart" xml:space="preserve">
@@ -370,7 +370,7 @@
   </file>
   <file original="App Intents &amp; Shortcuts/Base.lproj/Intents.intentdefinition" source-language="en" target-language="pt-BR" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.4.1" build-num="17E202"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.5" build-num="17F42"/>
     </header>
     <body>
       <trans-unit id="0sDcS3" xml:space="preserve">
@@ -897,7 +897,7 @@
   </file>
   <file original="App Intents &amp; Shortcuts/InfoPlist.xcstrings" source-language="en" target-language="pt-BR" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.4.1" build-num="17E202"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.5" build-num="17F42"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" translate="no" xml:space="preserve">
@@ -918,7 +918,7 @@
   </file>
   <file original="App Intents &amp; Shortcuts/Localizable.xcstrings" source-language="en" target-language="pt-BR" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.4.1" build-num="17E202"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.5" build-num="17F42"/>
     </header>
     <body>
       <trans-unit id="Bar-chart" xml:space="preserve">
@@ -981,11 +981,21 @@
         <target state="translated">Cartões pequenos, gráfico combinado</target>
         <note>Dashboard size type explainer</note>
       </trans-unit>
+      <trans-unit id="for_%@_minutes" xml:space="preserve">
+        <source>for_%@_minutes</source>
+        <target state="translated">por %@ minutos</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="something_went_wrong" xml:space="preserve">
+        <source>something_went_wrong</source>
+        <target state="translated">Algo deu errado.</target>
+        <note/>
+      </trans-unit>
     </body>
   </file>
   <file original="iOS/InfoPlist.xcstrings" source-language="en" target-language="pt-BR" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.4.1" build-num="17E202"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.5" build-num="17F42"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" translate="no" xml:space="preserve">
@@ -1022,7 +1032,7 @@
   </file>
   <file original="Resources/App/AdGuard Home Remote WidgetsExtension copy-InfoPlist.xcstrings" source-language="en" target-language="pt-BR" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.4.1" build-num="17E202"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.5" build-num="17F42"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" translate="no" xml:space="preserve">
@@ -1039,7 +1049,7 @@
   </file>
   <file original="Resources/App/en.lproj/AppShortcuts.strings" source-language="en" target-language="pt-BR" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.4.1" build-num="17E202"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.5" build-num="17F42"/>
     </header>
     <body>
       <trans-unit id="Disable protection for ${duration} minutes in ${applicationName}" xml:space="preserve">
@@ -1065,7 +1075,7 @@
   </file>
   <file original="Resources/App/InfoPlist.xcstrings" source-language="en" target-language="pt-BR" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.4.1" build-num="17E202"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.5" build-num="17F42"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" translate="no" xml:space="preserve">
@@ -1082,7 +1092,7 @@
   </file>
   <file original="Resources/App/Localizable.xcstrings" source-language="en" target-language="pt-BR" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.4.1" build-num="17E202"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.5" build-num="17F42"/>
     </header>
     <body>
       <trans-unit id="${action} ${services} on ${instance}" xml:space="preserve">
@@ -1098,6 +1108,11 @@
         <source>%1$@ %2$@</source>
         <note/>
       </trans-unit>
+      <trans-unit id="%@ - AdGuard Home Remote" xml:space="preserve">
+        <source>%@ - AdGuard Home Remote</source>
+        <target state="translated">%@ - AdGuard Home Remote</target>
+        <note>Title used as the share-sheet preview heading and the subject of an email when sharing an AdGuard Home stats image. The placeholder is the instance name, or 'AdGuard Home' when anonymise is enabled.</note>
+      </trans-unit>
       <trans-unit id="%@ bytes" xml:space="preserve">
         <source>%@ bytes</source>
         <target state="translated">%@ bytes</target>
@@ -1107,6 +1122,10 @@
         <source>%@ entries</source>
         <target state="translated">%@ entries</target>
         <note>Used on the Statistics-screen in the preferences menu.</note>
+      </trans-unit>
+      <trans-unit id="%@, %@, %@" translate="no" xml:space="preserve">
+        <source>%1$@, %2$@, %3$@</source>
+        <note/>
       </trans-unit>
       <trans-unit id="%@ms" xml:space="preserve">
         <source>%@ms</source>
@@ -1201,6 +1220,11 @@
         <target state="translated">Um aplicativo limpo para rastrear Anime &amp; Manga, usando a API do MyAnimeList.</target>
         <note>Subtitle under 'ManGo' app on the Made by RocketScience screen.</note>
       </trans-unit>
+      <trans-unit id="A standard notification will appear when protection re-enables." xml:space="preserve">
+        <source>A standard notification will appear when protection re-enables.</source>
+        <target state="translated">Uma notificação padrão aparecerá quando a proteção for reativada.</target>
+        <note>Used on the Notifications-settings screen.</note>
+      </trans-unit>
       <trans-unit id="AAAA" translate="no" xml:space="preserve">
         <source>AAAA</source>
         <note>Used in the DNS record type picker on the 'check filtering' screen.</note>
@@ -1208,6 +1232,11 @@
       <trans-unit id="ACTIVE" xml:space="preserve">
         <source>ACTIVE</source>
         <target state="translated">ATIVO</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="ADD" xml:space="preserve">
+        <source>ADD</source>
+        <target state="translated">ADICIONAR</target>
         <note/>
       </trans-unit>
       <trans-unit id="AFSDB" translate="no" xml:space="preserve">
@@ -1288,6 +1317,11 @@
         <target state="translated">Add Instância</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Add a second instance to sync settings between them." xml:space="preserve">
+        <source>Add a second instance to sync settings between them.</source>
+        <target state="translated">Adicione uma segunda instância para sincronizar configurações entre elas.</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Add an AdGuard Home instance using the iOS or macOS app." xml:space="preserve">
         <source>Add an AdGuard Home instance using the iOS or macOS app.</source>
         <target state="translated">Adicione uma instância do AdGuard Home usando o app para iOS ou macOS.</target>
@@ -1306,6 +1340,16 @@
       <trans-unit id="Add the Wi-Fi networks where the 'Home Connection' settings (local IP) should be used." xml:space="preserve">
         <source>Add the Wi-Fi networks where the 'Home Connection' settings (local IP) should be used.</source>
         <target state="translated">Adicione as redes Wi-Fi onde as configurações de 'Conexão em Casa' (IP local) devem ser usadas.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Add the missing clients to %@ and update the ones whose settings differ?" xml:space="preserve">
+        <source>Add the missing clients to %@ and update the ones whose settings differ?</source>
+        <target state="translated">Adicionar os clientes ausentes a %@ e atualizar aqueles cujas configurações são diferentes?</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Add the missing rewrites to %@?" xml:space="preserve">
+        <source>Add the missing rewrites to %@?</source>
+        <target state="translated">Adicionar as reescritas ausentes a %@?</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add your AdGuard Home instances to control them and view statistics." xml:space="preserve">
@@ -1328,14 +1372,64 @@
         <target state="translated">Informações adicionais</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Adds clients from the source that don't exist on the destination, and updates same-named clients whose settings differ. Nothing is deleted." xml:space="preserve">
+        <source>Adds clients from the source that don't exist on the destination, and updates same-named clients whose settings differ. Nothing is deleted.</source>
+        <target state="translated">Adiciona clientes da origem que não existem no destino e atualiza clientes de mesmo nome cujas configurações são diferentes. Nada é excluído.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Adds entries from the source that don't exist on the destination. Nothing is deleted." xml:space="preserve">
+        <source>Adds entries from the source that don't exist on the destination. Nothing is deleted.</source>
+        <target state="translated">Adiciona entradas da origem que não existem no destino. Nada é excluído.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="After sync" xml:space="preserve">
+        <source>After sync</source>
+        <target state="translated">Após a sincronização</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Alarm" xml:space="preserve">
+        <source>Alarm</source>
+        <target state="translated">Alarme</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Alarms require AGHR+." xml:space="preserve">
+        <source>Alarms require AGHR+.</source>
+        <target state="translated">Os alarmes requerem AGHR+.</target>
+        <note>Used on the Notifications-settings screen.</note>
+      </trans-unit>
+      <trans-unit id="Alarms take over the screen when protection re-enables, with sound that ignores silent mode." xml:space="preserve">
+        <source>Alarms take over the screen when protection re-enables, with sound that ignores silent mode.</source>
+        <target state="translated">Os alarmes assumem a tela quando a proteção é reativada, com som que ignora o modo silencioso.</target>
+        <note>Used on the Notifications-settings screen.</note>
+      </trans-unit>
+      <trans-unit id="Alert Style" xml:space="preserve">
+        <source>Alert Style</source>
+        <target state="translated">Estilo do Alerta</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="All" xml:space="preserve">
         <source>All</source>
         <target state="translated">Todos</target>
         <note/>
       </trans-unit>
+      <trans-unit id="All instances" xml:space="preserve">
+        <source>All instances</source>
+        <target state="translated">Todas as instâncias</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Allow Location Access" xml:space="preserve">
         <source>Allow Location Access</source>
         <target state="translated">Permitir acesso à localização</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Allow list changes" xml:space="preserve">
+        <source>Allow list changes</source>
+        <target state="translated">Alterações na lista de permissões</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Allow lists" xml:space="preserve">
+        <source>Allow lists</source>
+        <target state="translated">Listas de permissões</target>
         <note/>
       </trans-unit>
       <trans-unit id="Allows Family Sharing" xml:space="preserve">
@@ -1347,6 +1441,11 @@
         <source>Always</source>
         <target state="translated">Sempre</target>
         <note>Shown next to 'Pause Schedule' on the Filtering settings screen, when there are no active schedules.</note>
+      </trans-unit>
+      <trans-unit id="Anonymise" xml:space="preserve">
+        <source>Anonymise</source>
+        <target state="translated">Anonimizar</target>
+        <note/>
       </trans-unit>
       <trans-unit id="Apple TV features" xml:space="preserve">
         <source>Apple TV features</source>
@@ -1384,6 +1483,11 @@ Sua 'Conexão em Casa' padrão será usada nas redes domésticas e em dispositiv
       <trans-unit id="Artificial intelligence" xml:space="preserve">
         <source>Artificial intelligence</source>
         <target state="translated">Inteligência artificial</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Aspect ratio" xml:space="preserve">
+        <source>Aspect ratio</source>
+        <target state="translated">Proporção</target>
         <note/>
       </trans-unit>
       <trans-unit id="Auto-refresh" xml:space="preserve">
@@ -1429,6 +1533,16 @@ Sua 'Conexão em Casa' padrão será usada nas redes domésticas e em dispositiv
       <trans-unit id="Block" xml:space="preserve">
         <source>Block</source>
         <target state="translated">Bloquear</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Block list changes" xml:space="preserve">
+        <source>Block list changes</source>
+        <target state="translated">Alterações na lista de bloqueios</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Block lists" xml:space="preserve">
+        <source>Block lists</source>
+        <target state="translated">Listas de bloqueios</target>
         <note/>
       </trans-unit>
       <trans-unit id="Block or unblock services on your AdGuard Home. (Requires AGHR+)" xml:space="preserve">
@@ -1555,6 +1669,11 @@ Sua 'Conexão em Casa' padrão será usada nas redes domésticas e em dispositiv
         <target state="translated">Verifique se um nome de host está filtrado.</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Classic" xml:space="preserve">
+        <source>Classic</source>
+        <target state="translated">Clássico</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Client Management" xml:space="preserve">
         <source>Client Management</source>
         <target state="translated">Gerenciamento de Clientes</target>
@@ -1570,9 +1689,29 @@ Sua 'Conexão em Casa' padrão será usada nas redes domésticas e em dispositiv
         <target state="translated">ClientID ou IP</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Clients" xml:space="preserve">
+        <source>Clients</source>
+        <target state="translated">Clientes</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Clients are matched by name. A same-named client whose settings differ (IDs, tags, filtering, blocked services, upstreams...) is updated, including its IDs. Only persistent clients are synced. Auto-discovered clients and the allowed/disallowed/blocked access list are not touched." xml:space="preserve">
+        <source>Clients are matched by name. A same-named client whose settings differ (IDs, tags, filtering, blocked services, upstreams...) is updated, including its IDs. Only persistent clients are synced. Auto-discovered clients and the allowed/disallowed/blocked access list are not touched.</source>
+        <target state="translated">Os clientes são correspondidos por nome. Um cliente de mesmo nome cujas configurações são diferentes (identificadores, etiquetas, filtragem, serviços bloqueados, upstreams...) é atualizado, incluindo seus identificadores. Apenas os clientes persistentes são sincronizados. Os clientes detectados automaticamente e a lista de acesso permitidos/não permitidos/bloqueados não são alterados.</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Close" xml:space="preserve">
         <source>Close</source>
         <target state="translated">Fechar</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Color Scheme" xml:space="preserve">
+        <source>Color Scheme</source>
+        <target state="translated">Esquema de Cores</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Coming soon" xml:space="preserve">
+        <source>Coming soon</source>
+        <target state="translated">Em breve</target>
         <note/>
       </trans-unit>
       <trans-unit id="Compact" xml:space="preserve">
@@ -1615,9 +1754,39 @@ Sua 'Conexão em Casa' padrão será usada nas redes domésticas e em dispositiv
         <target state="translated">Copiar host</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Couldn't check" xml:space="preserve">
+        <source>Couldn't check</source>
+        <target state="translated">Não foi possível verificar</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Couldn't load clients from one or both instances." xml:space="preserve">
+        <source>Couldn't load clients from one or both instances.</source>
+        <target state="translated">Não foi possível carregar os clientes de uma ou ambas as instâncias.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Couldn't load settings from one or both instances." xml:space="preserve">
+        <source>Couldn't load settings from one or both instances.</source>
+        <target state="translated">Não foi possível carregar as configurações de uma ou ambas as instâncias.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Currently" xml:space="preserve">
+        <source>Currently</source>
+        <target state="translated">Atualmente</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Custom DNS rewrite entries" xml:space="preserve">
+        <source>Custom DNS rewrite entries</source>
+        <target state="translated">Entradas de reescrita DNS personalizadas</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Custom Presets" xml:space="preserve">
         <source>Custom Presets</source>
         <target state="translated">Predefinições Personalizadas</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Custom rules" xml:space="preserve">
+        <source>Custom rules</source>
+        <target state="translated">Regras personalizadas</target>
         <note/>
       </trans-unit>
       <trans-unit id="Customize tint &amp; icon" xml:space="preserve">
@@ -1632,6 +1801,16 @@ Sua 'Conexão em Casa' padrão será usada nas redes domésticas e em dispositiv
       <trans-unit id="DHCP &amp; DNS" xml:space="preserve">
         <source>DHCP &amp; DNS</source>
         <target state="translated">DHCP e DNS</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="DHCP settings" xml:space="preserve">
+        <source>DHCP settings</source>
+        <target state="translated">Configurações DHCP</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="DHCP settings from %@ will overwrite those on %@. This can't be undone." xml:space="preserve">
+        <source>DHCP settings from %1$@ will overwrite those on %2$@. This can't be undone.</source>
+        <target state="translated">As configurações DHCP de %1$@ substituirão as de %2$@. Isso não pode ser desfeito.</target>
         <note/>
       </trans-unit>
       <trans-unit id="DLV" translate="no" xml:space="preserve">
@@ -1667,6 +1846,16 @@ Sua 'Conexão em Casa' padrão será usada nas redes domésticas e em dispositiv
         <target state="translated">Reescritas DNS</target>
         <note/>
       </trans-unit>
+      <trans-unit id="DNS settings" xml:space="preserve">
+        <source>DNS settings</source>
+        <target state="translated">Configurações DNS</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="DNS settings from %@ will overwrite those on %@. This can't be undone." xml:space="preserve">
+        <source>DNS settings from %1$@ will overwrite those on %2$@. This can't be undone.</source>
+        <target state="translated">As configurações DNS de %1$@ substituirão as de %2$@. Isso não pode ser desfeito.</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="DNSKEY" translate="no" xml:space="preserve">
         <source>DNSKEY</source>
         <note>Used in the DNS record type picker on the 'check filtering' screen.</note>
@@ -1674,6 +1863,11 @@ Sua 'Conexão em Casa' padrão será usada nas redes domésticas e em dispositiv
       <trans-unit id="DS" translate="no" xml:space="preserve">
         <source>DS</source>
         <note>Used in the DNS record type picker on the 'check filtering' screen.</note>
+      </trans-unit>
+      <trans-unit id="Dark background" xml:space="preserve">
+        <source>Dark background</source>
+        <target state="translated">Fundo escuro</target>
+        <note/>
       </trans-unit>
       <trans-unit id="Dashboard" xml:space="preserve">
         <source>Dashboard</source>
@@ -1695,6 +1889,11 @@ Sua 'Conexão em Casa' padrão será usada nas redes domésticas e em dispositiv
         <target state="translated">Serviços de namoro</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Default" xml:space="preserve">
+        <source>Default</source>
+        <target state="translated">Padrão</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Default count" xml:space="preserve">
         <source>Default count</source>
         <target state="translated">Contagem padrão</target>
@@ -1710,9 +1909,44 @@ Sua 'Conexão em Casa' padrão será usada nas redes domésticas e em dispositiv
         <target state="translated">Design</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Destination" xml:space="preserve">
+        <source>Destination</source>
+        <target state="translated">Destino</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Differences" xml:space="preserve">
+        <source>Differences</source>
+        <target state="translated">Diferenças</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Disable 5 more minutes" xml:space="preserve">
+        <source>Disable 5 more minutes</source>
+        <target state="translated">Desativar por mais 5 minutos</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Disable for 1 minute" xml:space="preserve">
+        <source>Disable for 1 minute</source>
+        <target state="translated">Desativar por 1 minuto</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Disable for 5 minutes" xml:space="preserve">
+        <source>Disable for 5 minutes</source>
+        <target state="translated">Desativar por 5 minutos</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Disable indefinitely" xml:space="preserve">
+        <source>Disable indefinitely</source>
+        <target state="translated">Desativar indefinidamente</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Disabled" xml:space="preserve">
         <source>Disabled</source>
         <target state="translated">Deficientes</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Done" xml:space="preserve">
+        <source>Done</source>
+        <target state="translated">Concluído</target>
         <note/>
       </trans-unit>
       <trans-unit id="Duration" xml:space="preserve">
@@ -1727,11 +1961,18 @@ Sua 'Conexão em Casa' padrão será usada nas redes domésticas e em dispositiv
       </trans-unit>
       <trans-unit id="EUI48" translate="no" xml:space="preserve">
         <source>EUI48</source>
+        <target state="translated">EUI48</target>
         <note>Used in the DNS record type picker on the 'check filtering' screen.</note>
       </trans-unit>
       <trans-unit id="EUI64" translate="no" xml:space="preserve">
         <source>EUI64</source>
+        <target state="translated">EUI64</target>
         <note>Used in the DNS record type picker on the 'check filtering' screen.</note>
+      </trans-unit>
+      <trans-unit id="Earthy" xml:space="preserve">
+        <source>Earthy</source>
+        <target state="translated">Terroso</target>
+        <note/>
       </trans-unit>
       <trans-unit id="Edit" xml:space="preserve">
         <source>Edit</source>
@@ -1773,6 +2014,11 @@ Sua 'Conexão em Casa' padrão será usada nas redes domésticas e em dispositiv
         <target state="translated">Habilitado</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Enabling notifications requires AGHR+." xml:space="preserve">
+        <source>Enabling notifications requires AGHR+.</source>
+        <target state="translated">Ativar notificações requer AGHR+.</target>
+        <note>Used on the Notifications-settings screen.</note>
+      </trans-unit>
       <trans-unit id="Enjoy great widgets and a Live Activity when disabling protection." xml:space="preserve">
         <source>Enjoy great widgets and a Live Activity when disabling protection.</source>
         <target state="translated">Aproveite ótimos widgets e uma Atividade ao Vivo ao desativar a proteção.</target>
@@ -1783,9 +2029,29 @@ Sua 'Conexão em Casa' padrão será usada nas redes domésticas e em dispositiv
         <target state="translated">Erro</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Every 1 second" xml:space="preserve">
+        <source>Every 1 second</source>
+        <target state="translated">A cada segundo</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Every 5 seconds" xml:space="preserve">
+        <source>Every 5 seconds</source>
+        <target state="translated">A cada 5 segundos</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Every 10 seconds" xml:space="preserve">
         <source>Every 10 seconds</source>
         <target state="translated">A cada 10 segundos</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Every 30 seconds" xml:space="preserve">
+        <source>Every 30 seconds</source>
+        <target state="translated">A cada 30 segundos</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Every 60 seconds" xml:space="preserve">
+        <source>Every 60 seconds</source>
+        <target state="translated">A cada 60 segundos</target>
         <note/>
       </trans-unit>
       <trans-unit id="Expanded" xml:space="preserve">
@@ -1808,6 +2074,21 @@ Sua 'Conexão em Casa' padrão será usada nas redes domésticas e em dispositiv
         <target state="translated">Visão Geral dos Recursos</target>
         <note>Used on the pro purchase screen.</note>
       </trans-unit>
+      <trans-unit id="Filtering" xml:space="preserve">
+        <source>Filtering</source>
+        <target state="translated">Filtragem</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Filtering enabled" xml:space="preserve">
+        <source>Filtering enabled</source>
+        <target state="translated">Filtragem ativada</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Filtering settings from %@ will overwrite those on %@. This can't be undone." xml:space="preserve">
+        <source>Filtering settings from %1$@ will overwrite those on %2$@. This can't be undone.</source>
+        <target state="translated">As configurações de filtragem de %1$@ substituirão as de %2$@. Isso não pode ser desfeito.</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Filters" xml:space="preserve">
         <source>Filters</source>
         <target state="translated">Filtros</target>
@@ -1816,6 +2097,11 @@ Sua 'Conexão em Casa' padrão será usada nas redes domésticas e em dispositiv
       <trans-unit id="Filters: %@" xml:space="preserve">
         <source>Filters: %@</source>
         <target state="translated">Filtros: %@</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="For any reason" xml:space="preserve">
+        <source>For any reason</source>
+        <target state="translated">Por qualquer motivo</target>
         <note/>
       </trans-unit>
       <trans-unit id="Force Watch Sync" xml:space="preserve">
@@ -1827,6 +2113,11 @@ Sua 'Conexão em Casa' padrão será usada nas redes domésticas e em dispositiv
         <source>Free</source>
         <target state="translated">Grátis</target>
         <note>Used on the pro purchase screen.</note>
+      </trans-unit>
+      <trans-unit id="Free on the App Store" xml:space="preserve">
+        <source>Free on the App Store</source>
+        <target state="translated">Grátis na App Store</target>
+        <note/>
       </trans-unit>
       <trans-unit id="Full Color" xml:space="preserve">
         <source>Full Color</source>
@@ -1869,6 +2160,11 @@ Sua 'Conexão em Casa' padrão será usada nas redes domésticas e em dispositiv
       <trans-unit id="HTTPS" translate="no" xml:space="preserve">
         <source>HTTPS</source>
         <note>Used in the DNS record type picker on the 'check filtering' screen.</note>
+      </trans-unit>
+      <trans-unit id="Hides instance name" xml:space="preserve">
+        <source>Hides instance name</source>
+        <target state="translated">Oculta o nome da instância</target>
+        <note/>
       </trans-unit>
       <trans-unit id="Home" xml:space="preserve">
         <source>Home</source>
@@ -1928,6 +2224,16 @@ Por favor, envie para developer@rocketscience-it.nl!</target>
         <target state="translated">Se já o fez, vá para a sua instância, pressione ' Editar 'e pressione' Salvar ' novamente. Deve aparecer depois disso. Caso contrário, tente reiniciar o aplicativo Watch.</target>
         <note/>
       </trans-unit>
+      <trans-unit id="In sync" xml:space="preserve">
+        <source>In sync</source>
+        <target state="translated">Sincronizado</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Include chart" xml:space="preserve">
+        <source>Include chart</source>
+        <target state="translated">Incluir gráfico</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Indefinitely" xml:space="preserve">
         <source>Indefinitely</source>
         <target state="translated">Indefinidamente</target>
@@ -1953,6 +2259,16 @@ Por favor, envie para developer@rocketscience-it.nl!</target>
         <target state="translated">Widgets Interativos</target>
         <note>Used on the pro purchase screen.</note>
       </trans-unit>
+      <trans-unit id="Interface name is copied as-is. Make sure it exists on the destination." xml:space="preserve">
+        <source>Interface name is copied as-is. Make sure it exists on the destination.</source>
+        <target state="translated">O nome da interface é copiado como está. Certifique-se de que ele existe no destino.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Interface, IPv4 and IPv6 ranges" xml:space="preserve">
+        <source>Interface, IPv4 and IPv6 ranges</source>
+        <target state="translated">Interface, faixas IPv4 e IPv6</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Invalid authentication or privacy setting." xml:space="preserve">
         <source>Invalid authentication or privacy setting.</source>
         <target state="translated">Autenticação inválida ou configuração de Privacidade.</target>
@@ -1961,6 +2277,11 @@ Por favor, envie para developer@rocketscience-it.nl!</target>
       <trans-unit id="Invalid hostname or port." xml:space="preserve">
         <source>Invalid hostname or port.</source>
         <target state="translated">Nome de host ou porta inválidos.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="KEEP" xml:space="preserve">
+        <source>KEEP</source>
+        <target state="translated">MANTER</target>
         <note/>
       </trans-unit>
       <trans-unit id="KEY" translate="no" xml:space="preserve">
@@ -1974,6 +2295,11 @@ Por favor, envie para developer@rocketscience-it.nl!</target>
       <trans-unit id="LOC" translate="no" xml:space="preserve">
         <source>LOC</source>
         <note>Used in the DNS record type picker on the 'check filtering' screen.</note>
+      </trans-unit>
+      <trans-unit id="Landscape" xml:space="preserve">
+        <source>Landscape</source>
+        <target state="translated">Paisagem</target>
+        <note/>
       </trans-unit>
       <trans-unit id="Launch App" xml:space="preserve">
         <source>Launch App</source>
@@ -2024,6 +2350,16 @@ Por favor, envie para developer@rocketscience-it.nl!</target>
         <target state="translated">Feito com ❤️ por uma pessoa na 🇳🇱</target>
         <note>Used on the pro purchase screen.</note>
       </trans-unit>
+      <trans-unit id="Makes the destination identical to the source. Entries only on the destination will be deleted." xml:space="preserve">
+        <source>Makes the destination identical to the source. Entries only on the destination will be deleted.</source>
+        <target state="translated">Torna o destino idêntico à origem. As entradas somente no destino serão excluídas.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Makes the destination's clients identical to the source. Clients only on the destination will be deleted." xml:space="preserve">
+        <source>Makes the destination's clients identical to the source. Clients only on the destination will be deleted.</source>
+        <target state="translated">Torna os clientes do destino idênticos aos da origem. Os clientes somente no destino serão excluídos.</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Malware" xml:space="preserve">
         <source>Malware</source>
         <target state="translated">Malware</target>
@@ -2059,9 +2395,24 @@ Por favor, envie para developer@rocketscience-it.nl!</target>
         <target state="translated">Gerencie a filtragem como listas de bloqueio, serviços bloqueados, agendamentos de pausa e muito mais.</target>
         <note>Displayed in the onboarding.</note>
       </trans-unit>
+      <trans-unit id="Mark as 'Time Sensitive'" xml:space="preserve">
+        <source>Mark as 'Time Sensitive'</source>
+        <target state="translated">Marcar como 'Urgente'</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Merge" xml:space="preserve">
+        <source>Merge</source>
+        <target state="translated">Mesclar</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Messaging services" xml:space="preserve">
         <source>Messaging services</source>
         <target state="translated">Serviços de mensagens</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Mode" xml:space="preserve">
+        <source>Mode</source>
+        <target state="translated">Modo</target>
         <note/>
       </trans-unit>
       <trans-unit id="Monitor real-time electricity and gas prices in many European countries." xml:space="preserve">
@@ -2074,9 +2425,19 @@ Por favor, envie para developer@rocketscience-it.nl!</target>
         <target state="translated">Suavizado</target>
         <note/>
       </trans-unit>
+      <trans-unit id="My AdGuard Home stats, shared with AdGuard Home Remote https://apps.apple.com/app/id1543143740" xml:space="preserve">
+        <source>My AdGuard Home stats, shared with AdGuard Home Remote https://apps.apple.com/app/id1543143740</source>
+        <target state="translated">Minhas estatísticas do AdGuard Home, compartilhadas com o AdGuard Home Remote https://apps.apple.com/app/id1543143740</target>
+        <note>Pre-filled message body when sharing an AdGuard Home stats image to apps that accept text (Messages, Mail, social apps). Includes the App Store link as a soft CTA.</note>
+      </trans-unit>
       <trans-unit id="NAPTR" translate="no" xml:space="preserve">
         <source>NAPTR</source>
         <note>Used in the DNS record type picker on the 'check filtering' screen.</note>
+      </trans-unit>
+      <trans-unit id="NEW" xml:space="preserve">
+        <source>NEW</source>
+        <target state="translated">NOVO</target>
+        <note/>
       </trans-unit>
       <trans-unit id="NS" translate="no" xml:space="preserve">
         <source>NS</source>
@@ -2088,15 +2449,22 @@ Por favor, envie para developer@rocketscience-it.nl!</target>
       </trans-unit>
       <trans-unit id="NSEC3" translate="no" xml:space="preserve">
         <source>NSEC3</source>
+        <target state="translated">NSEC3</target>
         <note>Used in the DNS record type picker on the 'check filtering' screen.</note>
       </trans-unit>
       <trans-unit id="NSEC3PARAM" translate="no" xml:space="preserve">
         <source>NSEC3PARAM</source>
+        <target state="translated">NSEC3PARAM</target>
         <note>Used in the DNS record type picker on the 'check filtering' screen.</note>
       </trans-unit>
       <trans-unit id="Name" xml:space="preserve">
         <source>Name</source>
         <target state="translated">Nome</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Need two instances" xml:space="preserve">
+        <source>Need two instances</source>
+        <target state="translated">Duas instâncias necessárias</target>
         <note/>
       </trans-unit>
       <trans-unit id="New Instance" xml:space="preserve">
@@ -2107,6 +2475,11 @@ Por favor, envie para developer@rocketscience-it.nl!</target>
       <trans-unit id="New OS versions are required for some of these new features. Please update your device!" xml:space="preserve">
         <source>New OS versions are required for some of these new features. Please update your device!</source>
         <target state="translated">Novas versões do sistema operacional são necessárias para alguns desses novos recursos. Atualize o seu dispositivo!</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="New!" xml:space="preserve">
+        <source>New!</source>
+        <target state="translated">Novo!</target>
         <note/>
       </trans-unit>
       <trans-unit id="NextDNS Remote" translate="no" xml:space="preserve">
@@ -2139,6 +2512,11 @@ Por favor, envie para developer@rocketscience-it.nl!</target>
         <target state="translated">Sem dados</target>
         <note/>
       </trans-unit>
+      <trans-unit id="No differences" xml:space="preserve">
+        <source>No differences</source>
+        <target state="translated">Sem diferenças</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="No instance." xml:space="preserve">
         <source>No instance.</source>
         <target state="translated">No Instância.</target>
@@ -2152,6 +2530,26 @@ Por favor, envie para developer@rocketscience-it.nl!</target>
       <trans-unit id="No recent queries found." xml:space="preserve">
         <source>No recent queries found.</source>
         <target state="translated">Nenhuma consulta recente encontrada.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Notification" xml:space="preserve">
+        <source>Notification</source>
+        <target state="translated">Notificação</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Notifications" xml:space="preserve">
+        <source>Notifications</source>
+        <target state="translated">Notificações</target>
+        <note>Used on the Notifications-settings screen.</note>
+      </trans-unit>
+      <trans-unit id="Notifications &amp; Alarms" xml:space="preserve">
+        <source>Notifications &amp; Alarms</source>
+        <target state="translated">Notificações e Alarmes</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Notifications..." xml:space="preserve">
+        <source>Notifications...</source>
+        <target state="translated">Notificações...</target>
         <note/>
       </trans-unit>
       <trans-unit id="OK" xml:space="preserve">
@@ -2183,6 +2581,11 @@ Por favor, envie para developer@rocketscience-it.nl!</target>
         <target state="translated">Duração da desativação com um toque</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Only on %@ (kept)" xml:space="preserve">
+        <source>Only on %@ (kept)</source>
+        <target state="translated">Somente em %@ (mantido)</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Open" xml:space="preserve">
         <source>Open</source>
         <target state="translated">Abrir</target>
@@ -2191,6 +2594,26 @@ Por favor, envie para developer@rocketscience-it.nl!</target>
       <trans-unit id="Open Settings" xml:space="preserve">
         <source>Open Settings</source>
         <target state="translated">Abrir Ajustes</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Open Settings to allow 'Time Sensitive Notifications'" xml:space="preserve">
+        <source>Open Settings to allow 'Time Sensitive Notifications'</source>
+        <target state="translated">Abrir Ajustes para permitir 'Notificações Urgentes'</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Open Settings to allow Alarms" xml:space="preserve">
+        <source>Open Settings to allow Alarms</source>
+        <target state="translated">Abrir Ajustes para permitir Alarmes</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Open Settings to allow banners" xml:space="preserve">
+        <source>Open Settings to allow banners</source>
+        <target state="translated">Abrir Ajustes para permitir banners</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Open Settings to allow notifications" xml:space="preserve">
+        <source>Open Settings to allow notifications</source>
+        <target state="translated">Abrir Ajustes para permitir notificações</target>
         <note/>
       </trans-unit>
       <trans-unit id="Open statistics." xml:space="preserve">
@@ -2223,6 +2646,16 @@ Por favor, envie para developer@rocketscience-it.nl!</target>
         <target state="translated">Outros</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Overwrite clients on %@?" xml:space="preserve">
+        <source>Overwrite clients on %@?</source>
+        <target state="translated">Substituir os clientes em %@?</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Overwrite settings on %@?" xml:space="preserve">
+        <source>Overwrite settings on %@?</source>
+        <target state="translated">Substituir as configurações em %@?</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="PTR" translate="no" xml:space="preserve">
         <source>PTR</source>
         <note>Used in the DNS record type picker on the 'check filtering' screen.</note>
@@ -2242,9 +2675,29 @@ Por favor, envie para developer@rocketscience-it.nl!</target>
         <target state="translated">Colar da área de transferência</target>
         <note>Accessibility label for the clipboard button</note>
       </trans-unit>
+      <trans-unit id="Pastel" xml:space="preserve">
+        <source>Pastel</source>
+        <target state="translated">Pastel</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Per-client configuration" xml:space="preserve">
+        <source>Per-client configuration</source>
+        <target state="translated">Configuração por cliente</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Pi-hole Remote" translate="no" xml:space="preserve">
         <source>Pi-hole Remote</source>
         <target state="translated">Controlo remoto Pi-hole</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Pick instance" xml:space="preserve">
+        <source>Pick instance</source>
+        <target state="translated">Escolher instância</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Pick what to copy from the source to the destination. You'll see a preview and confirmation before anything is changed." xml:space="preserve">
+        <source>Pick what to copy from the source to the destination. You'll see a preview and confirmation before anything is changed.</source>
+        <target state="translated">Escolha o que copiar da origem para o destino. Você verá uma visualização e confirmação antes que qualquer coisa seja alterada.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Please add an instance in the iPhone app." xml:space="preserve">
@@ -2255,6 +2708,11 @@ Por favor, envie para developer@rocketscience-it.nl!</target>
       <trans-unit id="Port" xml:space="preserve">
         <source>Port</source>
         <target state="translated">Porta</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Portrait" xml:space="preserve">
+        <source>Portrait</source>
+        <target state="translated">Retrato</target>
         <note/>
       </trans-unit>
       <trans-unit id="Powerful AdGuard Home Client &amp; DHCP management." xml:space="preserve">
@@ -2302,6 +2760,26 @@ Por favor, envie para developer@rocketscience-it.nl!</target>
         <target state="translated">Proteção</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Protection Enabled" xml:space="preserve">
+        <source>Protection Enabled</source>
+        <target state="translated">Proteção Ativada</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Protection Notifications" xml:space="preserve">
+        <source>Protection Notifications</source>
+        <target state="translated">Notificações de Proteção</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Protection has been re-enabled on all instances." xml:space="preserve">
+        <source>Protection has been re-enabled on all instances.</source>
+        <target state="translated">A proteção foi reativada em todas as instâncias.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Protection has been re-enabled." xml:space="preserve">
+        <source>Protection has been re-enabled.</source>
+        <target state="translated">A proteção foi reativada.</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Protocol" xml:space="preserve">
         <source>Protocol</source>
         <target state="translated">Protocolo</target>
@@ -2332,6 +2810,11 @@ Por favor, envie para developer@rocketscience-it.nl!</target>
         <target state="translated">Desative a proteção temporariamente de forma rápida.</target>
         <note>Displayed in the onboarding.</note>
       </trans-unit>
+      <trans-unit id="REMOVE" xml:space="preserve">
+        <source>REMOVE</source>
+        <target state="translated">REMOVER</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="RP" translate="no" xml:space="preserve">
         <source>RP</source>
         <note>Used in the DNS record type picker on the 'check filtering' screen.</note>
@@ -2348,6 +2831,11 @@ Por favor, envie para developer@rocketscience-it.nl!</target>
       <trans-unit id="Refresh" xml:space="preserve">
         <source>Refresh</source>
         <target state="translated">Atualizar</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Refresh interval" xml:space="preserve">
+        <source>Refresh interval</source>
+        <target state="translated">Intervalo de atualização</target>
         <note/>
       </trans-unit>
       <trans-unit id="Refreshing" xml:space="preserve">
@@ -2389,6 +2877,31 @@ Por favor, envie para developer@rocketscience-it.nl!</target>
         <source>Reorder by dragging, remove by swiping.</source>
         <target state="translated">Reordenar arrastando, remover deslizando.</target>
         <note>Used on the 'Add new disable preset' screen</note>
+      </trans-unit>
+      <trans-unit id="Replace" xml:space="preserve">
+        <source>Replace</source>
+        <target state="translated">Substituir</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Replace %@'s clients with the source's? Clients only on %@ will be deleted." xml:space="preserve">
+        <source>Replace %@'s clients with the source's? Clients only on %@ will be deleted.</source>
+        <target state="translated">Substituir os clientes de %1$@ pelos da origem? Os clientes somente em %2$@ serão excluídos.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Replace %@'s rewrites with the source's? Entries only on %@ will be deleted." xml:space="preserve">
+        <source>Replace %1$@'s rewrites with the source's? Entries only on %2$@ will be deleted.</source>
+        <target state="translated">Substituir as reescritas de %1$@ pelas da fonte? As entradas somente em %2$@ serão excluídas.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Replaces DHCP configuration on the destination. Static leases are not synced." xml:space="preserve">
+        <source>Replaces DHCP configuration on the destination. Static leases are not synced.</source>
+        <target state="translated">Substitui a configuração DHCP no destino. Concessões estáticas não são sincronizadas.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Replaces all DNS settings on the destination with those from the source." xml:space="preserve">
+        <source>Replaces all DNS settings on the destination with those from the source.</source>
+        <target state="translated">Substitui todas as configurações DNS no destino pelas da origem.</target>
+        <note/>
       </trans-unit>
       <trans-unit id="Request Pro beta access" xml:space="preserve">
         <source>Request Pro beta access</source>
@@ -2479,6 +2992,11 @@ Por favor, envie para developer@rocketscience-it.nl!</target>
         <target state="translated">Seleccionado</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Send Notifications" xml:space="preserve">
+        <source>Send Notifications</source>
+        <target state="translated">Enviar Notificações</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Separate cards and charts" xml:space="preserve">
         <source>Separate cards and charts</source>
         <target state="translated">Cartões e gráficos separados</target>
@@ -2502,6 +3020,21 @@ Por favor, envie para developer@rocketscience-it.nl!</target>
       <trans-unit id="Settings" xml:space="preserve">
         <source>Settings</source>
         <target state="translated">Ajustes</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Share" xml:space="preserve">
+        <source>Share</source>
+        <target state="translated">Compartilhar</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Share Statistics" xml:space="preserve">
+        <source>Share Statistics</source>
+        <target state="translated">Compartilhar estatísticas</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Sharing statistics is not available on this platform." xml:space="preserve">
+        <source>Sharing statistics is not available on this platform.</source>
+        <target state="translated">O compartilhamento de estatísticas não está disponível nesta plataforma.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Shopping" xml:space="preserve">
@@ -2579,6 +3112,11 @@ Por favor, envie para developer@rocketscience-it.nl!</target>
         <target state="translated">Mostrar mais...</target>
         <note>Used on the Statistics-screen.</note>
       </trans-unit>
+      <trans-unit id="Show share button" xml:space="preserve">
+        <source>Show share button</source>
+        <target state="translated">Mostrar botão de compartilhar</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Show version" xml:space="preserve">
         <source>Show version</source>
         <target state="translated">Mostrar versão</target>
@@ -2614,6 +3152,11 @@ Por favor, envie para developer@rocketscience-it.nl!</target>
         <target state="translated">Algo deu errado: %@</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Source" xml:space="preserve">
+        <source>Source</source>
+        <target state="translated">Origem</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Specify which instance to control." xml:space="preserve">
         <source>Specify which instance to control.</source>
         <target state="translated">Especifique qual instância controlar.</target>
@@ -2624,6 +3167,11 @@ Por favor, envie para developer@rocketscience-it.nl!</target>
         <target state="translated">Especifique quais serviços alternar.</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Square" xml:space="preserve">
+        <source>Square</source>
+        <target state="translated">Quadrado</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Statistics" xml:space="preserve">
         <source>Statistics</source>
         <target state="translated">Estatísticas</target>
@@ -2632,6 +3180,16 @@ Por favor, envie para developer@rocketscience-it.nl!</target>
       <trans-unit id="Status" xml:space="preserve">
         <source>Status</source>
         <target state="translated">Situação</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Status, interval, custom rules and block/allow lists" xml:space="preserve">
+        <source>Status, interval, custom rules and block/allow lists</source>
+        <target state="translated">Status, intervalo, regras personalizadas e listas de bloqueio/permissão</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Stop" xml:space="preserve">
+        <source>Stop</source>
+        <target state="translated">Parar</target>
         <note/>
       </trans-unit>
       <trans-unit id="Stop Live Activity" xml:space="preserve">
@@ -2669,6 +3227,11 @@ Por favor, envie para developer@rocketscience-it.nl!</target>
         <target state="translated">Apoio</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Swap source and destination" xml:space="preserve">
+        <source>Swap source and destination</source>
+        <target state="translated">Trocar origem e destino</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Switches to 'Away' when not connected to Wi-Fi SSID: %@" xml:space="preserve">
         <source>Switches to 'Away' when not connected to Wi-Fi SSID: %@</source>
         <target state="translated">Muda para 'Ausente' quando não conectado ao SSID Wi-Fi: %@</target>
@@ -2677,6 +3240,36 @@ Por favor, envie para developer@rocketscience-it.nl!</target>
       <trans-unit id="Switches to 'Home' when connected to Wi-Fi SSID: %@" xml:space="preserve">
         <source>Switches to 'Home' when connected to Wi-Fi SSID: %@</source>
         <target state="translated">Muda para 'Casa' quando conectado ao SSID Wi-Fi: %@</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Sync" xml:space="preserve">
+        <source>Sync</source>
+        <target state="translated">Sincronizar</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Sync Instances" xml:space="preserve">
+        <source>Sync Instances</source>
+        <target state="translated">Sincronizar instâncias</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Sync failed." xml:space="preserve">
+        <source>Sync failed.</source>
+        <target state="translated">A sincronização falhou.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Sync to %@" xml:space="preserve">
+        <source>Sync to %@</source>
+        <target state="translated">Sincronizar com %@</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Syncing…" xml:space="preserve">
+        <source>Syncing…</source>
+        <target state="translated">Sincronizando…</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="System Settings" xml:space="preserve">
+        <source>System Settings</source>
+        <target state="translated">Ajustes do Sistema</target>
         <note/>
       </trans-unit>
       <trans-unit id="TA" translate="no" xml:space="preserve">
@@ -2706,6 +3299,7 @@ Por favor, envie para developer@rocketscience-it.nl!</target>
       </trans-unit>
       <trans-unit id="Tabiko - Japan Journey Log" translate="no" xml:space="preserve">
         <source>Tabiko - Japan Journey Log</source>
+        <target state="translated">Tabiko - Japan Journey Log</target>
         <note/>
       </trans-unit>
       <trans-unit id="Take AdGuard Home Remote to the next level &amp; support future developement." xml:space="preserve">
@@ -2721,6 +3315,11 @@ Por favor, envie para developer@rocketscience-it.nl!</target>
       <trans-unit id="Target" xml:space="preserve">
         <source>Target</source>
         <target state="translated">Alvo</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Temporarily disabled protection? Get notified when it's re-enabled. Use notification actions to quickly extend the disabled period." xml:space="preserve">
+        <source>Temporarily disabled protection? Get notified when it's re-enabled. Use notification actions to quickly extend the disabled period.</source>
+        <target state="translated">Proteção temporariamente desativada? Receba uma notificação quando for reativada. Use as ações de notificação para prolongar rapidamente o período desativado.</target>
         <note/>
       </trans-unit>
       <trans-unit id="TestFlight Beta Access" xml:space="preserve">
@@ -2772,6 +3371,11 @@ Por favor, envie para developer@rocketscience-it.nl!</target>
         <source>This version requires iOS 16.2 &amp; watchOS 10.0 (or newer).</source>
         <target state="translated">Esta versão Requer iOS 16.2 e watchOS 10.0 (ou mais recente).</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="Time Sensitive notifications have the option to break through focus modes." xml:space="preserve">
+        <source>Time Sensitive notifications have the option to break through focus modes.</source>
+        <target state="translated">Notificações Urgentes podem ultrapassar os modos de Foco.</target>
+        <note>Used on the Notifications-settings screen.</note>
       </trans-unit>
       <trans-unit id="To detect your Wi-Fi network name, Apple requires 'While Using App' location permission. This is a system requirement for reading Wi-Fi information.&#10;&#10;Your location is never stored or transmitted by AdGuard Home Remote." xml:space="preserve">
         <source>To detect your Wi-Fi network name, Apple requires 'While Using App' location permission. This is a system requirement for reading Wi-Fi information.
@@ -2857,6 +3461,11 @@ Sua localização nunca é armazenada ou transmitida pelo AdGuard Home Remote.</
         <target state="translated">Total: %@</target>
         <note/>
       </trans-unit>
+      <trans-unit id="UPDATE" xml:space="preserve">
+        <source>UPDATE</source>
+        <target state="translated">ATUALIZAR</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="URI" translate="no" xml:space="preserve">
         <source>URI</source>
         <note>Used in the DNS record type picker on the 'check filtering' screen.</note>
@@ -2896,6 +3505,16 @@ Sua localização nunca é armazenada ou transmitida pelo AdGuard Home Remote.</
         <target state="translated">Até amanhã</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Update interval (hours)" xml:space="preserve">
+        <source>Update interval (hours)</source>
+        <target state="translated">Intervalo de atualização (horas)</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Updates the destination with the source's status, interval, custom rules and filter lists." xml:space="preserve">
+        <source>Updates the destination with the source's status, interval, custom rules and filter lists.</source>
+        <target state="translated">Atualiza o destino com o status, intervalo, regras personalizadas e listas de filtros da origem.</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Upgrade to AGHR Pro to automatically use a different hostname/IP when away from home, for example in combination with a VPN." xml:space="preserve">
         <source>Upgrade to AGHR Pro to automatically use a different hostname/IP when away from home, for example in combination with a VPN.</source>
         <target state="translated">Faça upgrade para AGHR Pro para usar automaticamente um hostname/IP diferente quando estiver fora de casa, por exemplo, em combinação com uma VPN.</target>
@@ -2909,6 +3528,11 @@ Sua localização nunca é armazenada ou transmitida pelo AdGuard Home Remote.</
       <trans-unit id="Upstream IP" xml:space="preserve">
         <source>Upstream IP</source>
         <target state="translated">IP upstream</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Upstream, cache, blocking and security settings" xml:space="preserve">
+        <source>Upstream, cache, blocking and security settings</source>
+        <target state="translated">Configurações de upstream, cache, bloqueio e segurança</target>
         <note/>
       </trans-unit>
       <trans-unit id="Upstreams" xml:space="preserve">
@@ -2966,6 +3590,11 @@ Sua localização nunca é armazenada ou transmitida pelo AdGuard Home Remote.</
         <target state="translated">Bem-vindo!</target>
         <note>Onboarding subtitle.</note>
       </trans-unit>
+      <trans-unit id="What to sync" xml:space="preserve">
+        <source>What to sync</source>
+        <target state="translated">O que sincronizar</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Wi-Fi network name (SSID)" xml:space="preserve">
         <source>Wi-Fi network name (SSID)</source>
         <target state="translated">Nome da rede Wi-Fi (SSID)</target>
@@ -2975,6 +3604,21 @@ Sua localização nunca é armazenada ou transmitida pelo AdGuard Home Remote.</
         <source>Widgets &amp; Live Activity</source>
         <target state="translated">Widgets e Atividade ao Vivo</target>
         <note>Displayed in the onboarding.</note>
+      </trans-unit>
+      <trans-unit id="Will be added to %@" xml:space="preserve">
+        <source>Will be added to %@</source>
+        <target state="translated">Será adicionado a %@</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Will be removed from %@" xml:space="preserve">
+        <source>Will be removed from %@</source>
+        <target state="translated">Será removido de %@</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Will be updated on %@" xml:space="preserve">
+        <source>Will be updated on %@</source>
+        <target state="translated">Será atualizado em %@</target>
+        <note/>
       </trans-unit>
       <trans-unit id="You have purchased Pro" xml:space="preserve">
         <source>You have purchased Pro</source>
@@ -3601,6 +4245,11 @@ Segura</target>
       <trans-unit id="design_color_scheme_default" xml:space="preserve">
         <source>Default</source>
         <target state="translated">Padrão</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="design_color_scheme_earthy" xml:space="preserve">
+        <source>Earthy</source>
+        <target state="translated">Terroso</target>
         <note/>
       </trans-unit>
       <trans-unit id="design_color_scheme_pastel" xml:space="preserve">
@@ -5254,6 +5903,11 @@ Remoto Pro</target>
         <target state="translated">Bloqueado | Filtro</target>
         <note/>
       </trans-unit>
+      <trans-unit id="query_status_FilteredBlockedService" xml:space="preserve">
+        <source>Blocked | Service</source>
+        <target state="translated">Bloqueado | Serviço</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="query_status_FilteredBlockedService_%@" xml:space="preserve">
         <source>Blocked Service%@</source>
         <target state="translated">Serviço Bloqueado%@</target>
@@ -5584,21 +6238,6 @@ Remoto Pro</target>
         <target state="translated">Bloqueado</target>
         <note/>
       </trans-unit>
-      <trans-unit id="querylog_status-blocked_parental" xml:space="preserve">
-        <source>Blocked by parental filtering</source>
-        <target state="translated">Bloqueado por controle parental</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="querylog_status-blocked_safebrowsing" xml:space="preserve">
-        <source>Blocked by safe browsing</source>
-        <target state="translated">Bloqueado por navegação segura</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="querylog_status-blocked_services" xml:space="preserve">
-        <source>Blocked services</source>
-        <target state="translated">Serviços bloqueados</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="querylog_status-filtered" xml:space="preserve">
         <source>Filtered</source>
         <target state="translated">Filtrado</target>
@@ -5607,21 +6246,6 @@ Remoto Pro</target>
       <trans-unit id="querylog_status-processed" xml:space="preserve">
         <source>Processed</source>
         <target state="translated">Processado</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="querylog_status-rewritten" xml:space="preserve">
-        <source>Rewritten</source>
-        <target state="translated">Reescrito</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="querylog_status-safe_search" xml:space="preserve">
-        <source>Safe search</source>
-        <target state="translated">Busca segura</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="querylog_status-whitelisted" xml:space="preserve">
-        <source>Allowed</source>
-        <target state="translated">Permitido</target>
         <note/>
       </trans-unit>
       <trans-unit id="refresh" xml:space="preserve">
@@ -5758,11 +6382,6 @@ Meu principal objetivo é aprender: design, desenvolvimento, testes, suporte, pr
         <target state="translated">Serviços</target>
         <note/>
       </trans-unit>
-      <trans-unit id="settings" xml:space="preserve">
-        <source>Settings</source>
-        <target state="translated">Ajustes</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="settings_add-instance" xml:space="preserve">
         <source>Add Instance</source>
         <target state="translated">Adicionar Instância</target>
@@ -5806,11 +6425,6 @@ Meu principal objetivo é aprender: design, desenvolvimento, testes, suporte, pr
       <trans-unit id="settings_dns_rewrites" xml:space="preserve">
         <source>DNS Rewrites</source>
         <target state="translated">Reescritas DNS</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="settings_edit-instance" xml:space="preserve">
-        <source>Edit</source>
-        <target state="translated">Editar</target>
         <note/>
       </trans-unit>
       <trans-unit id="settings_edit_instance" xml:space="preserve">
@@ -6191,6 +6805,21 @@ Se você deseja dar uma gorjeta, por favor, baixe o aplicativo na App Store! Dep
       <trans-unit id="widget_enabled" xml:space="preserve">
         <source>Enabled</source>
         <target state="translated">Ativado</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="will be added to destination" xml:space="preserve">
+        <source>will be added to destination</source>
+        <target state="translated">será adicionado ao destino</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="will be removed from destination" xml:space="preserve">
+        <source>will be removed from destination</source>
+        <target state="translated">será removido do destino</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="will be updated on destination" xml:space="preserve">
+        <source>will be updated on destination</source>
+        <target state="translated">será atualizado no destino</target>
         <note/>
       </trans-unit>
       <trans-unit id="• Remove limits&#10;• Custom disable presets&#10;• Live query log&#10;• Manage all settings&#10;• Interactive widgets&#10;• Multiple Instances&#10;• And much more!" xml:space="preserve">

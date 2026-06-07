@@ -13,6 +13,9 @@
     "Expanded" : {
       "comment" : "Dashboard size type"
     },
+    "for_%@_minutes" : {
+
+    },
     "Invalid authentication or privacy setting." : {
 
     },
@@ -36,6 +39,9 @@
     },
     "Small cards, combined chart" : {
       "comment" : "Dashboard size type explainer"
+    },
+    "something_went_wrong" : {
+
     }
   },
   "version" : "1.0"

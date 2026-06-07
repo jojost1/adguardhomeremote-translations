@@ -7,6 +7,9 @@
     "%@" : {
       "shouldTranslate" : false
     },
+    "%@ - AdGuard Home Remote" : {
+      "comment" : "Title used as the share-sheet preview heading and the subject of an email when sharing an AdGuard Home stats image. The placeholder is the instance name, or 'AdGuard Home' when anonymise is enabled."
+    },
     "%@ %@" : {
       "localizations" : {
         "en" : {
@@ -23,6 +26,17 @@
     },
     "%@ entries" : {
       "comment" : "Used on the Statistics-screen in the preferences menu."
+    },
+    "%@, %@, %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@, %2$@, %3$@"
+          }
+        }
+      },
+      "shouldTranslate" : false
     },
     "%@ms" : {
       "comment" : "Used in the Query Log to display query duration like '5ms'."
@@ -149,6 +163,9 @@
     "A clean Anime & Manga tracker app, using the MyAnimeList API." : {
       "comment" : "Subtitle under 'ManGo' app on the Made by RocketScience screen."
     },
+    "A standard notification will appear when protection re-enables." : {
+      "comment" : "Used on the Notifications-settings screen."
+    },
     "AAAA" : {
       "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
       "shouldTranslate" : false
@@ -236,10 +253,16 @@
         }
       }
     },
+    "ADD" : {
+
+    },
     "Add '%@'" : {
       "comment" : "Used on the 'Add new disable preset' screen, e.g. 'Add 30 seconds'"
     },
     "Add 5 minutes" : {
+
+    },
+    "Add a second instance to sync settings between them." : {
 
     },
     "Add an AdGuard Home instance using the iOS or macOS app." : {
@@ -257,6 +280,12 @@
     "Add new preset" : {
       "comment" : "Used on the 'Add new disable preset' screen"
     },
+    "Add the missing clients to %@ and update the ones whose settings differ?" : {
+
+    },
+    "Add the missing rewrites to %@?" : {
+
+    },
     "Add the Wi-Fi networks where the 'Home Connection' settings (local IP) should be used." : {
 
     },
@@ -270,6 +299,12 @@
       "comment" : "Used on the 'Add new disable preset' screen"
     },
     "Additional info" : {
+
+    },
+    "Adds clients from the source that don't exist on the destination, and updates same-named clients whose settings differ. Nothing is deleted." : {
+
+    },
+    "Adds entries from the source that don't exist on the destination. Nothing is deleted." : {
 
     },
     "AdGuard Home Remote" : {
@@ -298,6 +333,9 @@
       "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
       "shouldTranslate" : false
     },
+    "After sync" : {
+
+    },
     "AGHR Pro" : {
       "shouldTranslate" : false
     },
@@ -305,6 +343,18 @@
 
     },
     "AGHR+ is required to use this feature." : {
+
+    },
+    "Alarm" : {
+
+    },
+    "Alarms require AGHR+." : {
+      "comment" : "Used on the Notifications-settings screen."
+    },
+    "Alarms take over the screen when protection re-enables, with sound that ignores silent mode." : {
+      "comment" : "Used on the Notifications-settings screen."
+    },
+    "Alert Style" : {
 
     },
     "all" : {
@@ -320,6 +370,9 @@
     "All" : {
 
     },
+    "All instances" : {
+
+    },
     "all_instances" : {
       "localizations" : {
         "en" : {
@@ -330,6 +383,12 @@
         }
       }
     },
+    "Allow list changes" : {
+
+    },
+    "Allow lists" : {
+
+    },
     "Allow Location Access" : {
 
     },
@@ -338,6 +397,9 @@
     },
     "Always" : {
       "comment" : "Shown next to 'Pause Schedule' on the Filtering settings screen, when there are no active schedules."
+    },
+    "Anonymise" : {
+
     },
     "APL" : {
       "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
@@ -401,6 +463,9 @@
     "Artificial intelligence" : {
 
     },
+    "Aspect ratio" : {
+
+    },
     "Auto-refresh" : {
 
     },
@@ -440,6 +505,12 @@
       "comment" : "Chart type."
     },
     "Block" : {
+
+    },
+    "Block list changes" : {
+
+    },
+    "Block lists" : {
 
     },
     "Block or unblock services on your AdGuard Home. (Requires AGHR+)" : {
@@ -709,6 +780,16 @@
     "Check if a host name is filtered." : {
 
     },
+    "Classic" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Classic"
+          }
+        }
+      }
+    },
     "Client identifier" : {
 
     },
@@ -778,6 +859,12 @@
           }
         }
       }
+    },
+    "Clients" : {
+
+    },
+    "Clients are matched by name. A same-named client whose settings differ (IDs, tags, filtering, blocked services, upstreams...) is updated, including its IDs. Only persistent clients are synced. Auto-discovered clients and the allowed/disallowed/blocked access list are not touched." : {
+
     },
     "clients_disallowed" : {
       "localizations" : {
@@ -1086,6 +1173,19 @@
       "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
       "shouldTranslate" : false
     },
+    "Color Scheme" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Color Scheme"
+          }
+        }
+      }
+    },
+    "Coming soon" : {
+
+    },
     "Compact" : {
       "comment" : "Dashboard size type"
     },
@@ -1110,9 +1210,21 @@
     "Copy host" : {
 
     },
+    "Couldn't check" : {
+
+    },
+    "Couldn't load clients from one or both instances." : {
+
+    },
+    "Couldn't load settings from one or both instances." : {
+
+    },
     "CSYNC" : {
       "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
       "shouldTranslate" : false
+    },
+    "Currently" : {
+
     },
     "custom" : {
       "localizations" : {
@@ -1124,11 +1236,20 @@
         }
       }
     },
+    "Custom DNS rewrite entries" : {
+
+    },
     "Custom Presets" : {
+
+    },
+    "Custom rules" : {
 
     },
     "Customize tint & icon" : {
       "comment" : "Used on the pro purchase screen."
+    },
+    "Dark background" : {
+
     },
     "Dashboard" : {
 
@@ -1379,6 +1500,16 @@
     },
     "Dating services" : {
 
+    },
+    "Default" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Default"
+          }
+        }
+      }
     },
     "Default count" : {
 
@@ -1639,6 +1770,16 @@
         }
       }
     },
+    "design_color_scheme_earthy" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Earthy"
+          }
+        }
+      }
+    },
     "design_color_scheme_pastel" : {
       "localizations" : {
         "en" : {
@@ -1669,12 +1810,28 @@
         }
       }
     },
+    "Destination" : {
+
+    },
     "DHCID" : {
       "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
       "shouldTranslate" : false
     },
     "DHCP & DNS" : {
 
+    },
+    "DHCP settings" : {
+
+    },
+    "DHCP settings from %@ will overwrite those on %@. This can't be undone." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "DHCP settings from %1$@ will overwrite those on %2$@. This can't be undone."
+          }
+        }
+      }
     },
     "dhcp_add_client_with_ip" : {
       "localizations" : {
@@ -2099,6 +2256,21 @@
         }
       }
     },
+    "Differences" : {
+
+    },
+    "Disable 5 more minutes" : {
+
+    },
+    "Disable for 1 minute" : {
+
+    },
+    "Disable for 5 minutes" : {
+
+    },
+    "Disable indefinitely" : {
+
+    },
     "disable_for" : {
       "localizations" : {
         "en" : {
@@ -2175,6 +2347,19 @@
     },
     "DNS Rewrites" : {
 
+    },
+    "DNS settings" : {
+
+    },
+    "DNS settings from %@ will overwrite those on %@. This can't be undone." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "DNS settings from %1$@ will overwrite those on %2$@. This can't be undone."
+          }
+        }
+      }
     },
     "dns_access_settings" : {
       "localizations" : {
@@ -2896,6 +3081,9 @@
         }
       }
     },
+    "Done" : {
+
+    },
     "DS" : {
       "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
       "shouldTranslate" : false
@@ -2905,6 +3093,16 @@
     },
     "Duration Presets" : {
 
+    },
+    "Earthy" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Earthy"
+          }
+        }
+      }
     },
     "edit" : {
       "localizations" : {
@@ -2968,6 +3166,9 @@
     "Enabled" : {
 
     },
+    "Enabling notifications requires AGHR+." : {
+      "comment" : "Used on the Notifications-settings screen."
+    },
     "Enjoy great widgets and a Live Activity when disabling protection." : {
       "comment" : "Displayed in the onboarding."
     },
@@ -2992,7 +3193,19 @@
       "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
       "shouldTranslate" : false
     },
+    "Every 1 second" : {
+
+    },
+    "Every 5 seconds" : {
+
+    },
     "Every 10 seconds" : {
+
+    },
+    "Every 30 seconds" : {
+
+    },
+    "Every 60 seconds" : {
 
     },
     "example.com" : {
@@ -3009,6 +3222,22 @@
     },
     "Feature Overview" : {
       "comment" : "Used on the pro purchase screen."
+    },
+    "Filtering" : {
+
+    },
+    "Filtering enabled" : {
+
+    },
+    "Filtering settings from %@ will overwrite those on %@. This can't be undone." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Filtering settings from %1$@ will overwrite those on %2$@. This can't be undone."
+          }
+        }
+      }
     },
     "filtering_addfilter_allowlist" : {
       "localizations" : {
@@ -3707,6 +3936,16 @@
     "Filters: %@" : {
 
     },
+    "For any reason" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "For any reason"
+          }
+        }
+      }
+    },
     "for_%lld_hour" : {
       "localizations" : {
         "en" : {
@@ -3815,6 +4054,9 @@
     "Free" : {
       "comment" : "Used on the pro purchase screen."
     },
+    "Free on the App Store" : {
+
+    },
     "Full Color" : {
 
     },
@@ -3850,6 +4092,9 @@
           }
         }
       }
+    },
+    "Hides instance name" : {
+
     },
     "HINFO" : {
       "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
@@ -3900,6 +4145,12 @@
 
     },
     "important" : {
+
+    },
+    "In sync" : {
+
+    },
+    "Include chart" : {
 
     },
     "indefinitely" : {
@@ -4078,6 +4329,12 @@
     "Interactive Widgets" : {
       "comment" : "Used on the pro purchase screen."
     },
+    "Interface name is copied as-is. Make sure it exists on the destination." : {
+
+    },
+    "Interface, IPv4 and IPv6 ranges" : {
+
+    },
     "Invalid authentication or privacy setting." : {
 
     },
@@ -4087,6 +4344,9 @@
     "IPSECKEY" : {
       "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
       "shouldTranslate" : false
+    },
+    "KEEP" : {
+
     },
     "key" : {
       "comment" : "Placeholder of the 'custom header key' textfield in instance settings."
@@ -4098,6 +4358,9 @@
     "KX" : {
       "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
       "shouldTranslate" : false
+    },
+    "Landscape" : {
+
     },
     "last 3 days" : {
 
@@ -4209,6 +4472,12 @@
     "Made with ❤️ by one person in 🇳🇱" : {
       "comment" : "Used on the pro purchase screen."
     },
+    "Makes the destination identical to the source. Entries only on the destination will be deleted." : {
+
+    },
+    "Makes the destination's clients identical to the source. Clients only on the destination will be deleted." : {
+
+    },
     "malware" : {
       "localizations" : {
         "en" : {
@@ -4250,7 +4519,16 @@
     "ManGo - Anime & Manga Tracker" : {
 
     },
+    "Mark as 'Time Sensitive'" : {
+
+    },
+    "Merge" : {
+
+    },
     "Messaging services" : {
+
+    },
+    "Mode" : {
 
     },
     "Monitor real-time electricity and gas prices in many European countries." : {
@@ -4468,6 +4746,9 @@
       "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
       "shouldTranslate" : false
     },
+    "My AdGuard Home stats, shared with AdGuard Home Remote https://apps.apple.com/app/id1543143740" : {
+      "comment" : "Pre-filled message body when sharing an AdGuard Home stats image to apps that accept text (Messages, Mail, social apps). Includes the App Store link as a soft CTA."
+    },
     "name" : {
       "localizations" : {
         "en" : {
@@ -4485,6 +4766,9 @@
       "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
       "shouldTranslate" : false
     },
+    "Need two instances" : {
+
+    },
     "new" : {
       "localizations" : {
         "en" : {
@@ -4495,10 +4779,16 @@
         }
       }
     },
+    "NEW" : {
+
+    },
     "New Instance" : {
 
     },
     "New OS versions are required for some of these new features. Please update your device!" : {
+
+    },
+    "New!" : {
 
     },
     "NextDNS Remote" : {
@@ -4508,6 +4798,9 @@
 
     },
     "No data" : {
+
+    },
+    "No differences" : {
 
     },
     "No instance." : {
@@ -4548,6 +4841,18 @@
           }
         }
       }
+    },
+    "Notification" : {
+
+    },
+    "Notifications" : {
+      "comment" : "Used on the Notifications-settings screen."
+    },
+    "Notifications & Alarms" : {
+
+    },
+    "Notifications..." : {
+
     },
     "NS" : {
       "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
@@ -4631,10 +4936,25 @@
         }
       }
     },
+    "Only on %@ (kept)" : {
+
+    },
     "Open" : {
 
     },
     "Open Settings" : {
+
+    },
+    "Open Settings to allow 'Time Sensitive Notifications'" : {
+
+    },
+    "Open Settings to allow Alarms" : {
+
+    },
+    "Open Settings to allow banners" : {
+
+    },
+    "Open Settings to allow notifications" : {
 
     },
     "Open statistics." : {
@@ -4679,6 +4999,12 @@
     "Other" : {
 
     },
+    "Overwrite clients on %@?" : {
+
+    },
+    "Overwrite settings on %@?" : {
+
+    },
     "Parental" : {
 
     },
@@ -4688,13 +5014,35 @@
     "Paste from clipboard" : {
       "comment" : "Accessibility label for the clipboard button"
     },
+    "Pastel" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pastel"
+          }
+        }
+      }
+    },
+    "Per-client configuration" : {
+
+    },
     "Pi-hole Remote" : {
       "shouldTranslate" : false
+    },
+    "Pick instance" : {
+
+    },
+    "Pick what to copy from the source to the destination. You'll see a preview and confirmation before anything is changed." : {
+
     },
     "Please add an instance in the iPhone app." : {
 
     },
     "Port" : {
+
+    },
+    "Portrait" : {
 
     },
     "Powerful AdGuard Home Client & DHCP management." : {
@@ -5165,6 +5513,18 @@
     "Protection" : {
 
     },
+    "Protection Enabled" : {
+
+    },
+    "Protection has been re-enabled on all instances." : {
+
+    },
+    "Protection has been re-enabled." : {
+
+    },
+    "Protection Notifications" : {
+
+    },
     "protection_disabled" : {
       "localizations" : {
         "en" : {
@@ -5326,6 +5686,16 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Blocked | Filter"
+          }
+        }
+      }
+    },
+    "query_status_FilteredBlockedService" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Blocked | Service"
           }
         }
       }
@@ -5996,36 +6366,6 @@
         }
       }
     },
-    "querylog_status-blocked_parental" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Blocked by parental filtering"
-          }
-        }
-      }
-    },
-    "querylog_status-blocked_safebrowsing" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Blocked by safe browsing"
-          }
-        }
-      }
-    },
-    "querylog_status-blocked_services" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Blocked services"
-          }
-        }
-      }
-    },
     "querylog_status-filtered" : {
       "localizations" : {
         "en" : {
@@ -6042,36 +6382,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Processed"
-          }
-        }
-      }
-    },
-    "querylog_status-rewritten" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Rewritten"
-          }
-        }
-      }
-    },
-    "querylog_status-safe_search" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Safe search"
-          }
-        }
-      }
-    },
-    "querylog_status-whitelisted" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Allowed"
           }
         }
       }
@@ -6093,6 +6403,9 @@
       }
     },
     "Refresh" : {
+
+    },
+    "Refresh interval" : {
 
     },
     "Refreshing" : {
@@ -6120,6 +6433,9 @@
     "Remove" : {
 
     },
+    "REMOVE" : {
+
+    },
     "Remove Away Connection" : {
 
     },
@@ -6128,6 +6444,28 @@
     },
     "Reorder by dragging, remove by swiping." : {
       "comment" : "Used on the 'Add new disable preset' screen"
+    },
+    "Replace" : {
+
+    },
+    "Replace %@'s clients with the source's? Clients only on %@ will be deleted." : {
+
+    },
+    "Replace %@'s rewrites with the source's? Entries only on %@ will be deleted." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Replace %1$@'s rewrites with the source's? Entries only on %2$@ will be deleted."
+          }
+        }
+      }
+    },
+    "Replaces all DNS settings on the destination with those from the source." : {
+
+    },
+    "Replaces DHCP configuration on the destination. Static leases are not synced." : {
+
     },
     "Request Pro beta access" : {
 
@@ -6406,6 +6744,9 @@
     "Selected" : {
 
     },
+    "Send Notifications" : {
+
+    },
     "Separate cards and charts" : {
       "comment" : "Dashboard size type explainer"
     },
@@ -6427,17 +6768,6 @@
     },
     "Services" : {
 
-    },
-    "settings" : {
-      "extractionState" : "stale",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Settings"
-          }
-        }
-      }
     },
     "Settings" : {
 
@@ -6539,17 +6869,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Edit Instance"
-          }
-        }
-      }
-    },
-    "settings_edit-instance" : {
-      "extractionState" : "stale",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Edit"
           }
         }
       }
@@ -6892,6 +7211,15 @@
         }
       }
     },
+    "Share" : {
+
+    },
+    "Share Statistics" : {
+
+    },
+    "Sharing statistics is not available on this platform." : {
+
+    },
     "Shopping" : {
 
     },
@@ -6935,6 +7263,9 @@
       "comment" : "Used on the Statistics-screen."
     },
     "Show Onboarding" : {
+
+    },
+    "Show share button" : {
 
     },
     "Show version" : {
@@ -7010,10 +7341,16 @@
         }
       }
     },
+    "Source" : {
+
+    },
     "Specify which instance to control." : {
 
     },
     "Specify which service(s) to toggle." : {
+
+    },
+    "Square" : {
 
     },
     "SRV" : {
@@ -7038,6 +7375,12 @@
       }
     },
     "Status" : {
+
+    },
+    "Status, interval, custom rules and block/allow lists" : {
+
+    },
+    "Stop" : {
 
     },
     "Stop Live Activity" : {
@@ -7065,10 +7408,31 @@
       "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
       "shouldTranslate" : false
     },
+    "Swap source and destination" : {
+
+    },
     "Switches to 'Away' when not connected to Wi-Fi SSID: %@" : {
 
     },
     "Switches to 'Home' when connected to Wi-Fi SSID: %@" : {
+
+    },
+    "Sync" : {
+
+    },
+    "Sync failed." : {
+
+    },
+    "Sync Instances" : {
+
+    },
+    "Sync to %@" : {
+
+    },
+    "Syncing…" : {
+
+    },
+    "System Settings" : {
 
     },
     "TA" : {
@@ -7122,6 +7486,9 @@
     "Target" : {
 
     },
+    "Temporarily disabled protection? Get notified when it's re-enabled. Use notification actions to quickly extend the disabled period." : {
+
+    },
     "TestFlight access" : {
       "comment" : "Used on the pro purchase screen."
     },
@@ -7151,6 +7518,9 @@
     },
     "This version requires iOS 16.2 & watchOS 10.0 (or newer)." : {
 
+    },
+    "Time Sensitive notifications have the option to break through focus modes." : {
+      "comment" : "Used on the Notifications-settings screen."
     },
     "tipjar_blush" : {
       "localizations" : {
@@ -7436,6 +7806,15 @@
         }
       }
     },
+    "UPDATE" : {
+
+    },
+    "Update interval (hours)" : {
+
+    },
+    "Updates the destination with the source's status, interval, custom rules and filter lists." : {
+
+    },
     "Upgrade to AGHR Pro to automatically use a different hostname/IP when away from home, for example in combination with a VPN." : {
 
     },
@@ -7443,6 +7822,9 @@
 
     },
     "Upstream IP" : {
+
+    },
+    "Upstream, cache, blocking and security settings" : {
 
     },
     "Upstreams" : {
@@ -7518,6 +7900,9 @@
     },
     "Welcome!" : {
       "comment" : "Onboarding subtitle."
+    },
+    "What to sync" : {
+
     },
     "Wi-Fi network name (SSID)" : {
 
@@ -7605,6 +7990,24 @@
     },
     "Widgets & Live Activity" : {
       "comment" : "Displayed in the onboarding."
+    },
+    "Will be added to %@" : {
+
+    },
+    "will be added to destination" : {
+
+    },
+    "Will be removed from %@" : {
+
+    },
+    "will be removed from destination" : {
+
+    },
+    "Will be updated on %@" : {
+
+    },
+    "will be updated on destination" : {
+
     },
     "You have purchased Pro" : {
       "comment" : "Used on the pro purchase screen."
