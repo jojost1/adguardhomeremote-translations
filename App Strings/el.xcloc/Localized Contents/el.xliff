@@ -1101,6 +1101,11 @@
         <target state="translated">Λειτουργία 'Προσθήκη 5 λεπτών'</target>
         <note>Used on the pro purchase screen.</note>
       </trans-unit>
+      <trans-unit id="0...8760" xml:space="preserve">
+        <source>0...8760</source>
+        <target state="translated">0...8760</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="1h" xml:space="preserve">
         <source>1 hour</source>
         <target state="translated">1 ώρα</target>
@@ -1184,9 +1189,14 @@
         <target state="translated">Μια καθαρή εφαρμογή παρακολούθησης Anime &amp; Manga, χρησιμοποιώντας το MyAnimeList API.</target>
         <note>Subtitle under 'ManGo' app on the Made by RocketScience screen.</note>
       </trans-unit>
-      <trans-unit id="A standard notification will appear when protection re-enables." xml:space="preserve">
-        <source>A standard notification will appear when protection re-enables.</source>
-        <target state="translated">Μια τυπική ειδοποίηση θα εμφανιστεί όταν η προστασία επανενεργοποιηθεί.</target>
+      <trans-unit id="A local hostname or private IP address is not reachable outside your home. Connect through a VPN such as WireGuard or Tailscale, then configure **Away Connection** so the app can use the VPN address away from your home Wi-Fi." xml:space="preserve">
+        <source>A local hostname or private IP address is not reachable outside your home. Connect through a VPN such as WireGuard or Tailscale, then configure **Away Connection** so the app can use the VPN address away from your home Wi-Fi.</source>
+        <target state="translated">Ένα τοπικό όνομα κεντρικού υπολογιστή ή μια ιδιωτική διεύθυνση IP δεν είναι προσβάσιμα εκτός σπιτιού. Συνδεθείτε μέσω VPN, όπως το WireGuard ή το Tailscale, και έπειτα ρυθμίστε τη **Σύνδεση εκτός σπιτιού**, ώστε η εφαρμογή να χρησιμοποιεί τη διεύθυνση VPN όταν βρίσκεστε μακριά από το οικιακό Wi-Fi.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="A quiet banner when protection re-enables. Respects silent mode and Focus filters, so it's easy to miss if you're not looking." xml:space="preserve">
+        <source>A quiet banner when protection re-enables. Respects silent mode and Focus filters, so it's easy to miss if you're not looking.</source>
+        <target state="translated">Ένα διακριτικό banner όταν η προστασία ενεργοποιείται ξανά. Σέβεται την αθόρυβη λειτουργία και τα φίλτρα Εστίασης, οπότε μπορεί εύκολα να σας διαφύγει αν δεν προσέχετε.</target>
         <note>Used on the Notifications-settings screen.</note>
       </trans-unit>
       <trans-unit id="AAAA" translate="no" xml:space="preserve">
@@ -1240,6 +1250,16 @@
         <target state="translated">Ενέργεια</target>
         <note/>
       </trans-unit>
+      <trans-unit id="AdGuard Home API Documentation" xml:space="preserve">
+        <source>AdGuard Home API Documentation</source>
+        <target state="translated">Τεκμηρίωση API του AdGuard Home</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="AdGuard Home Documentation" xml:space="preserve">
+        <source>AdGuard Home Documentation</source>
+        <target state="translated">Τεκμηρίωση του AdGuard Home</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="AdGuard Home Remote" xml:space="preserve">
         <source>AdGuard Home Remote</source>
         <target state="translated">AdGuard Home Remote</target>
@@ -1250,10 +1270,20 @@
         <target state="translated">AdGuard Home Remote Pro</target>
         <note>Used on the pro purchase screen.</note>
       </trans-unit>
+      <trans-unit id="AdGuard Home Remote connects to the same web interface you use in a browser. It needs the server address, the web interface port, and your AdGuard Home login details. This guide explains what to enter and how to solve common connection problems." xml:space="preserve">
+        <source>AdGuard Home Remote connects to the same web interface you use in a browser. It needs the server address, the web interface port, and your AdGuard Home login details. This guide explains what to enter and how to solve common connection problems.</source>
+        <target state="translated">Το AdGuard Home Remote συνδέεται στην ίδια διεπαφή ιστού που χρησιμοποιείτε σε ένα πρόγραμμα περιήγησης. Χρειάζεται τη διεύθυνση διακομιστή, τη θύρα της διεπαφής ιστού και τα στοιχεία σύνδεσής σας στο AdGuard Home. Αυτός ο οδηγός εξηγεί τι πρέπει να εισαγάγετε και πώς να επιλύσετε συνηθισμένα προβλήματα σύνδεσης.</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="AdGuard Home Remote is designed to protect your privacy and will never share any information with anyone." xml:space="preserve">
         <source>AdGuard Home Remote is designed to protect your privacy and will never share any information with anyone.</source>
         <target state="translated">Το AdGuard Home Remote έχει σχεδιαστεί για να προστατεύει το απόρρητό σας και δεν θα μοιραστεί ποτέ πληροφορίες με κανέναν.</target>
         <note>Displayed in the onboarding.</note>
+      </trans-unit>
+      <trans-unit id="AdGuard Home on GitHub" xml:space="preserve">
+        <source>AdGuard Home on GitHub</source>
+        <target state="translated">Το AdGuard Home στο GitHub</target>
+        <note/>
       </trans-unit>
       <trans-unit id="AdGuard Home v0.107.28 or higher is required for some of these new features. Please update!" xml:space="preserve">
         <source>AdGuard Home v0.107.28 or higher is required for some of these new features. Please update!</source>
@@ -1360,11 +1390,6 @@
         <target state="translated">Οι συναγερμοί απαιτούν AGHR+.</target>
         <note>Used on the Notifications-settings screen.</note>
       </trans-unit>
-      <trans-unit id="Alarms take over the screen when protection re-enables, with sound that ignores silent mode." xml:space="preserve">
-        <source>Alarms take over the screen when protection re-enables, with sound that ignores silent mode.</source>
-        <target state="translated">Οι συναγερμοί καταλαμβάνουν την οθόνη όταν η προστασία επανενεργοποιείται, με ήχο που αγνοεί τη σιωπηλή λειτουργία.</target>
-        <note>Used on the Notifications-settings screen.</note>
-      </trans-unit>
       <trans-unit id="Alert Style" xml:space="preserve">
         <source>Alert Style</source>
         <target state="translated">Στυλ Ειδοποίησης</target>
@@ -1418,6 +1443,11 @@
       <trans-unit id="Apple Watch" xml:space="preserve">
         <source>Apple Watch</source>
         <target state="translated">Apple Watch</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Apple devices reject certificates that are expired, untrusted, or issued for a different hostname. The hostname in the app must match a name on the certificate. For a private certificate authority, install its root certificate on this device and enable full trust in **Settings → General → About → Certificate Trust Settings**." xml:space="preserve">
+        <source>Apple devices reject certificates that are expired, untrusted, or issued for a different hostname. The hostname in the app must match a name on the certificate. For a private certificate authority, install its root certificate on this device and enable full trust in **Settings → General → About → Certificate Trust Settings**.</source>
+        <target state="translated">Οι συσκευές Apple απορρίπτουν πιστοποιητικά που έχουν λήξει, δεν είναι αξιόπιστα ή έχουν εκδοθεί για διαφορετικό όνομα κεντρικού υπολογιστή. Το όνομα κεντρικού υπολογιστή στην εφαρμογή πρέπει να αντιστοιχεί σε ένα όνομα του πιστοποιητικού. Για μια ιδιωτική αρχή πιστοποίησης, εγκαταστήστε το ριζικό πιστοποιητικό της σε αυτή τη συσκευή και ενεργοποιήστε την πλήρη αξιοπιστία στις **Ρυθμίσεις → Γενικά → Πληροφορίες → Ρυθμίσεις αξιοπιστίας πιστοποιητικών**.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Apply Pro license" xml:space="preserve">
@@ -1558,6 +1588,21 @@ Your default 'Home Connection' will then be used on home network(s) and on devic
         <target state="translated">Διαχείριση Λιστών Αποκλεισμού</target>
         <note>Displayed in the onboarding.</note>
       </trans-unit>
+      <trans-unit id="Blocks ads, trackers and other domains on your filter lists." xml:space="preserve">
+        <source>Blocks ads, trackers and other domains on your filter lists.</source>
+        <target state="translated">Αποκλείει διαφημίσεις, trackers και άλλα domains στις λίστες φίλτρων σας.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Blocks known malware and phishing websites." xml:space="preserve">
+        <source>Blocks known malware and phishing websites.</source>
+        <target state="translated">Αποκλείει γνωστό κακόβουλο λογισμικό και ιστότοπους phishing.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Breaks through Focus modes so the notification isn't silenced when Do Not Disturb is active." xml:space="preserve">
+        <source>Breaks through Focus modes so the notification isn't silenced when Do Not Disturb is active.</source>
+        <target state="translated">Παρακάμπτει τις λειτουργίες Εστίασης ώστε η ειδοποίηση να μην σιγάζεται όταν είναι ενεργή η λειτουργία Μην ενοχλείτε.</target>
+        <note>Used on the Notifications-settings screen.</note>
+      </trans-unit>
       <trans-unit id="Browse your DNS query log, see which domains are being queried and which are being blocked." xml:space="preserve">
         <source>Browse your DNS query log, see which domains are being queried and which are being blocked.</source>
         <target state="translated">Περιηγηθείτε στο αρχείο ερωτημάτων DNS, δείτε ποιοι τομείς ζητούνται και ποιοι αποκλείονται.</target>
@@ -1600,6 +1645,11 @@ Your default 'Home Connection' will then be used on home network(s) and on devic
       <trans-unit id="Card color" xml:space="preserve">
         <source>Card color</source>
         <target state="translated">Χρώμα κάρτας</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Certificate Errors on Apple Devices" xml:space="preserve">
+        <source>Certificate Errors on Apple Devices</source>
+        <target state="translated">Σφάλματα πιστοποιητικών σε συσκευές Apple</target>
         <note/>
       </trans-unit>
       <trans-unit id="Changing this setting requires a force restart of the app." xml:space="preserve">
@@ -1677,10 +1727,25 @@ Your default 'Home Connection' will then be used on home network(s) and on devic
         <target state="translated">Σύντομα</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Common Connection Issues" xml:space="preserve">
+        <source>Common Connection Issues</source>
+        <target state="translated">Συνηθισμένα προβλήματα σύνδεσης</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Compact" xml:space="preserve">
         <source>Compact</source>
         <target state="translated">Συμπαγές</target>
         <note>Dashboard size type</note>
+      </trans-unit>
+      <trans-unit id="Compare the complete browser address with the app settings. A redirect, reverse-proxy subpath, custom authentication page, or untrusted certificate can work differently from AdGuard Home's API. If a reverse proxy requires extra request headers, add them under **Custom Headers**." xml:space="preserve">
+        <source>Compare the complete browser address with the app settings. A redirect, reverse-proxy subpath, custom authentication page, or untrusted certificate can work differently from AdGuard Home's API. If a reverse proxy requires extra request headers, add them under **Custom Headers**.</source>
+        <target state="translated">Συγκρίνετε την πλήρη διεύθυνση του προγράμματος περιήγησης με τις ρυθμίσεις της εφαρμογής. Μια ανακατεύθυνση, μια υποδιαδρομή αντίστροφου διακομιστή μεσολάβησης, μια προσαρμοσμένη σελίδα ελέγχου ταυτότητας ή ένα μη αξιόπιστο πιστοποιητικό μπορεί να λειτουργούν διαφορετικά από το API του AdGuard Home. Αν ο αντίστροφος διακομιστής μεσολάβησης απαιτεί επιπλέον κεφαλίδες αιτήματος, προσθέστε τις στις **Προσαρμοσμένες κεφαλίδες**.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Connecting to AdGuard Home" xml:space="preserve">
+        <source>Connecting to AdGuard Home</source>
+        <target state="translated">Σύνδεση στο AdGuard Home</target>
+        <note/>
       </trans-unit>
       <trans-unit id="Connection" xml:space="preserve">
         <source>Connection</source>
@@ -1706,6 +1771,11 @@ Your default 'Home Connection' will then be used on home network(s) and on devic
         <source>Copy '%@'</source>
         <target state="translated">Αντιγραφή '%@'</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="Copy Email Address" xml:space="preserve">
+        <source>Copy Email Address</source>
+        <target state="translated">Αντιγραφή διεύθυνσης email</target>
+        <note>Displayed in an alert on the support screen when someone has no email client installed.</note>
       </trans-unit>
       <trans-unit id="Copy email" xml:space="preserve">
         <source>Copy email</source>
@@ -1862,6 +1932,11 @@ Your default 'Home Connection' will then be used on home network(s) and on devic
         <target state="translated">Προεπιλεγμένος αριθμός</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Default example: if Safari opens `http://192.168.1.10/`, enter host `192.168.1.10`, select HTTP, and use port `80`. Always use the actual LAN IP shown by your own setup." xml:space="preserve">
+        <source>Default example: if Safari opens `http://192.168.1.10/`, enter host `192.168.1.10`, select HTTP, and use port `80`. Always use the actual LAN IP shown by your own setup.</source>
+        <target state="translated">Προεπιλεγμένο παράδειγμα: αν το Safari ανοίγει το `http://192.168.1.10/`, εισαγάγετε ως κόμβο το `192.168.1.10`, επιλέξτε HTTP και χρησιμοποιήστε τη θύρα `80`. Χρησιμοποιείτε πάντα την πραγματική διεύθυνση LAN IP που εμφανίζει η δική σας ρύθμιση.</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Delete" xml:space="preserve">
         <source>Delete</source>
         <target state="translated">Διαγραφή</target>
@@ -1907,6 +1982,21 @@ Your default 'Home Connection' will then be used on home network(s) and on devic
         <target state="translated">Απενεργοποιημένο</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Dismiss" xml:space="preserve">
+        <source>Dismiss</source>
+        <target state="translated">Απόρριψη</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Do not port-forward the AdGuard Home admin interface directly to the public internet. Use a VPN or a carefully secured reverse proxy with HTTPS and strong authentication." xml:space="preserve">
+        <source>Do not port-forward the AdGuard Home admin interface directly to the public internet. Use a VPN or a carefully secured reverse proxy with HTTPS and strong authentication.</source>
+        <target state="translated">Μην προωθείτε τη θύρα της διεπαφής διαχείρισης του AdGuard Home απευθείας στο δημόσιο διαδίκτυο. Χρησιμοποιήστε VPN ή έναν προσεκτικά ασφαλισμένο αντίστροφο διακομιστή μεσολάβησης με HTTPS και ισχυρό έλεγχο ταυτότητας.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Do not run an unrestricted public DNS resolver. If the DNS service is internet-accessible, configure AdGuard Home's access settings, allowlists, encrypted DNS, and rate limiting." xml:space="preserve">
+        <source>Do not run an unrestricted public DNS resolver. If the DNS service is internet-accessible, configure AdGuard Home's access settings, allowlists, encrypted DNS, and rate limiting.</source>
+        <target state="translated">Μην εκτελείτε έναν δημόσιο επιλυτή DNS χωρίς περιορισμούς. Αν η υπηρεσία DNS είναι προσβάσιμη από το διαδίκτυο, ρυθμίστε τις επιλογές πρόσβασης, τις λίστες επιτρεπόμενων, το κρυπτογραφημένο DNS και τον περιορισμό ρυθμού του AdGuard Home.</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Done" xml:space="preserve">
         <source>Done</source>
         <target state="translated">Τέλος</target>
@@ -1931,6 +2021,11 @@ Your default 'Home Connection' will then be used on home network(s) and on devic
         <source>EUI64</source>
         <target state="translated">EUI64</target>
         <note>Used in the DNS record type picker on the 'check filtering' screen.</note>
+      </trans-unit>
+      <trans-unit id="Each button controls a different filtering feature for this server." xml:space="preserve">
+        <source>Each button controls a different filtering feature for this server.</source>
+        <target state="translated">Κάθε κουμπί ελέγχει μια διαφορετική λειτουργία φιλτραρίσματος για αυτόν τον διακομιστή.</target>
+        <note/>
       </trans-unit>
       <trans-unit id="Earthy" xml:space="preserve">
         <source>Earthy</source>
@@ -1986,6 +2081,11 @@ Your default 'Home Connection' will then be used on home network(s) and on devic
         <source>Enjoy great widgets and a Live Activity when disabling protection.</source>
         <target state="translated">Απολαύστε εξαιρετικά widgets και μια Ζωντανή Δραστηριότητα κατά την απενεργοποίηση της προστασίας.</target>
         <note>Displayed in the onboarding.</note>
+      </trans-unit>
+      <trans-unit id="Enter the update interval in hours (0–8760). 0 disables automatic updates." xml:space="preserve">
+        <source>Enter the update interval in hours (0–8760). 0 disables automatic updates.</source>
+        <target state="translated">Εισαγάγετε το διάστημα ενημέρωσης σε ώρες (0–8760). Το 0 απενεργοποιεί τις αυτόματες ενημερώσεις.</target>
+        <note/>
       </trans-unit>
       <trans-unit id="Error" xml:space="preserve">
         <source>Error</source>
@@ -2062,6 +2162,16 @@ Your default 'Home Connection' will then be used on home network(s) and on devic
         <target state="translated">Φίλτρα: %@</target>
         <note/>
       </trans-unit>
+      <trans-unit id="For a default installation, enter the LAN IP address of the device running AdGuard Home, without `http://`, a port, or a path. AdGuard Home does not assign a standard hostname. Use one of the network addresses shown when setup completes; do not enter the bind address `0.0.0.0`. Example: if setup opens `http://192.168.1.10/`, enter `192.168.1.10`. A fixed IP address or DHCP reservation is recommended." xml:space="preserve">
+        <source>For a default installation, enter the LAN IP address of the device running AdGuard Home, without `http://`, a port, or a path. AdGuard Home does not assign a standard hostname. Use one of the network addresses shown when setup completes; do not enter the bind address `0.0.0.0`. Example: if setup opens `http://192.168.1.10/`, enter `192.168.1.10`. A fixed IP address or DHCP reservation is recommended.</source>
+        <target state="translated">Για μια προεπιλεγμένη εγκατάσταση, εισαγάγετε τη διεύθυνση LAN IP της συσκευής που εκτελεί το AdGuard Home, χωρίς `http://`, θύρα ή διαδρομή. Το AdGuard Home δεν εκχωρεί τυπικό όνομα κεντρικού υπολογιστή. Χρησιμοποιήστε μία από τις διευθύνσεις δικτύου που εμφανίζονται όταν ολοκληρωθεί η ρύθμιση· μην εισαγάγετε τη διεύθυνση σύνδεσης `0.0.0.0`. Παράδειγμα: αν η ρύθμιση ανοίγει το `http://192.168.1.10/`, εισαγάγετε `192.168.1.10`. Συνιστάται σταθερή διεύθυνση IP ή κράτηση DHCP.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="For access away from home, a VPN is usually safer and easier than exposing the AdGuard Home web interface directly to the internet." xml:space="preserve">
+        <source>For access away from home, a VPN is usually safer and easier than exposing the AdGuard Home web interface directly to the internet.</source>
+        <target state="translated">Για πρόσβαση εκτός σπιτιού, ένα VPN είναι συνήθως ασφαλέστερο και ευκολότερο από την απευθείας έκθεση της διεπαφής ιστού του AdGuard Home στο διαδίκτυο.</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="For any reason" xml:space="preserve">
         <source>For any reason</source>
         <target state="translated">Για οποιονδήποτε λόγο</target>
@@ -2070,6 +2180,11 @@ Your default 'Home Connection' will then be used on home network(s) and on devic
       <trans-unit id="Force Watch Sync" xml:space="preserve">
         <source>Force Watch Sync</source>
         <target state="translated">Αναγκαστικός συγχρονισμός Watch</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Forces safe results in supported search engines and enables Restricted Mode on YouTube." xml:space="preserve">
+        <source>Forces safe results in supported search engines and enables Restricted Mode on YouTube.</source>
+        <target state="translated">Επιβάλλει ασφαλή αποτελέσματα σε υποστηριζόμενες μηχανές αναζήτησης και ενεργοποιεί τη λειτουργία περιορισμένης πρόσβασης στο YouTube.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Free" xml:space="preserve">
@@ -2107,6 +2222,31 @@ Your default 'Home Connection' will then be used on home network(s) and on devic
         <target state="translated">Αποκτήστε Pro</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Get notified the moment protection re-enables after a timed pause. Use notification actions to extend the pause directly from the lock screen." xml:space="preserve">
+        <source>Get notified the moment protection re-enables after a timed pause. Use notification actions to extend the pause directly from the lock screen.</source>
+        <target state="translated">Λάβετε ειδοποίηση τη στιγμή που η προστασία ενεργοποιείται ξανά μετά από μια χρονομετρημένη παύση. Χρησιμοποιήστε τις ενέργειες ειδοποίησης για να παρατείνετε την παύση απευθείας από την οθόνη κλειδώματος.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Give Feedback" xml:space="preserve">
+        <source>Give Feedback</source>
+        <target state="translated">Αποστολή σχολίων</target>
+        <note>Displayed in an alert on the support screen when someone has no email client installed.</note>
+      </trans-unit>
+      <trans-unit id="Got it" xml:space="preserve">
+        <source>Got it</source>
+        <target state="translated">Κατάλαβα</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Green means the layer is on, so those domains are blocked. Red means it's off, so those domains are allowed through. Tap a button to switch it." xml:space="preserve">
+        <source>Green means the layer is on, so those domains are blocked. Red means it's off, so those domains are allowed through. Tap a button to switch it.</source>
+        <target state="translated">Το πράσινο σημαίνει ότι το επίπεδο είναι ενεργό και αυτά τα domains αποκλείονται. Το κόκκινο σημαίνει ότι είναι ανενεργό και αυτά τα domains επιτρέπονται. Πατήστε ένα κουμπί για εναλλαγή.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Green vs red" xml:space="preserve">
+        <source>Green vs red</source>
+        <target state="translated">Πράσινο vs κόκκινο</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="HINFO" translate="no" xml:space="preserve">
         <source>HINFO</source>
         <note>Used in the DNS record type picker on the 'check filtering' screen.</note>
@@ -2120,9 +2260,39 @@ Your default 'Home Connection' will then be used on home network(s) and on devic
         <target state="translated">HTTP</target>
         <note/>
       </trans-unit>
+      <trans-unit id="HTTP (unencrypted)" xml:space="preserve">
+        <source>HTTP (unencrypted)</source>
+        <target state="translated">HTTP (χωρίς κρυπτογράφηση)</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="HTTP on port **80** is the default after completing the AdGuard Home setup wizard. It is the simplest option on a trusted home network. Do not use plain HTTP over the public internet." xml:space="preserve">
+        <source>HTTP on port **80** is the default after completing the AdGuard Home setup wizard. It is the simplest option on a trusted home network. Do not use plain HTTP over the public internet.</source>
+        <target state="translated">Το HTTP στη θύρα **80** είναι η προεπιλογή μετά την ολοκλήρωση του οδηγού ρύθμισης του AdGuard Home. Είναι η απλούστερη επιλογή σε ένα αξιόπιστο οικιακό δίκτυο. Μην χρησιμοποιείτε απλό HTTP μέσω του δημόσιου διαδικτύου.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="HTTP vs HTTPS" xml:space="preserve">
+        <source>HTTP vs HTTPS</source>
+        <target state="translated">HTTP και HTTPS</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="HTTPS" translate="no" xml:space="preserve">
         <source>HTTPS</source>
         <note>Used in the DNS record type picker on the 'check filtering' screen.</note>
+      </trans-unit>
+      <trans-unit id="HTTPS (encrypted)" xml:space="preserve">
+        <source>HTTPS (encrypted)</source>
+        <target state="translated">HTTPS (κρυπτογραφημένο)</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="HTTPS is not enabled by the initial setup wizard. Select it only after configuring TLS in AdGuard Home or in a reverse proxy; **443** is AdGuard Home's default HTTPS port when TLS is configured. The certificate must be trusted by this device and valid for the exact hostname you enter." xml:space="preserve">
+        <source>HTTPS is not enabled by the initial setup wizard. Select it only after configuring TLS in AdGuard Home or in a reverse proxy; **443** is AdGuard Home's default HTTPS port when TLS is configured. The certificate must be trusted by this device and valid for the exact hostname you enter.</source>
+        <target state="translated">Το HTTPS δεν ενεργοποιείται από τον αρχικό οδηγό ρύθμισης. Επιλέξτε το μόνο αφού ρυθμίσετε το TLS στο AdGuard Home ή σε έναν αντίστροφο διακομιστή μεσολάβησης· η **443** είναι η προεπιλεγμένη θύρα HTTPS του AdGuard Home όταν έχει ρυθμιστεί το TLS. Το πιστοποιητικό πρέπει να είναι αξιόπιστο για αυτή τη συσκευή και έγκυρο για το ακριβές όνομα κεντρικού υπολογιστή που εισάγετε.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Helps block adult websites for safer, family-friendly browsing." xml:space="preserve">
+        <source>Helps block adult websites for safer, family-friendly browsing.</source>
+        <target state="translated">Βοηθά στον αποκλεισμό ιστότοπων για ενήλικες για πιο ασφαλή, οικογενειακή περιήγηση.</target>
+        <note/>
       </trans-unit>
       <trans-unit id="Hides instance name" xml:space="preserve">
         <source>Hides instance name</source>
@@ -2133,6 +2303,15 @@ Your default 'Home Connection' will then be used on home network(s) and on devic
         <source>Home</source>
         <target state="translated">Σπίτι</target>
         <note>Placeholder for the name textfield on the instance settings screen.</note>
+      </trans-unit>
+      <trans-unit id="Home Assistant normally opens AdGuard Home through Ingress, which AdGuard Home Remote cannot use directly. In Home Assistant, go to **Settings &gt; Apps &gt; AdGuard Home &gt; Configuration &gt; Network** and assign a host port to **Web interface** (`80/tcp`), for example **3001**. Save and restart the AdGuard Home app.&#10;&#10;In AdGuard Home Remote, enter your Home Assistant device's LAN IP address or hostname and the port you assigned. Select HTTP or HTTPS to match the app's **SSL** option. Then sign in with your Home Assistant username and password. Do not use the Home Assistant Ingress or Cloud URL." xml:space="preserve">
+        <source>Home Assistant normally opens AdGuard Home through Ingress, which AdGuard Home Remote cannot use directly. In Home Assistant, go to **Settings &gt; Apps &gt; AdGuard Home &gt; Configuration &gt; Network** and assign a host port to **Web interface** (`80/tcp`), for example **3001**. Save and restart the AdGuard Home app.
+
+In AdGuard Home Remote, enter your Home Assistant device's LAN IP address or hostname and the port you assigned. Select HTTP or HTTPS to match the app's **SSL** option. Then sign in with your Home Assistant username and password. Do not use the Home Assistant Ingress or Cloud URL.</source>
+        <target state="translated">Το Home Assistant ανοίγει συνήθως το AdGuard Home μέσω Ingress, το οποίο δεν μπορεί να χρησιμοποιήσει απευθείας το AdGuard Home Remote. Στο Home Assistant, μεταβείτε στις **Ρυθμίσεις &gt; Εφαρμογές &gt; AdGuard Home &gt; Διαμόρφωση &gt; Δίκτυο** και αντιστοιχίστε μια θύρα κεντρικού υπολογιστή στη **Διεπαφή ιστού** (`80/tcp`), για παράδειγμα **3001**. Αποθηκεύστε και επανεκκινήστε την εφαρμογή AdGuard Home.
+
+Στο AdGuard Home Remote, εισαγάγετε τη διεύθυνση IP LAN ή το όνομα κεντρικού υπολογιστή της συσκευής Home Assistant και τη θύρα που αντιστοιχίσατε. Επιλέξτε HTTP ή HTTPS ώστε να ταιριάζει με την επιλογή **SSL** της εφαρμογής. Στη συνέχεια, συνδεθείτε με το όνομα χρήστη και τον κωδικό πρόσβασης του Home Assistant. Μη χρησιμοποιείτε τη διεύθυνση URL Ingress ή Cloud του Home Assistant.</target>
+        <note/>
       </trans-unit>
       <trans-unit id="Home Connection" xml:space="preserve">
         <source>Home Connection</source>
@@ -2164,6 +2343,11 @@ Your default 'Home Connection' will then be used on home network(s) and on devic
         <target state="translated">Όνομα κεντρικού υπολογιστή ή τομέα</target>
         <note/>
       </trans-unit>
+      <trans-unit id="I can't connect at all" xml:space="preserve">
+        <source>I can't connect at all</source>
+        <target state="translated">Δεν μπορώ να συνδεθώ καθόλου</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="I see you don't have an active mail client on your device, please mail me with the request to join the TestFlight including a screenshot of this Pro screen so I can see you have purchased Pro.&#10;&#10;Please mail it to developer@rocketscience-it.nl!" xml:space="preserve">
         <source>I see you don't have an active mail client on your device, please mail me with the request to join the TestFlight including a screenshot of this Pro screen so I can see you have purchased Pro.
 
@@ -2172,6 +2356,11 @@ Please mail it to developer@rocketscience-it.nl!</source>
 
 Παρακαλώ στείλτε το στο developer@rocketscience-it.nl!</target>
         <note>Used on the pro purchase screen.</note>
+      </trans-unit>
+      <trans-unit id="I'm using AdGuard Home through Home Assistant. How do I connect?" xml:space="preserve">
+        <source>I'm using AdGuard Home through Home Assistant. How do I connect?</source>
+        <target state="translated">Χρησιμοποιώ το AdGuard Home μέσω του Home Assistant. Πώς συνδέομαι;</target>
+        <note/>
       </trans-unit>
       <trans-unit id="IPSECKEY" translate="no" xml:space="preserve">
         <source>IPSECKEY</source>
@@ -2197,6 +2386,11 @@ Please mail it to developer@rocketscience-it.nl!</source>
         <target state="translated">Συμπερίληψη γραφήματος</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Included" xml:space="preserve">
+        <source>Included</source>
+        <target state="translated">Περιλαμβάνεται</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Indefinitely" xml:space="preserve">
         <source>Indefinitely</source>
         <target state="translated">Επ' αόριστον</target>
@@ -2205,6 +2399,11 @@ Please mail it to developer@rocketscience-it.nl!</source>
       <trans-unit id="Info" xml:space="preserve">
         <source>Info</source>
         <target state="translated">Πληροφορίες</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Install AdGuard Home updates regularly to receive security, compatibility, and stability fixes." xml:space="preserve">
+        <source>Install AdGuard Home updates regularly to receive security, compatibility, and stability fixes.</source>
+        <target state="translated">Εγκαθιστάτε τακτικά τις ενημερώσεις του AdGuard Home για διορθώσεις ασφάλειας, συμβατότητας και σταθερότητας.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Instance" xml:space="preserve">
@@ -2242,6 +2441,16 @@ Please mail it to developer@rocketscience-it.nl!</source>
         <target state="translated">Μη έγκυρο όνομα κεντρικού υπολογιστή ή θύρα.</target>
         <note/>
       </trans-unit>
+      <trans-unit id="It works at home but not when I'm away" xml:space="preserve">
+        <source>It works at home but not when I'm away</source>
+        <target state="translated">Λειτουργεί στο σπίτι αλλά όχι όταν λείπω</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="It works in Safari but not in the app" xml:space="preserve">
+        <source>It works in Safari but not in the app</source>
+        <target state="translated">Λειτουργεί στο Safari αλλά όχι στην εφαρμογή</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="KEEP" xml:space="preserve">
         <source>KEEP</source>
         <target state="translated">ΔΙΑΤΉΡΗΣΗ</target>
@@ -2254,6 +2463,16 @@ Please mail it to developer@rocketscience-it.nl!</source>
       <trans-unit id="KX" translate="no" xml:space="preserve">
         <source>KX</source>
         <note>Used in the DNS record type picker on the 'check filtering' screen.</note>
+      </trans-unit>
+      <trans-unit id="Keep AdGuard Home updated" xml:space="preserve">
+        <source>Keep AdGuard Home updated</source>
+        <target state="translated">Διατηρήστε ενημερωμένο το AdGuard Home</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Keep the web interface private" xml:space="preserve">
+        <source>Keep the web interface private</source>
+        <target state="translated">Διατηρήστε ιδιωτική τη διεπαφή ιστού</target>
+        <note/>
       </trans-unit>
       <trans-unit id="LOC" translate="no" xml:space="preserve">
         <source>LOC</source>
@@ -2273,6 +2492,11 @@ Please mail it to developer@rocketscience-it.nl!</source>
         <source>Learn More</source>
         <target state="translated">Μάθετε Περισσότερα</target>
         <note>Displayed in the onboarding.</note>
+      </trans-unit>
+      <trans-unit id="Learn how to connect and troubleshoot your instance" xml:space="preserve">
+        <source>Learn how to connect and troubleshoot your instance</source>
+        <target state="translated">Μάθετε πώς να συνδέσετε την εγκατάστασή σας και να αντιμετωπίσετε προβλήματα</target>
+        <note/>
       </trans-unit>
       <trans-unit id="Lifetime Pro" xml:space="preserve">
         <source>Lifetime Pro</source>
@@ -2393,6 +2617,11 @@ Please mail it to developer@rocketscience-it.nl!</source>
         <target state="translated">Τα στατιστικά μου AdGuard Home, κοινοποιήθηκαν μέσω του AdGuard Home Remote https://apps.apple.com/app/id1543143740</target>
         <note>Pre-filled message body when sharing an AdGuard Home stats image to apps that accept text (Messages, Mail, social apps). Includes the App Store link as a soft CTA.</note>
       </trans-unit>
+      <trans-unit id="My username or password is rejected" xml:space="preserve">
+        <source>My username or password is rejected</source>
+        <target state="translated">Το όνομα χρήστη ή το συνθηματικό μου απορρίπτεται</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="NAPTR" translate="no" xml:space="preserve">
         <source>NAPTR</source>
         <note>Used in the DNS record type picker on the 'check filtering' screen.</note>
@@ -2494,6 +2723,11 @@ Please mail it to developer@rocketscience-it.nl!</source>
         <target state="translated">Δεν βρέθηκαν πρόσφατα ερωτήματα.</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Not included" xml:space="preserve">
+        <source>Not included</source>
+        <target state="translated">Δεν περιλαμβάνεται</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Notification" xml:space="preserve">
         <source>Notification</source>
         <target state="translated">Ειδοποίηση</target>
@@ -2522,6 +2756,21 @@ Please mail it to developer@rocketscience-it.nl!</source>
       <trans-unit id="OPENPGPKEY" translate="no" xml:space="preserve">
         <source>OPENPGPKEY</source>
         <note>Used in the DNS record type picker on the 'check filtering' screen.</note>
+      </trans-unit>
+      <trans-unit id="Off" xml:space="preserve">
+        <source>Off</source>
+        <target state="translated">Ανενεργό</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Official AdGuard Home Resources" xml:space="preserve">
+        <source>Official AdGuard Home Resources</source>
+        <target state="translated">Επίσημοι πόροι του AdGuard Home</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="On" xml:space="preserve">
+        <source>On</source>
+        <target state="translated">Ενεργό</target>
+        <note/>
       </trans-unit>
       <trans-unit id="One-tap button" xml:space="preserve">
         <source>One-tap button</source>
@@ -2656,6 +2905,11 @@ Please mail it to developer@rocketscience-it.nl!</source>
         <target state="translated">Παρακαλώ προσθέστε μια εκδοχή στην εφαρμογή iPhone.</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Please mail me with any feedback about bugs or improvements at developer@rocketscience-it.nl!" xml:space="preserve">
+        <source>Please mail me with any feedback about bugs or improvements at developer@rocketscience-it.nl!</source>
+        <target state="translated">Στείλτε μου μέσω email τυχόν σχόλια σχετικά με σφάλματα ή βελτιώσεις στη διεύθυνση developer@rocketscience-it.nl!</target>
+        <note>Displayed in an alert on the support screen when someone has no email client installed.</note>
+      </trans-unit>
       <trans-unit id="Port" xml:space="preserve">
         <source>Port</source>
         <target state="translated">Θύρα</target>
@@ -2670,6 +2924,11 @@ Please mail it to developer@rocketscience-it.nl!</source>
         <source>Powerful AdGuard Home Client &amp; DHCP management.</source>
         <target state="translated">Ισχυρή διαχείριση AdGuard Home Client &amp; DHCP.</target>
         <note>Displayed in the onboarding.</note>
+      </trans-unit>
+      <trans-unit id="Preferred setup" xml:space="preserve">
+        <source>Preferred setup</source>
+        <target state="translated">Προτεινόμενη ρύθμιση</target>
+        <note/>
       </trans-unit>
       <trans-unit id="Presets" xml:space="preserve">
         <source>Presets</source>
@@ -2706,9 +2965,19 @@ Please mail it to developer@rocketscience-it.nl!</source>
         <target state="translated">Επεξεργάστηκε: %@</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Protect the DNS service" xml:space="preserve">
+        <source>Protect the DNS service</source>
+        <target state="translated">Προστατέψτε την υπηρεσία DNS</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Protection" xml:space="preserve">
         <source>Protection</source>
         <target state="translated">Προστασία</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Protection (the shield)" xml:space="preserve">
+        <source>Protection (the shield)</source>
+        <target state="translated">Προστασία (η ασπίδα)</target>
         <note/>
       </trans-unit>
       <trans-unit id="Protection Enabled" xml:space="preserve">
@@ -2721,6 +2990,11 @@ Please mail it to developer@rocketscience-it.nl!</source>
         <target state="translated">Ειδοποιήσεις Προστασίας</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Protection controls" xml:space="preserve">
+        <source>Protection controls</source>
+        <target state="translated">Στοιχεία ελέγχου προστασίας</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Protection has been re-enabled on all instances." xml:space="preserve">
         <source>Protection has been re-enabled on all instances.</source>
         <target state="translated">Η προστασία επανενεργοποιήθηκε σε όλες τις περιπτώσεις.</target>
@@ -2729,6 +3003,11 @@ Please mail it to developer@rocketscience-it.nl!</source>
       <trans-unit id="Protection has been re-enabled." xml:space="preserve">
         <source>Protection has been re-enabled.</source>
         <target state="translated">Η προστασία επανενεργοποιήθηκε.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Protection layers" xml:space="preserve">
+        <source>Protection layers</source>
+        <target state="translated">Επίπεδα προστασίας</target>
         <note/>
       </trans-unit>
       <trans-unit id="Protocol" xml:space="preserve">
@@ -2921,6 +3200,16 @@ Please mail it to developer@rocketscience-it.nl!</source>
         <target state="translated">Χρονοδιάγραμμα</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Secure Setup Guide" xml:space="preserve">
+        <source>Secure Setup Guide</source>
+        <target state="translated">Οδηγός ασφαλούς ρύθμισης</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Securing Remote Access" xml:space="preserve">
+        <source>Securing Remote Access</source>
+        <target state="translated">Ασφάλεια απομακρυσμένης πρόσβασης</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="See live DNS queries streaming through your AdGuard Home in real time." xml:space="preserve">
         <source>See live DNS queries streaming through your AdGuard Home in real time.</source>
         <target state="translated">Δείτε ζωντανά ερωτήματα DNS να περνούν από το AdGuard Home σας σε πραγματικό χρόνο.</target>
@@ -2946,6 +3235,11 @@ Please mail it to developer@rocketscience-it.nl!</source>
         <target state="translated">Αποστολή Ειδοποιήσεων</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Send feedback, report a bug, or ask for help" xml:space="preserve">
+        <source>Send feedback, report a bug, or ask for help</source>
+        <target state="translated">Στείλτε σχόλια, αναφέρετε ένα σφάλμα ή ζητήστε βοήθεια</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Separate cards and charts" xml:space="preserve">
         <source>Separate cards and charts</source>
         <target state="translated">Ξεχωριστές κάρτες και γραφήματα</target>
@@ -2969,6 +3263,21 @@ Please mail it to developer@rocketscience-it.nl!</source>
       <trans-unit id="Settings" xml:space="preserve">
         <source>Settings</source>
         <target state="translated">Ρυθμίσεις</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Setup &amp; Help" xml:space="preserve">
+        <source>Setup &amp; Help</source>
+        <target state="translated">Ρύθμιση και βοήθεια</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Setup Guide" xml:space="preserve">
+        <source>Setup Guide</source>
+        <target state="translated">Οδηγός ρύθμισης</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Setup Guide &amp; Help" xml:space="preserve">
+        <source>Setup Guide &amp; Help</source>
+        <target state="translated">Οδηγός ρύθμισης και βοήθεια</target>
         <note/>
       </trans-unit>
       <trans-unit id="Share" xml:space="preserve">
@@ -3009,6 +3318,16 @@ Please mail it to developer@rocketscience-it.nl!</source>
       <trans-unit id="Show 'Until tomorrow'" xml:space="preserve">
         <source>Show 'Until tomorrow'</source>
         <target state="translated">Εμφάνιση 'Μέχρι αύριο'</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Show Blocked Malware" xml:space="preserve">
+        <source>Show Blocked Malware</source>
+        <target state="translated">Εμφάνιση αποκλεισμένου κακόβουλου λογισμικού</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Show Blocked Parental" xml:space="preserve">
+        <source>Show Blocked Parental</source>
+        <target state="translated">Εμφάνιση αποκλεισμένου γονικού ελέγχου</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show Changelog again on startup" xml:space="preserve">
@@ -3075,6 +3394,11 @@ Please mail it to developer@rocketscience-it.nl!</source>
         <source>Sidebar</source>
         <target state="translated">Πλαϊνή μπάρα</target>
         <note>Used in the 'Preferences Other' screen in the navigation style picker (only visible for iPad)</note>
+      </trans-unit>
+      <trans-unit id="Sign in to the AdGuard Home web interface in Safari to verify the credentials. Enter that exact web-interface username and password in the app. If authentication was disabled in AdGuard Home, leave both fields empty." xml:space="preserve">
+        <source>Sign in to the AdGuard Home web interface in Safari to verify the credentials. Enter that exact web-interface username and password in the app. If authentication was disabled in AdGuard Home, leave both fields empty.</source>
+        <target state="translated">Συνδεθείτε στη διεπαφή ιστού του AdGuard Home στο Safari για να επαληθεύσετε τα διαπιστευτήρια. Εισαγάγετε στην εφαρμογή ακριβώς αυτό το όνομα χρήστη και το συνθηματικό της διεπαφής ιστού. Αν ο έλεγχος ταυτότητας είναι απενεργοποιημένος στο AdGuard Home, αφήστε και τα δύο πεδία κενά.</target>
+        <note/>
       </trans-unit>
       <trans-unit id="Small cards, combined chart" xml:space="preserve">
         <source>Small cards, combined chart</source>
@@ -3261,14 +3585,14 @@ Please mail it to developer@rocketscience-it.nl!</source>
         <target state="translated">Ανεβάστε το AdGuard Home Remote στο επόμενο επίπεδο αφαιρώντας τα όρια και ξεκλειδώνοντας πλήρη διαχείριση AdGuard Home, διαδραστικά widgets, υποστήριξη πολλαπλών στιγμιοτύπων και πολλά άλλα.</target>
         <note>Used on the pro purchase screen.</note>
       </trans-unit>
+      <trans-unit id="Takes over the screen with sound, even in silent mode. You won't miss when protection re-enables." xml:space="preserve">
+        <source>Takes over the screen with sound, even in silent mode. You won't miss when protection re-enables.</source>
+        <target state="translated">Καταλαμβάνει την οθόνη με ήχο, ακόμη και σε αθόρυβη λειτουργία. Δεν θα χάσετε τη στιγμή που η προστασία ενεργοποιείται ξανά.</target>
+        <note>Used on the Notifications-settings screen.</note>
+      </trans-unit>
       <trans-unit id="Target" xml:space="preserve">
         <source>Target</source>
         <target state="translated">Στόχος</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Temporarily disabled protection? Get notified when it's re-enabled. Use notification actions to quickly extend the disabled period." xml:space="preserve">
-        <source>Temporarily disabled protection? Get notified when it's re-enabled. Use notification actions to quickly extend the disabled period.</source>
-        <target state="translated">Απενεργοποιήσατε προσωρινά την προστασία; Λάβετε ειδοποίηση όταν επανενεργοποιηθεί. Χρησιμοποιήστε τις ενέργειες ειδοποίησης για γρήγορη επέκταση της απενεργοποιημένης περιόδου.</target>
         <note/>
       </trans-unit>
       <trans-unit id="TestFlight Beta Access" xml:space="preserve">
@@ -3301,6 +3625,21 @@ Please mail it to developer@rocketscience-it.nl!</source>
         <target state="translated">Η αρχική ημερομηνία λήξης όταν ο αποκλεισμός θα ενεργοποιηθεί ξανά.</target>
         <note/>
       </trans-unit>
+      <trans-unit id="The setup wizard defaults the web interface to HTTP port **80**. Enter **80** if you did not change it during setup. Port **3000** is the temporary first-run wizard port and is normally no longer correct after setup. Do not enter DNS port **53**." xml:space="preserve">
+        <source>The setup wizard defaults the web interface to HTTP port **80**. Enter **80** if you did not change it during setup. Port **3000** is the temporary first-run wizard port and is normally no longer correct after setup. Do not enter DNS port **53**.</source>
+        <target state="translated">Ο οδηγός ρύθμισης χρησιμοποιεί από προεπιλογή τη θύρα HTTP **80** για τη διεπαφή ιστού. Εισαγάγετε **80** αν δεν την αλλάξατε κατά τη ρύθμιση. Η θύρα **3000** είναι η προσωρινή θύρα του οδηγού πρώτης εκτέλεσης και συνήθως δεν είναι πλέον σωστή μετά τη ρύθμιση. Μην εισαγάγετε τη θύρα DNS **53**.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="The shield at the top is the master switch. When it's on, the buttons below control each layer. Turn it off to pause all blocking at once. The sub-buttons then hide until you switch protection back on." xml:space="preserve">
+        <source>The shield at the top is the master switch. When it's on, the buttons below control each layer. Turn it off to pause all blocking at once. The sub-buttons then hide until you switch protection back on.</source>
+        <target state="translated">Η ασπίδα στην κορυφή είναι ο κύριος διακόπτης. Όταν είναι ενεργή, τα κουμπιά από κάτω ελέγχουν κάθε επίπεδο. Απενεργοποιήστε την για να σταματήσετε όλες τις αποκλείσεις ταυτόχρονα. Τα υπό-κουμπιά αποκρύπτονται μέχρι να ενεργοποιήσετε ξανά την προστασία.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="These links open AdGuard Home's official documentation and source code. AdGuard Home Remote is an independent app and is not affiliated with AdGuard." xml:space="preserve">
+        <source>These links open AdGuard Home's official documentation and source code. AdGuard Home Remote is an independent app and is not affiliated with AdGuard.</source>
+        <target state="translated">Αυτοί οι σύνδεσμοι ανοίγουν την επίσημη τεκμηρίωση και τον πηγαίο κώδικα του AdGuard Home. Το AdGuard Home Remote είναι ανεξάρτητη εφαρμογή και δεν συνδέεται με την AdGuard.</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="These settings are used when you're not on any of the home Wi-Fi networks above (e.g. cellular, VPN, or other Wi-Fi)." xml:space="preserve">
         <source>These settings are used when you're not on any of the home Wi-Fi networks above (e.g. cellular, VPN, or other Wi-Fi).</source>
         <target state="translated">Αυτές οι ρυθμίσεις χρησιμοποιούνται όταν δεν είστε συνδεδεμένοι σε κανένα από τα παραπάνω οικιακά δίκτυα Wi-Fi (π.χ. κινητά δεδομένα, VPN ή άλλα Wi-Fi).</target>
@@ -3320,11 +3659,6 @@ Please mail it to developer@rocketscience-it.nl!</source>
         <source>This version requires iOS 16.2 &amp; watchOS 10.0 (or newer).</source>
         <target state="translated">Αυτή η έκδοση απαιτεί iOS 16.2 &amp; watchOS 10.0 (ή νεότερο).</target>
         <note/>
-      </trans-unit>
-      <trans-unit id="Time Sensitive notifications have the option to break through focus modes." xml:space="preserve">
-        <source>Time Sensitive notifications have the option to break through focus modes.</source>
-        <target state="translated">Οι Επείγουσες ειδοποιήσεις έχουν τη δυνατότητα να παρακάμπτουν τις λειτουργίες εστίασης.</target>
-        <note>Used on the Notifications-settings screen.</note>
       </trans-unit>
       <trans-unit id="To detect your Wi-Fi network name, Apple requires 'While Using App' location permission. This is a system requirement for reading Wi-Fi information.&#10;&#10;Your location is never stored or transmitted by AdGuard Home Remote." xml:space="preserve">
         <source>To detect your Wi-Fi network name, Apple requires 'While Using App' location permission. This is a system requirement for reading Wi-Fi information.
@@ -3410,6 +3744,23 @@ Your location is never stored or transmitted by AdGuard Home Remote.</source>
         <target state="translated">Σύνολο: %@</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Try these steps in order:&#10;&#10;1. Open AdGuard Home in Safari on the same device.&#10;2. Check that HTTP or HTTPS matches the browser address.&#10;3. Enter only the hostname or IP in **Host**.&#10;4. Confirm that **Port** is the web-interface port, not DNS port 53.&#10;5. Make sure this device is on the same network, or connected to your home VPN." xml:space="preserve">
+        <source>Try these steps in order:
+
+1. Open AdGuard Home in Safari on the same device.
+2. Check that HTTP or HTTPS matches the browser address.
+3. Enter only the hostname or IP in **Host**.
+4. Confirm that **Port** is the web-interface port, not DNS port 53.
+5. Make sure this device is on the same network, or connected to your home VPN.</source>
+        <target state="translated">Δοκιμάστε αυτά τα βήματα με τη σειρά:
+
+1. Ανοίξτε το AdGuard Home στο Safari στην ίδια συσκευή.
+2. Ελέγξτε ότι το HTTP ή HTTPS αντιστοιχεί στη διεύθυνση του προγράμματος περιήγησης.
+3. Εισαγάγετε μόνο το όνομα κεντρικού υπολογιστή ή την IP στο πεδίο **Κόμβος**.
+4. Επιβεβαιώστε ότι η **Θύρα** είναι η θύρα της διεπαφής ιστού και όχι η θύρα DNS 53.
+5. Βεβαιωθείτε ότι αυτή η συσκευή βρίσκεται στο ίδιο δίκτυο ή είναι συνδεδεμένη στο οικιακό VPN.</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="UPDATE" xml:space="preserve">
         <source>UPDATE</source>
         <target state="translated">ΕΝΗΜΈΡΩΣΗ</target>
@@ -3447,6 +3798,11 @@ Your location is never stored or transmitted by AdGuard Home Remote.</source>
       <trans-unit id="Unknown error." xml:space="preserve">
         <source>Unknown error.</source>
         <target state="translated">Άγνωστο σφάλμα.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Unlimited" xml:space="preserve">
+        <source>Unlimited</source>
+        <target state="translated">Απεριόριστο</target>
         <note/>
       </trans-unit>
       <trans-unit id="Until tomorrow" xml:space="preserve">
@@ -3494,6 +3850,16 @@ Your location is never stored or transmitted by AdGuard Home Remote.</source>
         <target state="translated">Χρησιμοποιείτε NextDNS; Έχω μια εφαρμογή για εσάς.</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Use a certificate from a trusted certificate authority for a hostname you control, or keep AdGuard Home private and connect through a VPN. HTTP inside the encrypted VPN tunnel avoids certificate management while keeping remote traffic protected." xml:space="preserve">
+        <source>Use a certificate from a trusted certificate authority for a hostname you control, or keep AdGuard Home private and connect through a VPN. HTTP inside the encrypted VPN tunnel avoids certificate management while keeping remote traffic protected.</source>
+        <target state="translated">Χρησιμοποιήστε πιστοποιητικό από αξιόπιστη αρχή πιστοποίησης για ένα όνομα κεντρικού υπολογιστή που ελέγχετε ή διατηρήστε ιδιωτικό το AdGuard Home και συνδεθείτε μέσω VPN. Το HTTP μέσα στην κρυπτογραφημένη σήραγγα VPN αποφεύγει τη διαχείριση πιστοποιητικών και διατηρεί προστατευμένη την απομακρυσμένη κίνηση.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Use the same username and password you use to sign in to the AdGuard Home web interface. These are not necessarily the operating-system or SSH credentials of the device running AdGuard Home." xml:space="preserve">
+        <source>Use the same username and password you use to sign in to the AdGuard Home web interface. These are not necessarily the operating-system or SSH credentials of the device running AdGuard Home.</source>
+        <target state="translated">Χρησιμοποιήστε το ίδιο όνομα χρήστη και συνθηματικό που χρησιμοποιείτε για σύνδεση στη διεπαφή ιστού του AdGuard Home. Δεν είναι απαραίτητα τα διαπιστευτήρια του λειτουργικού συστήματος ή του SSH της συσκευής που εκτελεί το AdGuard Home.</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Used when **not** connected to Wi-Fi SSID: %@" xml:space="preserve">
         <source>Used when **not** connected to Wi-Fi SSID: %@</source>
         <target state="translated">Χρησιμοποιείται όταν **δεν** είστε συνδεδεμένοι στο SSID Wi-Fi: %@</target>
@@ -3502,6 +3868,11 @@ Your location is never stored or transmitted by AdGuard Home Remote.</source>
       <trans-unit id="User Interface" xml:space="preserve">
         <source>User Interface</source>
         <target state="translated">Διεπαφή χρήστη</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Username &amp; Password" xml:space="preserve">
+        <source>Username &amp; Password</source>
+        <target state="translated">Όνομα χρήστη και συνθηματικό</target>
         <note/>
       </trans-unit>
       <trans-unit id="Utility Radar" xml:space="preserve">
@@ -3539,9 +3910,29 @@ Your location is never stored or transmitted by AdGuard Home Remote.</source>
         <target state="translated">Καλώς ήρθατε!</target>
         <note>Onboarding subtitle.</note>
       </trans-unit>
+      <trans-unit id="What do these buttons mean?" xml:space="preserve">
+        <source>What do these buttons mean?</source>
+        <target state="translated">Τι σημαίνουν αυτά τα κουμπιά;</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="What the buttons do" xml:space="preserve">
+        <source>What the buttons do</source>
+        <target state="translated">Τι κάνουν τα κουμπιά</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="What to enter, HTTPS, FAQ &amp; troubleshooting" xml:space="preserve">
+        <source>What to enter, HTTPS, FAQ &amp; troubleshooting</source>
+        <target state="translated">Τι να εισαγάγετε, HTTPS, συχνές ερωτήσεις και αντιμετώπιση προβλημάτων</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="What to sync" xml:space="preserve">
         <source>What to sync</source>
         <target state="translated">Τι να συγχρονίσετε</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Why does HTTPS show a certificate error?" xml:space="preserve">
+        <source>Why does HTTPS show a certificate error?</source>
+        <target state="translated">Γιατί το HTTPS εμφανίζει σφάλμα πιστοποιητικού;</target>
         <note/>
       </trans-unit>
       <trans-unit id="Wi-Fi network name (SSID)" xml:space="preserve">
@@ -3761,6 +4152,21 @@ Your location is never stored or transmitted by AdGuard Home Remote.</source>
       <trans-unit id="changelog_whats_new" xml:space="preserve">
         <source>What's New</source>
         <target state="translated">Τι νέο υπάρχει</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="chart_pull_for_queries" xml:space="preserve">
+        <source>Pull down to view queries</source>
+        <target state="translated">Σύρετε προς τα κάτω για προβολή ερωτημάτων</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="chart_release_for_queries" xml:space="preserve">
+        <source>Release to view queries</source>
+        <target state="translated">Αφήστε για προβολή ερωτημάτων</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="chart_view_queries" xml:space="preserve">
+        <source>View queries for this time</source>
+        <target state="translated">Προβολή ερωτημάτων για αυτήν την ώρα</target>
         <note/>
       </trans-unit>
       <trans-unit id="client_edit" xml:space="preserve">
@@ -5391,11 +5797,6 @@ Search</source>
         <target state="translated">Φόρτωση...</target>
         <note/>
       </trans-unit>
-      <trans-unit id="loading_instances_iphone" xml:space="preserve">
-        <source>Loading instances from iPhone...</source>
-        <target state="translated">Loading instances from iPhone...</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="malware" xml:space="preserve">
         <source>Malware</source>
         <target state="translated">Malware</target>
@@ -5459,6 +5860,16 @@ Search</source>
       <trans-unit id="more_update_to_%@" xml:space="preserve">
         <source>Update to v%@</source>
         <target state="translated">Ενημέρωση σε v%@</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="more_updates_unavailable" xml:space="preserve">
+        <source>Updates aren't available for this AdGuard Home installation.</source>
+        <target state="translated">Δεν υπάρχουν διαθέσιμες ενημερώσεις για αυτήν την εγκατάσταση του AdGuard Home.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="more_updating" xml:space="preserve">
+        <source>Updating AdGuard Home…</source>
+        <target state="translated">Γίνεται ενημέρωση του AdGuard Home…</target>
         <note/>
       </trans-unit>
       <trans-unit id="more_version" xml:space="preserve">
@@ -5852,6 +6263,11 @@ Remote Pro</target>
         <target state="translated">Αποκλεισμένα | Φίλτρο</target>
         <note/>
       </trans-unit>
+      <trans-unit id="query_status_FilteredBlackList_%@" xml:space="preserve">
+        <source>Blocked%@</source>
+        <target state="translated">Αποκλεισμένα%@</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="query_status_FilteredBlockedService" xml:space="preserve">
         <source>Blocked | Service</source>
         <target state="translated">Αποκλεισμένο | Υπηρεσία</target>
@@ -6057,6 +6473,16 @@ Remote Pro</target>
         <target state="translated">Καθαρισμός φιλτραρισμένων</target>
         <note/>
       </trans-unit>
+      <trans-unit id="querylog_dnssec_not_validated" xml:space="preserve">
+        <source>No DNSSEC validation</source>
+        <target state="translated">Χωρίς επικύρωση DNSSEC</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="querylog_dnssec_validated" xml:space="preserve">
+        <source>Validated with DNSSEC</source>
+        <target state="translated">Επικυρωμένο με DNSSEC</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="querylog_filter" xml:space="preserve">
         <source>Filter</source>
         <target state="translated">Φίλτρο</target>
@@ -6085,6 +6511,11 @@ Remote Pro</target>
       <trans-unit id="querylog_no-queries" xml:space="preserve">
         <source>No queries found.</source>
         <target state="translated">Δεν βρέθηκαν ερωτήματα.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="querylog_no_queries_in_time_range" xml:space="preserve">
+        <source>No queries were found for this time range.</source>
+        <target state="translated">Δεν βρέθηκαν ερωτήματα για αυτό το χρονικό διάστημα.</target>
         <note/>
       </trans-unit>
       <trans-unit id="querylog_number-of-queries" xml:space="preserve">
@@ -6157,6 +6588,11 @@ Remote Pro</target>
         <target state="translated">Κατάσταση</target>
         <note>MARK: Query Log</note>
       </trans-unit>
+      <trans-unit id="querylog_show_dnssec_status" xml:space="preserve">
+        <source>Show DNSSEC status</source>
+        <target state="translated">Εμφάνιση κατάστασης DNSSEC</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="querylog_show_extra_detail" xml:space="preserve">
         <source>Show response details</source>
         <target state="translated">Show extra detail</target>
@@ -6197,6 +6633,11 @@ Remote Pro</target>
         <target state="translated">Επεξεργασμένα</target>
         <note/>
       </trans-unit>
+      <trans-unit id="querylog_time_range" xml:space="preserve">
+        <source>Time range</source>
+        <target state="translated">Χρονικό διάστημα</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="refresh" xml:space="preserve">
         <source>Refresh</source>
         <target state="translated">Refresh</target>
@@ -6210,6 +6651,11 @@ Remote Pro</target>
       <trans-unit id="reset" xml:space="preserve">
         <source>Reset</source>
         <target state="translated">Reset</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="retry" xml:space="preserve">
+        <source>Retry</source>
+        <target state="translated">Δοκιμή ξανά</target>
         <note/>
       </trans-unit>
       <trans-unit id="rocketscience_acknoledgements" xml:space="preserve">
@@ -6351,11 +6797,6 @@ My main goal is to learn: design, development, testing, support, promotion - may
         <target state="translated">Πελάτες</target>
         <note/>
       </trans-unit>
-      <trans-unit id="settings_copy_email" xml:space="preserve">
-        <source>Copy Email Address</source>
-        <target state="translated">Αντιγραφή διεύθυνσης email</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="settings_design" xml:space="preserve">
         <source>Design</source>
         <target state="translated">Σχεδιασμός</target>
@@ -6429,16 +6870,6 @@ My main goal is to learn: design, development, testing, support, promotion - may
       <trans-unit id="settings_general_safesearch_explainer_title" xml:space="preserve">
         <source>Safe Search</source>
         <target state="translated">Safe Search</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="settings_give_feedback_alert_body" xml:space="preserve">
-        <source>Please mail me with any feedback about bugs or improvements at developer@rocketscience-it.nl!</source>
-        <target state="translated">Παρακαλώ στείλτε μου email με οποιαδήποτε σχόλια σχετικά με σφάλματα ή βελτιώσεις στο developer@rocketscience-it.nl!</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="settings_give_feedback_alert_title" xml:space="preserve">
-        <source>Give Feedback</source>
-        <target state="translated">Υποβάλετε σχόλια</target>
         <note/>
       </trans-unit>
       <trans-unit id="settings_help" xml:space="preserve">
@@ -6710,11 +7141,6 @@ If you want to tip, please download the app from the App Store! After that you c
         <source>value</source>
         <target state="translated">τιμή</target>
         <note>Placeholder of the 'custom header value' textfield in instance settings.</note>
-      </trans-unit>
-      <trans-unit id="watch_stuck_reinstall" xml:space="preserve">
-        <source>This can take a while. If the app is stuck on this screen, please try reinstalling it. Sorry for the inconvenience!</source>
-        <target state="translated">This can take a while. If the app is stuck on this spinner, please try a reinstall of the app. Sorry for the inconvenience!</target>
-        <note/>
       </trans-unit>
       <trans-unit id="widget_dashboard" xml:space="preserve">
         <source>Dashboard Widget</source>

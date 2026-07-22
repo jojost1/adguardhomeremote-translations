@@ -47,6 +47,9 @@
     "${action} ${services} on ${instance}" : {
 
     },
+    "0...8760" : {
+
+    },
     "1h" : {
       "localizations" : {
         "en" : {
@@ -163,7 +166,10 @@
     "A clean Anime & Manga tracker app, using the MyAnimeList API." : {
       "comment" : "Subtitle under 'ManGo' app on the Made by RocketScience screen."
     },
-    "A standard notification will appear when protection re-enables." : {
+    "A local hostname or private IP address is not reachable outside your home. Connect through a VPN such as WireGuard or Tailscale, then configure **Away Connection** so the app can use the VPN address away from your home Wi-Fi." : {
+
+    },
+    "A quiet banner when protection re-enables. Respects silent mode and Focus filters, so it's easy to miss if you're not looking." : {
       "comment" : "Used on the Notifications-settings screen."
     },
     "AAAA" : {
@@ -307,8 +313,20 @@
     "Adds entries from the source that don't exist on the destination. Nothing is deleted." : {
 
     },
+    "AdGuard Home API Documentation" : {
+
+    },
+    "AdGuard Home Documentation" : {
+
+    },
+    "AdGuard Home on GitHub" : {
+
+    },
     "AdGuard Home Remote" : {
       "comment" : "App title, do not translate."
+    },
+    "AdGuard Home Remote connects to the same web interface you use in a browser. It needs the server address, the web interface port, and your AdGuard Home login details. This guide explains what to enter and how to solve common connection problems." : {
+
     },
     "AdGuard Home Remote is designed to protect your privacy and will never share any information with anyone." : {
       "comment" : "Displayed in the onboarding."
@@ -349,9 +367,6 @@
 
     },
     "Alarms require AGHR+." : {
-      "comment" : "Used on the Notifications-settings screen."
-    },
-    "Alarms take over the screen when protection re-enables, with sound that ignores silent mode." : {
       "comment" : "Used on the Notifications-settings screen."
     },
     "Alert Style" : {
@@ -444,6 +459,9 @@
           }
         }
       }
+    },
+    "Apple devices reject certificates that are expired, untrusted, or issued for a different hostname. The hostname in the app must match a name on the certificate. For a private certificate authority, install its root certificate on this device and enable full trust in **Settings → General → About → Certificate Trust Settings**." : {
+
     },
     "Apple TV features" : {
       "comment" : "Used on the pro purchase screen."
@@ -600,6 +618,15 @@
     "Blocklist Management" : {
       "comment" : "Displayed in the onboarding."
     },
+    "Blocks ads, trackers and other domains on your filter lists." : {
+
+    },
+    "Blocks known malware and phishing websites." : {
+
+    },
+    "Breaks through Focus modes so the notification isn't silenced when Do Not Disturb is active." : {
+      "comment" : "Used on the Notifications-settings screen."
+    },
     "Browse your DNS query log, see which domains are being queried and which are being blocked." : {
 
     },
@@ -640,6 +667,9 @@
     "CERT" : {
       "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
       "shouldTranslate" : false
+    },
+    "Certificate Errors on Apple Devices" : {
+
     },
     "changelog_continue" : {
       "localizations" : {
@@ -770,6 +800,36 @@
     },
     "Chart Type" : {
 
+    },
+    "chart_pull_for_queries" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pull down to view queries"
+          }
+        }
+      }
+    },
+    "chart_release_for_queries" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Release to view queries"
+          }
+        }
+      }
+    },
+    "chart_view_queries" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "View queries for this time"
+          }
+        }
+      }
     },
     "Check filtering" : {
 
@@ -1186,8 +1246,17 @@
     "Coming soon" : {
 
     },
+    "Common Connection Issues" : {
+
+    },
     "Compact" : {
       "comment" : "Dashboard size type"
+    },
+    "Compare the complete browser address with the app settings. A redirect, reverse-proxy subpath, custom authentication page, or untrusted certificate can work differently from AdGuard Home's API. If a reverse proxy requires extra request headers, add them under **Custom Headers**." : {
+
+    },
+    "Connecting to AdGuard Home" : {
+
     },
     "Connection" : {
 
@@ -1206,6 +1275,9 @@
     },
     "Copy email" : {
       "comment" : "Used on the pro purchase screen."
+    },
+    "Copy Email Address" : {
+      "comment" : "Displayed in an alert on the support screen when someone has no email client installed."
     },
     "Copy host" : {
 
@@ -1512,6 +1584,9 @@
       }
     },
     "Default count" : {
+
+    },
+    "Default example: if Safari opens `http://192.168.1.10/`, enter host `192.168.1.10`, select HTTP, and use port `80`. Always use the actual LAN IP shown by your own setup." : {
 
     },
     "Delete" : {
@@ -2325,6 +2400,9 @@
     "Disabled" : {
 
     },
+    "Dismiss" : {
+
+    },
     "DLV" : {
       "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
       "shouldTranslate" : false
@@ -3060,6 +3138,12 @@
         }
       }
     },
+    "Do not port-forward the AdGuard Home admin interface directly to the public internet. Use a VPN or a carefully secured reverse proxy with HTTPS and strong authentication." : {
+
+    },
+    "Do not run an unrestricted public DNS resolver. If the DNS service is internet-accessible, configure AdGuard Home's access settings, allowlists, encrypted DNS, and rate limiting." : {
+
+    },
     "domain" : {
       "comment" : "MARK: v5.1",
       "localizations" : {
@@ -3092,6 +3176,9 @@
 
     },
     "Duration Presets" : {
+
+    },
+    "Each button controls a different filtering feature for this server." : {
 
     },
     "Earthy" : {
@@ -3171,6 +3258,16 @@
     },
     "Enjoy great widgets and a Live Activity when disabling protection." : {
       "comment" : "Displayed in the onboarding."
+    },
+    "Enter the update interval in hours (0–8760). 0 disables automatic updates." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enter the update interval in hours (0–8760). 0 disables automatic updates."
+          }
+        }
+      }
     },
     "error" : {
       "localizations" : {
@@ -3936,6 +4033,12 @@
     "Filters: %@" : {
 
     },
+    "For a default installation, enter the LAN IP address of the device running AdGuard Home, without `http://`, a port, or a path. AdGuard Home does not assign a standard hostname. Use one of the network addresses shown when setup completes; do not enter the bind address `0.0.0.0`. Example: if setup opens `http://192.168.1.10/`, enter `192.168.1.10`. A fixed IP address or DHCP reservation is recommended." : {
+
+    },
+    "For access away from home, a VPN is usually safer and easier than exposing the AdGuard Home web interface directly to the internet." : {
+
+    },
     "For any reason" : {
       "localizations" : {
         "en" : {
@@ -4051,6 +4154,9 @@
     "Force Watch Sync" : {
 
     },
+    "Forces safe results in supported search engines and enables Restricted Mode on YouTube." : {
+
+    },
     "Free" : {
       "comment" : "Used on the pro purchase screen."
     },
@@ -4069,8 +4175,14 @@
     "Get AGHR Pro - %@" : {
 
     },
+    "Get notified the moment protection re-enables after a timed pause. Use notification actions to extend the pause directly from the lock screen." : {
+
+    },
     "Get Pro" : {
 
+    },
+    "Give Feedback" : {
+      "comment" : "Displayed in an alert on the support screen when someone has no email client installed."
     },
     "global" : {
       "localizations" : {
@@ -4082,6 +4194,15 @@
         }
       }
     },
+    "Got it" : {
+
+    },
+    "Green means the layer is on, so those domains are blocked. Red means it's off, so those domains are allowed through. Tap a button to switch it." : {
+
+    },
+    "Green vs red" : {
+
+    },
     "help_callout" : {
       "comment" : "MARK: Help",
       "localizations" : {
@@ -4092,6 +4213,9 @@
           }
         }
       }
+    },
+    "Helps block adult websites for safer, family-friendly browsing." : {
+
     },
     "Hides instance name" : {
 
@@ -4106,6 +4230,9 @@
     },
     "Home" : {
       "comment" : "Placeholder for the name textfield on the instance settings screen."
+    },
+    "Home Assistant normally opens AdGuard Home through Ingress, which AdGuard Home Remote cannot use directly. In Home Assistant, go to **Settings > Apps > AdGuard Home > Configuration > Network** and assign a host port to **Web interface** (`80/tcp`), for example **3001**. Save and restart the AdGuard Home app.\n\nIn AdGuard Home Remote, enter your Home Assistant device's LAN IP address or hostname and the port you assigned. Select HTTP or HTTPS to match the app's **SSL** option. Then sign in with your Home Assistant username and password. Do not use the Home Assistant Ingress or Cloud URL." : {
+
     },
     "Home Connection" : {
 
@@ -4128,12 +4255,33 @@
     "HTTP" : {
 
     },
+    "HTTP (unencrypted)" : {
+
+    },
+    "HTTP on port **80** is the default after completing the AdGuard Home setup wizard. It is the simplest option on a trusted home network. Do not use plain HTTP over the public internet." : {
+
+    },
+    "HTTP vs HTTPS" : {
+
+    },
     "HTTPS" : {
       "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
       "shouldTranslate" : false
     },
+    "HTTPS (encrypted)" : {
+
+    },
+    "HTTPS is not enabled by the initial setup wizard. Select it only after configuring TLS in AdGuard Home or in a reverse proxy; **443** is AdGuard Home's default HTTPS port when TLS is configured. The certificate must be trusted by this device and valid for the exact hostname you enter." : {
+
+    },
+    "I can't connect at all" : {
+
+    },
     "I see you don't have an active mail client on your device, please mail me with the request to join the TestFlight including a screenshot of this Pro screen so I can see you have purchased Pro.\n\nPlease mail it to developer@rocketscience-it.nl!" : {
       "comment" : "Used on the pro purchase screen."
+    },
+    "I'm using AdGuard Home through Home Assistant. How do I connect?" : {
+
     },
     "iCloud" : {
 
@@ -4153,6 +4301,9 @@
     "Include chart" : {
 
     },
+    "Included" : {
+
+    },
     "indefinitely" : {
       "localizations" : {
         "en" : {
@@ -4167,6 +4318,9 @@
 
     },
     "Info" : {
+
+    },
+    "Install AdGuard Home updates regularly to receive security, compatibility, and stability fixes." : {
 
     },
     "instance" : {
@@ -4345,7 +4499,19 @@
       "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
       "shouldTranslate" : false
     },
+    "It works at home but not when I'm away" : {
+
+    },
+    "It works in Safari but not in the app" : {
+
+    },
     "KEEP" : {
+
+    },
+    "Keep AdGuard Home updated" : {
+
+    },
+    "Keep the web interface private" : {
 
     },
     "key" : {
@@ -4390,6 +4556,9 @@
 
     },
     "Launch App" : {
+
+    },
+    "Learn how to connect and troubleshoot your instance" : {
 
     },
     "Learn More" : {
@@ -4445,16 +4614,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Loading..."
-          }
-        }
-      }
-    },
-    "loading_instances_iphone" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Loading instances from iPhone..."
           }
         }
       }
@@ -4646,6 +4805,26 @@
         }
       }
     },
+    "more_updates_unavailable" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Updates aren't available for this AdGuard Home installation."
+          }
+        }
+      }
+    },
+    "more_updating" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Updating AdGuard Home…"
+          }
+        }
+      }
+    },
     "more_version" : {
       "localizations" : {
         "en" : {
@@ -4749,6 +4928,9 @@
     "My AdGuard Home stats, shared with AdGuard Home Remote https://apps.apple.com/app/id1543143740" : {
       "comment" : "Pre-filled message body when sharing an AdGuard Home stats image to apps that accept text (Messages, Mail, social apps). Includes the App Store link as a soft CTA."
     },
+    "My username or password is rejected" : {
+
+    },
     "name" : {
       "localizations" : {
         "en" : {
@@ -4831,6 +5013,9 @@
         }
       }
     },
+    "Not included" : {
+
+    },
     "not_responding" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -4873,6 +5058,12 @@
     "off" : {
 
     },
+    "Off" : {
+
+    },
+    "Official AdGuard Home Resources" : {
+
+    },
     "ok" : {
       "localizations" : {
         "en" : {
@@ -4887,6 +5078,9 @@
 
     },
     "on" : {
+
+    },
+    "On" : {
 
     },
     "one person only" : {
@@ -5038,6 +5232,9 @@
     },
     "Please add an instance in the iPhone app." : {
 
+    },
+    "Please mail me with any feedback about bugs or improvements at developer@rocketscience-it.nl!" : {
+      "comment" : "Displayed in an alert on the support screen when someone has no email client installed."
     },
     "Port" : {
 
@@ -5364,6 +5561,9 @@
         }
       }
     },
+    "Preferred setup" : {
+
+    },
     "Presets" : {
 
     },
@@ -5510,7 +5710,16 @@
     "Processed: %@" : {
 
     },
+    "Protect the DNS service" : {
+
+    },
     "Protection" : {
+
+    },
+    "Protection (the shield)" : {
+
+    },
+    "Protection controls" : {
 
     },
     "Protection Enabled" : {
@@ -5520,6 +5729,9 @@
 
     },
     "Protection has been re-enabled." : {
+
+    },
+    "Protection layers" : {
 
     },
     "Protection Notifications" : {
@@ -5686,6 +5898,16 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Blocked | Filter"
+          }
+        }
+      }
+    },
+    "query_status_FilteredBlackList_%@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Blocked%@"
           }
         }
       }
@@ -6102,6 +6324,26 @@
         }
       }
     },
+    "querylog_dnssec_not_validated" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No DNSSEC validation"
+          }
+        }
+      }
+    },
+    "querylog_dnssec_validated" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Validated with DNSSEC"
+          }
+        }
+      }
+    },
     "querylog_filter" : {
       "comment" : "MARK: Filter",
       "localizations" : {
@@ -6150,6 +6392,16 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Remote Pro is required to view more queries."
+          }
+        }
+      }
+    },
+    "querylog_no_queries_in_time_range" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No queries were found for this time range."
           }
         }
       }
@@ -6305,6 +6557,16 @@
         }
       }
     },
+    "querylog_show_dnssec_status" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show DNSSEC status"
+          }
+        }
+      }
+    },
     "querylog_show_extra_detail" : {
       "localizations" : {
         "en" : {
@@ -6382,6 +6644,16 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Processed"
+          }
+        }
+      }
+    },
+    "querylog_time_range" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Time range"
           }
         }
       }
@@ -6494,6 +6766,16 @@
     },
     "Result: %@" : {
 
+    },
+    "retry" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Retry"
+          }
+        }
+      }
     },
     "RocketScience IT" : {
       "shouldTranslate" : false
@@ -6702,6 +6984,12 @@
         }
       }
     },
+    "Secure Setup Guide" : {
+
+    },
+    "Securing Remote Access" : {
+
+    },
     "See live DNS queries streaming through your AdGuard Home in real time." : {
 
     },
@@ -6742,6 +7030,9 @@
       "comment" : "Used in the DHCP interface picker on the DHCP Settings screen."
     },
     "Selected" : {
+
+    },
+    "Send feedback, report a bug, or ask for help" : {
 
     },
     "Send Notifications" : {
@@ -6808,16 +7099,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Clients"
-          }
-        }
-      }
-    },
-    "settings_copy_email" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Copy Email Address"
           }
         }
       }
@@ -6970,26 +7251,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Safe Search"
-          }
-        }
-      }
-    },
-    "settings_give_feedback_alert_body" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Please mail me with any feedback about bugs or improvements at developer@rocketscience-it.nl!"
-          }
-        }
-      }
-    },
-    "settings_give_feedback_alert_title" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Give Feedback"
           }
         }
       }
@@ -7211,6 +7472,15 @@
         }
       }
     },
+    "Setup & Help" : {
+
+    },
+    "Setup Guide" : {
+
+    },
+    "Setup Guide & Help" : {
+
+    },
     "Share" : {
 
     },
@@ -7236,6 +7506,12 @@
 
     },
     "Show all icons" : {
+
+    },
+    "Show Blocked Malware" : {
+
+    },
+    "Show Blocked Parental" : {
 
     },
     "Show Changelog again on startup" : {
@@ -7277,6 +7553,9 @@
     "SIG" : {
       "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
       "shouldTranslate" : false
+    },
+    "Sign in to the AdGuard Home web interface in Safari to verify the credentials. Enter that exact web-interface username and password in the app. If authentication was disabled in AdGuard Home, leave both fields empty." : {
+
     },
     "Small cards, combined chart" : {
       "comment" : "Dashboard size type explainer"
@@ -7461,6 +7740,9 @@
     "Take AdGuard Home Remote to the next level by removing limits and unlocking full AdGuard Home management, interactive widgets, multiple instances support, and more." : {
       "comment" : "Used on the pro purchase screen."
     },
+    "Takes over the screen with sound, even in silent mode. You won't miss when protection re-enables." : {
+      "comment" : "Used on the Notifications-settings screen."
+    },
     "tap_to_learn_more" : {
       "localizations" : {
         "en" : {
@@ -7486,9 +7768,6 @@
     "Target" : {
 
     },
-    "Temporarily disabled protection? Get notified when it's re-enabled. Use notification actions to quickly extend the disabled period." : {
-
-    },
     "TestFlight access" : {
       "comment" : "Used on the pro purchase screen."
     },
@@ -7507,6 +7786,15 @@
     "The original enddate when blocking would be enabled again." : {
 
     },
+    "The setup wizard defaults the web interface to HTTP port **80**. Enter **80** if you did not change it during setup. Port **3000** is the temporary first-run wizard port and is normally no longer correct after setup. Do not enter DNS port **53**." : {
+
+    },
+    "The shield at the top is the master switch. When it's on, the buttons below control each layer. Turn it off to pause all blocking at once. The sub-buttons then hide until you switch protection back on." : {
+
+    },
+    "These links open AdGuard Home's official documentation and source code. AdGuard Home Remote is an independent app and is not affiliated with AdGuard." : {
+
+    },
     "These settings are used when you're not on any of the home Wi-Fi networks above (e.g. cellular, VPN, or other Wi-Fi)." : {
 
     },
@@ -7518,9 +7806,6 @@
     },
     "This version requires iOS 16.2 & watchOS 10.0 (or newer)." : {
 
-    },
-    "Time Sensitive notifications have the option to break through focus modes." : {
-      "comment" : "Used on the Notifications-settings screen."
     },
     "tipjar_blush" : {
       "localizations" : {
@@ -7760,6 +8045,9 @@
     "Total: %@" : {
 
     },
+    "Try these steps in order:\n\n1. Open AdGuard Home in Safari on the same device.\n2. Check that HTTP or HTTPS matches the browser address.\n3. Enter only the hostname or IP in **Host**.\n4. Confirm that **Port** is the web-interface port, not DNS port 53.\n5. Make sure this device is on the same network, or connected to your home VPN." : {
+
+    },
     "TSIG" : {
       "comment" : "Used in the DNS record type picker on the 'check filtering' screen.",
       "shouldTranslate" : false
@@ -7791,6 +8079,9 @@
 
     },
     "Unknown error." : {
+
+    },
+    "Unlimited" : {
 
     },
     "Until tomorrow" : {
@@ -7837,7 +8128,13 @@
     "URL Share Extension" : {
 
     },
+    "Use a certificate from a trusted certificate authority for a hostname you control, or keep AdGuard Home private and connect through a VPN. HTTP inside the encrypted VPN tunnel avoids certificate management while keeping remote traffic protected." : {
+
+    },
     "Use NextDNS? Have I got an app for you." : {
+
+    },
+    "Use the same username and password you use to sign in to the AdGuard Home web interface. These are not necessarily the operating-system or SSH credentials of the device running AdGuard Home." : {
 
     },
     "use_global_settings" : {
@@ -7854,6 +8151,9 @@
 
     },
     "User Interface" : {
+
+    },
+    "Username & Password" : {
 
     },
     "Utility Radar" : {
@@ -7885,23 +8185,25 @@
     "Watch App Not Installed" : {
 
     },
-    "watch_stuck_reinstall" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "This can take a while. If the app is stuck on this screen, please try reinstalling it. Sorry for the inconvenience!"
-          }
-        }
-      }
-    },
     "Web hosting" : {
 
     },
     "Welcome!" : {
       "comment" : "Onboarding subtitle."
     },
+    "What do these buttons mean?" : {
+
+    },
+    "What the buttons do" : {
+
+    },
+    "What to enter, HTTPS, FAQ & troubleshooting" : {
+
+    },
     "What to sync" : {
+
+    },
+    "Why does HTTPS show a certificate error?" : {
 
     },
     "Wi-Fi network name (SSID)" : {

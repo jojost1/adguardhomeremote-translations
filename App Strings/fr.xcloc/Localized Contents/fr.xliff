@@ -1101,6 +1101,11 @@
         <target state="translated">Fonction 'Ajouter 5 min'</target>
         <note>Used on the pro purchase screen.</note>
       </trans-unit>
+      <trans-unit id="0...8760" xml:space="preserve">
+        <source>0...8760</source>
+        <target state="translated">0...8760</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="1h" xml:space="preserve">
         <source>1 hour</source>
         <target state="translated">1 heure</target>
@@ -1184,9 +1189,14 @@
         <target state="translated">Une application de suivi Anime &amp; Manga épurée, utilisant l'API MyAnimeList.</target>
         <note>Subtitle under 'ManGo' app on the Made by RocketScience screen.</note>
       </trans-unit>
-      <trans-unit id="A standard notification will appear when protection re-enables." xml:space="preserve">
-        <source>A standard notification will appear when protection re-enables.</source>
-        <target state="translated">Une notification standard apparaîtra lorsque la protection se réactivera.</target>
+      <trans-unit id="A local hostname or private IP address is not reachable outside your home. Connect through a VPN such as WireGuard or Tailscale, then configure **Away Connection** so the app can use the VPN address away from your home Wi-Fi." xml:space="preserve">
+        <source>A local hostname or private IP address is not reachable outside your home. Connect through a VPN such as WireGuard or Tailscale, then configure **Away Connection** so the app can use the VPN address away from your home Wi-Fi.</source>
+        <target state="translated">Un nom d’hôte local ou une adresse IP privée n’est pas accessible depuis l’extérieur de votre domicile. Connectez-vous via un VPN tel que WireGuard ou Tailscale, puis configurez **Connexion hors domicile** afin que l’app puisse utiliser l’adresse VPN lorsque vous êtes hors du réseau Wi-Fi de votre domicile.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="A quiet banner when protection re-enables. Respects silent mode and Focus filters, so it's easy to miss if you're not looking." xml:space="preserve">
+        <source>A quiet banner when protection re-enables. Respects silent mode and Focus filters, so it's easy to miss if you're not looking.</source>
+        <target state="translated">Une bannière discrète lorsque la protection se réactive. Respecte le mode silencieux et les filtres de Concentration, elle peut donc facilement passer inaperçue si vous n'y prêtez pas attention.</target>
         <note>Used on the Notifications-settings screen.</note>
       </trans-unit>
       <trans-unit id="AAAA" translate="no" xml:space="preserve">
@@ -1240,6 +1250,16 @@
         <target state="translated">Action</target>
         <note/>
       </trans-unit>
+      <trans-unit id="AdGuard Home API Documentation" xml:space="preserve">
+        <source>AdGuard Home API Documentation</source>
+        <target state="translated">Documentation de l’API d’AdGuard Home</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="AdGuard Home Documentation" xml:space="preserve">
+        <source>AdGuard Home Documentation</source>
+        <target state="translated">Documentation d’AdGuard Home</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="AdGuard Home Remote" xml:space="preserve">
         <source>AdGuard Home Remote</source>
         <target state="translated">AdGuard Home Remote</target>
@@ -1250,10 +1270,20 @@
         <target state="translated">AdGuard Home Remote Pro</target>
         <note>Used on the pro purchase screen.</note>
       </trans-unit>
+      <trans-unit id="AdGuard Home Remote connects to the same web interface you use in a browser. It needs the server address, the web interface port, and your AdGuard Home login details. This guide explains what to enter and how to solve common connection problems." xml:space="preserve">
+        <source>AdGuard Home Remote connects to the same web interface you use in a browser. It needs the server address, the web interface port, and your AdGuard Home login details. This guide explains what to enter and how to solve common connection problems.</source>
+        <target state="translated">AdGuard Home Remote se connecte à la même interface web que celle que vous utilisez dans un navigateur. L’app a besoin de l’adresse du serveur, du port de l’interface web et de vos identifiants AdGuard Home. Ce guide explique les informations à saisir et comment résoudre les problèmes de connexion courants.</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="AdGuard Home Remote is designed to protect your privacy and will never share any information with anyone." xml:space="preserve">
         <source>AdGuard Home Remote is designed to protect your privacy and will never share any information with anyone.</source>
         <target state="translated">AdGuard Home Remote est conçu pour protéger votre vie privée et ne partagera jamais aucune information avec quiconque.</target>
         <note>Displayed in the onboarding.</note>
+      </trans-unit>
+      <trans-unit id="AdGuard Home on GitHub" xml:space="preserve">
+        <source>AdGuard Home on GitHub</source>
+        <target state="translated">AdGuard Home sur GitHub</target>
+        <note/>
       </trans-unit>
       <trans-unit id="AdGuard Home v0.107.28 or higher is required for some of these new features. Please update!" xml:space="preserve">
         <source>AdGuard Home v0.107.28 or higher is required for some of these new features. Please update!</source>
@@ -1360,11 +1390,6 @@
         <target state="translated">Les alarmes nécessitent AGHR+.</target>
         <note>Used on the Notifications-settings screen.</note>
       </trans-unit>
-      <trans-unit id="Alarms take over the screen when protection re-enables, with sound that ignores silent mode." xml:space="preserve">
-        <source>Alarms take over the screen when protection re-enables, with sound that ignores silent mode.</source>
-        <target state="translated">Les alarmes prennent le contrôle de l'écran lorsque la protection se réactive, avec un son qui ignore le mode silencieux.</target>
-        <note>Used on the Notifications-settings screen.</note>
-      </trans-unit>
       <trans-unit id="Alert Style" xml:space="preserve">
         <source>Alert Style</source>
         <target state="translated">Style d'Alerte</target>
@@ -1418,6 +1443,11 @@
       <trans-unit id="Apple Watch" xml:space="preserve">
         <source>Apple Watch</source>
         <target state="translated">Apple Watch</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Apple devices reject certificates that are expired, untrusted, or issued for a different hostname. The hostname in the app must match a name on the certificate. For a private certificate authority, install its root certificate on this device and enable full trust in **Settings → General → About → Certificate Trust Settings**." xml:space="preserve">
+        <source>Apple devices reject certificates that are expired, untrusted, or issued for a different hostname. The hostname in the app must match a name on the certificate. For a private certificate authority, install its root certificate on this device and enable full trust in **Settings → General → About → Certificate Trust Settings**.</source>
+        <target state="translated">Les appareils Apple refusent les certificats expirés, non approuvés ou émis pour un autre nom d’hôte. Le nom d’hôte saisi dans l’app doit correspondre à un nom figurant sur le certificat. Pour une autorité de certification privée, installez son certificat racine sur cet appareil et activez la confiance totale dans **Réglages → Général → Informations → Réglages de confiance des certificats**.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Apply Pro license" xml:space="preserve">
@@ -1558,6 +1588,21 @@ Votre « Connexion à domicile » par défaut sera alors utilisée sur les rése
         <target state="translated">Gestion des listes de blocage</target>
         <note>Displayed in the onboarding.</note>
       </trans-unit>
+      <trans-unit id="Blocks ads, trackers and other domains on your filter lists." xml:space="preserve">
+        <source>Blocks ads, trackers and other domains on your filter lists.</source>
+        <target state="translated">Bloque les publicités, les traceurs et les autres domaines de vos listes de filtres.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Blocks known malware and phishing websites." xml:space="preserve">
+        <source>Blocks known malware and phishing websites.</source>
+        <target state="translated">Bloque les logiciels malveillants connus et les sites de phishing.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Breaks through Focus modes so the notification isn't silenced when Do Not Disturb is active." xml:space="preserve">
+        <source>Breaks through Focus modes so the notification isn't silenced when Do Not Disturb is active.</source>
+        <target state="translated">Outrepasse les modes de Concentration afin que la notification ne soit pas masquée lorsque Ne pas déranger est actif.</target>
+        <note>Used on the Notifications-settings screen.</note>
+      </trans-unit>
       <trans-unit id="Browse your DNS query log, see which domains are being queried and which are being blocked." xml:space="preserve">
         <source>Browse your DNS query log, see which domains are being queried and which are being blocked.</source>
         <target state="translated">Parcourez votre journal de requêtes DNS, voyez quels domaines sont consultés et lesquels sont bloqués.</target>
@@ -1600,6 +1645,11 @@ Votre « Connexion à domicile » par défaut sera alors utilisée sur les rése
       <trans-unit id="Card color" xml:space="preserve">
         <source>Card color</source>
         <target state="translated">Couleur des cartes</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Certificate Errors on Apple Devices" xml:space="preserve">
+        <source>Certificate Errors on Apple Devices</source>
+        <target state="translated">Erreurs de certificat sur les appareils Apple</target>
         <note/>
       </trans-unit>
       <trans-unit id="Changing this setting requires a force restart of the app." xml:space="preserve">
@@ -1677,10 +1727,25 @@ Votre « Connexion à domicile » par défaut sera alors utilisée sur les rése
         <target state="translated">Bientôt disponible</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Common Connection Issues" xml:space="preserve">
+        <source>Common Connection Issues</source>
+        <target state="translated">Problèmes de connexion courants</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Compact" xml:space="preserve">
         <source>Compact</source>
         <target state="translated">Compact</target>
         <note>Dashboard size type</note>
+      </trans-unit>
+      <trans-unit id="Compare the complete browser address with the app settings. A redirect, reverse-proxy subpath, custom authentication page, or untrusted certificate can work differently from AdGuard Home's API. If a reverse proxy requires extra request headers, add them under **Custom Headers**." xml:space="preserve">
+        <source>Compare the complete browser address with the app settings. A redirect, reverse-proxy subpath, custom authentication page, or untrusted certificate can work differently from AdGuard Home's API. If a reverse proxy requires extra request headers, add them under **Custom Headers**.</source>
+        <target state="translated">Comparez l’adresse complète du navigateur avec les réglages de l’app. Une redirection, un sous-chemin de proxy inverse, une page d’authentification personnalisée ou un certificat non approuvé peut se comporter différemment de l’API d’AdGuard Home. Si un proxy inverse exige des en-têtes de requête supplémentaires, ajoutez-les sous **En-têtes personnalisés**.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Connecting to AdGuard Home" xml:space="preserve">
+        <source>Connecting to AdGuard Home</source>
+        <target state="translated">Connexion à AdGuard Home</target>
+        <note/>
       </trans-unit>
       <trans-unit id="Connection" xml:space="preserve">
         <source>Connection</source>
@@ -1706,6 +1771,11 @@ Votre « Connexion à domicile » par défaut sera alors utilisée sur les rése
         <source>Copy '%@'</source>
         <target state="translated">Copier '%@'</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="Copy Email Address" xml:space="preserve">
+        <source>Copy Email Address</source>
+        <target state="translated">Copier l’adresse e-mail</target>
+        <note>Displayed in an alert on the support screen when someone has no email client installed.</note>
       </trans-unit>
       <trans-unit id="Copy email" xml:space="preserve">
         <source>Copy email</source>
@@ -1862,6 +1932,11 @@ Votre « Connexion à domicile » par défaut sera alors utilisée sur les rése
         <target state="translated">Nombre par défaut</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Default example: if Safari opens `http://192.168.1.10/`, enter host `192.168.1.10`, select HTTP, and use port `80`. Always use the actual LAN IP shown by your own setup." xml:space="preserve">
+        <source>Default example: if Safari opens `http://192.168.1.10/`, enter host `192.168.1.10`, select HTTP, and use port `80`. Always use the actual LAN IP shown by your own setup.</source>
+        <target state="translated">Exemple par défaut : si Safari ouvre `http://192.168.1.10/`, saisissez l’hôte `192.168.1.10`, sélectionnez HTTP et utilisez le port `80`. Utilisez toujours l’adresse IP LAN réelle indiquée par votre propre configuration.</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Delete" xml:space="preserve">
         <source>Delete</source>
         <target state="translated">Supprimer</target>
@@ -1907,6 +1982,21 @@ Votre « Connexion à domicile » par défaut sera alors utilisée sur les rése
         <target state="translated">Désactivé</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Dismiss" xml:space="preserve">
+        <source>Dismiss</source>
+        <target state="translated">Fermer</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Do not port-forward the AdGuard Home admin interface directly to the public internet. Use a VPN or a carefully secured reverse proxy with HTTPS and strong authentication." xml:space="preserve">
+        <source>Do not port-forward the AdGuard Home admin interface directly to the public internet. Use a VPN or a carefully secured reverse proxy with HTTPS and strong authentication.</source>
+        <target state="translated">Ne redirigez pas directement le port de l’interface d’administration d’AdGuard Home vers Internet. Utilisez un VPN ou un proxy inverse soigneusement sécurisé avec HTTPS et une authentification forte.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Do not run an unrestricted public DNS resolver. If the DNS service is internet-accessible, configure AdGuard Home's access settings, allowlists, encrypted DNS, and rate limiting." xml:space="preserve">
+        <source>Do not run an unrestricted public DNS resolver. If the DNS service is internet-accessible, configure AdGuard Home's access settings, allowlists, encrypted DNS, and rate limiting.</source>
+        <target state="translated">N’exécutez pas de résolveur DNS public sans restriction. Si le service DNS est accessible depuis Internet, configurez les réglages d’accès d’AdGuard Home, les listes d’autorisation, le DNS chiffré et la limitation du débit.</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Done" xml:space="preserve">
         <source>Done</source>
         <target state="translated">Terminé</target>
@@ -1931,6 +2021,11 @@ Votre « Connexion à domicile » par défaut sera alors utilisée sur les rése
         <source>EUI64</source>
         <target state="translated">EUI64</target>
         <note>Used in the DNS record type picker on the 'check filtering' screen.</note>
+      </trans-unit>
+      <trans-unit id="Each button controls a different filtering feature for this server." xml:space="preserve">
+        <source>Each button controls a different filtering feature for this server.</source>
+        <target state="translated">Chaque bouton contrôle une fonctionnalité de filtrage différente pour ce serveur.</target>
+        <note/>
       </trans-unit>
       <trans-unit id="Earthy" xml:space="preserve">
         <source>Earthy</source>
@@ -1986,6 +2081,11 @@ Votre « Connexion à domicile » par défaut sera alors utilisée sur les rése
         <source>Enjoy great widgets and a Live Activity when disabling protection.</source>
         <target state="translated">Profitez de superbes widgets et d'une Activité en Direct lors de la désactivation de la protection.</target>
         <note>Displayed in the onboarding.</note>
+      </trans-unit>
+      <trans-unit id="Enter the update interval in hours (0–8760). 0 disables automatic updates." xml:space="preserve">
+        <source>Enter the update interval in hours (0–8760). 0 disables automatic updates.</source>
+        <target state="translated">Saisissez l’intervalle de mise à jour en heures (0–8760). 0 désactive les mises à jour automatiques.</target>
+        <note/>
       </trans-unit>
       <trans-unit id="Error" xml:space="preserve">
         <source>Error</source>
@@ -2062,6 +2162,16 @@ Votre « Connexion à domicile » par défaut sera alors utilisée sur les rése
         <target state="translated">Filtres : %@</target>
         <note/>
       </trans-unit>
+      <trans-unit id="For a default installation, enter the LAN IP address of the device running AdGuard Home, without `http://`, a port, or a path. AdGuard Home does not assign a standard hostname. Use one of the network addresses shown when setup completes; do not enter the bind address `0.0.0.0`. Example: if setup opens `http://192.168.1.10/`, enter `192.168.1.10`. A fixed IP address or DHCP reservation is recommended." xml:space="preserve">
+        <source>For a default installation, enter the LAN IP address of the device running AdGuard Home, without `http://`, a port, or a path. AdGuard Home does not assign a standard hostname. Use one of the network addresses shown when setup completes; do not enter the bind address `0.0.0.0`. Example: if setup opens `http://192.168.1.10/`, enter `192.168.1.10`. A fixed IP address or DHCP reservation is recommended.</source>
+        <target state="translated">Pour une installation par défaut, saisissez l’adresse IP LAN de l’appareil exécutant AdGuard Home, sans `http://`, port ni chemin. AdGuard Home n’attribue pas de nom d’hôte standard. Utilisez l’une des adresses réseau affichées à la fin de la configuration ; ne saisissez pas l’adresse de liaison `0.0.0.0`. Exemple : si la configuration ouvre `http://192.168.1.10/`, saisissez `192.168.1.10`. Une adresse IP fixe ou une réservation DHCP est recommandée.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="For access away from home, a VPN is usually safer and easier than exposing the AdGuard Home web interface directly to the internet." xml:space="preserve">
+        <source>For access away from home, a VPN is usually safer and easier than exposing the AdGuard Home web interface directly to the internet.</source>
+        <target state="translated">Pour un accès hors de votre domicile, un VPN est généralement plus sûr et plus simple que d’exposer directement l’interface web d’AdGuard Home à Internet.</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="For any reason" xml:space="preserve">
         <source>For any reason</source>
         <target state="translated">Pour toute raison</target>
@@ -2070,6 +2180,11 @@ Votre « Connexion à domicile » par défaut sera alors utilisée sur les rése
       <trans-unit id="Force Watch Sync" xml:space="preserve">
         <source>Force Watch Sync</source>
         <target state="translated">Forcer la synchro Watch</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Forces safe results in supported search engines and enables Restricted Mode on YouTube." xml:space="preserve">
+        <source>Forces safe results in supported search engines and enables Restricted Mode on YouTube.</source>
+        <target state="translated">Force les résultats sécurisés dans les moteurs de recherche pris en charge et active le mode restreint sur YouTube.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Free" xml:space="preserve">
@@ -2107,6 +2222,31 @@ Votre « Connexion à domicile » par défaut sera alors utilisée sur les rése
         <target state="translated">Obtenir Pro</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Get notified the moment protection re-enables after a timed pause. Use notification actions to extend the pause directly from the lock screen." xml:space="preserve">
+        <source>Get notified the moment protection re-enables after a timed pause. Use notification actions to extend the pause directly from the lock screen.</source>
+        <target state="translated">Soyez notifié dès que la protection se réactive après une pause minutée. Utilisez les actions de la notification pour prolonger la pause directement depuis l'écran verrouillé.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Give Feedback" xml:space="preserve">
+        <source>Give Feedback</source>
+        <target state="translated">Envoyer des commentaires</target>
+        <note>Displayed in an alert on the support screen when someone has no email client installed.</note>
+      </trans-unit>
+      <trans-unit id="Got it" xml:space="preserve">
+        <source>Got it</source>
+        <target state="translated">Compris</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Green means the layer is on, so those domains are blocked. Red means it's off, so those domains are allowed through. Tap a button to switch it." xml:space="preserve">
+        <source>Green means the layer is on, so those domains are blocked. Red means it's off, so those domains are allowed through. Tap a button to switch it.</source>
+        <target state="translated">Le vert signifie que la couche est activée, donc ces domaines sont bloqués. Le rouge signifie qu'elle est désactivée, donc ces domaines sont autorisés. Appuyez sur un bouton pour basculer.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Green vs red" xml:space="preserve">
+        <source>Green vs red</source>
+        <target state="translated">Vert vs rouge</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="HINFO" translate="no" xml:space="preserve">
         <source>HINFO</source>
         <note>Used in the DNS record type picker on the 'check filtering' screen.</note>
@@ -2120,9 +2260,39 @@ Votre « Connexion à domicile » par défaut sera alors utilisée sur les rése
         <target state="translated">HTTP</target>
         <note/>
       </trans-unit>
+      <trans-unit id="HTTP (unencrypted)" xml:space="preserve">
+        <source>HTTP (unencrypted)</source>
+        <target state="translated">HTTP (non chiffré)</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="HTTP on port **80** is the default after completing the AdGuard Home setup wizard. It is the simplest option on a trusted home network. Do not use plain HTTP over the public internet." xml:space="preserve">
+        <source>HTTP on port **80** is the default after completing the AdGuard Home setup wizard. It is the simplest option on a trusted home network. Do not use plain HTTP over the public internet.</source>
+        <target state="translated">HTTP sur le port **80** est le réglage par défaut après avoir terminé l’assistant de configuration d’AdGuard Home. C’est l’option la plus simple sur un réseau domestique de confiance. N’utilisez pas HTTP en clair sur Internet.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="HTTP vs HTTPS" xml:space="preserve">
+        <source>HTTP vs HTTPS</source>
+        <target state="translated">HTTP ou HTTPS</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="HTTPS" translate="no" xml:space="preserve">
         <source>HTTPS</source>
         <note>Used in the DNS record type picker on the 'check filtering' screen.</note>
+      </trans-unit>
+      <trans-unit id="HTTPS (encrypted)" xml:space="preserve">
+        <source>HTTPS (encrypted)</source>
+        <target state="translated">HTTPS (chiffré)</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="HTTPS is not enabled by the initial setup wizard. Select it only after configuring TLS in AdGuard Home or in a reverse proxy; **443** is AdGuard Home's default HTTPS port when TLS is configured. The certificate must be trusted by this device and valid for the exact hostname you enter." xml:space="preserve">
+        <source>HTTPS is not enabled by the initial setup wizard. Select it only after configuring TLS in AdGuard Home or in a reverse proxy; **443** is AdGuard Home's default HTTPS port when TLS is configured. The certificate must be trusted by this device and valid for the exact hostname you enter.</source>
+        <target state="translated">HTTPS n’est pas activé par l’assistant de configuration initial. Sélectionnez-le uniquement après avoir configuré TLS dans AdGuard Home ou dans un proxy inverse ; **443** est le port HTTPS par défaut d’AdGuard Home lorsque TLS est configuré. Le certificat doit être approuvé par cet appareil et valide pour le nom d’hôte exact que vous saisissez.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Helps block adult websites for safer, family-friendly browsing." xml:space="preserve">
+        <source>Helps block adult websites for safer, family-friendly browsing.</source>
+        <target state="translated">Aide à bloquer les sites Web pour adultes pour une navigation plus sûre et adaptée aux familles.</target>
+        <note/>
       </trans-unit>
       <trans-unit id="Hides instance name" xml:space="preserve">
         <source>Hides instance name</source>
@@ -2133,6 +2303,15 @@ Votre « Connexion à domicile » par défaut sera alors utilisée sur les rése
         <source>Home</source>
         <target state="translated">Domicile</target>
         <note>Placeholder for the name textfield on the instance settings screen.</note>
+      </trans-unit>
+      <trans-unit id="Home Assistant normally opens AdGuard Home through Ingress, which AdGuard Home Remote cannot use directly. In Home Assistant, go to **Settings &gt; Apps &gt; AdGuard Home &gt; Configuration &gt; Network** and assign a host port to **Web interface** (`80/tcp`), for example **3001**. Save and restart the AdGuard Home app.&#10;&#10;In AdGuard Home Remote, enter your Home Assistant device's LAN IP address or hostname and the port you assigned. Select HTTP or HTTPS to match the app's **SSL** option. Then sign in with your Home Assistant username and password. Do not use the Home Assistant Ingress or Cloud URL." xml:space="preserve">
+        <source>Home Assistant normally opens AdGuard Home through Ingress, which AdGuard Home Remote cannot use directly. In Home Assistant, go to **Settings &gt; Apps &gt; AdGuard Home &gt; Configuration &gt; Network** and assign a host port to **Web interface** (`80/tcp`), for example **3001**. Save and restart the AdGuard Home app.
+
+In AdGuard Home Remote, enter your Home Assistant device's LAN IP address or hostname and the port you assigned. Select HTTP or HTTPS to match the app's **SSL** option. Then sign in with your Home Assistant username and password. Do not use the Home Assistant Ingress or Cloud URL.</source>
+        <target state="translated">Home Assistant ouvre normalement AdGuard Home via Ingress, qu’AdGuard Home Remote ne peut pas utiliser directement. Dans Home Assistant, accédez à **Paramètres &gt; Applications &gt; AdGuard Home &gt; Configuration &gt; Réseau** et attribuez un port de l’hôte à **Interface web** (`80/tcp`), par exemple **3001**. Enregistrez puis redémarrez l’application AdGuard Home.
+
+Dans AdGuard Home Remote, saisissez l’adresse IP locale ou le nom d’hôte de votre appareil Home Assistant, ainsi que le port attribué. Sélectionnez HTTP ou HTTPS selon l’option **SSL** de l’application. Connectez-vous ensuite avec votre nom d’utilisateur et votre mot de passe Home Assistant. N’utilisez pas l’URL Ingress ou Cloud de Home Assistant.</target>
+        <note/>
       </trans-unit>
       <trans-unit id="Home Connection" xml:space="preserve">
         <source>Home Connection</source>
@@ -2164,6 +2343,11 @@ Votre « Connexion à domicile » par défaut sera alors utilisée sur les rése
         <target state="translated">Nom d'hôte ou nom de domaine</target>
         <note/>
       </trans-unit>
+      <trans-unit id="I can't connect at all" xml:space="preserve">
+        <source>I can't connect at all</source>
+        <target state="translated">Je ne parviens pas du tout à me connecter</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="I see you don't have an active mail client on your device, please mail me with the request to join the TestFlight including a screenshot of this Pro screen so I can see you have purchased Pro.&#10;&#10;Please mail it to developer@rocketscience-it.nl!" xml:space="preserve">
         <source>I see you don't have an active mail client on your device, please mail me with the request to join the TestFlight including a screenshot of this Pro screen so I can see you have purchased Pro.
 
@@ -2172,6 +2356,11 @@ Please mail it to developer@rocketscience-it.nl!</source>
 
 Veuillez l'envoyer à developer@rocketscience-it.nl !</target>
         <note>Used on the pro purchase screen.</note>
+      </trans-unit>
+      <trans-unit id="I'm using AdGuard Home through Home Assistant. How do I connect?" xml:space="preserve">
+        <source>I'm using AdGuard Home through Home Assistant. How do I connect?</source>
+        <target state="translated">J’utilise AdGuard Home via Home Assistant. Comment me connecter ?</target>
+        <note/>
       </trans-unit>
       <trans-unit id="IPSECKEY" translate="no" xml:space="preserve">
         <source>IPSECKEY</source>
@@ -2197,6 +2386,11 @@ Veuillez l'envoyer à developer@rocketscience-it.nl !</target>
         <target state="translated">Inclure le graphique</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Included" xml:space="preserve">
+        <source>Included</source>
+        <target state="translated">Inclus</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Indefinitely" xml:space="preserve">
         <source>Indefinitely</source>
         <target state="translated">Indéfiniment</target>
@@ -2205,6 +2399,11 @@ Veuillez l'envoyer à developer@rocketscience-it.nl !</target>
       <trans-unit id="Info" xml:space="preserve">
         <source>Info</source>
         <target state="translated">Info</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Install AdGuard Home updates regularly to receive security, compatibility, and stability fixes." xml:space="preserve">
+        <source>Install AdGuard Home updates regularly to receive security, compatibility, and stability fixes.</source>
+        <target state="translated">Installez régulièrement les mises à jour d’AdGuard Home pour bénéficier des correctifs de sécurité, de compatibilité et de stabilité.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Instance" xml:space="preserve">
@@ -2242,6 +2441,16 @@ Veuillez l'envoyer à developer@rocketscience-it.nl !</target>
         <target state="translated">Nom d'hôte ou port invalide.</target>
         <note/>
       </trans-unit>
+      <trans-unit id="It works at home but not when I'm away" xml:space="preserve">
+        <source>It works at home but not when I'm away</source>
+        <target state="translated">Cela fonctionne chez moi, mais pas à l’extérieur</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="It works in Safari but not in the app" xml:space="preserve">
+        <source>It works in Safari but not in the app</source>
+        <target state="translated">Cela fonctionne dans Safari, mais pas dans l’app</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="KEEP" xml:space="preserve">
         <source>KEEP</source>
         <target state="translated">CONSERVER</target>
@@ -2254,6 +2463,16 @@ Veuillez l'envoyer à developer@rocketscience-it.nl !</target>
       <trans-unit id="KX" translate="no" xml:space="preserve">
         <source>KX</source>
         <note>Used in the DNS record type picker on the 'check filtering' screen.</note>
+      </trans-unit>
+      <trans-unit id="Keep AdGuard Home updated" xml:space="preserve">
+        <source>Keep AdGuard Home updated</source>
+        <target state="translated">Maintenir AdGuard Home à jour</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Keep the web interface private" xml:space="preserve">
+        <source>Keep the web interface private</source>
+        <target state="translated">Garder l’interface web privée</target>
+        <note/>
       </trans-unit>
       <trans-unit id="LOC" translate="no" xml:space="preserve">
         <source>LOC</source>
@@ -2273,6 +2492,11 @@ Veuillez l'envoyer à developer@rocketscience-it.nl !</target>
         <source>Learn More</source>
         <target state="translated">En savoir plus</target>
         <note>Displayed in the onboarding.</note>
+      </trans-unit>
+      <trans-unit id="Learn how to connect and troubleshoot your instance" xml:space="preserve">
+        <source>Learn how to connect and troubleshoot your instance</source>
+        <target state="translated">Découvrez comment connecter votre instance et résoudre les problèmes</target>
+        <note/>
       </trans-unit>
       <trans-unit id="Lifetime Pro" xml:space="preserve">
         <source>Lifetime Pro</source>
@@ -2393,6 +2617,11 @@ Veuillez l'envoyer à developer@rocketscience-it.nl !</target>
         <target state="translated">Mes statistiques AdGuard Home, partagées avec AdGuard Home Remote https://apps.apple.com/app/id1543143740</target>
         <note>Pre-filled message body when sharing an AdGuard Home stats image to apps that accept text (Messages, Mail, social apps). Includes the App Store link as a soft CTA.</note>
       </trans-unit>
+      <trans-unit id="My username or password is rejected" xml:space="preserve">
+        <source>My username or password is rejected</source>
+        <target state="translated">Mon nom d’utilisateur ou mon mot de passe est refusé</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="NAPTR" translate="no" xml:space="preserve">
         <source>NAPTR</source>
         <note>Used in the DNS record type picker on the 'check filtering' screen.</note>
@@ -2494,6 +2723,11 @@ Veuillez l'envoyer à developer@rocketscience-it.nl !</target>
         <target state="translated">Aucune requête récente trouvée.</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Not included" xml:space="preserve">
+        <source>Not included</source>
+        <target state="translated">Non inclus</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Notification" xml:space="preserve">
         <source>Notification</source>
         <target state="translated">Notification</target>
@@ -2522,6 +2756,21 @@ Veuillez l'envoyer à developer@rocketscience-it.nl !</target>
       <trans-unit id="OPENPGPKEY" translate="no" xml:space="preserve">
         <source>OPENPGPKEY</source>
         <note>Used in the DNS record type picker on the 'check filtering' screen.</note>
+      </trans-unit>
+      <trans-unit id="Off" xml:space="preserve">
+        <source>Off</source>
+        <target state="translated">Désactivé</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Official AdGuard Home Resources" xml:space="preserve">
+        <source>Official AdGuard Home Resources</source>
+        <target state="translated">Ressources officielles d’AdGuard Home</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="On" xml:space="preserve">
+        <source>On</source>
+        <target state="translated">Activé</target>
+        <note/>
       </trans-unit>
       <trans-unit id="One-tap button" xml:space="preserve">
         <source>One-tap button</source>
@@ -2656,6 +2905,11 @@ Veuillez l'envoyer à developer@rocketscience-it.nl !</target>
         <target state="translated">Veuillez ajouter une instance dans l'app iPhone.</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Please mail me with any feedback about bugs or improvements at developer@rocketscience-it.nl!" xml:space="preserve">
+        <source>Please mail me with any feedback about bugs or improvements at developer@rocketscience-it.nl!</source>
+        <target state="translated">Envoyez-moi par e-mail vos commentaires sur les bugs ou les améliorations à l’adresse developer@rocketscience-it.nl !</target>
+        <note>Displayed in an alert on the support screen when someone has no email client installed.</note>
+      </trans-unit>
       <trans-unit id="Port" xml:space="preserve">
         <source>Port</source>
         <target state="translated">Port</target>
@@ -2670,6 +2924,11 @@ Veuillez l'envoyer à developer@rocketscience-it.nl !</target>
         <source>Powerful AdGuard Home Client &amp; DHCP management.</source>
         <target state="translated">Gestion puissante des clients AdGuard Home et du DHCP.</target>
         <note>Displayed in the onboarding.</note>
+      </trans-unit>
+      <trans-unit id="Preferred setup" xml:space="preserve">
+        <source>Preferred setup</source>
+        <target state="translated">Configuration recommandée</target>
+        <note/>
       </trans-unit>
       <trans-unit id="Presets" xml:space="preserve">
         <source>Presets</source>
@@ -2706,9 +2965,19 @@ Veuillez l'envoyer à developer@rocketscience-it.nl !</target>
         <target state="translated">Traité : %@</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Protect the DNS service" xml:space="preserve">
+        <source>Protect the DNS service</source>
+        <target state="translated">Protéger le service DNS</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Protection" xml:space="preserve">
         <source>Protection</source>
         <target state="translated">Protection</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Protection (the shield)" xml:space="preserve">
+        <source>Protection (the shield)</source>
+        <target state="translated">Protection (le bouclier)</target>
         <note/>
       </trans-unit>
       <trans-unit id="Protection Enabled" xml:space="preserve">
@@ -2721,6 +2990,11 @@ Veuillez l'envoyer à developer@rocketscience-it.nl !</target>
         <target state="translated">Notifications de Protection</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Protection controls" xml:space="preserve">
+        <source>Protection controls</source>
+        <target state="translated">Contrôles de protection</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Protection has been re-enabled on all instances." xml:space="preserve">
         <source>Protection has been re-enabled on all instances.</source>
         <target state="translated">La protection a été réactivée sur toutes les instances.</target>
@@ -2729,6 +3003,11 @@ Veuillez l'envoyer à developer@rocketscience-it.nl !</target>
       <trans-unit id="Protection has been re-enabled." xml:space="preserve">
         <source>Protection has been re-enabled.</source>
         <target state="translated">La protection a été réactivée.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Protection layers" xml:space="preserve">
+        <source>Protection layers</source>
+        <target state="translated">Couches de protection</target>
         <note/>
       </trans-unit>
       <trans-unit id="Protocol" xml:space="preserve">
@@ -2921,6 +3200,16 @@ Veuillez l'envoyer à developer@rocketscience-it.nl !</target>
         <target state="translated">Planification</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Secure Setup Guide" xml:space="preserve">
+        <source>Secure Setup Guide</source>
+        <target state="translated">Guide de configuration sécurisée</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Securing Remote Access" xml:space="preserve">
+        <source>Securing Remote Access</source>
+        <target state="translated">Sécurisation de l’accès à distance</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="See live DNS queries streaming through your AdGuard Home in real time." xml:space="preserve">
         <source>See live DNS queries streaming through your AdGuard Home in real time.</source>
         <target state="translated">Voir les requêtes DNS en direct passant par votre AdGuard Home en temps réel.</target>
@@ -2946,6 +3235,11 @@ Veuillez l'envoyer à developer@rocketscience-it.nl !</target>
         <target state="translated">Envoyer des Notifications</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Send feedback, report a bug, or ask for help" xml:space="preserve">
+        <source>Send feedback, report a bug, or ask for help</source>
+        <target state="translated">Envoyez vos commentaires, signalez un bug ou demandez de l’aide</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Separate cards and charts" xml:space="preserve">
         <source>Separate cards and charts</source>
         <target state="translated">Cartes et graphiques séparés</target>
@@ -2969,6 +3263,21 @@ Veuillez l'envoyer à developer@rocketscience-it.nl !</target>
       <trans-unit id="Settings" xml:space="preserve">
         <source>Settings</source>
         <target state="translated">Réglages</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Setup &amp; Help" xml:space="preserve">
+        <source>Setup &amp; Help</source>
+        <target state="translated">Configuration et aide</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Setup Guide" xml:space="preserve">
+        <source>Setup Guide</source>
+        <target state="translated">Guide de configuration</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Setup Guide &amp; Help" xml:space="preserve">
+        <source>Setup Guide &amp; Help</source>
+        <target state="translated">Guide de configuration et aide</target>
         <note/>
       </trans-unit>
       <trans-unit id="Share" xml:space="preserve">
@@ -3009,6 +3318,16 @@ Veuillez l'envoyer à developer@rocketscience-it.nl !</target>
       <trans-unit id="Show 'Until tomorrow'" xml:space="preserve">
         <source>Show 'Until tomorrow'</source>
         <target state="translated">Afficher 'Jusqu'à demain'</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Show Blocked Malware" xml:space="preserve">
+        <source>Show Blocked Malware</source>
+        <target state="translated">Afficher le malware bloqué</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Show Blocked Parental" xml:space="preserve">
+        <source>Show Blocked Parental</source>
+        <target state="translated">Afficher le contrôle parental bloqué</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show Changelog again on startup" xml:space="preserve">
@@ -3075,6 +3394,11 @@ Veuillez l'envoyer à developer@rocketscience-it.nl !</target>
         <source>Sidebar</source>
         <target state="translated">Barre latérale</target>
         <note>Used in the 'Preferences Other' screen in the navigation style picker (only visible for iPad)</note>
+      </trans-unit>
+      <trans-unit id="Sign in to the AdGuard Home web interface in Safari to verify the credentials. Enter that exact web-interface username and password in the app. If authentication was disabled in AdGuard Home, leave both fields empty." xml:space="preserve">
+        <source>Sign in to the AdGuard Home web interface in Safari to verify the credentials. Enter that exact web-interface username and password in the app. If authentication was disabled in AdGuard Home, leave both fields empty.</source>
+        <target state="translated">Connectez-vous à l’interface web d’AdGuard Home dans Safari pour vérifier les identifiants. Saisissez exactement ce nom d’utilisateur et ce mot de passe de l’interface web dans l’app. Si l’authentification a été désactivée dans AdGuard Home, laissez les deux champs vides.</target>
+        <note/>
       </trans-unit>
       <trans-unit id="Small cards, combined chart" xml:space="preserve">
         <source>Small cards, combined chart</source>
@@ -3261,14 +3585,14 @@ Veuillez l'envoyer à developer@rocketscience-it.nl !</target>
         <target state="translated">Faites passer AdGuard Home Remote au niveau supérieur en supprimant les limites et en déverrouillant la gestion complète d'AdGuard Home, les widgets interactifs, le support multi-instances et plus encore.</target>
         <note>Used on the pro purchase screen.</note>
       </trans-unit>
+      <trans-unit id="Takes over the screen with sound, even in silent mode. You won't miss when protection re-enables." xml:space="preserve">
+        <source>Takes over the screen with sound, even in silent mode. You won't miss when protection re-enables.</source>
+        <target state="translated">Occupe tout l'écran avec du son, même en mode silencieux. Vous ne manquerez pas la réactivation de la protection.</target>
+        <note>Used on the Notifications-settings screen.</note>
+      </trans-unit>
       <trans-unit id="Target" xml:space="preserve">
         <source>Target</source>
         <target state="translated">Cible</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Temporarily disabled protection? Get notified when it's re-enabled. Use notification actions to quickly extend the disabled period." xml:space="preserve">
-        <source>Temporarily disabled protection? Get notified when it's re-enabled. Use notification actions to quickly extend the disabled period.</source>
-        <target state="translated">Protection temporairement désactivée ? Recevez une notification lorsqu'elle se réactive. Utilisez les actions de notification pour prolonger rapidement la période de désactivation.</target>
         <note/>
       </trans-unit>
       <trans-unit id="TestFlight Beta Access" xml:space="preserve">
@@ -3301,6 +3625,21 @@ Veuillez l'envoyer à developer@rocketscience-it.nl !</target>
         <target state="translated">La date de fin originale à laquelle le blocage sera réactivé.</target>
         <note/>
       </trans-unit>
+      <trans-unit id="The setup wizard defaults the web interface to HTTP port **80**. Enter **80** if you did not change it during setup. Port **3000** is the temporary first-run wizard port and is normally no longer correct after setup. Do not enter DNS port **53**." xml:space="preserve">
+        <source>The setup wizard defaults the web interface to HTTP port **80**. Enter **80** if you did not change it during setup. Port **3000** is the temporary first-run wizard port and is normally no longer correct after setup. Do not enter DNS port **53**.</source>
+        <target state="translated">L’assistant de configuration utilise par défaut le port HTTP **80** pour l’interface web. Saisissez **80** si vous ne l’avez pas modifié lors de la configuration. Le port **3000** est le port temporaire de l’assistant de premier démarrage et n’est normalement plus correct après la configuration. Ne saisissez pas le port DNS **53**.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="The shield at the top is the master switch. When it's on, the buttons below control each layer. Turn it off to pause all blocking at once. The sub-buttons then hide until you switch protection back on." xml:space="preserve">
+        <source>The shield at the top is the master switch. When it's on, the buttons below control each layer. Turn it off to pause all blocking at once. The sub-buttons then hide until you switch protection back on.</source>
+        <target state="translated">Le bouclier en haut est l'interrupteur principal. Lorsqu'il est activé, les boutons en dessous contrôlent chaque couche. Désactivez-le pour mettre en pause tous les blocages à la fois. Les sous-boutons se cachent jusqu'à ce que vous réactiviez la protection.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="These links open AdGuard Home's official documentation and source code. AdGuard Home Remote is an independent app and is not affiliated with AdGuard." xml:space="preserve">
+        <source>These links open AdGuard Home's official documentation and source code. AdGuard Home Remote is an independent app and is not affiliated with AdGuard.</source>
+        <target state="translated">Ces liens ouvrent la documentation officielle et le code source d’AdGuard Home. AdGuard Home Remote est une app indépendante sans affiliation avec AdGuard.</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="These settings are used when you're not on any of the home Wi-Fi networks above (e.g. cellular, VPN, or other Wi-Fi)." xml:space="preserve">
         <source>These settings are used when you're not on any of the home Wi-Fi networks above (e.g. cellular, VPN, or other Wi-Fi).</source>
         <target state="translated">Ces paramètres sont utilisés lorsque vous n’êtes connecté à aucun des réseaux Wi-Fi domestiques ci-dessus (par exemple, données cellulaires, VPN ou autre Wi-Fi).</target>
@@ -3320,11 +3659,6 @@ Veuillez l'envoyer à developer@rocketscience-it.nl !</target>
         <source>This version requires iOS 16.2 &amp; watchOS 10.0 (or newer).</source>
         <target state="translated">Cette version nécessite iOS 16.2 &amp; watchOS 10.0 (ou plus récent).</target>
         <note/>
-      </trans-unit>
-      <trans-unit id="Time Sensitive notifications have the option to break through focus modes." xml:space="preserve">
-        <source>Time Sensitive notifications have the option to break through focus modes.</source>
-        <target state="translated">Les notifications Urgentes ont la possibilité de passer outre les modes Concentration.</target>
-        <note>Used on the Notifications-settings screen.</note>
       </trans-unit>
       <trans-unit id="To detect your Wi-Fi network name, Apple requires 'While Using App' location permission. This is a system requirement for reading Wi-Fi information.&#10;&#10;Your location is never stored or transmitted by AdGuard Home Remote." xml:space="preserve">
         <source>To detect your Wi-Fi network name, Apple requires 'While Using App' location permission. This is a system requirement for reading Wi-Fi information.
@@ -3410,6 +3744,23 @@ Votre position n’est jamais stockée ni transmise par AdGuard Home Remote.</ta
         <target state="translated">Total : %@</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Try these steps in order:&#10;&#10;1. Open AdGuard Home in Safari on the same device.&#10;2. Check that HTTP or HTTPS matches the browser address.&#10;3. Enter only the hostname or IP in **Host**.&#10;4. Confirm that **Port** is the web-interface port, not DNS port 53.&#10;5. Make sure this device is on the same network, or connected to your home VPN." xml:space="preserve">
+        <source>Try these steps in order:
+
+1. Open AdGuard Home in Safari on the same device.
+2. Check that HTTP or HTTPS matches the browser address.
+3. Enter only the hostname or IP in **Host**.
+4. Confirm that **Port** is the web-interface port, not DNS port 53.
+5. Make sure this device is on the same network, or connected to your home VPN.</source>
+        <target state="translated">Essayez ces étapes dans l’ordre :
+
+1. Ouvrez AdGuard Home dans Safari sur le même appareil.
+2. Vérifiez que HTTP ou HTTPS correspond à l’adresse du navigateur.
+3. Saisissez uniquement le nom d’hôte ou l’adresse IP dans **Hôte**.
+4. Vérifiez que **Port** est le port de l’interface web, et non le port DNS 53.
+5. Assurez-vous que cet appareil est sur le même réseau ou connecté au VPN de votre domicile.</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="UPDATE" xml:space="preserve">
         <source>UPDATE</source>
         <target state="translated">METTRE À JOUR</target>
@@ -3447,6 +3798,11 @@ Votre position n’est jamais stockée ni transmise par AdGuard Home Remote.</ta
       <trans-unit id="Unknown error." xml:space="preserve">
         <source>Unknown error.</source>
         <target state="translated">Erreur inconnue.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Unlimited" xml:space="preserve">
+        <source>Unlimited</source>
+        <target state="translated">Illimité</target>
         <note/>
       </trans-unit>
       <trans-unit id="Until tomorrow" xml:space="preserve">
@@ -3494,6 +3850,16 @@ Votre position n’est jamais stockée ni transmise par AdGuard Home Remote.</ta
         <target state="translated">Vous utilisez NextDNS ? J'ai une app pour vous.</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Use a certificate from a trusted certificate authority for a hostname you control, or keep AdGuard Home private and connect through a VPN. HTTP inside the encrypted VPN tunnel avoids certificate management while keeping remote traffic protected." xml:space="preserve">
+        <source>Use a certificate from a trusted certificate authority for a hostname you control, or keep AdGuard Home private and connect through a VPN. HTTP inside the encrypted VPN tunnel avoids certificate management while keeping remote traffic protected.</source>
+        <target state="translated">Utilisez un certificat provenant d’une autorité de certification de confiance pour un nom d’hôte que vous contrôlez, ou gardez AdGuard Home privé et connectez-vous via un VPN. HTTP à l’intérieur du tunnel VPN chiffré évite la gestion des certificats tout en protégeant le trafic à distance.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Use the same username and password you use to sign in to the AdGuard Home web interface. These are not necessarily the operating-system or SSH credentials of the device running AdGuard Home." xml:space="preserve">
+        <source>Use the same username and password you use to sign in to the AdGuard Home web interface. These are not necessarily the operating-system or SSH credentials of the device running AdGuard Home.</source>
+        <target state="translated">Utilisez le même nom d’utilisateur et le même mot de passe que pour vous connecter à l’interface web d’AdGuard Home. Il ne s’agit pas nécessairement des identifiants du système d’exploitation ou SSH de l’appareil exécutant AdGuard Home.</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Used when **not** connected to Wi-Fi SSID: %@" xml:space="preserve">
         <source>Used when **not** connected to Wi-Fi SSID: %@</source>
         <target state="translated">Utilisé quand **non** connecté au SSID Wi-Fi : %@</target>
@@ -3502,6 +3868,11 @@ Votre position n’est jamais stockée ni transmise par AdGuard Home Remote.</ta
       <trans-unit id="User Interface" xml:space="preserve">
         <source>User Interface</source>
         <target state="translated">Interface utilisateur</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Username &amp; Password" xml:space="preserve">
+        <source>Username &amp; Password</source>
+        <target state="translated">Nom d’utilisateur et mot de passe</target>
         <note/>
       </trans-unit>
       <trans-unit id="Utility Radar" xml:space="preserve">
@@ -3539,9 +3910,29 @@ Votre position n’est jamais stockée ni transmise par AdGuard Home Remote.</ta
         <target state="translated">Bienvenue !</target>
         <note>Onboarding subtitle.</note>
       </trans-unit>
+      <trans-unit id="What do these buttons mean?" xml:space="preserve">
+        <source>What do these buttons mean?</source>
+        <target state="translated">Que signifient ces boutons ?</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="What the buttons do" xml:space="preserve">
+        <source>What the buttons do</source>
+        <target state="translated">Ce que font les boutons</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="What to enter, HTTPS, FAQ &amp; troubleshooting" xml:space="preserve">
+        <source>What to enter, HTTPS, FAQ &amp; troubleshooting</source>
+        <target state="translated">Informations à saisir, HTTPS, FAQ et dépannage</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="What to sync" xml:space="preserve">
         <source>What to sync</source>
         <target state="translated">Que synchroniser</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Why does HTTPS show a certificate error?" xml:space="preserve">
+        <source>Why does HTTPS show a certificate error?</source>
+        <target state="translated">Pourquoi HTTPS affiche-t-il une erreur de certificat ?</target>
         <note/>
       </trans-unit>
       <trans-unit id="Wi-Fi network name (SSID)" xml:space="preserve">
@@ -3761,6 +4152,21 @@ Votre position n’est jamais stockée ni transmise par AdGuard Home Remote.</ta
       <trans-unit id="changelog_whats_new" xml:space="preserve">
         <source>What's New</source>
         <target state="translated">Quoi de neuf</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="chart_pull_for_queries" xml:space="preserve">
+        <source>Pull down to view queries</source>
+        <target state="translated">Faites glisser vers le bas pour voir les requêtes</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="chart_release_for_queries" xml:space="preserve">
+        <source>Release to view queries</source>
+        <target state="translated">Relâchez pour voir les requêtes</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="chart_view_queries" xml:space="preserve">
+        <source>View queries for this time</source>
+        <target state="translated">Voir les requêtes de cette période</target>
         <note/>
       </trans-unit>
       <trans-unit id="client_edit" xml:space="preserve">
@@ -5387,11 +5793,6 @@ Search</source>
         <target state="translated">Chargement...</target>
         <note/>
       </trans-unit>
-      <trans-unit id="loading_instances_iphone" xml:space="preserve">
-        <source>Loading instances from iPhone...</source>
-        <target state="translated">Loading instances from iPhone...</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="malware" xml:space="preserve">
         <source>Malware</source>
         <target state="translated">Malware</target>
@@ -5455,6 +5856,16 @@ Search</source>
       <trans-unit id="more_update_to_%@" xml:space="preserve">
         <source>Update to v%@</source>
         <target state="translated">Mise à jour vers v%@</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="more_updates_unavailable" xml:space="preserve">
+        <source>Updates aren't available for this AdGuard Home installation.</source>
+        <target state="translated">Les mises à jour ne sont pas disponibles pour cette installation d’AdGuard Home.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="more_updating" xml:space="preserve">
+        <source>Updating AdGuard Home…</source>
+        <target state="translated">Mise à jour d’AdGuard Home…</target>
         <note/>
       </trans-unit>
       <trans-unit id="more_version" xml:space="preserve">
@@ -5848,6 +6259,11 @@ Remote Pro</target>
         <target state="translated">Bloqué | Filtre</target>
         <note/>
       </trans-unit>
+      <trans-unit id="query_status_FilteredBlackList_%@" xml:space="preserve">
+        <source>Blocked%@</source>
+        <target state="translated">Bloqué%@</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="query_status_FilteredBlockedService" xml:space="preserve">
         <source>Blocked | Service</source>
         <target state="translated">Bloqué | Service</target>
@@ -6053,6 +6469,16 @@ Remote Pro</target>
         <target state="translated">Supprimer les filtres</target>
         <note/>
       </trans-unit>
+      <trans-unit id="querylog_dnssec_not_validated" xml:space="preserve">
+        <source>No DNSSEC validation</source>
+        <target state="translated">Aucune validation DNSSEC</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="querylog_dnssec_validated" xml:space="preserve">
+        <source>Validated with DNSSEC</source>
+        <target state="translated">Validé avec DNSSEC</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="querylog_filter" xml:space="preserve">
         <source>Filter</source>
         <target state="translated">Filtre</target>
@@ -6081,6 +6507,11 @@ Remote Pro</target>
       <trans-unit id="querylog_no-queries" xml:space="preserve">
         <source>No queries found.</source>
         <target state="translated">Aucune requête trouvée.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="querylog_no_queries_in_time_range" xml:space="preserve">
+        <source>No queries were found for this time range.</source>
+        <target state="translated">Aucune requête n’a été trouvée pour cette période.</target>
         <note/>
       </trans-unit>
       <trans-unit id="querylog_number-of-queries" xml:space="preserve">
@@ -6153,6 +6584,11 @@ Remote Pro</target>
         <target state="translated">Statut</target>
         <note>MARK: Query Log</note>
       </trans-unit>
+      <trans-unit id="querylog_show_dnssec_status" xml:space="preserve">
+        <source>Show DNSSEC status</source>
+        <target state="translated">Afficher l’état DNSSEC</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="querylog_show_extra_detail" xml:space="preserve">
         <source>Show response details</source>
         <target state="translated">Show extra detail</target>
@@ -6193,6 +6629,11 @@ Remote Pro</target>
         <target state="translated">Traité</target>
         <note/>
       </trans-unit>
+      <trans-unit id="querylog_time_range" xml:space="preserve">
+        <source>Time range</source>
+        <target state="translated">Période</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="refresh" xml:space="preserve">
         <source>Refresh</source>
         <target state="translated">Refresh</target>
@@ -6206,6 +6647,11 @@ Remote Pro</target>
       <trans-unit id="reset" xml:space="preserve">
         <source>Reset</source>
         <target state="translated">Réinitialiser</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="retry" xml:space="preserve">
+        <source>Retry</source>
+        <target state="translated">Réessayer</target>
         <note/>
       </trans-unit>
       <trans-unit id="rocketscience_acknoledgements" xml:space="preserve">
@@ -6347,11 +6793,6 @@ Mon objectif principal est d’apprendre : la conception, le développement, les
         <target state="translated">Clients</target>
         <note/>
       </trans-unit>
-      <trans-unit id="settings_copy_email" xml:space="preserve">
-        <source>Copy Email Address</source>
-        <target state="translated">Copier l’adresse mail</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="settings_design" xml:space="preserve">
         <source>Design</source>
         <target state="translated">Design</target>
@@ -6425,16 +6866,6 @@ Mon objectif principal est d’apprendre : la conception, le développement, les
       <trans-unit id="settings_general_safesearch_explainer_title" xml:space="preserve">
         <source>Safe Search</source>
         <target state="translated">Safe Search</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="settings_give_feedback_alert_body" xml:space="preserve">
-        <source>Please mail me with any feedback about bugs or improvements at developer@rocketscience-it.nl!</source>
-        <target state="translated">Veuillez m’envoyer un mail pour me faire part de vos commentaires sur les bogues ou les améliorations à developer@rocketscience-it.nl !</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="settings_give_feedback_alert_title" xml:space="preserve">
-        <source>Give Feedback</source>
-        <target state="translated">Donnez votre avis</target>
         <note/>
       </trans-unit>
       <trans-unit id="settings_help" xml:space="preserve">
@@ -6706,11 +7137,6 @@ Si vous voulez participer financièrement, téléchargez l’application depuis 
         <source>value</source>
         <target state="translated">valeur</target>
         <note>Placeholder of the 'custom header value' textfield in instance settings.</note>
-      </trans-unit>
-      <trans-unit id="watch_stuck_reinstall" xml:space="preserve">
-        <source>This can take a while. If the app is stuck on this screen, please try reinstalling it. Sorry for the inconvenience!</source>
-        <target state="translated">This can take a while. If the app is stuck on this spinner, please try a reinstall of the app. Sorry for the inconvenience!</target>
-        <note/>
       </trans-unit>
       <trans-unit id="widget_dashboard" xml:space="preserve">
         <source>Dashboard Widget</source>

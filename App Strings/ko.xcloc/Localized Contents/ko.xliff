@@ -1101,6 +1101,11 @@
         <target state="translated">'5분 추가' 기능</target>
         <note>Used on the pro purchase screen.</note>
       </trans-unit>
+      <trans-unit id="0...8760" xml:space="preserve">
+        <source>0...8760</source>
+        <target state="translated">0...8760</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="1h" xml:space="preserve">
         <source>1 hour</source>
         <target state="translated">1 시간</target>
@@ -1184,9 +1189,14 @@
         <target state="translated">MyAnimeList API를 사용하는 깔끔한 애니메이션 및 만화 트래커 앱.</target>
         <note>Subtitle under 'ManGo' app on the Made by RocketScience screen.</note>
       </trans-unit>
-      <trans-unit id="A standard notification will appear when protection re-enables." xml:space="preserve">
-        <source>A standard notification will appear when protection re-enables.</source>
-        <target state="translated">보호가 다시 활성화되면 표준 알림이 표시됩니다.</target>
+      <trans-unit id="A local hostname or private IP address is not reachable outside your home. Connect through a VPN such as WireGuard or Tailscale, then configure **Away Connection** so the app can use the VPN address away from your home Wi-Fi." xml:space="preserve">
+        <source>A local hostname or private IP address is not reachable outside your home. Connect through a VPN such as WireGuard or Tailscale, then configure **Away Connection** so the app can use the VPN address away from your home Wi-Fi.</source>
+        <target state="translated">로컬 호스트 이름이나 사설 IP 주소는 집 밖에서 접근할 수 없습니다. WireGuard 또는 Tailscale과 같은 VPN을 통해 연결한 다음, 집 Wi-Fi 밖에서도 앱이 VPN 주소를 사용할 수 있도록 **외부 연결**을 구성하세요.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="A quiet banner when protection re-enables. Respects silent mode and Focus filters, so it's easy to miss if you're not looking." xml:space="preserve">
+        <source>A quiet banner when protection re-enables. Respects silent mode and Focus filters, so it's easy to miss if you're not looking.</source>
+        <target state="translated">보호 기능이 다시 활성화될 때 표시되는 조용한 배너입니다. 무음 모드와 집중 모드 필터를 따르므로 주의 깊게 보지 않으면 놓치기 쉽습니다.</target>
         <note>Used on the Notifications-settings screen.</note>
       </trans-unit>
       <trans-unit id="AAAA" translate="no" xml:space="preserve">
@@ -1240,6 +1250,16 @@
         <target state="translated">작업</target>
         <note/>
       </trans-unit>
+      <trans-unit id="AdGuard Home API Documentation" xml:space="preserve">
+        <source>AdGuard Home API Documentation</source>
+        <target state="translated">AdGuard Home API 문서</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="AdGuard Home Documentation" xml:space="preserve">
+        <source>AdGuard Home Documentation</source>
+        <target state="translated">AdGuard Home 문서</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="AdGuard Home Remote" xml:space="preserve">
         <source>AdGuard Home Remote</source>
         <target state="translated">AdGuard Home Remote</target>
@@ -1250,10 +1270,20 @@
         <target state="translated">AdGuard Home Remote Pro</target>
         <note>Used on the pro purchase screen.</note>
       </trans-unit>
+      <trans-unit id="AdGuard Home Remote connects to the same web interface you use in a browser. It needs the server address, the web interface port, and your AdGuard Home login details. This guide explains what to enter and how to solve common connection problems." xml:space="preserve">
+        <source>AdGuard Home Remote connects to the same web interface you use in a browser. It needs the server address, the web interface port, and your AdGuard Home login details. This guide explains what to enter and how to solve common connection problems.</source>
+        <target state="translated">AdGuard Home Remote는 브라우저에서 사용하는 것과 동일한 웹 인터페이스에 연결합니다. 서버 주소, 웹 인터페이스 포트 및 AdGuard Home 로그인 정보가 필요합니다. 이 안내서에서는 입력할 내용과 일반적인 연결 문제를 해결하는 방법을 설명합니다.</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="AdGuard Home Remote is designed to protect your privacy and will never share any information with anyone." xml:space="preserve">
         <source>AdGuard Home Remote is designed to protect your privacy and will never share any information with anyone.</source>
         <target state="translated">AdGuard Home Remote는 개인정보를 보호하도록 설계되었으며 어떤 정보도 누구와도 공유하지 않습니다.</target>
         <note>Displayed in the onboarding.</note>
+      </trans-unit>
+      <trans-unit id="AdGuard Home on GitHub" xml:space="preserve">
+        <source>AdGuard Home on GitHub</source>
+        <target state="translated">GitHub의 AdGuard Home</target>
+        <note/>
       </trans-unit>
       <trans-unit id="AdGuard Home v0.107.28 or higher is required for some of these new features. Please update!" xml:space="preserve">
         <source>AdGuard Home v0.107.28 or higher is required for some of these new features. Please update!</source>
@@ -1360,11 +1390,6 @@
         <target state="translated">알람에는 AGHR+가 필요합니다.</target>
         <note>Used on the Notifications-settings screen.</note>
       </trans-unit>
-      <trans-unit id="Alarms take over the screen when protection re-enables, with sound that ignores silent mode." xml:space="preserve">
-        <source>Alarms take over the screen when protection re-enables, with sound that ignores silent mode.</source>
-        <target state="translated">보호가 다시 활성화되면 알람이 화면을 차지하며, 무음 모드를 무시하는 소리가 재생됩니다.</target>
-        <note>Used on the Notifications-settings screen.</note>
-      </trans-unit>
       <trans-unit id="Alert Style" xml:space="preserve">
         <source>Alert Style</source>
         <target state="translated">알림 스타일</target>
@@ -1418,6 +1443,11 @@
       <trans-unit id="Apple Watch" xml:space="preserve">
         <source>Apple Watch</source>
         <target state="translated">Apple Watch</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Apple devices reject certificates that are expired, untrusted, or issued for a different hostname. The hostname in the app must match a name on the certificate. For a private certificate authority, install its root certificate on this device and enable full trust in **Settings → General → About → Certificate Trust Settings**." xml:space="preserve">
+        <source>Apple devices reject certificates that are expired, untrusted, or issued for a different hostname. The hostname in the app must match a name on the certificate. For a private certificate authority, install its root certificate on this device and enable full trust in **Settings → General → About → Certificate Trust Settings**.</source>
+        <target state="translated">Apple 기기는 만료되었거나 신뢰할 수 없거나 다른 호스트 이름으로 발급된 인증서를 거부합니다. 앱의 호스트 이름은 인증서에 있는 이름과 일치해야 합니다. 사설 인증 기관을 사용하는 경우 해당 루트 인증서를 이 기기에 설치하고 **설정 → 일반 → 정보 → 인증서 신뢰 설정**에서 완전한 신뢰를 활성화하세요.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Apply Pro license" xml:space="preserve">
@@ -1558,6 +1588,21 @@ Your default 'Home Connection' will then be used on home network(s) and on devic
         <target state="translated">차단 목록 관리</target>
         <note>Displayed in the onboarding.</note>
       </trans-unit>
+      <trans-unit id="Blocks ads, trackers and other domains on your filter lists." xml:space="preserve">
+        <source>Blocks ads, trackers and other domains on your filter lists.</source>
+        <target state="translated">필터 목록의 광고, 추적기 및 기타 도메인을 차단합니다.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Blocks known malware and phishing websites." xml:space="preserve">
+        <source>Blocks known malware and phishing websites.</source>
+        <target state="translated">알려진 악성 소프트웨어 및 피싱 웹사이트를 차단합니다.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Breaks through Focus modes so the notification isn't silenced when Do Not Disturb is active." xml:space="preserve">
+        <source>Breaks through Focus modes so the notification isn't silenced when Do Not Disturb is active.</source>
+        <target state="translated">방해 금지 모드가 켜져 있어도 알림이 무음 처리되지 않도록 집중 모드를 통과합니다.</target>
+        <note>Used on the Notifications-settings screen.</note>
+      </trans-unit>
       <trans-unit id="Browse your DNS query log, see which domains are being queried and which are being blocked." xml:space="preserve">
         <source>Browse your DNS query log, see which domains are being queried and which are being blocked.</source>
         <target state="translated">DNS 쿼리 로그를 탐색하고, 어떤 도메인이 조회되고 차단되는지 확인하세요.</target>
@@ -1600,6 +1645,11 @@ Your default 'Home Connection' will then be used on home network(s) and on devic
       <trans-unit id="Card color" xml:space="preserve">
         <source>Card color</source>
         <target state="translated">카드 색상</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Certificate Errors on Apple Devices" xml:space="preserve">
+        <source>Certificate Errors on Apple Devices</source>
+        <target state="translated">Apple 기기의 인증서 오류</target>
         <note/>
       </trans-unit>
       <trans-unit id="Changing this setting requires a force restart of the app." xml:space="preserve">
@@ -1677,10 +1727,25 @@ Your default 'Home Connection' will then be used on home network(s) and on devic
         <target state="translated">곧 출시 예정</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Common Connection Issues" xml:space="preserve">
+        <source>Common Connection Issues</source>
+        <target state="translated">일반적인 연결 문제</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Compact" xml:space="preserve">
         <source>Compact</source>
         <target state="translated">컴팩트</target>
         <note>Dashboard size type</note>
+      </trans-unit>
+      <trans-unit id="Compare the complete browser address with the app settings. A redirect, reverse-proxy subpath, custom authentication page, or untrusted certificate can work differently from AdGuard Home's API. If a reverse proxy requires extra request headers, add them under **Custom Headers**." xml:space="preserve">
+        <source>Compare the complete browser address with the app settings. A redirect, reverse-proxy subpath, custom authentication page, or untrusted certificate can work differently from AdGuard Home's API. If a reverse proxy requires extra request headers, add them under **Custom Headers**.</source>
+        <target state="translated">브라우저의 전체 주소를 앱 설정과 비교하세요. 리디렉션, 리버스 프록시 하위 경로, 사용자 설정 인증 페이지 또는 신뢰할 수 없는 인증서는 AdGuard Home API와 다르게 작동할 수 있습니다. 리버스 프록시에 추가 요청 헤더가 필요한 경우 **사용자 설정 헤더**에서 추가하세요.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Connecting to AdGuard Home" xml:space="preserve">
+        <source>Connecting to AdGuard Home</source>
+        <target state="translated">AdGuard Home에 연결</target>
+        <note/>
       </trans-unit>
       <trans-unit id="Connection" xml:space="preserve">
         <source>Connection</source>
@@ -1706,6 +1771,11 @@ Your default 'Home Connection' will then be used on home network(s) and on devic
         <source>Copy '%@'</source>
         <target state="translated">'%@' 복사</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="Copy Email Address" xml:space="preserve">
+        <source>Copy Email Address</source>
+        <target state="translated">이메일 주소 복사</target>
+        <note>Displayed in an alert on the support screen when someone has no email client installed.</note>
       </trans-unit>
       <trans-unit id="Copy email" xml:space="preserve">
         <source>Copy email</source>
@@ -1862,6 +1932,11 @@ Your default 'Home Connection' will then be used on home network(s) and on devic
         <target state="translated">기본 개수</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Default example: if Safari opens `http://192.168.1.10/`, enter host `192.168.1.10`, select HTTP, and use port `80`. Always use the actual LAN IP shown by your own setup." xml:space="preserve">
+        <source>Default example: if Safari opens `http://192.168.1.10/`, enter host `192.168.1.10`, select HTTP, and use port `80`. Always use the actual LAN IP shown by your own setup.</source>
+        <target state="translated">기본 예: Safari에서 `http://192.168.1.10/`이 열리면 호스트에 `192.168.1.10`을 입력하고 HTTP를 선택한 다음 포트 `80`을 사용하세요. 항상 본인의 설정에 표시된 실제 LAN IP 주소를 사용하세요.</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Delete" xml:space="preserve">
         <source>Delete</source>
         <target state="translated">삭제</target>
@@ -1907,6 +1982,21 @@ Your default 'Home Connection' will then be used on home network(s) and on devic
         <target state="translated">비활성화됨</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Dismiss" xml:space="preserve">
+        <source>Dismiss</source>
+        <target state="translated">닫기</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Do not port-forward the AdGuard Home admin interface directly to the public internet. Use a VPN or a carefully secured reverse proxy with HTTPS and strong authentication." xml:space="preserve">
+        <source>Do not port-forward the AdGuard Home admin interface directly to the public internet. Use a VPN or a carefully secured reverse proxy with HTTPS and strong authentication.</source>
+        <target state="translated">AdGuard Home 관리 인터페이스의 포트를 공용 인터넷에 직접 포트 포워딩하지 마세요. VPN 또는 HTTPS와 강력한 인증으로 철저히 보호된 리버스 프록시를 사용하세요.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Do not run an unrestricted public DNS resolver. If the DNS service is internet-accessible, configure AdGuard Home's access settings, allowlists, encrypted DNS, and rate limiting." xml:space="preserve">
+        <source>Do not run an unrestricted public DNS resolver. If the DNS service is internet-accessible, configure AdGuard Home's access settings, allowlists, encrypted DNS, and rate limiting.</source>
+        <target state="translated">제한 없는 공용 DNS 리졸버를 운영하지 마세요. 인터넷에서 DNS 서비스에 접근할 수 있다면 AdGuard Home의 접근 설정, 허용 목록, 암호화된 DNS 및 속도 제한을 구성하세요.</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Done" xml:space="preserve">
         <source>Done</source>
         <target state="translated">완료</target>
@@ -1931,6 +2021,11 @@ Your default 'Home Connection' will then be used on home network(s) and on devic
         <source>EUI64</source>
         <target state="translated">EUI64</target>
         <note>Used in the DNS record type picker on the 'check filtering' screen.</note>
+      </trans-unit>
+      <trans-unit id="Each button controls a different filtering feature for this server." xml:space="preserve">
+        <source>Each button controls a different filtering feature for this server.</source>
+        <target state="translated">각 버튼은 이 서버의 서로 다른 필터링 기능을 제어합니다.</target>
+        <note/>
       </trans-unit>
       <trans-unit id="Earthy" xml:space="preserve">
         <source>Earthy</source>
@@ -1986,6 +2081,11 @@ Your default 'Home Connection' will then be used on home network(s) and on devic
         <source>Enjoy great widgets and a Live Activity when disabling protection.</source>
         <target state="translated">보호 비활성화 시 멋진 위젯과 라이브 활동을 즐기세요.</target>
         <note>Displayed in the onboarding.</note>
+      </trans-unit>
+      <trans-unit id="Enter the update interval in hours (0–8760). 0 disables automatic updates." xml:space="preserve">
+        <source>Enter the update interval in hours (0–8760). 0 disables automatic updates.</source>
+        <target state="translated">업데이트 간격을 시간 단위로 입력하세요(0–8760). 0은 자동 업데이트를 비활성화합니다.</target>
+        <note/>
       </trans-unit>
       <trans-unit id="Error" xml:space="preserve">
         <source>Error</source>
@@ -2062,6 +2162,16 @@ Your default 'Home Connection' will then be used on home network(s) and on devic
         <target state="translated">필터: %@</target>
         <note/>
       </trans-unit>
+      <trans-unit id="For a default installation, enter the LAN IP address of the device running AdGuard Home, without `http://`, a port, or a path. AdGuard Home does not assign a standard hostname. Use one of the network addresses shown when setup completes; do not enter the bind address `0.0.0.0`. Example: if setup opens `http://192.168.1.10/`, enter `192.168.1.10`. A fixed IP address or DHCP reservation is recommended." xml:space="preserve">
+        <source>For a default installation, enter the LAN IP address of the device running AdGuard Home, without `http://`, a port, or a path. AdGuard Home does not assign a standard hostname. Use one of the network addresses shown when setup completes; do not enter the bind address `0.0.0.0`. Example: if setup opens `http://192.168.1.10/`, enter `192.168.1.10`. A fixed IP address or DHCP reservation is recommended.</source>
+        <target state="translated">기본 설치의 경우 AdGuard Home을 실행하는 기기의 LAN IP 주소를 `http://`, 포트 또는 경로 없이 입력하세요. AdGuard Home은 표준 호스트 이름을 할당하지 않습니다. 설정이 완료될 때 표시되는 네트워크 주소 중 하나를 사용하고 바인드 주소 `0.0.0.0`은 입력하지 마세요. 예: 설정에서 `http://192.168.1.10/`이 열리면 `192.168.1.10`을 입력하세요. 고정 IP 주소 또는 DHCP 예약을 권장합니다.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="For access away from home, a VPN is usually safer and easier than exposing the AdGuard Home web interface directly to the internet." xml:space="preserve">
+        <source>For access away from home, a VPN is usually safer and easier than exposing the AdGuard Home web interface directly to the internet.</source>
+        <target state="translated">집 밖에서 접근할 때는 AdGuard Home 웹 인터페이스를 인터넷에 직접 노출하는 것보다 VPN이 일반적으로 더 안전하고 간편합니다.</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="For any reason" xml:space="preserve">
         <source>For any reason</source>
         <target state="translated">모든 사유</target>
@@ -2070,6 +2180,11 @@ Your default 'Home Connection' will then be used on home network(s) and on devic
       <trans-unit id="Force Watch Sync" xml:space="preserve">
         <source>Force Watch Sync</source>
         <target state="translated">Watch 동기화 강제 실행</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Forces safe results in supported search engines and enables Restricted Mode on YouTube." xml:space="preserve">
+        <source>Forces safe results in supported search engines and enables Restricted Mode on YouTube.</source>
+        <target state="translated">지원되는 검색 엔진에서 안전한 결과를 강제하고 YouTube에서 제한 모드를 활성화합니다.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Free" xml:space="preserve">
@@ -2107,6 +2222,31 @@ Your default 'Home Connection' will then be used on home network(s) and on devic
         <target state="translated">Pro 구매</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Get notified the moment protection re-enables after a timed pause. Use notification actions to extend the pause directly from the lock screen." xml:space="preserve">
+        <source>Get notified the moment protection re-enables after a timed pause. Use notification actions to extend the pause directly from the lock screen.</source>
+        <target state="translated">시간제 일시 중지 후 보호 기능이 다시 활성화되는 순간 알림을 받습니다. 알림 동작을 사용하여 잠금 화면에서 바로 일시 중지를 연장하세요.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Give Feedback" xml:space="preserve">
+        <source>Give Feedback</source>
+        <target state="translated">피드백 보내기</target>
+        <note>Displayed in an alert on the support screen when someone has no email client installed.</note>
+      </trans-unit>
+      <trans-unit id="Got it" xml:space="preserve">
+        <source>Got it</source>
+        <target state="translated">알겠습니다</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Green means the layer is on, so those domains are blocked. Red means it's off, so those domains are allowed through. Tap a button to switch it." xml:space="preserve">
+        <source>Green means the layer is on, so those domains are blocked. Red means it's off, so those domains are allowed through. Tap a button to switch it.</source>
+        <target state="translated">초록색은 레이어가 켜져 있어 해당 도메인이 차단됨을 의미합니다. 빨간색은 꺼져 있어 해당 도메인이 허용됨을 의미합니다. 버튼을 탭하여 전환하세요.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Green vs red" xml:space="preserve">
+        <source>Green vs red</source>
+        <target state="translated">초록 vs 빨강</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="HINFO" translate="no" xml:space="preserve">
         <source>HINFO</source>
         <note>Used in the DNS record type picker on the 'check filtering' screen.</note>
@@ -2120,9 +2260,39 @@ Your default 'Home Connection' will then be used on home network(s) and on devic
         <target state="translated">HTTP</target>
         <note/>
       </trans-unit>
+      <trans-unit id="HTTP (unencrypted)" xml:space="preserve">
+        <source>HTTP (unencrypted)</source>
+        <target state="translated">HTTP(암호화되지 않음)</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="HTTP on port **80** is the default after completing the AdGuard Home setup wizard. It is the simplest option on a trusted home network. Do not use plain HTTP over the public internet." xml:space="preserve">
+        <source>HTTP on port **80** is the default after completing the AdGuard Home setup wizard. It is the simplest option on a trusted home network. Do not use plain HTTP over the public internet.</source>
+        <target state="translated">AdGuard Home 설정 마법사를 완료하면 포트 **80**의 HTTP가 기본값입니다. 신뢰할 수 있는 홈 네트워크에서 가장 간단한 옵션입니다. 공용 인터넷에서 암호화되지 않은 HTTP를 사용하지 마세요.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="HTTP vs HTTPS" xml:space="preserve">
+        <source>HTTP vs HTTPS</source>
+        <target state="translated">HTTP와 HTTPS</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="HTTPS" translate="no" xml:space="preserve">
         <source>HTTPS</source>
         <note>Used in the DNS record type picker on the 'check filtering' screen.</note>
+      </trans-unit>
+      <trans-unit id="HTTPS (encrypted)" xml:space="preserve">
+        <source>HTTPS (encrypted)</source>
+        <target state="translated">HTTPS(암호화됨)</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="HTTPS is not enabled by the initial setup wizard. Select it only after configuring TLS in AdGuard Home or in a reverse proxy; **443** is AdGuard Home's default HTTPS port when TLS is configured. The certificate must be trusted by this device and valid for the exact hostname you enter." xml:space="preserve">
+        <source>HTTPS is not enabled by the initial setup wizard. Select it only after configuring TLS in AdGuard Home or in a reverse proxy; **443** is AdGuard Home's default HTTPS port when TLS is configured. The certificate must be trusted by this device and valid for the exact hostname you enter.</source>
+        <target state="translated">초기 설정 마법사는 HTTPS를 활성화하지 않습니다. AdGuard Home 또는 리버스 프록시에서 TLS를 구성한 후에만 선택하세요. TLS가 구성된 경우 **443**은 AdGuard Home의 기본 HTTPS 포트입니다. 이 기기가 인증서를 신뢰해야 하며 인증서는 입력한 정확한 호스트 이름에 유효해야 합니다.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Helps block adult websites for safer, family-friendly browsing." xml:space="preserve">
+        <source>Helps block adult websites for safer, family-friendly browsing.</source>
+        <target state="translated">더 안전하고 가족 친화적인 브라우징을 위해 성인 웹사이트를 차단하는 데 도움을 줍니다.</target>
+        <note/>
       </trans-unit>
       <trans-unit id="Hides instance name" xml:space="preserve">
         <source>Hides instance name</source>
@@ -2133,6 +2303,15 @@ Your default 'Home Connection' will then be used on home network(s) and on devic
         <source>Home</source>
         <target state="translated">홈</target>
         <note>Placeholder for the name textfield on the instance settings screen.</note>
+      </trans-unit>
+      <trans-unit id="Home Assistant normally opens AdGuard Home through Ingress, which AdGuard Home Remote cannot use directly. In Home Assistant, go to **Settings &gt; Apps &gt; AdGuard Home &gt; Configuration &gt; Network** and assign a host port to **Web interface** (`80/tcp`), for example **3001**. Save and restart the AdGuard Home app.&#10;&#10;In AdGuard Home Remote, enter your Home Assistant device's LAN IP address or hostname and the port you assigned. Select HTTP or HTTPS to match the app's **SSL** option. Then sign in with your Home Assistant username and password. Do not use the Home Assistant Ingress or Cloud URL." xml:space="preserve">
+        <source>Home Assistant normally opens AdGuard Home through Ingress, which AdGuard Home Remote cannot use directly. In Home Assistant, go to **Settings &gt; Apps &gt; AdGuard Home &gt; Configuration &gt; Network** and assign a host port to **Web interface** (`80/tcp`), for example **3001**. Save and restart the AdGuard Home app.
+
+In AdGuard Home Remote, enter your Home Assistant device's LAN IP address or hostname and the port you assigned. Select HTTP or HTTPS to match the app's **SSL** option. Then sign in with your Home Assistant username and password. Do not use the Home Assistant Ingress or Cloud URL.</source>
+        <target state="translated">Home Assistant는 일반적으로 Ingress를 통해 AdGuard Home을 엽니다. AdGuard Home Remote에서는 Ingress를 직접 사용할 수 없습니다. Home Assistant에서 **설정 &gt; 앱 &gt; AdGuard Home &gt; 구성 &gt; 네트워크**로 이동한 다음 **웹 인터페이스**(`80/tcp`)에 호스트 포트(예: **3001**)를 할당하세요. 저장한 후 AdGuard Home 앱을 다시 시작하세요.
+
+AdGuard Home Remote에서 Home Assistant 기기의 LAN IP 주소 또는 호스트 이름과 할당한 포트를 입력하세요. 앱의 **SSL** 옵션과 일치하도록 HTTP 또는 HTTPS를 선택하세요. 그런 다음 Home Assistant 사용자 이름과 비밀번호로 로그인하세요. Home Assistant Ingress 또는 Cloud URL은 사용하지 마세요.</target>
+        <note/>
       </trans-unit>
       <trans-unit id="Home Connection" xml:space="preserve">
         <source>Home Connection</source>
@@ -2164,6 +2343,11 @@ Your default 'Home Connection' will then be used on home network(s) and on devic
         <target state="translated">호스트 이름 또는 도메인 이름</target>
         <note/>
       </trans-unit>
+      <trans-unit id="I can't connect at all" xml:space="preserve">
+        <source>I can't connect at all</source>
+        <target state="translated">전혀 연결할 수 없음</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="I see you don't have an active mail client on your device, please mail me with the request to join the TestFlight including a screenshot of this Pro screen so I can see you have purchased Pro.&#10;&#10;Please mail it to developer@rocketscience-it.nl!" xml:space="preserve">
         <source>I see you don't have an active mail client on your device, please mail me with the request to join the TestFlight including a screenshot of this Pro screen so I can see you have purchased Pro.
 
@@ -2172,6 +2356,11 @@ Please mail it to developer@rocketscience-it.nl!</source>
 
 developer@rocketscience-it.nl로 보내주세요!</target>
         <note>Used on the pro purchase screen.</note>
+      </trans-unit>
+      <trans-unit id="I'm using AdGuard Home through Home Assistant. How do I connect?" xml:space="preserve">
+        <source>I'm using AdGuard Home through Home Assistant. How do I connect?</source>
+        <target state="translated">Home Assistant를 통해 AdGuard Home을 사용 중입니다. 어떻게 연결하나요?</target>
+        <note/>
       </trans-unit>
       <trans-unit id="IPSECKEY" translate="no" xml:space="preserve">
         <source>IPSECKEY</source>
@@ -2197,6 +2386,11 @@ developer@rocketscience-it.nl로 보내주세요!</target>
         <target state="translated">차트 포함</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Included" xml:space="preserve">
+        <source>Included</source>
+        <target state="translated">포함됨</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Indefinitely" xml:space="preserve">
         <source>Indefinitely</source>
         <target state="translated">무기한</target>
@@ -2205,6 +2399,11 @@ developer@rocketscience-it.nl로 보내주세요!</target>
       <trans-unit id="Info" xml:space="preserve">
         <source>Info</source>
         <target state="translated">정보</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Install AdGuard Home updates regularly to receive security, compatibility, and stability fixes." xml:space="preserve">
+        <source>Install AdGuard Home updates regularly to receive security, compatibility, and stability fixes.</source>
+        <target state="translated">보안, 호환성 및 안정성 수정 사항을 받으려면 AdGuard Home 업데이트를 정기적으로 설치하세요.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Instance" xml:space="preserve">
@@ -2242,6 +2441,16 @@ developer@rocketscience-it.nl로 보내주세요!</target>
         <target state="translated">유효하지 않은 호스트 이름 또는 포트입니다.</target>
         <note/>
       </trans-unit>
+      <trans-unit id="It works at home but not when I'm away" xml:space="preserve">
+        <source>It works at home but not when I'm away</source>
+        <target state="translated">집에서는 작동하지만 외부에서는 작동하지 않음</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="It works in Safari but not in the app" xml:space="preserve">
+        <source>It works in Safari but not in the app</source>
+        <target state="translated">Safari에서는 작동하지만 앱에서는 작동하지 않음</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="KEEP" xml:space="preserve">
         <source>KEEP</source>
         <target state="translated">유지</target>
@@ -2254,6 +2463,16 @@ developer@rocketscience-it.nl로 보내주세요!</target>
       <trans-unit id="KX" translate="no" xml:space="preserve">
         <source>KX</source>
         <note>Used in the DNS record type picker on the 'check filtering' screen.</note>
+      </trans-unit>
+      <trans-unit id="Keep AdGuard Home updated" xml:space="preserve">
+        <source>Keep AdGuard Home updated</source>
+        <target state="translated">AdGuard Home을 최신 상태로 유지</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Keep the web interface private" xml:space="preserve">
+        <source>Keep the web interface private</source>
+        <target state="translated">웹 인터페이스를 비공개로 유지</target>
+        <note/>
       </trans-unit>
       <trans-unit id="LOC" translate="no" xml:space="preserve">
         <source>LOC</source>
@@ -2273,6 +2492,11 @@ developer@rocketscience-it.nl로 보내주세요!</target>
         <source>Learn More</source>
         <target state="translated">더 알아보기</target>
         <note>Displayed in the onboarding.</note>
+      </trans-unit>
+      <trans-unit id="Learn how to connect and troubleshoot your instance" xml:space="preserve">
+        <source>Learn how to connect and troubleshoot your instance</source>
+        <target state="translated">인스턴스를 연결하고 문제를 해결하는 방법을 알아보세요</target>
+        <note/>
       </trans-unit>
       <trans-unit id="Lifetime Pro" xml:space="preserve">
         <source>Lifetime Pro</source>
@@ -2393,6 +2617,11 @@ developer@rocketscience-it.nl로 보내주세요!</target>
         <target state="translated">AdGuard Home Remote로 공유한 내 AdGuard Home 통계 https://apps.apple.com/app/id1543143740</target>
         <note>Pre-filled message body when sharing an AdGuard Home stats image to apps that accept text (Messages, Mail, social apps). Includes the App Store link as a soft CTA.</note>
       </trans-unit>
+      <trans-unit id="My username or password is rejected" xml:space="preserve">
+        <source>My username or password is rejected</source>
+        <target state="translated">사용자 이름 또는 암호가 거부됨</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="NAPTR" translate="no" xml:space="preserve">
         <source>NAPTR</source>
         <note>Used in the DNS record type picker on the 'check filtering' screen.</note>
@@ -2494,6 +2723,11 @@ developer@rocketscience-it.nl로 보내주세요!</target>
         <target state="translated">최근 쿼리를 찾을 수 없습니다.</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Not included" xml:space="preserve">
+        <source>Not included</source>
+        <target state="translated">포함되지 않음</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Notification" xml:space="preserve">
         <source>Notification</source>
         <target state="translated">알림</target>
@@ -2522,6 +2756,21 @@ developer@rocketscience-it.nl로 보내주세요!</target>
       <trans-unit id="OPENPGPKEY" translate="no" xml:space="preserve">
         <source>OPENPGPKEY</source>
         <note>Used in the DNS record type picker on the 'check filtering' screen.</note>
+      </trans-unit>
+      <trans-unit id="Off" xml:space="preserve">
+        <source>Off</source>
+        <target state="translated">꺼짐</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Official AdGuard Home Resources" xml:space="preserve">
+        <source>Official AdGuard Home Resources</source>
+        <target state="translated">공식 AdGuard Home 리소스</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="On" xml:space="preserve">
+        <source>On</source>
+        <target state="translated">켜짐</target>
+        <note/>
       </trans-unit>
       <trans-unit id="One-tap button" xml:space="preserve">
         <source>One-tap button</source>
@@ -2656,6 +2905,11 @@ developer@rocketscience-it.nl로 보내주세요!</target>
         <target state="translated">iPhone 앱에서 인스턴스를 추가하세요.</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Please mail me with any feedback about bugs or improvements at developer@rocketscience-it.nl!" xml:space="preserve">
+        <source>Please mail me with any feedback about bugs or improvements at developer@rocketscience-it.nl!</source>
+        <target state="translated">버그 또는 개선 사항에 대한 의견을 developer@rocketscience-it.nl로 이메일로 보내 주세요!</target>
+        <note>Displayed in an alert on the support screen when someone has no email client installed.</note>
+      </trans-unit>
       <trans-unit id="Port" xml:space="preserve">
         <source>Port</source>
         <target state="translated">포트</target>
@@ -2670,6 +2924,11 @@ developer@rocketscience-it.nl로 보내주세요!</target>
         <source>Powerful AdGuard Home Client &amp; DHCP management.</source>
         <target state="translated">강력한 AdGuard Home 클라이언트 및 DHCP 관리.</target>
         <note>Displayed in the onboarding.</note>
+      </trans-unit>
+      <trans-unit id="Preferred setup" xml:space="preserve">
+        <source>Preferred setup</source>
+        <target state="translated">권장 설정</target>
+        <note/>
       </trans-unit>
       <trans-unit id="Presets" xml:space="preserve">
         <source>Presets</source>
@@ -2706,9 +2965,19 @@ developer@rocketscience-it.nl로 보내주세요!</target>
         <target state="translated">처리됨: %@</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Protect the DNS service" xml:space="preserve">
+        <source>Protect the DNS service</source>
+        <target state="translated">DNS 서비스 보호</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Protection" xml:space="preserve">
         <source>Protection</source>
         <target state="translated">보호</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Protection (the shield)" xml:space="preserve">
+        <source>Protection (the shield)</source>
+        <target state="translated">보호 (방패)</target>
         <note/>
       </trans-unit>
       <trans-unit id="Protection Enabled" xml:space="preserve">
@@ -2721,6 +2990,11 @@ developer@rocketscience-it.nl로 보내주세요!</target>
         <target state="translated">보호 알림</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Protection controls" xml:space="preserve">
+        <source>Protection controls</source>
+        <target state="translated">보호 제어</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Protection has been re-enabled on all instances." xml:space="preserve">
         <source>Protection has been re-enabled on all instances.</source>
         <target state="translated">모든 인스턴스에서 보호가 다시 활성화되었습니다.</target>
@@ -2729,6 +3003,11 @@ developer@rocketscience-it.nl로 보내주세요!</target>
       <trans-unit id="Protection has been re-enabled." xml:space="preserve">
         <source>Protection has been re-enabled.</source>
         <target state="translated">보호가 다시 활성화되었습니다.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Protection layers" xml:space="preserve">
+        <source>Protection layers</source>
+        <target state="translated">보호 레이어</target>
         <note/>
       </trans-unit>
       <trans-unit id="Protocol" xml:space="preserve">
@@ -2921,6 +3200,16 @@ developer@rocketscience-it.nl로 보내주세요!</target>
         <target state="translated">일정</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Secure Setup Guide" xml:space="preserve">
+        <source>Secure Setup Guide</source>
+        <target state="translated">안전한 설정 안내서</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Securing Remote Access" xml:space="preserve">
+        <source>Securing Remote Access</source>
+        <target state="translated">원격 접근 보호</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="See live DNS queries streaming through your AdGuard Home in real time." xml:space="preserve">
         <source>See live DNS queries streaming through your AdGuard Home in real time.</source>
         <target state="translated">AdGuard Home을 통과하는 실시간 DNS 쿼리를 확인하세요.</target>
@@ -2946,6 +3235,11 @@ developer@rocketscience-it.nl로 보내주세요!</target>
         <target state="translated">알림 보내기</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Send feedback, report a bug, or ask for help" xml:space="preserve">
+        <source>Send feedback, report a bug, or ask for help</source>
+        <target state="translated">피드백을 보내거나 버그를 신고하거나 도움을 요청하세요</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Separate cards and charts" xml:space="preserve">
         <source>Separate cards and charts</source>
         <target state="translated">별도의 카드 및 차트</target>
@@ -2969,6 +3263,21 @@ developer@rocketscience-it.nl로 보내주세요!</target>
       <trans-unit id="Settings" xml:space="preserve">
         <source>Settings</source>
         <target state="translated">설정</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Setup &amp; Help" xml:space="preserve">
+        <source>Setup &amp; Help</source>
+        <target state="translated">설정 및 도움말</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Setup Guide" xml:space="preserve">
+        <source>Setup Guide</source>
+        <target state="translated">설정 안내서</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Setup Guide &amp; Help" xml:space="preserve">
+        <source>Setup Guide &amp; Help</source>
+        <target state="translated">설정 안내서 및 도움말</target>
         <note/>
       </trans-unit>
       <trans-unit id="Share" xml:space="preserve">
@@ -3009,6 +3318,16 @@ developer@rocketscience-it.nl로 보내주세요!</target>
       <trans-unit id="Show 'Until tomorrow'" xml:space="preserve">
         <source>Show 'Until tomorrow'</source>
         <target state="translated">'내일까지' 표시</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Show Blocked Malware" xml:space="preserve">
+        <source>Show Blocked Malware</source>
+        <target state="translated">차단된 악성코드 표시</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Show Blocked Parental" xml:space="preserve">
+        <source>Show Blocked Parental</source>
+        <target state="translated">차단된 자녀 보호 표시</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show Changelog again on startup" xml:space="preserve">
@@ -3075,6 +3394,11 @@ developer@rocketscience-it.nl로 보내주세요!</target>
         <source>Sidebar</source>
         <target state="translated">사이드바</target>
         <note>Used in the 'Preferences Other' screen in the navigation style picker (only visible for iPad)</note>
+      </trans-unit>
+      <trans-unit id="Sign in to the AdGuard Home web interface in Safari to verify the credentials. Enter that exact web-interface username and password in the app. If authentication was disabled in AdGuard Home, leave both fields empty." xml:space="preserve">
+        <source>Sign in to the AdGuard Home web interface in Safari to verify the credentials. Enter that exact web-interface username and password in the app. If authentication was disabled in AdGuard Home, leave both fields empty.</source>
+        <target state="translated">자격 증명을 확인하려면 Safari에서 AdGuard Home 웹 인터페이스에 로그인하세요. 해당 웹 인터페이스의 사용자 이름과 암호를 앱에 정확히 입력하세요. AdGuard Home에서 인증을 비활성화한 경우 두 필드를 모두 비워 두세요.</target>
+        <note/>
       </trans-unit>
       <trans-unit id="Small cards, combined chart" xml:space="preserve">
         <source>Small cards, combined chart</source>
@@ -3261,14 +3585,14 @@ developer@rocketscience-it.nl로 보내주세요!</target>
         <target state="translated">제한을 제거하고 전체 AdGuard Home 관리, 인터랙티브 위젯, 다중 인스턴스 지원 등을 잠금 해제하여 AdGuard Home Remote를 한 단계 끌어올리세요.</target>
         <note>Used on the pro purchase screen.</note>
       </trans-unit>
+      <trans-unit id="Takes over the screen with sound, even in silent mode. You won't miss when protection re-enables." xml:space="preserve">
+        <source>Takes over the screen with sound, even in silent mode. You won't miss when protection re-enables.</source>
+        <target state="translated">무음 모드에서도 소리와 함께 화면을 가득 채웁니다. 보호 기능이 다시 활성화되는 순간을 놓치지 않습니다.</target>
+        <note>Used on the Notifications-settings screen.</note>
+      </trans-unit>
       <trans-unit id="Target" xml:space="preserve">
         <source>Target</source>
         <target state="translated">대상</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Temporarily disabled protection? Get notified when it's re-enabled. Use notification actions to quickly extend the disabled period." xml:space="preserve">
-        <source>Temporarily disabled protection? Get notified when it's re-enabled. Use notification actions to quickly extend the disabled period.</source>
-        <target state="translated">보호를 일시적으로 비활성화하셨나요? 다시 활성화될 때 알림을 받으세요. 알림 작업을 사용하여 비활성화 기간을 빠르게 연장할 수 있습니다.</target>
         <note/>
       </trans-unit>
       <trans-unit id="TestFlight Beta Access" xml:space="preserve">
@@ -3301,6 +3625,21 @@ developer@rocketscience-it.nl로 보내주세요!</target>
         <target state="translated">차단이 다시 활성화될 원래 종료 날짜.</target>
         <note/>
       </trans-unit>
+      <trans-unit id="The setup wizard defaults the web interface to HTTP port **80**. Enter **80** if you did not change it during setup. Port **3000** is the temporary first-run wizard port and is normally no longer correct after setup. Do not enter DNS port **53**." xml:space="preserve">
+        <source>The setup wizard defaults the web interface to HTTP port **80**. Enter **80** if you did not change it during setup. Port **3000** is the temporary first-run wizard port and is normally no longer correct after setup. Do not enter DNS port **53**.</source>
+        <target state="translated">설정 마법사는 웹 인터페이스에 기본적으로 HTTP 포트 **80**을 사용합니다. 설정 중 변경하지 않았다면 **80**을 입력하세요. 포트 **3000**은 최초 실행 마법사용 임시 포트이며 설정 후에는 일반적으로 더 이상 올바르지 않습니다. DNS 포트 **53**은 입력하지 마세요.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="The shield at the top is the master switch. When it's on, the buttons below control each layer. Turn it off to pause all blocking at once. The sub-buttons then hide until you switch protection back on." xml:space="preserve">
+        <source>The shield at the top is the master switch. When it's on, the buttons below control each layer. Turn it off to pause all blocking at once. The sub-buttons then hide until you switch protection back on.</source>
+        <target state="translated">상단의 방패는 마스터 스위치입니다. 켜져 있으면 아래 버튼들이 각 레이어를 제어합니다. 끄면 모든 차단이 일시 중지됩니다. 하위 버튼들은 보호를 다시 켤 때까지 숨겨집니다.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="These links open AdGuard Home's official documentation and source code. AdGuard Home Remote is an independent app and is not affiliated with AdGuard." xml:space="preserve">
+        <source>These links open AdGuard Home's official documentation and source code. AdGuard Home Remote is an independent app and is not affiliated with AdGuard.</source>
+        <target state="translated">이 링크는 AdGuard Home의 공식 문서와 소스 코드를 엽니다. AdGuard Home Remote는 독립적인 앱이며 AdGuard와 제휴하지 않습니다.</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="These settings are used when you're not on any of the home Wi-Fi networks above (e.g. cellular, VPN, or other Wi-Fi)." xml:space="preserve">
         <source>These settings are used when you're not on any of the home Wi-Fi networks above (e.g. cellular, VPN, or other Wi-Fi).</source>
         <target state="translated">이 설정은 위의 홈 Wi-Fi 네트워크 중 어느 것에도 연결되어 있지 않을 때 사용됩니다(예: 셀룰러, VPN 또는 다른 Wi-Fi).</target>
@@ -3320,11 +3659,6 @@ developer@rocketscience-it.nl로 보내주세요!</target>
         <source>This version requires iOS 16.2 &amp; watchOS 10.0 (or newer).</source>
         <target state="translated">이 버전은 iOS 16.2 및 watchOS 10.0(또는 그 이상)이 필요합니다.</target>
         <note/>
-      </trans-unit>
-      <trans-unit id="Time Sensitive notifications have the option to break through focus modes." xml:space="preserve">
-        <source>Time Sensitive notifications have the option to break through focus modes.</source>
-        <target state="translated">시간에 민감한 알림은 집중 모드를 통과할 수 있습니다.</target>
-        <note>Used on the Notifications-settings screen.</note>
       </trans-unit>
       <trans-unit id="To detect your Wi-Fi network name, Apple requires 'While Using App' location permission. This is a system requirement for reading Wi-Fi information.&#10;&#10;Your location is never stored or transmitted by AdGuard Home Remote." xml:space="preserve">
         <source>To detect your Wi-Fi network name, Apple requires 'While Using App' location permission. This is a system requirement for reading Wi-Fi information.
@@ -3410,6 +3744,23 @@ Your location is never stored or transmitted by AdGuard Home Remote.</source>
         <target state="translated">총계: %@</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Try these steps in order:&#10;&#10;1. Open AdGuard Home in Safari on the same device.&#10;2. Check that HTTP or HTTPS matches the browser address.&#10;3. Enter only the hostname or IP in **Host**.&#10;4. Confirm that **Port** is the web-interface port, not DNS port 53.&#10;5. Make sure this device is on the same network, or connected to your home VPN." xml:space="preserve">
+        <source>Try these steps in order:
+
+1. Open AdGuard Home in Safari on the same device.
+2. Check that HTTP or HTTPS matches the browser address.
+3. Enter only the hostname or IP in **Host**.
+4. Confirm that **Port** is the web-interface port, not DNS port 53.
+5. Make sure this device is on the same network, or connected to your home VPN.</source>
+        <target state="translated">다음 단계를 순서대로 시도하세요:
+
+1. 같은 기기의 Safari에서 AdGuard Home을 여세요.
+2. HTTP 또는 HTTPS가 브라우저 주소와 일치하는지 확인하세요.
+3. **호스트**에는 호스트 이름 또는 IP만 입력하세요.
+4. **포트**가 DNS 포트 53이 아니라 웹 인터페이스 포트인지 확인하세요.
+5. 이 기기가 같은 네트워크에 있거나 홈 VPN에 연결되어 있는지 확인하세요.</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="UPDATE" xml:space="preserve">
         <source>UPDATE</source>
         <target state="translated">업데이트</target>
@@ -3447,6 +3798,11 @@ Your location is never stored or transmitted by AdGuard Home Remote.</source>
       <trans-unit id="Unknown error." xml:space="preserve">
         <source>Unknown error.</source>
         <target state="translated">알 수 없는 오류.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Unlimited" xml:space="preserve">
+        <source>Unlimited</source>
+        <target state="translated">무제한</target>
         <note/>
       </trans-unit>
       <trans-unit id="Until tomorrow" xml:space="preserve">
@@ -3494,6 +3850,16 @@ Your location is never stored or transmitted by AdGuard Home Remote.</source>
         <target state="translated">NextDNS를 사용하시나요? 딱 맞는 앱이 있습니다.</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Use a certificate from a trusted certificate authority for a hostname you control, or keep AdGuard Home private and connect through a VPN. HTTP inside the encrypted VPN tunnel avoids certificate management while keeping remote traffic protected." xml:space="preserve">
+        <source>Use a certificate from a trusted certificate authority for a hostname you control, or keep AdGuard Home private and connect through a VPN. HTTP inside the encrypted VPN tunnel avoids certificate management while keeping remote traffic protected.</source>
+        <target state="translated">직접 관리하는 호스트 이름에는 신뢰할 수 있는 인증 기관의 인증서를 사용하거나 AdGuard Home을 비공개로 유지하고 VPN을 통해 연결하세요. 암호화된 VPN 터널 내부에서 HTTP를 사용하면 원격 트래픽을 보호하면서 인증서 관리를 피할 수 있습니다.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Use the same username and password you use to sign in to the AdGuard Home web interface. These are not necessarily the operating-system or SSH credentials of the device running AdGuard Home." xml:space="preserve">
+        <source>Use the same username and password you use to sign in to the AdGuard Home web interface. These are not necessarily the operating-system or SSH credentials of the device running AdGuard Home.</source>
+        <target state="translated">AdGuard Home 웹 인터페이스에 로그인할 때 사용하는 것과 동일한 사용자 이름과 암호를 사용하세요. 이는 AdGuard Home을 실행하는 기기의 운영 체제 또는 SSH 자격 증명과 다를 수 있습니다.</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Used when **not** connected to Wi-Fi SSID: %@" xml:space="preserve">
         <source>Used when **not** connected to Wi-Fi SSID: %@</source>
         <target state="translated">Wi-Fi SSID에 **연결되지 않은** 경우 사용: %@</target>
@@ -3502,6 +3868,11 @@ Your location is never stored or transmitted by AdGuard Home Remote.</source>
       <trans-unit id="User Interface" xml:space="preserve">
         <source>User Interface</source>
         <target state="translated">사용자 인터페이스</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Username &amp; Password" xml:space="preserve">
+        <source>Username &amp; Password</source>
+        <target state="translated">사용자 이름 및 암호</target>
         <note/>
       </trans-unit>
       <trans-unit id="Utility Radar" xml:space="preserve">
@@ -3539,9 +3910,29 @@ Your location is never stored or transmitted by AdGuard Home Remote.</source>
         <target state="translated">환영합니다!</target>
         <note>Onboarding subtitle.</note>
       </trans-unit>
+      <trans-unit id="What do these buttons mean?" xml:space="preserve">
+        <source>What do these buttons mean?</source>
+        <target state="translated">이 버튼들은 무슨 의미인가요?</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="What the buttons do" xml:space="preserve">
+        <source>What the buttons do</source>
+        <target state="translated">버튼의 기능</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="What to enter, HTTPS, FAQ &amp; troubleshooting" xml:space="preserve">
+        <source>What to enter, HTTPS, FAQ &amp; troubleshooting</source>
+        <target state="translated">입력할 내용, HTTPS, 자주 묻는 질문 및 문제 해결</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="What to sync" xml:space="preserve">
         <source>What to sync</source>
         <target state="translated">동기화할 항목</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Why does HTTPS show a certificate error?" xml:space="preserve">
+        <source>Why does HTTPS show a certificate error?</source>
+        <target state="translated">HTTPS에 인증서 오류가 표시되는 이유는 무엇입니까?</target>
         <note/>
       </trans-unit>
       <trans-unit id="Wi-Fi network name (SSID)" xml:space="preserve">
@@ -3761,6 +4152,21 @@ Your location is never stored or transmitted by AdGuard Home Remote.</source>
       <trans-unit id="changelog_whats_new" xml:space="preserve">
         <source>What's New</source>
         <target state="translated">새로운 소식</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="chart_pull_for_queries" xml:space="preserve">
+        <source>Pull down to view queries</source>
+        <target state="translated">쿼리를 보려면 아래로 당기세요</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="chart_release_for_queries" xml:space="preserve">
+        <source>Release to view queries</source>
+        <target state="translated">쿼리를 보려면 놓으세요</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="chart_view_queries" xml:space="preserve">
+        <source>View queries for this time</source>
+        <target state="translated">이 시간의 쿼리 보기</target>
         <note/>
       </trans-unit>
       <trans-unit id="client_edit" xml:space="preserve">
@@ -5391,11 +5797,6 @@ Search</source>
         <target state="translated">로딩 중...</target>
         <note/>
       </trans-unit>
-      <trans-unit id="loading_instances_iphone" xml:space="preserve">
-        <source>Loading instances from iPhone...</source>
-        <target state="translated">Loading instances from iPhone...</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="malware" xml:space="preserve">
         <source>Malware</source>
         <target state="translated">Malware</target>
@@ -5459,6 +5860,16 @@ Search</source>
       <trans-unit id="more_update_to_%@" xml:space="preserve">
         <source>Update to v%@</source>
         <target state="translated">v%@ 으로 업데이트</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="more_updates_unavailable" xml:space="preserve">
+        <source>Updates aren't available for this AdGuard Home installation.</source>
+        <target state="translated">이 AdGuard Home 설치에서는 업데이트를 사용할 수 없습니다.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="more_updating" xml:space="preserve">
+        <source>Updating AdGuard Home…</source>
+        <target state="translated">AdGuard Home 업데이트 중…</target>
         <note/>
       </trans-unit>
       <trans-unit id="more_version" xml:space="preserve">
@@ -5852,6 +6263,11 @@ Remote Pro</target>
         <target state="translated">차단됨 | 필터</target>
         <note/>
       </trans-unit>
+      <trans-unit id="query_status_FilteredBlackList_%@" xml:space="preserve">
+        <source>Blocked%@</source>
+        <target state="translated">차단됨 %@</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="query_status_FilteredBlockedService" xml:space="preserve">
         <source>Blocked | Service</source>
         <target state="translated">차단됨 | 서비스</target>
@@ -6057,6 +6473,16 @@ Remote Pro</target>
         <target state="translated">상태 필터 지우기</target>
         <note/>
       </trans-unit>
+      <trans-unit id="querylog_dnssec_not_validated" xml:space="preserve">
+        <source>No DNSSEC validation</source>
+        <target state="translated">DNSSEC 유효성 검사 없음</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="querylog_dnssec_validated" xml:space="preserve">
+        <source>Validated with DNSSEC</source>
+        <target state="translated">DNSSEC로 검증됨</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="querylog_filter" xml:space="preserve">
         <source>Filter</source>
         <target state="translated">필터</target>
@@ -6085,6 +6511,11 @@ Remote Pro</target>
       <trans-unit id="querylog_no-queries" xml:space="preserve">
         <source>No queries found.</source>
         <target state="translated">쿼리가 존재하지 않습니다.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="querylog_no_queries_in_time_range" xml:space="preserve">
+        <source>No queries were found for this time range.</source>
+        <target state="translated">이 시간 범위에서 쿼리를 찾을 수 없습니다.</target>
         <note/>
       </trans-unit>
       <trans-unit id="querylog_number-of-queries" xml:space="preserve">
@@ -6157,6 +6588,11 @@ Remote Pro</target>
         <target state="translated">상태</target>
         <note>MARK: Query Log</note>
       </trans-unit>
+      <trans-unit id="querylog_show_dnssec_status" xml:space="preserve">
+        <source>Show DNSSEC status</source>
+        <target state="translated">DNSSEC 상태 표시</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="querylog_show_extra_detail" xml:space="preserve">
         <source>Show response details</source>
         <target state="translated">자세히 보기</target>
@@ -6197,6 +6633,11 @@ Remote Pro</target>
         <target state="translated">처리됨</target>
         <note/>
       </trans-unit>
+      <trans-unit id="querylog_time_range" xml:space="preserve">
+        <source>Time range</source>
+        <target state="translated">시간 범위</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="refresh" xml:space="preserve">
         <source>Refresh</source>
         <target state="translated">새로고침</target>
@@ -6210,6 +6651,11 @@ Remote Pro</target>
       <trans-unit id="reset" xml:space="preserve">
         <source>Reset</source>
         <target state="translated">재설정</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="retry" xml:space="preserve">
+        <source>Retry</source>
+        <target state="translated">다시 시도</target>
         <note/>
       </trans-unit>
       <trans-unit id="rocketscience_acknoledgements" xml:space="preserve">
@@ -6351,11 +6797,6 @@ My main goal is to learn: design, development, testing, support, promotion - may
         <target state="translated">클라이언트</target>
         <note/>
       </trans-unit>
-      <trans-unit id="settings_copy_email" xml:space="preserve">
-        <source>Copy Email Address</source>
-        <target state="translated">이메일 주소 복사</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="settings_design" xml:space="preserve">
         <source>Design</source>
         <target state="translated">디자인</target>
@@ -6429,16 +6870,6 @@ My main goal is to learn: design, development, testing, support, promotion - may
       <trans-unit id="settings_general_safesearch_explainer_title" xml:space="preserve">
         <source>Safe Search</source>
         <target state="translated">Safe Search</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="settings_give_feedback_alert_body" xml:space="preserve">
-        <source>Please mail me with any feedback about bugs or improvements at developer@rocketscience-it.nl!</source>
-        <target state="translated">버그나 개선 사항에 대한 피드백이 있으면 developer@rocketscience-it.nl로 메일을 보내주세요!</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="settings_give_feedback_alert_title" xml:space="preserve">
-        <source>Give Feedback</source>
-        <target state="translated">피드백 남기기</target>
         <note/>
       </trans-unit>
       <trans-unit id="settings_help" xml:space="preserve">
@@ -6710,11 +7141,6 @@ If you want to tip, please download the app from the App Store! After that you c
         <source>value</source>
         <target state="translated">값</target>
         <note>Placeholder of the 'custom header value' textfield in instance settings.</note>
-      </trans-unit>
-      <trans-unit id="watch_stuck_reinstall" xml:space="preserve">
-        <source>This can take a while. If the app is stuck on this screen, please try reinstalling it. Sorry for the inconvenience!</source>
-        <target state="translated">This can take a while. If the app is stuck on this spinner, please try a reinstall of the app. Sorry for the inconvenience!</target>
-        <note/>
       </trans-unit>
       <trans-unit id="widget_dashboard" xml:space="preserve">
         <source>Dashboard Widget</source>
